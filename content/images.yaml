@@ -1,0 +1,17 @@
+# Override thủ công cho fetch_images.py (PLAN §7.3). Đọc bằng PyYAML nếu có, nếu không dùng parser tối giản:
+# giữ đúng thụt lề 2/4 dấu cách, giá trị trong ngoặc kép.
+#
+# overrides:
+#   CH02-BCE06-01:                       # ID nhân vật
+#     file: "File:Confucius Tang Dynasty.jpg"   # đổi ảnh (tên tệp trên Commons)
+#     caption: "Chân dung Khổng Tử, tranh thời Đường (tưởng tượng). Ảnh: Wikimedia Commons, Public domain."
+#     skip: true                         # bỏ ảnh, chỉ đặt link tham khảo
+#     note: "lý do"
+#
+# sensitive:                             # nhân vật nhạy cảm về hình tượng (aniconism) — không dùng chân dung, chỉ link
+#   - "Q9458"                            # Muhammad (Q-ID) hoặc ID nhân vật trong atlas
+
+overrides: {}
+
+sensitive:
+  - "Q9458"

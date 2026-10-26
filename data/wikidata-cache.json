@@ -1,0 +1,246 @@
+{
+ "wd:Q4604": {
+  "id": "Q4604",
+  "labels": {
+   "vi": "Khổng Tử",
+   "en": "Confucius"
+  },
+  "aliases": {
+   "vi": [
+    "Ðức Khổng Tử",
+    "Vạn thế sư biểu",
+    "Khổng Khâu",
+    "Đại Thành Chí Thánh",
+    "Khâu Trọng Ni",
+    "Khổng Phu Tử",
+    "Trọng Ni"
+   ],
+   "en": [
+    "Konfuzius",
+    "Confucio"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -551,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -552,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": -551,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -479,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -479,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Confucius, fresco from a Western Han tomb of Dongping County, Shandong province, China.jpg",
+  "sitelinks": {
+   "viwiki": "Khổng Tử",
+   "enwiki": "Confucius"
+  },
+  "fetched": 1791959341
+ },
+ "wd:Q868": {
+  "id": "Q868",
+  "labels": {
+   "en": "Aristotle",
+   "vi": "Aristoteles"
+  },
+  "aliases": {
+   "en": [
+    "the Stagirite",
+    "Arisṭāṭṭil",
+    "Aristo",
+    "Aristote",
+    "Aristotel",
+    "Aristotele",
+    "Aristoteles",
+    "Aristóteles",
+    "Aristòtil",
+    "Aristotile",
+    "Arisṭū",
+    "Arisṭūṭālīs",
+    "Arisutoteresu",
+    "Arystoteles",
+    "Ya-li-shih-to-te",
+    "Ya-li-ssu-to-te",
+    "Yalishiduode",
+    "Yalisiduode",
+    "Pseudo Aristotele",
+    "Pseudo-Aristotle",
+    "Arast̤ū"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -384,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -383,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -322,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -322,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Aristotle Altemps Inv8575.jpg",
+  "sitelinks": {
+   "viwiki": "Aristoteles",
+   "enwiki": "Aristotle"
+  },
+  "fetched": 1791959341
+ },
+ "wd:Q9049": {
+  "id": "Q9049",
+  "labels": {
+   "en": "Noam Chomsky",
+   "vi": "Noam Chomsky"
+  },
+  "aliases": {
+   "en": [
+    "A. Noam Chomsky",
+    "Chomsky",
+    "Avram Noam Chomsky"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1928,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [],
+  "P18": "Noam Chomsky portrait 2015.jpg",
+  "sitelinks": {
+   "viwiki": "Noam Chomsky",
+   "enwiki": "Noam Chomsky"
+  },
+  "fetched": 1791959341
+ },
+ "wd:Q913": {
+  "id": "Q913",
+  "labels": {
+   "en": "Socrates",
+   "vi": "Sokrates"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -470,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -399,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": -399,
+    "precision": 10,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Socrates Louvre.jpg",
+  "sitelinks": {
+   "viwiki": "Sokrates",
+   "enwiki": "Socrates"
+  },
+  "fetched": 1791959341
+ },
+ "wd:Q9333": {
+  "id": "Q9333",
+  "labels": {
+   "en": "Laozi",
+   "vi": "Lão Tử"
+  },
+  "aliases": {
+   "en": [
+    "Old Boy",
+    "Old Lord",
+    "Old Master",
+    "Sage Ancestor",
+    "Venerable Master",
+    "Ancient Boy",
+    "Ancient Master"
+   ]
+  },
+  "P31": [
+   "Q21070568",
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -579,
+    "precision": 7,
+    "rank": "preferred"
+   },
+   {
+    "year": -604,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -571,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -500,
+    "precision": 6,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Zhang Lu-Laozi Riding an Ox (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Lão Tử",
+   "enwiki": "Laozi"
+  },
+  "fetched": 1791959341
+ }
+}

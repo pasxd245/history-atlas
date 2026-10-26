@@ -1,0 +1,9 @@
+LINT ch02 — Test case đối chiếu Wikidata — CỐ TÌNH SAI niên đại và Q-ID (ch98-wikidata.md)
+ERROR 0 · WARN 6 · INFO 0
+
+[WARN] ch02/BCE06: chỉ 1 lĩnh vực (khuyến nghị ≥ 4)
+[WARN] ch02/BCE06: chỉ 1 vùng (khuyến nghị ≥ 3)
+[WARN] ch02/CH02-BCE06-01: 'ideas' 69 chữ, lệch > 30% so với ~100
+[WARN] CH02-BCE06-01: nhãn Wikidata Q868 = 'Aristoteles' không khớp tên 'Người F' — kiểm tra Q-ID
+[WARN] CH02-BCE06-01: năm sinh: atlas 560 TCN ≠ Wikidata 384 TCN (lệch 176 > 5 năm, độ tin cậy Cao)
+[WARN] CH02-BCE06-01: năm mất: atlas 480 TCN ≠ Wikidata 322 TCN (lệch 158 > 5 năm, độ tin cậy Cao)

@@ -1,0 +1,3 @@
+IMAGES REVIEW — các mục cần Owner xem xét (sinh bởi fetch_images.py --recaption)
+
+[caption] CH00-BCE06-01 Khổng Tử: niên đại '2007-10-13 10:36:59' có vẻ là ngày chụp, không phải niên đại tác phẩm — bỏ khỏi chú thích; sửa tay nếu cần

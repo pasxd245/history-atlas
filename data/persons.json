@@ -1,0 +1,480 @@
+{
+ "project": {
+  "title": "Atlas nhân vật ảnh hưởng",
+  "subtitle": "Những người định hình tư tưởng nhân loại, 2000 TCN – 2026",
+  "version": "P1",
+  "start_year": -2000,
+  "end_year": 2026,
+  "reference_year": 2026
+ },
+ "chapters": [
+  {
+   "no": 0,
+   "title": "Mẫu kỹ thuật P1 (xoá khi bắt đầu P2)",
+   "label": "mẫu",
+   "files": [
+    "ch00-sample.md"
+   ],
+   "intro": "Chapter mẫu chỉ dùng để kiểm tra pipeline: parser Markdown, lint đối chiếu Wikidata, tải ảnh theo chính sách giấy phép và giao diện. Năm nhân vật thật được chọn vì có Wikidata ID chắc chắn, phủ cả ba trường hợp ảnh (Public domain, CC BY-SA, không có P18) và cả ba mức độ tin cậy niên đại. Nội dung không phải kết quả research theo prompt §5.",
+   "editorial": [
+    "- Đây là chapter mẫu kỹ thuật; không có ứng viên bị loại theo nghĩa research.",
+    "- Ứng viên Việt Nam: không cân nhắc trong chapter mẫu (chapter thật bắt buộc nêu, kể cả khi kết luận là không có).",
+    "- Cần kiểm chứng thêm: Lão Tử là ca thử nghiệm cho nhãn [Tranh cãi lịch sử] và độ tin cậy Thấp; Socrates là ca thử dung sai 25 năm (Trung bình); Chomsky là ca thử người còn sống (D4) và ảnh CC BY-SA.",
+    "- Nhân vật có thể thuộc thế kỷ khác: Aristotle và Plato cùng nhóm BCE04 — chapter thật cần cân nhắc cả hai."
+   ],
+   "groups": [
+    {
+     "id": "BCE06",
+     "label": "TK 6 TCN",
+     "range": [
+      -600,
+      -501
+     ],
+     "context": "Thời Xuân Thu ở Trung Hoa, các thành bang Ionia phát triển triết học tự nhiên; ở Ấn Độ, phong trào sa-môn (śramaṇa) phản biện truyền thống Vệ Đà.",
+     "persons": [
+      "CH00-BCE06-01",
+      "CH00-BCE06-02"
+     ]
+    },
+    {
+     "id": "BCE05",
+     "label": "TK 5 TCN",
+     "range": [
+      -500,
+      -401
+     ],
+     "context": "Athens dân chủ sau chiến tranh Ba Tư; chiến tranh Peloponnesos; phái Biện sĩ (sophistai) thương mại hoá việc dạy hùng biện.",
+     "persons": [
+      "CH00-BCE05-01"
+     ]
+    },
+    {
+     "id": "BCE04",
+     "label": "TK 4 TCN",
+     "range": [
+      -400,
+      -301
+     ],
+     "context": "Macedonia thống nhất Hy Lạp; Alexandros chinh phục Ba Tư, mở đầu thời Hellenistic; Chiến Quốc ở Trung Hoa; Maurya nổi lên ở Ấn Độ.",
+     "persons": [
+      "CH00-BCE04-01"
+     ]
+    },
+    {
+     "id": "CE20",
+     "label": "TK 20",
+     "range": [
+      1901,
+      2000
+     ],
+     "context": "Hai cuộc thế chiến, Chiến tranh Lạnh, máy tính số và sinh học phân tử ra đời; khoa học xã hội chuyên nghiệp hoá.",
+     "persons": [
+      "CH00-CE20-01"
+     ]
+    }
+   ]
+  }
+ ],
+ "persons": {
+  "CH00-BCE06-01": {
+   "id": "CH00-BCE06-01",
+   "name_vi": "Khổng Tử",
+   "name_orig": "孔子 Kǒng Zǐ, Confucius",
+   "labels": [],
+   "years_raw": "551–479 TCN",
+   "born": -551,
+   "died": -479,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "nước Lỗ, nay thuộc Sơn Đông, Trung Quốc",
+   "region": "Đông Á",
+   "fields": [
+    "Triết học",
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q4604",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Đặt nền cho Nho giáo quanh khái niệm Nhân (仁, rén) — lòng nhân ái có thứ bậc — và Lễ (禮, lǐ) — nghi thức làm khung cho quan hệ xã hội. Ông xem việc tu thân của người quân tử (君子, jūnzǐ) là gốc của trị quốc, đề cao \"chính danh\" (正名) và học tập suốt đời. Luận ngữ (論語), do học trò ghi lại, trở thành văn bản cốt lõi của hệ thống giáo dục và khoa cử Đông Á suốt hơn hai thiên niên kỷ, định hình quan niệm về gia đình, bổn phận và chính quyền ở Trung Quốc, Triều Tiên, Nhật Bản và Việt Nam.",
+   "why": "Cùng thời và cùng lĩnh vực có Lão Tử (truyền thống) và Tử Sản (子產) nước Trịnh, người cải cách pháp luật sớm. Khổng Tử vượt trội về phạm vi (a) và độ bền (b): tư tưởng của ông được thể chế hoá thành hệ thống khoa cử từ đời Hán tới đầu thế kỷ 20, trong khi Tử Sản chỉ còn trong sử liệu. Về counterfactual (d), không có Khổng Tử, truyền thống Lễ nhà Chu khó được hệ thống hoá thành một đạo đức học phổ quát.",
+   "sources": "Stanford Encyclopedia of Philosophy, \"Confucius\" (https://plato.stanford.edu/entries/confucius/); Sử ký, Khổng Tử thế gia.",
+   "inherits": [
+    {
+     "target": "Chu Công (周公)",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Chu Công (周公) · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH00-BCE06-02",
+     "relation": "tương đồng độc lập",
+     "evidence": "suy đoán học giả",
+     "raw": "CH00-BCE06-02 · tương đồng độc lập · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Mạnh Tử (孟子)",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Mạnh Tử (孟子) · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Mặc Tử (墨子)",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "Mặc Tử (墨子) · phản bác · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "BCE06",
+   "chapter": 0,
+   "file": "ch00-sample.md",
+   "image": {
+    "status": "embedded",
+    "title": "File:Confucius, fresco from a Western Han tomb of Dongping County, Shandong province, China.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Confucius,_fresco_from_a_Western_Han_tomb_of_Dongping_County,_Shandong_province,_China.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Anonymous Chinese painter of the Western Han period",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "2007-10-13 10:36:59",
+    "attribution_required": false,
+    "caption": "Chân dung Khổng Tử (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH00-BCE06-01.jpg",
+    "width": 500,
+    "how": "ảnh gốc thu nhỏ 500px (Pillow)"
+   }
+  },
+  "CH00-BCE06-02": {
+   "id": "CH00-BCE06-02",
+   "name_vi": "Lão Tử",
+   "name_orig": "老子 Lǎozǐ",
+   "labels": [
+    "Tranh cãi lịch sử"
+   ],
+   "years_raw": "TK 6 TCN (theo truyền thống)",
+   "born": null,
+   "died": null,
+   "approx": false,
+   "alive": false,
+   "years_ok": false,
+   "place": "nước Sở hoặc nước Trần, nay thuộc Hà Nam, Trung Quốc",
+   "region": "Đông Á",
+   "fields": [
+    "Triết học",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q9333",
+   "big_questions": [
+    "Thực tại",
+    "Vũ trụ"
+   ],
+   "ideas": "Được truyền thống gán là tác giả Đạo Đức Kinh (道德經), văn bản nền của Đạo gia. Khái niệm Đạo (道, dào) chỉ nguyên lý vận hành tự nhiên không thể gọi tên, và Vô vi (無為, wúwéi) — hành động thuận theo tự nhiên, không cưỡng ép — trở thành đối trọng lâu dài với tư tưởng Nho giáo về lễ và trật tự. Văn bản này ảnh hưởng tới Đạo giáo tôn giáo, Huyền học thời Ngụy–Tấn, Thiền tông và, từ thế kỷ 18, tới tư tưởng châu Âu qua các bản dịch.",
+   "why": "Giới nghiên cứu nghi ngờ sự tồn tại của một tác giả duy nhất; Đạo Đức Kinh có thể là tuyển tập hình thành đến thế kỷ 4 TCN. Dù vậy, so với Trang Tử (莊子) — người có tư liệu rõ hơn — \"Lão Tử\" vẫn là điểm quy chiếu của toàn bộ truyền thống Đạo gia về độ bền (b) và phạm vi (a). Nhãn [Tranh cãi lịch sử] và độ tin cậy Thấp để lint bỏ qua đối chiếu niên đại.",
+   "sources": "Stanford Encyclopedia of Philosophy, \"Laozi\" (https://plato.stanford.edu/entries/laozi/).",
+   "inherits": [
+    {
+     "target": "Không xác định",
+     "relation": "",
+     "evidence": "",
+     "raw": "Không xác định",
+     "undetermined": true
+    }
+   ],
+   "influences": [
+    {
+     "target": "Trang Tử (莊子)",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Trang Tử (莊子) · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH00-BCE06-01",
+     "relation": "tương đồng độc lập",
+     "evidence": "suy đoán học giả",
+     "raw": "CH00-BCE06-01 · tương đồng độc lập · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "group": "BCE06",
+   "chapter": 0,
+   "file": "ch00-sample.md",
+   "image": {
+    "status": "embedded",
+    "title": "File:Zhang Lu-Laozi Riding an Ox (cropped).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Zhang_Lu-Laozi_Riding_an_Ox_(cropped).jpg",
+    "note": "",
+    "via": "api",
+    "author": "Zhang Lu",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "Ming dynasty (1368–1644)",
+    "attribution_required": false,
+    "caption": "Chân dung Lão Tử, khoảng 1368–1644 (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH00-BCE06-02.jpg",
+    "width": 500,
+    "how": "ảnh gốc thu nhỏ 500px (Pillow)"
+   }
+  },
+  "CH00-BCE05-01": {
+   "id": "CH00-BCE05-01",
+   "name_vi": "Socrates",
+   "name_orig": "Σωκράτης Sōkrátēs",
+   "labels": [],
+   "years_raw": "k. 470–399 TCN",
+   "born": -470,
+   "died": -399,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Athens, Hy Lạp",
+   "region": "Châu Âu",
+   "fields": [
+    "Triết học"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q913",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Không để lại trước tác; được biết qua Plato, Xenophon và Aristophanes. Ông chuyển trọng tâm triết học từ vũ trụ luận sang đạo đức học và tri thức luận, với phương pháp hỏi–đáp vặn ngược (elenchos) nhằm bóc tách định nghĩa về đức hạnh (aretē), công lý, lòng dũng cảm. Tuyên bố \"biết rằng mình không biết\" và luận điểm \"không ai cố ý làm điều xấu\" đặt nền cho chủ nghĩa duy lý đạo đức. Bản án tử hình năm 399 TCN biến ông thành hình mẫu về lương tâm cá nhân trước cộng đồng.",
+   "why": "Cùng thời có Protagoras — biện sĩ với luận đề \"con người là thước đo vạn vật\" — và Democritus với thuyết nguyên tử. Socrates được chọn theo tiêu chí (c) tính nguyên bản của phương pháp và (b) độ bền: gần như mọi trường phái Hy Lạp hoá (Plato, Khuyển nho, Khắc kỷ) đều tự nhận là hậu duệ của ông, trong khi Protagoras chỉ còn trong trích dẫn gián tiếp.",
+   "sources": "Stanford Encyclopedia of Philosophy, \"Socrates\" (https://plato.stanford.edu/entries/socrates/); Plato, Apologia.",
+   "inherits": [
+    {
+     "target": "Anaxagoras",
+     "relation": "phản bác",
+     "evidence": "suy đoán học giả",
+     "raw": "Anaxagoras · phản bác · suy đoán học giả",
+     "undetermined": false
+    },
+    {
+     "target": "Phái Biện sĩ (sophistai)",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "Phái Biện sĩ (sophistai) · phản bác · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Plato (Πλάτων)",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Plato (Πλάτων) · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Antisthenes",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Antisthenes · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "BCE05",
+   "chapter": 0,
+   "file": "ch00-sample.md",
+   "image": {
+    "status": "embedded",
+    "title": "File:Socrates Louvre.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Socrates_Louvre.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Copy of Lysippos (?)",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "1 st century AD date QS:P,+050-00-00T00:00:00Z/7",
+    "attribution_required": false,
+    "caption": "Chân dung Socrates, thế kỷ 1 (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH00-BCE05-01.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
+  },
+  "CH00-BCE04-01": {
+   "id": "CH00-BCE04-01",
+   "name_vi": "Aristotle",
+   "name_orig": "Ἀριστοτέλης Aristotélēs",
+   "labels": [],
+   "years_raw": "384–322 TCN",
+   "born": -384,
+   "died": -322,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Stageira (Chalkidikē) và Athens, Hy Lạp",
+   "region": "Châu Âu",
+   "fields": [
+    "Triết học",
+    "Khoa học tự nhiên"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q868",
+   "big_questions": [
+    "Thực tại",
+    "Vũ trụ"
+   ],
+   "ideas": "Học trò của Plato, thầy của Alexandros, sáng lập Lyceum. Ông xây dựng logic hình thức (tam đoạn luận, Organon), siêu hình học về bản thể (ousia) và bốn nguyên nhân, đạo đức học về trung dung (mesotēs) và hạnh phúc (eudaimonia), chính trị học so sánh hiến pháp, cùng khảo sát sinh học thực nghiệm sớm nhất còn lại. Qua các bản dịch Ả Rập (Ibn Rushd) rồi Latin (Thomas Aquinas), hệ thống của ông thống trị giáo dục Hồi giáo và châu Âu tới thế kỷ 17.",
+   "why": "Cùng thế kỷ có Plato (floruit đầu TK 4) và Euclid (cuối TK 4 – đầu TK 3). Aristotle được chọn cho nhóm này vì phạm vi (a) rộng nhất — logic, vật lý, sinh học, đạo đức, chính trị, thi pháp — và độ bền (b) kéo dài qua ba truyền thống ngôn ngữ. Plato thuộc về nhóm này không kém; ở chapter thật cả hai sẽ cùng được xét, và Euclid thiên về Toán học sẽ cạnh tranh ở BCE03.",
+   "sources": "Stanford Encyclopedia of Philosophy, \"Aristotle\" (https://plato.stanford.edu/entries/aristotle/); Jonathan Barnes, Aristotle: A Very Short Introduction.",
+   "inherits": [
+    {
+     "target": "Plato (Πλάτων)",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "Plato (Πλάτων) · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH00-BCE05-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH00-BCE05-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Theophrastus",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Theophrastus · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Ibn Rushd (Averroes)",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Ibn Rushd (Averroes) · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Thomas Aquinas",
+     "relation": "tổng hợp",
+     "evidence": "qua trường phái",
+     "raw": "Thomas Aquinas · tổng hợp · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "BCE04",
+   "chapter": 0,
+   "file": "ch00-sample.md",
+   "image": {
+    "status": "embedded",
+    "title": "File:Aristotle Altemps Inv8575.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg",
+    "note": "",
+    "via": "api",
+    "author": "After Lysippos",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "after 330 BC",
+    "attribution_required": false,
+    "caption": "Chân dung Aristotle, khoảng 330 TCN. Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": false,
+    "file": "CH00-BCE04-01.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
+  },
+  "CH00-CE20-01": {
+   "id": "CH00-CE20-01",
+   "name_vi": "Noam Chomsky",
+   "name_orig": "Avram Noam Chomsky",
+   "labels": [],
+   "years_raw": "1928–nay",
+   "born": 1928,
+   "died": null,
+   "approx": false,
+   "alive": true,
+   "years_ok": true,
+   "place": "Philadelphia và Cambridge (Massachusetts), Hoa Kỳ",
+   "region": "Châu Mỹ",
+   "fields": [
+    "Khoa học tự nhiên",
+    "Triết học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q9049",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Với Syntactic Structures (1957), ông đề xuất ngữ pháp tạo sinh (generative grammar): ngôn ngữ là hệ thống quy tắc hữu hạn sinh ra vô hạn câu, và năng lực đó phần lớn bẩm sinh (universal grammar). Bài phê bình Skinner (1959) góp phần khởi đầu \"cách mạng nhận thức\", đưa tâm trí trở lại thành đối tượng khoa học. Hệ thống phân cấp Chomsky về ngôn ngữ hình thức là nền tảng của lý thuyết trình biên dịch và khoa học máy tính. Ông cũng là nhà phê bình chính trị có ảnh hưởng rộng.",
+   "why": "Trong ngôn ngữ học thế kỷ 20 còn có Ferdinand de Saussure (nền tảng cấu trúc luận, qua đời 1913) và Roman Jakobson. Chomsky được chọn làm mẫu cho trường hợp người còn sống theo D4: ảnh hưởng đã kéo dài hơn sáu thập kỷ, vượt khỏi ngôn ngữ học sang tâm lý học, triết học tâm trí và tin học (tiêu chí a, b). Ở chapter thật, tiêu chí này sẽ được cân nhắc lại cùng các ứng viên khác.",
+   "sources": "Stanford Encyclopedia of Philosophy, \"Noam Chomsky\" (https://plato.stanford.edu/entries/chomsky/); Britannica, \"Noam Chomsky\".",
+   "inherits": [
+    {
+     "target": "Ferdinand de Saussure",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "Ferdinand de Saussure · phản bác · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Zellig Harris",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Zellig Harris · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "René Descartes",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "René Descartes · kế thừa · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Steven Pinker",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Steven Pinker · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Lý thuyết ngôn ngữ hình thức (khoa học máy tính)",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Lý thuyết ngôn ngữ hình thức (khoa học máy tính) · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "CE20",
+   "chapter": 0,
+   "file": "ch00-sample.md",
+   "image": {
+    "status": "embedded",
+    "title": "File:Noam Chomsky portrait 2015.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Noam_Chomsky_portrait_2015.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Augusto Starita / Ministerio de Cultura de la Nación",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "artwork_date": "2015-03-12 18:15:32",
+    "attribution_required": true,
+    "caption": "Chân dung Noam Chomsky, 2015. Ảnh: Wikimedia Commons, CC BY-SA 2.0.",
+    "imaginary": false,
+    "file": "CH00-CE20-01.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
+  }
+ }
+}
