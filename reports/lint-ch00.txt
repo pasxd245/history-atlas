@@ -1,5 +1,5 @@
 LINT ch00 — Mẫu kỹ thuật P1 (xoá khi bắt đầu P2) (ch00-sample.md)
-ERROR 0 · WARN 9 · INFO 2
+ERROR 0 · WARN 9 · INFO 3
 
 [WARN] ch00/BCE06: chỉ 3 lĩnh vực (khuyến nghị ≥ 4)
 [WARN] ch00/BCE06: chỉ 1 vùng (khuyến nghị ≥ 3)
@@ -12,3 +12,4 @@ ERROR 0 · WARN 9 · INFO 2
 [WARN] ch00/CE20: chỉ 1 vùng (khuyến nghị ≥ 3)
 [INFO] ch00/CH00-CE20-01: người còn sống — đã kiểm tra ảnh hưởng ≥ 10 năm? (D4)
 [INFO] CH00-BCE04-01: kế thừa từ CH00-BCE05-01 nhưng CH00-BCE05-01 không ghi 'Ảnh hưởng tới' CH00-BCE04-01 (P4 sẽ đồng bộ)
+[INFO] CH00-BCE06-02: độ tin cậy Thấp — bỏ qua đối chiếu niên đại
