@@ -396,11 +396,13 @@ def render_overview(chapters: list[dict], persons: dict, st: dict) -> str:
             n = len(gmap[gid]["persons"]) if gid in gmap else 0
             lvl = 0 if n == 0 else 1 if n <= 3 else 2 if n <= 6 else 3 if n <= 9 else 4
             cells.append(f'<a class="l{lvl}" href="chapters/{chapter_tag(cfg["no"])}.html#{gid}" title="{E(C.group_label(gid))}: {n}"><span>{E(C.group_label(gid).replace("TK ", ""))}</span><b>{n}</b></a>')
+    n_main_ch = sum(1 for ch in chapters if C.is_main(ch["no"]))
+    app_meta = (f' · phụ lục: {st["appendix_persons"]} nhân vật (thống kê riêng)' if st.get("appendix_persons") else "")
     deg = sorted(((v["in"] + v["out"], v["in"], v["out"], k) for k, v in st["degree"].items()), reverse=True)[:15]
     deg_rows = "".join(f'<tr><td>{anchor_link(k, persons, True)}</td><td>{i}</td><td>{o}</td></tr>' for _, i, o, k in deg if i + o)
     body = topnav(None, chapters, 0) + f'''
 <header class="chapter-head"><div class="kicker">Overview</div><h1>Timeline toàn cục &amp; dòng chảy tư tưởng</h1>
-<div class="meta">{st["total_persons"]} nhân vật · {len(chapters)} chapter có dữ liệu · <span class="badge sample">P5 — bản khung</span> graph D3 có bộ lọc sẽ hoàn thiện ở P5</div></header>
+<div class="meta">{st["total_persons"]} nhân vật · {n_main_ch}/{len(C.CHAPTERS)} chapter có dữ liệu{app_meta} · <span class="badge sample">P5 — bản khung</span> graph D3 có bộ lọc sẽ hoàn thiện ở P5</div></header>
 <div class="note"><p><b>Trạng thái.</b> Trang này hiện chỉ gồm thống kê trung tính và độ phủ theo nhóm (sinh từ <code>data/persons.json</code>). Ở P5 sẽ bổ sung: timeline toàn cục và graph dòng chảy tư tưởng bằng D3 (đã vendored tại <code>assets/d3.min.js</code>), lọc theo loại quan hệ / lĩnh vực / vùng / giai đoạn, liên kết xuyên vùng theo thời gian, bản đồ vị trí. Việc đối chiếu với giả thuyết do Owner tự làm ngoài pipeline (§9).</p></div>
 
 <h2>Độ phủ theo nhóm (33 nhóm)</h2>
