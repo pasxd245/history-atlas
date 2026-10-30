@@ -1188,5 +1188,23 @@
   "source_url": null,
   "note": "Wikidata không có P18",
   "via": null
+ },
+ "CH02-BCE06-12": {
+  "status": "embedded",
+  "title": "File:Croesus portrait.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Croesus_portrait.jpg",
+  "note": "",
+  "via": "api",
+  "author": "Marco Prins",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "artwork_date": "2018-11-22",
+  "object_name": "Croesus portrait",
+  "attribution_required": false,
+  "caption": "Chân dung Croesus xứ Lydia, Croesus portrait (tưởng tượng). Ảnh: Wikimedia Commons, CC0.",
+  "imaginary": true,
+  "file": "CH02-BCE06-12.jpg",
+  "width": 500,
+  "how": "thumbnail 500px"
  }
 }

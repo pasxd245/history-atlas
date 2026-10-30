@@ -3525,5 +3525,43 @@
    "enwiki": "Baudhayana"
   },
   "fetched": 1793376551
+ },
+ "wd:Q184462": {
+  "id": "Q184462",
+  "labels": {
+   "vi": "Kroisos",
+   "en": "Croesus"
+  },
+  "aliases": {
+   "vi": [
+    "Croesus",
+    "Crésus"
+   ],
+   "en": [
+    "King Croesus",
+    "King of Lydia Kroisos",
+    "King of Lydia Croesus",
+    "King of Lydia Crésus",
+    "King of Lydia Cresus",
+    "König Krösus Lydien"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -596,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [],
+  "P18": "Croesus portrait.jpg",
+  "sitelinks": {
+   "viwiki": "Kroisos",
+   "enwiki": "Croesus"
+  },
+  "fetched": 1793377510
  }
 }
