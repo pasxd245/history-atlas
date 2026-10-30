@@ -15,7 +15,7 @@
    "files": [
     "ch02.md"
    ],
-   "intro": "Giai đoạn 800–401 TCN chứng kiến nhiều truyền thống tư tưởng xuất hiện gần như song song ở Trung Hoa, Ấn Độ, Iran, Israel–Judah và Hy Lạp — hiện tượng Karl Jaspers gọi là Thời kỳ Trục. Chapter này không khẳng định các vùng đã ảnh hưởng lẫn nhau: phần lớn quan hệ xuyên vùng được ghi là tương đồng độc lập. Bốn nhóm thế kỷ gồm 37 nhân vật, từ vua Assyria và ngôn sứ Do Thái tới Khổng Tử, Đức Phật, Thales và Socrates, chọn theo phạm vi, độ bền, tính nguyên bản và counterfactual.",
+   "intro": "Giai đoạn 800–401 TCN chứng kiến nhiều truyền thống tư tưởng xuất hiện gần như song song ở Trung Hoa, Ấn Độ, Iran, Israel–Judah và Hy Lạp — hiện tượng Karl Jaspers gọi là Thời kỳ Trục. Chapter này không khẳng định các vùng đã ảnh hưởng lẫn nhau: phần lớn quan hệ xuyên vùng được ghi là tương đồng độc lập. Bốn nhóm thế kỷ gồm 38 nhân vật, từ vua Assyria và ngôn sứ Do Thái tới Khổng Tử, Đức Phật, Thales và Socrates, chọn theo phạm vi, độ bền, tính nguyên bản và counterfactual.",
    "editorial": [
     "**Cách chapter này được soạn**",
     "Phần văn xuôi của chapter do mô hình AI (Claude) viết theo prompt cố định tại `prompts/atlas-prompt.md`, không qua bình duyệt chuyên môn. Tên, niên đại và định danh được đối chiếu tự động với Wikidata; phần diễn giải, đánh giá ảnh hưởng và lựa chọn nhân vật là tổng hợp của model theo bốn tiêu chí (a)–(d), không phải kết luận của giới nghiên cứu. Mục Nguồn là điểm khởi đầu để tự kiểm tra, chưa được đối chiếu từng câu. Xem mục \"Về dự án\" ở trang Overview để biết giới hạn đầy đủ.",
@@ -25,7 +25,8 @@
     "- Cleisthenes (k. 508 TCN): cải cách bộ lạc và chế độ bỏ phiếu bãi miễn của ông mang tính quyết định với dân chủ Athens, nhưng Solon đã đại diện cho mạch này và thắng ở tiêu chí counterfactual.",
     "- Pericles, Sophocles, Euripides, Protagoras, Zeno xứ Elea, Empedocles, Anaxagoras, Leucippus (TK 5 TCN): bị loại để tránh dồn quá nửa nhóm BCE05 vào Athens và Ionia.",
     "- Dương Chu (楊朱), Ngô Khởi (吳起), Tử Sản (子產), Tề Hoàn Công: các ứng viên Đông Á xếp sau Quản Trọng, Mặc Tử và Tôn Tử theo độ bền.",
-    "- Hosea, Micah, Ezekiel, Josiah, Ezra: lớp ngôn sứ và cải cách Israel–Judah đã được Amos, Isaiah và Jeremiah đại diện. Ezra (TK 5 TCN) đáng xem lại ở P4 vì vai trò định hình kinh điển Torah.",
+    "- Hosea, Micah, Ezekiel, Ezra: lớp ngôn sứ Israel–Judah đã được Amos, Isaiah và Jeremiah đại diện. Ezra (TK 5 TCN) đáng xem lại ở P4 vì vai trò định hình kinh điển Torah.",
+    "- Josiah (trị vì k. 640–609 TCN): mạch tập trung phụng tự đã được Hezekiah (CH02-BCE08-07) đại diện. Josiah bị loại theo tính nguyên bản (c) — bước đầu thuộc về Hezekiah theo cả 2 Các Vua 18:4 lẫn tầng khảo cổ Arad và Beersheba (Herzog) — và theo chất lượng chứng thực: không có bi ký hay ấn tín đương thời nào nêu tên Josiah, trong khi Hezekiah có bulla khai quật tại chỗ, bi ký Siloam cùng thời và lăng trụ Sennacherib. Nếu quan điểm \"cải cách Hezekiah là hình chiếu ngược từ Josiah\" (Na'aman, Edelman) được chấp nhận, thứ tự ưu tiên này phải xem lại.",
     "- Taharqa, Sargon II, Nebuchadnezzar II: bị loại vì kế thừa mô hình do Piye và Tiglath-Pileser III tạo ra (riêng Nebuchadnezzar II chỉ kế thừa ở mức lỏng); ở trục Kỹ thuật/Kiến trúc, Sargon II và Taharqa cũng xếp sau Sennacherib (CH02-BCE07-08).",
     "- Psamtik I (664–610 TCN): không thuộc nhóm trên — ông lập vương triều 26 bằng cách hất người Kush khỏi Ai Cập, tức chấm dứt vương triều 25 chứ không nối tiếp. Bị loại vì thuộc TK 7 và vì đóng góp của ông (phục hưng Sais, mở cửa cho lính đánh thuê Hy Lạp) không trùng trục nào của chapter.",
     "- Gosāla (phái Ājīvika), Yāska, Patañjali: xếp sau Mahāvīra và Pāṇini trong cùng truyền thống Nam Á.",
@@ -38,9 +39,9 @@
     "- Zarathustra (CH02-BCE06-09): mâu thuẫn niên đại nghiêm trọng. Truyền thống đặt ông ở TK 6 TCN và Wikidata Q35811 ghi 628–551 TCN, nhưng ngôn ngữ học Avesta cổ đẩy về khoảng 1200–1000 TCN, tức thuộc Chapter 1. Cần Owner quyết định ở P4.",
     "- Tôn Tử (CH02-BCE05-09): nhân vật truyền thống thuộc TK 6 TCN, văn bản nhiều khả năng hoàn chỉnh ở TK 4 TCN. Đặt ở BCE05 là một thoả hiệp; nếu P4 ưu tiên niên đại văn bản thì nên chuyển sang Chapter 3.",
     "- Đức Phật (CH02-BCE06-03): chênh lệch giữa niên đại dài và niên đại ngắn gần 80 năm. Theo niên đại ngắn, ông thuộc nhóm BCE05 chứ không phải BCE06.",
-    "- Tiglath-Pileser III và Piye: không có năm sinh trong tư liệu, trường `năm:` ghi theo thời gian trị vì. Cần thống nhất quy ước này cho toàn atlas trước khi làm Chapter 4–6, nơi sẽ có nhiều vua hơn.",
+    "- Tiglath-Pileser III và Piye: không có năm sinh trong tư liệu, trường `năm:` ghi theo thời gian trị vì. Cần thống nhất quy ước này cho toàn atlas trước khi làm Chapter 4–6, nơi sẽ có nhiều vua hơn. Hezekiah ghi sinh–mất vì 2 Các Vua 18:2 cho tuổi lên ngôi; niên đại trị vì (715 hay 727 – 687 hay 698) vẫn bị tranh luận.",
     "- Yajnavalkya, Uddālaka Āruṇi: là nhân vật trong văn bản Upanishad, không có tiểu sử độc lập. Niên đại để Thấp và nhãn tương ứng; mọi quy công đều ở mức truyền thống gán.",
-    "- Wikidata xếp Isaiah (Q188794), Jeremiah (Q158825) là nhân vật Kinh Thánh chứ không phải người (thiếu P31 = Q5), và Mahāvīra (Q9422) cũng không gắn Q5. Lint sẽ cảnh báo; đây là đặc điểm phân loại của Wikidata, không phải phán quyết về tính lịch sử của nhân vật.",
+    "- Wikidata xếp Isaiah (Q188794), Jeremiah (Q158825) và Hezekiah (Q244912) là nhân vật Kinh Thánh chứ không phải người (thiếu P31 = Q5), và Mahāvīra (Q9422) cũng không gắn Q5. Lint sẽ cảnh báo; đây là đặc điểm phân loại của Wikidata, không phải phán quyết về tính lịch sử của nhân vật — riêng Hezekiah còn được chứng thực bằng bi ký đương thời.",
     "**Nhân vật có thể thuộc thế kỷ khác**",
     "- Homer và Hesiod: niên đại chỉ xác định được ở mức thế kỷ; trường `năm:` ghi theo khoảng hoạt động chứ không phải năm sinh–mất.",
     "- Yajnavalkya (CH02-BCE07-07): bản thảo đầu xếp ông ở BCE08, trước Uddālaka một nhóm, và tự biện minh bằng tiêu chí nguyên bản. Sau bình duyệt đã chuyển về BCE07 — Olivelle, nguồn được dẫn, đặt cả Bṛhadāraṇyaka lẫn Chāndogya vào TK 7–6 TCN, và quy tắc dự án là xếp theo floruit.",
@@ -65,6 +66,7 @@
       "CH02-BCE08-04",
       "CH02-BCE08-05",
       "CH02-BCE08-06",
+      "CH02-BCE08-07",
       "CH02-BCE08-08"
      ]
     },
@@ -539,6 +541,13 @@
      "evidence": "qua trường phái",
      "raw": "Kitô giáo sơ khai · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH02-BCE08-07",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE08-07 · kế thừa · qua trường phái",
+     "undetermined": false
     }
    ],
    "group": "BCE08",
@@ -710,6 +719,99 @@
     "caption": "Chân dung Piye (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
     "imaginary": true,
     "file": "CH02-BCE08-06.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
+  },
+  "CH02-BCE08-07": {
+   "id": "CH02-BCE08-07",
+   "name_vi": "Hezekiah",
+   "name_orig": "חִזְקִיָּהוּ Ḥizqiyyāhū, Ê-xê-chia",
+   "labels": [],
+   "years_raw": "k. 741–687 TCN",
+   "born": -741,
+   "died": -687,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Jerusalem, vương quốc Judah",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q244912",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Theo 2 Các Vua 18:4, ông dẹp các nơi cao (bāmôt) và rắn đồng Nehushtan, dồn phụng tự về Jerusalem. Khảo cổ chia rẽ: điện thờ Arad và bàn thờ Beersheba bị dỡ trước 701 TCN (Herzog), song Na'aman và Edelman quy cho chiến tranh. Hơn 2.000 quai bình dấu lmlk (\"của nhà vua\"), đường hầm Siloam 533 m (2 Các Vua 20:20) và bulla tên ông khai quật ở Ophel cho thấy quyền lực Isaiah không có: đóng điện thờ, thu thuế, quyết định chiến tranh. Năm 701 TCN, lăng trụ Sennacherib kể 46 thành bị chiếm, 2 Các Vua kể quân Assyria bị diệt; cả hai thừa nhận Jerusalem không thất thủ. Đệ Nhị Luật và Josiah sẽ hệ thống hoá mô hình một đền thờ này.",
+   "why": "Cùng thời có Ahaz, cha ông, vua Judah k. 732–716 TCN, và Marduk-apla-iddina II (Merodach-baladan), vua Babylon 722–710 và 703 TCN chống Assyria. Ahaz bị loại theo counterfactual (d): ông thần phục Tiglath-Pileser III, không để lại thiết chế nào. Marduk-apla-iddina bị loại theo độ bền (b): bị Sennacherib đánh bật năm 702 TCN, Babylon chỉ độc lập lại từ 626 TCN. Hezekiah thắng ở tính nguyên bản (c) — bước tập trung phụng tự đầu tiên có dấu vết khảo cổ — và ở chất lượng chứng thực: bulla, bi ký Siloam, lăng trụ Assyria. Isaiah bổ sung, không cạnh tranh.",
+   "sources": "Lester L. Grabbe (chủ biên), *'Like a Bird in a Cage': The Invasion of Sennacherib in 701 BCE* (JSOT Supplement Series 363, Sheffield Academic Press, 2003); Israel Finkelstein và Neil Asher Silberman, \"Temple and Dynasty: Hezekiah, the Remaking of Judah and the Rise of the Pan-Israelite Ideology\", *Journal for the Study of the Old Testament* 30/3 (2006), 259–285.",
+   "inherits": [
+    {
+     "target": "Ahaz (vua Judah, cha ông)",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "Ahaz (vua Judah, cha ông) · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH02-BCE08-04",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE08-04 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH02-BCE08-05",
+     "relation": "phản bác",
+     "evidence": "suy đoán học giả",
+     "raw": "CH02-BCE08-05 · phản bác · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH02-BCE07-08",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH02-BCE07-08 · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Josiah (vua Judah)",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Josiah (vua Judah) · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH02-BCE07-06",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE07-06 · phản bác · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "BCE08",
+   "chapter": 2,
+   "file": "ch02.md",
+   "image": {
+    "status": "embedded",
+    "title": "File:Yajnavalkya and Janaka.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Yajnavalkya_and_Janaka.jpg",
+    "note": "",
+    "via": "api",
+    "author": "எஸ். பி. கிருஷ்ணமூர்த்தி",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artwork_date": "2015-05-11",
+    "object_name": "Yajnavalkya and Janaka",
+    "attribution_required": true,
+    "caption": "Chân dung Yajnavalkya (tưởng tượng). Ảnh: Wikimedia Commons, CC BY-SA 3.0.",
+    "imaginary": true,
+    "file": "CH02-BCE08-07.jpg",
     "width": 500,
     "how": "thumbnail 500px"
    }
@@ -1183,6 +1285,13 @@
      "evidence": "qua trường phái",
      "raw": "CH02-BCE08-04 · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH02-BCE08-07",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE08-07 · phản bác · qua trường phái",
+     "undetermined": false
     }
    ],
    "influences": [
@@ -1369,10 +1478,10 @@
      "undetermined": false
     },
     {
-     "target": "Hezekiah xứ Judah",
+     "target": "CH02-BCE08-07",
      "relation": "phản bác",
-     "evidence": "suy đoán học giả",
-     "raw": "Hezekiah xứ Judah · phản bác · suy đoán học giả",
+     "evidence": "trực tiếp",
+     "raw": "CH02-BCE08-07 · phản bác · trực tiếp",
      "undetermined": false
     }
    ],
