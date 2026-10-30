@@ -1145,5 +1145,48 @@
   "file": "CH90-CE19_20-10.jpg",
   "width": 500,
   "how": "thumbnail 500px"
+ },
+ "CH02-BCE06-11": {
+  "status": "embedded",
+  "title": "File:Bust Sappho Musei Capitolini MC1164.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Bust_Sappho_Musei_Capitolini_MC1164.jpg",
+  "note": "",
+  "via": "api",
+  "author": "Marie-Lan Nguyen",
+  "license": "Public domain",
+  "license_url": "",
+  "artwork_date": "2011",
+  "object_name": "Bust Sappho Musei Capitolini MC1164",
+  "attribution_required": false,
+  "caption": "Chân dung Sappho xứ Lesbos, Bust Sappho Musei Capitolini MC1164 (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+  "imaginary": true,
+  "file": "CH02-BCE06-11.jpg",
+  "width": 500,
+  "how": "thumbnail 500px"
+ },
+ "CH02-BCE07-07": {
+  "status": "embedded",
+  "title": "File:Yajnavalkya and Janaka.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Yajnavalkya_and_Janaka.jpg",
+  "note": "",
+  "via": "api",
+  "author": "எஸ். பி. கிருஷ்ணமூர்த்தி",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "artwork_date": "2015-05-11",
+  "object_name": "Yajnavalkya and Janaka",
+  "attribution_required": true,
+  "caption": "Chân dung Yajnavalkya (tưởng tượng). Ảnh: Wikimedia Commons, CC BY-SA 3.0.",
+  "imaginary": true,
+  "file": "CH02-BCE07-07.jpg",
+  "width": 500,
+  "how": "thumbnail 500px"
+ },
+ "CH02-BCE08-08": {
+  "status": "no-image",
+  "title": null,
+  "source_url": null,
+  "note": "Wikidata không có P18",
+  "via": null
  }
 }

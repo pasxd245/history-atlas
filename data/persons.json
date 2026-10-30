@@ -21,7 +21,7 @@
     "Phần văn xuôi của chapter do mô hình AI (Claude) viết theo prompt cố định tại `prompts/atlas-prompt.md`, không qua bình duyệt chuyên môn. Tên, niên đại và định danh được đối chiếu tự động với Wikidata; phần diễn giải, đánh giá ảnh hưởng và lựa chọn nhân vật là tổng hợp của model theo bốn tiêu chí (a)–(d), không phải kết luận của giới nghiên cứu. Mục Nguồn là điểm khởi đầu để tự kiểm tra, chưa được đối chiếu từng câu. Xem mục \"Về dự án\" ở trang Overview để biết giới hạn đầy đủ.",
     "**Ứng viên mạnh đã bị loại và lý do**",
     "- Thucydides (TK 5 TCN): bị Herodotus lấn chỗ ở lĩnh vực Sử học. Ông nghiêm ngặt hơn về phương pháp nhưng kế thừa thể loại đã có; nên cân nhắc lại ở P4 nếu muốn tách \"sử học phê phán\" khỏi \"sử học điều tra\".",
-    "- Heraclitus (TK 6–5 TCN): nhóm BCE06 đã đủ 10 và Parmenides được ưu tiên theo counterfactual. Đây là mục loại gây tiếc nhất của chapter; nếu Zarathustra chuyển sang Chapter 1 thì Heraclitus nên vào chỗ trống.",
+    "- Heraclitus (TK 6–5 TCN): Parmenides được ưu tiên theo counterfactual. Đây là mục loại gây tiếc nhất của chapter; nhóm BCE06 còn đúng một chỗ dưới trần 12, và nếu Zarathustra chuyển sang Chapter 1 thì Heraclitus là ứng viên đầu tiên cho chỗ đó.",
     "- Cleisthenes (k. 508 TCN): cải cách bộ lạc và chế độ bỏ phiếu bãi miễn của ông mang tính quyết định với dân chủ Athens, nhưng Solon đã đại diện cho mạch này và thắng ở tiêu chí counterfactual.",
     "- Pericles, Sophocles, Euripides, Protagoras, Zeno xứ Elea, Empedocles, Anaxagoras, Leucippus (TK 5 TCN): bị loại để tránh dồn quá nửa nhóm BCE05 vào Athens và Ionia.",
     "- Dương Chu (楊朱), Ngô Khởi (吳起), Tử Sản (子產), Tề Hoàn Công: các ứng viên Đông Á xếp sau Quản Trọng, Mặc Tử và Tôn Tử theo độ bền.",
@@ -43,6 +43,7 @@
     "- Wikidata xếp Isaiah (Q188794), Jeremiah (Q158825) là nhân vật Kinh Thánh chứ không phải người (thiếu P31 = Q5), và Mahāvīra (Q9422) cũng không gắn Q5. Lint sẽ cảnh báo; đây là đặc điểm phân loại của Wikidata, không phải phán quyết về tính lịch sử của nhân vật.",
     "**Nhân vật có thể thuộc thế kỷ khác**",
     "- Homer và Hesiod: niên đại chỉ xác định được ở mức thế kỷ; trường `năm:` ghi theo khoảng hoạt động chứ không phải năm sinh–mất.",
+    "- Yajnavalkya (CH02-BCE07-07): bản thảo đầu xếp ông ở BCE08, trước Uddālaka một nhóm, và tự biện minh bằng tiêu chí nguyên bản. Sau bình duyệt đã chuyển về BCE07 — Olivelle, nguồn được dẫn, đặt cả Bṛhadāraṇyaka lẫn Chāndogya vào TK 7–6 TCN, và quy tắc dự án là xếp theo floruit.",
     "- Darius I (CH02-BCE05-10): sinh k. 550 TCN, lên ngôi 522 TCN, nên một phần đáng kể sự nghiệp nằm ở TK 6 TCN. Xếp vào BCE05 vì giai đoạn đế chế đạt quy mô và ổn định hành chính lớn nhất nằm sau năm 500 TCN.",
     "- Mặc Tử và Democritus: đời sống kéo sang TK 4 TCN, có thể cân nhắc chuyển sang Chapter 3 nếu Chapter 3 thiếu người.",
     "**Vấn đề từ vựng §5 — đã xử lý**",
@@ -150,10 +151,10 @@
     "- Khúc Thừa Dụ: giành quyền tự chủ thực tế từ 905, sớm hơn Ngô Quyền, nhưng vẫn giữ danh nghĩa phiên thuộc nhà Đường.",
     "- Tuệ Tĩnh, Lương Thế Vinh, Vũ Hữu: y học và toán học thời Lý–Trần–Lê sơ; trước tác thất lạc gần hết nên không đánh giá được theo (b). Nếu tìm được tư liệu chắc chắn hơn, Lương Thế Vinh xứng đáng một mục ở nhóm CE15_18.",
     "- Nguyễn Công Trứ, Cao Bá Quát, Nguyễn Đình Chiểu, Bà Huyện Thanh Quan, Đoàn Thị Điểm: nhóm CE19_20 đã có hai mục văn học; thêm nữa sẽ lệch khỏi yêu cầu đa dạng lĩnh vực.",
-    "- Huỳnh Thúc Kháng, Nguyễn Văn Vĩnh, Phạm Quỳnh, Nguyễn Thái Học, Trương Định, Nguyễn Trung Trực: đều xứng đáng, nhưng nhóm CE19_20 đã chạm trần 10 người. Đây là nhóm chật nhất của phụ lục.",
+    "- Huỳnh Thúc Kháng, Nguyễn Văn Vĩnh, Phạm Quỳnh, Nguyễn Thái Học, Trương Định, Nguyễn Trung Trực: đều xứng đáng, nhưng nhóm CE19_20 đã có 10 người; trần nay là 12, hai chỗ còn lại để Owner quyết ở P4. Đây là nhóm chật nhất của phụ lục.",
     "- Lê Văn Hưu, Ngô Sĩ Liên, Phan Huy Chú: ba sử gia lớn, bị Lê Quý Đôn lấn chỗ ở lĩnh vực Sử học.",
     "**Giai đoạn 1954–1975 và sau đó**",
-    "Phụ lục dừng ở nhóm TK 19–20 và không lập nhóm TK 21. Lý do là tiêu chí (b) độ bền: ảnh hưởng của các nhân vật đương đại chưa đủ thời gian để đánh giá, và mọi lựa chọn lúc này sẽ phản ánh quan điểm hiện tại hơn là kết quả lịch sử. Với giai đoạn 1954–1975, các nhân vật chính trị và quân sự của cả hai miền đều đã được xem xét; không ai được chọn thêm ngoài những người đã có mặt, vì nhóm đã đủ 10 và vì đánh giá còn phân hoá mạnh. Owner nên quyết định ở P4 có mở rộng phần này hay không, và nếu có thì theo nguyên tắc nào.",
+    "Phụ lục dừng ở nhóm TK 19–20 và không lập nhóm TK 21. Lý do là tiêu chí (b) độ bền: ảnh hưởng của các nhân vật đương đại chưa đủ thời gian để đánh giá, và mọi lựa chọn lúc này sẽ phản ánh quan điểm hiện tại hơn là kết quả lịch sử. Với giai đoạn 1954–1975, các nhân vật chính trị và quân sự của cả hai miền đều đã được xem xét; không ai được chọn thêm ngoài những người đã có mặt, vì đánh giá còn phân hoá mạnh. Owner nên quyết định ở P4 có mở rộng phần này hay không, và nếu có thì theo nguyên tắc nào.",
     "**Điểm cần kiểm chứng thêm**",
     "- Triệu Đà (CH90-BCE03_01-02): việc xếp nhà Triệu vào quốc thống Việt Nam là vấn đề sử học chưa khép lại, từ Đại Việt sử ký toàn thư qua Ngô Thì Sĩ tới nay. Phụ lục ghi nhận nhân vật và ghi rõ tranh luận, không kết luận.",
     "- Hai Bà Trưng (CH90-CE01_09-01): Wikidata xếp \"Trung sisters\" (Q1207428) là một cặp chứ không phải một người, nên mục này dùng Q-ID riêng của Trưng Trắc (Q25418142) và nhắc Trưng Nhị trong phần nội dung.",
@@ -772,7 +773,13 @@
    "group": "BCE08",
    "chapter": 2,
    "file": "ch02.md",
-   "image": null
+   "image": {
+    "status": "no-image",
+    "title": null,
+    "source_url": null,
+    "note": "Wikidata không có P18",
+    "via": null
+   }
   },
   "CH02-BCE07-01": {
    "id": "CH02-BCE07-01",
@@ -1269,7 +1276,24 @@
    "group": "BCE07",
    "chapter": 2,
    "file": "ch02.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Yajnavalkya and Janaka.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Yajnavalkya_and_Janaka.jpg",
+    "note": "",
+    "via": "api",
+    "author": "எஸ். பி. கிருஷ்ணமூர்த்தி",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artwork_date": "2015-05-11",
+    "object_name": "Yajnavalkya and Janaka",
+    "attribution_required": true,
+    "caption": "Chân dung Yajnavalkya (tưởng tượng). Ảnh: Wikimedia Commons, CC BY-SA 3.0.",
+    "imaginary": true,
+    "file": "CH02-BCE07-07.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH02-BCE06-01": {
    "id": "CH02-BCE06-01",
@@ -2118,7 +2142,24 @@
    "group": "BCE06",
    "chapter": 2,
    "file": "ch02.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Bust Sappho Musei Capitolini MC1164.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Bust_Sappho_Musei_Capitolini_MC1164.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Marie-Lan Nguyen",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "2011",
+    "object_name": "Bust Sappho Musei Capitolini MC1164",
+    "attribution_required": false,
+    "caption": "Chân dung Sappho xứ Lesbos, Bust Sappho Musei Capitolini MC1164 (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH02-BCE06-11.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH02-BCE05-01": {
    "id": "CH02-BCE05-01",
@@ -5023,7 +5064,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Sau hai mươi lăm năm lưu vong và giao tranh, ông thống nhất toàn bộ lãnh thổ từ Lạng Sơn tới Hà Tiên năm 1802 — lần đầu một chính quyền duy nhất kiểm soát dải đất tương ứng Việt Nam ngày nay — và đặt quốc hiệu Việt Nam. Ông lập kinh đô Huế, cho đo đạc địa bạ toàn quốc, mở đường thiên lý Bắc Nam, và khởi soạn bộ Hoàng Việt luật lệ. Việc ông dựa vào viện trợ Pháp qua giám mục Pigneau de Béhaine, và các vua kế tục đóng cửa với phương Tây, là hai quyết định còn được tranh luận gay gắt.",
+   "ideas": "Sau hai mươi lăm năm giao tranh, ông thống nhất lãnh thổ từ Lạng Sơn tới Hà Tiên năm 1802 — lần đầu một chính quyền duy nhất kiểm soát dải đất tương ứng Việt Nam ngày nay. Quốc hiệu Việt Nam (1804) do nhà Thanh đảo ngược tên \"Nam Việt\" ông xin phong, để khỏi trùng nước của Triệu Đà. Ông đóng đô ở Huế, lập địa bạ Bắc Hà (1805), tu bổ, nối dài đường thiên lý, khởi soạn Hoàng Việt luật lệ. Việc ông cầu viện Pháp — hiệp ước Versailles 1787 không được thi hành, chỉ dưới trăm lính tình nguyện Pigneau de Béhaine quyên tiền chiêu mộ — và việc các vua sau đóng cửa với phương Tây còn gây tranh luận gay gắt.",
    "why": "Ứng viên cạnh tranh là Minh Mạng, người hoàn thiện bộ máy hành chính tỉnh và bộ luật. Gia Long được chọn theo counterfactual (d): sự thống nhất lãnh thổ năm 1802 là điều kiện cho mọi việc sau đó, kể cả cải cách của Minh Mạng. Đánh giá về ông vẫn chia rẽ trong sử học Việt Nam; phụ lục ghi nhận thành tựu lãnh thổ mà không gộp luôn phán xét về đường lối đối ngoại.",
    "sources": "Đại Nam thực lục chính biên; Choi Byung Wook, Southern Vietnam under the Reign of Minh Mạng (2004).",
    "inherits": [
@@ -5094,7 +5135,7 @@
    "big_questions": [
     "Con người"
    ],
-   "ideas": "Thơ Nôm của bà dùng thể Đường luật nghiêm ngặt để viết về thân phận làm lẽ, sinh nở, goá bụa và ham muốn, với lối nói hai nghĩa khiến mỗi bài đọc được theo cả nghĩa tả cảnh lẫn nghĩa tục. Đó là cách công kích thói đạo đức giả của nam giới có học mà vẫn nằm trong khuôn khổ hình thức họ đặt ra. Trong một nền văn chương do nam giới và chữ Hán chi phối, việc một phụ nữ lấy chính trải nghiệm thân thể làm đề tài là chưa từng có. UNESCO vinh danh bà năm 2021 nhân 250 năm sinh.",
+   "ideas": "Thơ Nôm của bà dùng thể Đường luật nghiêm ngặt để viết về thân phận làm lẽ, sinh nở, goá bụa và ham muốn, với lối nói hai nghĩa khiến mỗi bài đọc được theo cả nghĩa tả cảnh lẫn nghĩa tục. Đó là cách công kích thói đạo đức giả của nam giới có học mà vẫn nằm trong khuôn khổ hình thức họ đặt ra. Trong một nền văn chương do nam giới và chữ Hán chi phối, việc một phụ nữ lấy chính trải nghiệm thân thể làm đề tài là chưa từng có. Năm 2021 UNESCO ra nghị quyết cùng kỷ niệm 250 năm sinh và 200 năm mất của bà trong hai năm 2022–2023.",
    "why": "Ứng viên cùng thời là Bà Huyện Thanh Quan và Đoàn Thị Điểm, hai nữ sĩ có danh phận rõ hơn. Hồ Xuân Hương được chọn theo tính nguyên bản (c): giọng điệu và đề tài của bà không có tiền lệ trong văn học Đông Á. Niên đại để Thấp vì tiểu sử mơ hồ và một phần thơ gán cho bà có thể do người sau thêm; bản Lưu Hương ký phát hiện năm 1964 vẫn đang được khảo chứng.",
    "sources": "Lưu Hương ký; Đỗ Lai Thuý, Hồ Xuân Hương — hoài niệm phồn thực (1999).",
    "inherits": [
@@ -5161,7 +5202,7 @@
    ],
    "ideas": "Nhà ngôn ngữ thông thạo nhiều thứ tiếng, ông làm chủ bút Gia Định báo từ 1869, tờ báo chữ Quốc ngữ đầu tiên, và dùng nó để chuẩn hoá một lối viết tiếng Việt sáng rõ, gần lời nói. Ông soạn hơn một trăm đầu sách: từ điển, sách dạy tiếng, sách sử, và phiên âm các tác phẩm Nôm như Truyện Kiều, Lục Vân Tiên sang Quốc ngữ — thao tác quyết định giúp di sản văn học cũ không bị cắt đứt khi chữ Nôm mất chỗ. Việc ông cộng tác với chính quyền thuộc địa khiến đánh giá về ông còn tranh cãi.",
    "why": "Ứng viên cùng vai trò là Huỳnh Tịnh Của, tác giả Đại Nam quấc âm tự vị, và Nguyễn Văn Vĩnh ở thế hệ sau. Trương Vĩnh Ký được chọn theo counterfactual (d): việc phiên âm kho văn bản Nôm sang Quốc ngữ ngay ở buổi giao thời là công việc nếu không làm lúc đó thì phần lớn sẽ thất truyền. Phụ lục ghi cả phần cộng tác với chính quyền thuộc địa.",
-   "sources": "Gia Định báo (1869–1897); Nguyễn Văn Trung, Trương Vĩnh Ký — nhà văn hoá (1993).",
+   "sources": "Gia Định báo (1865–1909), giai đoạn ông làm chủ bút 1869–k. 1872; Nguyễn Văn Trung, Trương Vĩnh Ký — nhà văn hoá (1993).",
    "inherits": [
     {
      "target": "CH90-CE15_18-07",
@@ -5238,7 +5279,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Ông lập Duy Tân hội năm 1904 và khởi xướng phong trào Đông Du, đưa khoảng hai trăm thanh niên sang Nhật học với ý định xây dựng lực lượng vũ trang giành độc lập. Các tác phẩm Việt Nam vong quốc sử và Hải ngoại huyết thư viết bằng Hán văn nhưng được diễn Nôm, lưu truyền rộng và là văn bản tuyên truyền chính trị hiện đại sớm nhất của Việt Nam. Ông chủ trương dựa vào ngoại viện và bạo động; sau khi Nhật trục xuất du học sinh năm 1909, đường lối này thất bại. Ông bị bắt năm 1925 và bị giam lỏng ở Huế tới cuối đời.",
+   "ideas": "Ông lập Duy Tân hội năm 1904 và khởi xướng phong trào Đông Du, đưa khoảng hai trăm thanh niên sang Nhật học với ý định xây dựng lực lượng vũ trang giành độc lập. Các tác phẩm Việt Nam vong quốc sử và Hải ngoại huyết thư viết bằng Hán văn nhưng được diễn Nôm, lưu truyền rộng và là văn bản tuyên truyền chính trị hiện đại sớm nhất của Việt Nam. Ông chủ trương dựa vào ngoại viện và bạo động; sau khi Nhật, theo thoả thuận với Pháp, trục xuất du học sinh năm 1908 rồi trục xuất chính ông đầu năm 1909, đường lối này thất bại. Ông bị bắt năm 1925 và bị giam lỏng ở Huế tới cuối đời.",
    "why": "Đối trọng trực tiếp là Phan Châu Trinh, cùng thời và chủ trương ngược lại. Phan Bội Châu được chọn theo tính nguyên bản (c): ông là người đầu tiên tổ chức phong trào độc lập theo lối hiện đại — có hội, có cương lĩnh, có mạng lưới quốc tế — thay cho các cuộc khởi nghĩa Cần Vương trước đó. Cuộc tranh luận bạo động hay cải cách giữa hai ông định khung chính trị Việt Nam suốt nửa thế kỷ.",
    "sources": "Phan Bội Châu niên biểu; David G. Marr, Vietnamese Anticolonialism 1885–1925 (1971).",
    "inherits": [
@@ -5401,7 +5442,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Sau ba mươi năm ở nước ngoài, ông sáng lập Đảng Cộng sản Việt Nam năm 1930, lập Việt Minh năm 1941 và đọc Tuyên ngôn độc lập ngày 2 tháng 9 năm 1945, lập nước Việt Nam Dân chủ Cộng hoà. Đóng góp đặc trưng của ông là gắn chủ nghĩa cộng sản với chủ nghĩa dân tộc thành một cương lĩnh tập hợp rộng, thay vì đấu tranh giai cấp thuần tuý — công thức mà nhiều phong trào giải phóng dân tộc ở châu Á và châu Phi sau đó tham khảo. Bản yêu sách gửi Hội nghị Versailles năm 1919 là lần đầu vấn đề Việt Nam được nêu tại một diễn đàn quốc tế.",
+   "ideas": "Năm 1919, ông cùng Phan Châu Trinh, Phan Văn Trường soạn Yêu sách của nhân dân An Nam ký tên chung Nguyễn Ái Quốc; Hội nghị Versailles không tiếp nhận, nhưng qua báo L'Humanité, vấn đề Việt Nam lần đầu ra dư luận quốc tế. Ông sáng lập Đảng Cộng sản Việt Nam năm 1930, về nước sau ba mươi năm lập Việt Minh năm 1941, và đọc Tuyên ngôn độc lập 2/9/1945, lập Việt Nam Dân chủ Cộng hoà. Đóng góp đặc trưng của ông: gắn chủ nghĩa cộng sản với chủ nghĩa dân tộc thành cương lĩnh tập hợp rộng, thay vì đấu tranh giai cấp thuần tuý — công thức nhiều phong trào giải phóng dân tộc ở châu Á và châu Phi tham khảo.",
    "why": "Ứng viên cùng thế hệ là Trần Phú, Lê Duẩn và Nguyễn Thái Học của Việt Nam Quốc dân đảng. Hồ Chí Minh được chọn theo phạm vi (a) và counterfactual (d): ông là người xây dựng tổ chức và cương lĩnh dẫn tới sự kiện 1945. Đây cũng là một trong hai mục của phụ lục đủ tầm để đồng thời xuất hiện ở Chapter 10 theo tiêu chí toàn cầu, với góc nhìn phi thực dân hoá.",
    "sources": "William J. Duiker, Ho Chi Minh: A Life (2000); Tuyên ngôn độc lập (2/9/1945).",
    "inherits": [
@@ -5473,9 +5514,9 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Vốn là giáo viên lịch sử không qua trường quân sự, ông chỉ huy quân đội Việt Nam từ 1944. Ở Điện Biên Phủ năm 1954, quyết định đổi phương châm từ \"đánh nhanh thắng nhanh\" sang \"đánh chắc tiến chắc\" — kéo pháo ra, chuẩn bị thêm hai tháng, đào hệ hào siết dần vòng vây — là bước ngoặt dẫn tới chiến thắng. Ông hệ thống hoá học thuyết chiến tranh nhân dân ba thứ quân, kết hợp du kích với tác chiến chính quy và hậu cần dân công. Điện Biên Phủ là lần đầu một quân đội thuộc địa đánh bại một quân đội châu Âu trong trận địa chiến quy ước.",
+   "ideas": "Giáo viên lịch sử không qua trường quân sự, ông chỉ huy quân đội từ 1944. Tại Điện Biên Phủ 1954, quyết định đổi phương châm từ \"đánh nhanh thắng nhanh\" sang \"đánh chắc tiến chắc\" — kéo pháo ra, chuẩn bị thêm gần bảy tuần, đào hệ hào siết dần vòng vây — là bước ngoặt. Ông hệ thống hoá học thuyết chiến tranh nhân dân ba thứ quân, kết hợp du kích, chính quy và hậu cần dân công. Điện Biên Phủ là lần đầu một phong trào độc lập thuộc địa đi từ du kích lên quân đội chính quy rồi thắng một quân đội phương Tây hiện đại trong trận địa chiến; Adwa 1896 là chiến thắng của Ethiopia, một nước độc lập.",
    "why": "Ứng viên cùng lĩnh vực là Văn Tiến Dũng, chỉ huy chiến dịch 1975, và Nguyễn Chí Thanh. Võ Nguyên Giáp được chọn theo phạm vi (a): tác phẩm về chiến tranh nhân dân của ông được dịch và nghiên cứu ở nhiều học viện quân sự nước ngoài, và trận Điện Biên Phủ có tiếng vang trực tiếp tới các phong trào độc lập ở Algérie và châu Phi.",
-   "sources": "Võ Nguyên Giáp, Điện Biên Phủ (1964); Bernard B. Fall, Hell in a Very Small Place (1966).",
+   "sources": "Võ Nguyên Giáp, Điện Biên Phủ (1964); Bernard B. Fall, Hell in a Very Small Place (1966); Martin Windrow, The Last Valley (2004).",
    "inherits": [
     {
      "target": "CH90-CE19_20-07",
@@ -5547,7 +5588,7 @@
    ],
    "ideas": "Từ năm 1935 ông phẫu tích hơn hai trăm lá gan để lập bản đồ hệ mạch bên trong, rồi xây dựng kỹ thuật cắt gan có kế hoạch: bóc tách nhu mô bằng tay để lộ và thắt từng cuống mạch trước khi cắt, thay vì kẹp cả khối. Phương pháp công bố năm 1963 rút thời gian mổ từ hàng giờ xuống vài phút và giảm mạnh tỷ lệ tử vong; y văn quốc tế gọi là phương pháp Tôn Thất Tùng và vẫn dùng tới nay. Ông cũng là người sớm công bố nghiên cứu về hậu quả của chất độc da cam trên người Việt Nam.",
    "why": "Ứng viên cùng lĩnh vực là Hồ Đắc Di, người thầy của ông, và Đặng Văn Ngữ với kháng sinh penicillin thời kháng chiến. Tôn Thất Tùng được chọn theo tính nguyên bản (c) và phạm vi (a): đây là đóng góp khoa học của người Việt được đặt tên và sử dụng rộng rãi trong y học thế giới, trường hợp hiếm. Mục này cũng giữ cho nhóm TK 19–20 không chỉ gồm chính trị và quân sự.",
-   "sources": "Tôn Thất Tùng, \"Une nouvelle technique d'hépatectomie\", Presse Médicale (1963); Tôn Thất Tùng, Đường vào khoa học của tôi (1978).",
+   "sources": "Tôn Thất Tùng & Nguyễn Dương Quang, \"A new technique for operating on the liver\", The Lancet 281 (1963), tr. 192–193; Tôn Thất Tùng, Đường vào khoa học của tôi (1978).",
    "inherits": [
     {
      "target": "Hồ Đắc Di",
@@ -5617,9 +5658,9 @@
     "Con người",
     "Thực tại"
    ],
-   "ideas": "Ông phát triển khái niệm \"Phật giáo dấn thân\" (engaged Buddhism): tu tập không tách khỏi trách nhiệm xã hội, nên thiền phải đi cùng công tác cứu trợ và vận động hoà bình. Ông lập Trường Thanh niên Phụng sự Xã hội ở Sài Gòn, vận động chấm dứt chiến tranh ở cả hai phía và bị cả hai miền từ chối cho về nước suốt gần bốn mươi năm. Ở Làng Mai, ông diễn đạt lại giáo lý duyên khởi thành ngôn ngữ đời thường — khái niệm \"tương tức\" (interbeing) và thực hành chánh niệm trong việc ăn, đi, thở.",
+   "ideas": "Ông phát triển khái niệm \"Phật giáo dấn thân\" (engaged Buddhism): tu tập không tách khỏi trách nhiệm xã hội, nên thiền phải đi cùng công tác cứu trợ và vận động hoà bình. Ông lập Trường Thanh niên Phụng sự Xã hội ở Sài Gòn, vận động chấm dứt chiến tranh ở cả hai phía và bị cả hai miền, rồi từ 1975 là nhà nước thống nhất, từ chối cho về nước suốt ba mươi chín năm. Ở Làng Mai, ông diễn đạt lại giáo lý duyên khởi thành ngôn ngữ đời thường — khái niệm \"tương tức\" (interbeing) và thực hành chánh niệm trong việc ăn, đi, thở.",
    "why": "Ứng viên cùng thời là Thích Quảng Đức, người tự thiêu năm 1963, và Thích Trí Quang. Thích Nhất Hạnh được chọn theo phạm vi (a) và độ bền (b): sách của ông bán hàng triệu bản, chánh niệm theo cách ông trình bày đã vào y tế, giáo dục và doanh nghiệp phương Tây. Cùng với Hồ Chí Minh, đây là mục thứ hai đủ tầm xuất hiện song song ở Chapter 10 theo tiêu chí toàn cầu.",
-   "sources": "Thích Nhất Hạnh, Phép lạ của sự tỉnh thức (1974); Thích Nhất Hạnh, Đường xưa mây trắng (1988).",
+   "sources": "Thích Nhất Hạnh, Phép lạ của sự tỉnh thức (viết 1974, in lần đầu 1975); Thích Nhất Hạnh, Đường xưa mây trắng (1988).",
    "inherits": [
     {
      "target": "CH90-CE10_14-08",
