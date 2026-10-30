@@ -44,7 +44,10 @@ Template và từ vựng cố định nằm ở `prompts/atlas-prompt.md` (§5) 
 **Hai việc bắt buộc TRƯỚC khi viết** — bỏ qua là lint sẽ ngập cảnh báo:
 
 1. **Tra Wikidata Q-ID bằng API**, đừng đoán. `wbgetentities` với `sites=enwiki&titles=...` trả về P569/P570/nhãn thật; viết trường `năm:` khớp dung sai (Cao ±5 năm, Trung bình ±25, Thấp bỏ qua đối chiếu).
-2. **Kiểm URL nguồn tồn tại** trước khi trích. Nhiều slug Stanford Encyclopedia không có thật (`mozi` → thực tế là `mohism`; không hề có `thales`, `anaximander`, `herodotus`, `hippocrates`).
+2. **Kiểm URL nguồn tồn tại** trước khi trích. Nhiều slug Stanford Encyclopedia không có thật (`mozi` → thực tế là `mohism`; không hề có `thales`, `anaximander`, `herodotus`, `hippocrates`). Tồn tại chưa đủ — phải mở ra xem nó **có nói về nhân vật không**: Ch2 từng dẫn một bài SEP không nhắc tới Solon một chữ nào.
+3. **Không ghi số chương / quyển / tập nếu chưa mở mục lục.** Kiểm toán 95 trích dẫn của phụ lục cho thấy 5/6 số chương Keith Taylor sai — và cả 5 lệch đúng +1. Hình dạng đó nghĩa là con số đã được sinh ra chứ không tra cứu. Một số chương sai khiến cả dòng Nguồn mất giá trị, nên thà bỏ số chương còn hơn ghi đoán.
+4. **Khớp Wikidata không đồng nghĩa với đúng.** Lint chỉ bắt lỗi *lệch* Wikidata, hoàn toàn mù trước lỗi mà Wikidata *cùng mắc*: Jeremiah từng ghi mất 587 TCN — sai, ông sống qua biến cố đó và mất ở Ai Cập k. 570 — nhưng Wikidata cũng ghi −587 nên lint báo sạch. Với nhân vật cổ đại, năm sinh Wikidata nhiều khi là suy diễn không nguồn (Triệu Đà k. 230 TCN). Đối chiếu Wikidata là sàn, không phải trần.
+5. **"Ứng viên cùng thời" phải thật sự cùng thời.** Đánh giá độc lập bắt 6 trường hợp: Tử Sản sinh sau khi Quản Trọng mất 64 năm; Lương Thế Vinh mất 5 năm trước khi Nguyễn Bỉnh Khiêm sinh; Khương Tăng Hội dịch kinh 21 năm sau khi Sĩ Nhiếp mất. Kiểm năm sinh–mất của cả hai bên trước khi viết đoạn so sánh.
 
 **Quy ước trường `năm:`** — parser cần dạng đọc được, nhưng đừng bịa:
 
