@@ -154,7 +154,7 @@
     "- Huỳnh Thúc Kháng, Nguyễn Văn Vĩnh, Phạm Quỳnh, Nguyễn Thái Học, Trương Định, Nguyễn Trung Trực: đều xứng đáng, nhưng nhóm CE19_20 đã có 10 người; trần nay là 12, hai chỗ còn lại để Owner quyết ở P4. Đây là nhóm chật nhất của phụ lục.",
     "- Lê Văn Hưu, Ngô Sĩ Liên, Phan Huy Chú: ba sử gia lớn, bị Lê Quý Đôn lấn chỗ ở lĩnh vực Sử học.",
     "**Giai đoạn 1954–1975 và sau đó**",
-    "Phụ lục dừng ở nhóm TK 19–20 và không lập nhóm TK 21. Lý do là tiêu chí (b) độ bền: ảnh hưởng của các nhân vật đương đại chưa đủ thời gian để đánh giá, và mọi lựa chọn lúc này sẽ phản ánh quan điểm hiện tại hơn là kết quả lịch sử. Với giai đoạn 1954–1975, các nhân vật chính trị và quân sự của cả hai miền đều đã được xem xét; không ai được chọn thêm ngoài những người đã có mặt, vì đánh giá còn phân hoá mạnh. Owner nên quyết định ở P4 có mở rộng phần này hay không, và nếu có thì theo nguyên tắc nào.",
+    "Phụ lục dừng ở nhóm TK 19–20 và không lập nhóm TK 21. Lý do là tiêu chí (b) độ bền: ảnh hưởng của các nhân vật đương đại chưa đủ thời gian để đánh giá, và mọi lựa chọn lúc này sẽ phản ánh quan điểm hiện tại hơn là kết quả lịch sử. Với giai đoạn 1954–1975, bản thảo đầu viết rằng nhân vật \"cả hai miền\" đã được xem xét theo cùng bộ tiêu chí. **Câu đó chưa kiểm chứng và thiếu chứng cứ**: đánh giá độc lập không tìm thấy dấu vết nào của việc đó trong file — không một nhân vật Việt Nam Cộng hoà nào được nêu tên, kể cả trong danh sách bị loại; Trần Trọng Kim và Ngô Đình Diệm chưa từng được cân; và Đổi mới 1986 được nêu ở Bối cảnh nhưng không có mục đại diện. Phụ lục hiện phản ánh một góc nhìn ở thế kỷ 20 và ghi nhận điều đó thay vì khẳng định ngược lại. Việc cân lại giai đoạn này, với tiêu chí nào và có thêm ai, để Owner quyết ở P4.",
     "**Điểm cần kiểm chứng thêm**",
     "- Triệu Đà (CH90-BCE03_01-02): việc xếp nhà Triệu vào quốc thống Việt Nam là vấn đề sử học chưa khép lại, từ Đại Việt sử ký toàn thư qua Ngô Thì Sĩ tới nay. Phụ lục ghi nhận nhân vật và ghi rõ tranh luận, không kết luận.",
     "- Hai Bà Trưng (CH90-CE01_09-01): Wikidata xếp \"Trung sisters\" (Q1207428) là một cặp chứ không phải một người, nên mục này dùng Q-ID riêng của Trưng Trắc (Q25418142) và nhắc Trưng Nhị trong phần nội dung.",
@@ -3714,7 +3714,7 @@
    "name_vi": "Vạn Hạnh",
    "name_orig": "萬行",
    "labels": [],
-   "years_raw": "k. 938–1025",
+   "years_raw": "k. 938–1025 (bản hiệu đính Trần Văn Giáp: 1018)",
    "born": 938,
    "died": 1025,
    "approx": true,
@@ -3856,7 +3856,8 @@
    "place": "Thăng Long và phòng tuyến sông Như Nguyệt",
    "region": "Đông Nam Á",
    "fields": [
-    "Quân sự"
+    "Quân sự",
+    "Chính trị/Nhà nước"
    ],
    "confidence": "Cao",
    "wikidata": "Q702734",
