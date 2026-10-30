@@ -3563,5 +3563,83 @@
    "enwiki": "Croesus"
   },
   "fetched": 1793377510
+ },
+ "wd:Q207140": {
+  "id": "Q207140",
+  "labels": {
+   "en": "Sennacherib",
+   "vi": "Sennacherib"
+  },
+  "aliases": {
+   "en": [
+    "Sennachérib",
+    "King of Assyria Sanherib",
+    "King of Assyria Sennacherib",
+    "Sin-akhkheeriba",
+    "re di Assiria Sennacherib",
+    "King Sennacherib of Assyria",
+    "roi d'Assyrie Sennachérib",
+    "Rey endel Asiria Senaquerib"
+   ],
+   "vi": [
+    "Sennachérib",
+    "Sin-akhkheeriba",
+    "re di Assiria Sennacherib",
+    "roi d'Assyrie Sennachérib",
+    "Rey endel Asiria Senaquerib"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -745,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -681,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Sennacherib.jpg",
+  "sitelinks": {
+   "viwiki": "Sennacherib",
+   "enwiki": "Sennacherib"
+  },
+  "fetched": 1793377697
+ },
+ "wd:Q244912": {
+  "id": "Q244912",
+  "labels": {
+   "en": "Hezekiah"
+  },
+  "aliases": {},
+  "P31": [
+   "Q20643955"
+  ],
+  "P569": [
+   {
+    "year": -741,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -686,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Ezechias-Hezekiah.png",
+  "sitelinks": {
+   "enwiki": "Hezekiah"
+  },
+  "fetched": 1793377754
  }
 }

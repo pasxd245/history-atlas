@@ -15,7 +15,7 @@
    "files": [
     "ch02.md"
    ],
-   "intro": "Giai đoạn 800–401 TCN chứng kiến nhiều truyền thống tư tưởng xuất hiện gần như song song ở Trung Hoa, Ấn Độ, Iran, Israel–Judah và Hy Lạp — hiện tượng Karl Jaspers gọi là Thời kỳ Trục. Chapter này không khẳng định các vùng đã ảnh hưởng lẫn nhau: phần lớn quan hệ xuyên vùng được ghi là tương đồng độc lập. Bốn nhóm thế kỷ gồm 36 nhân vật, từ vua Assyria và ngôn sứ Do Thái tới Khổng Tử, Đức Phật, Thales và Socrates, chọn theo phạm vi, độ bền, tính nguyên bản và counterfactual.",
+   "intro": "Giai đoạn 800–401 TCN chứng kiến nhiều truyền thống tư tưởng xuất hiện gần như song song ở Trung Hoa, Ấn Độ, Iran, Israel–Judah và Hy Lạp — hiện tượng Karl Jaspers gọi là Thời kỳ Trục. Chapter này không khẳng định các vùng đã ảnh hưởng lẫn nhau: phần lớn quan hệ xuyên vùng được ghi là tương đồng độc lập. Bốn nhóm thế kỷ gồm 37 nhân vật, từ vua Assyria và ngôn sứ Do Thái tới Khổng Tử, Đức Phật, Thales và Socrates, chọn theo phạm vi, độ bền, tính nguyên bản và counterfactual.",
    "editorial": [
     "**Cách chapter này được soạn**",
     "Phần văn xuôi của chapter do mô hình AI (Claude) viết theo prompt cố định tại `prompts/atlas-prompt.md`, không qua bình duyệt chuyên môn. Tên, niên đại và định danh được đối chiếu tự động với Wikidata; phần diễn giải, đánh giá ảnh hưởng và lựa chọn nhân vật là tổng hợp của model theo bốn tiêu chí (a)–(d), không phải kết luận của giới nghiên cứu. Mục Nguồn là điểm khởi đầu để tự kiểm tra, chưa được đối chiếu từng câu. Xem mục \"Về dự án\" ở trang Overview để biết giới hạn đầy đủ.",
@@ -26,7 +26,7 @@
     "- Pericles, Sophocles, Euripides, Protagoras, Zeno xứ Elea, Empedocles, Anaxagoras, Leucippus (TK 5 TCN): bị loại để tránh dồn quá nửa nhóm BCE05 vào Athens và Ionia.",
     "- Dương Chu (楊朱), Ngô Khởi (吳起), Tử Sản (子產), Tề Hoàn Công: các ứng viên Đông Á xếp sau Quản Trọng, Mặc Tử và Tôn Tử theo độ bền.",
     "- Hosea, Micah, Ezekiel, Josiah, Ezra: lớp ngôn sứ và cải cách Israel–Judah đã được Amos, Isaiah và Jeremiah đại diện. Ezra (TK 5 TCN) đáng xem lại ở P4 vì vai trò định hình kinh điển Torah.",
-    "- Taharqa, Sargon II, Nebuchadnezzar II: bị loại vì kế thừa mô hình do Piye và Tiglath-Pileser III tạo ra (riêng Nebuchadnezzar II chỉ kế thừa ở mức lỏng).",
+    "- Taharqa, Sargon II, Nebuchadnezzar II: bị loại vì kế thừa mô hình do Piye và Tiglath-Pileser III tạo ra (riêng Nebuchadnezzar II chỉ kế thừa ở mức lỏng); ở trục Kỹ thuật/Kiến trúc, Sargon II và Taharqa cũng xếp sau Sennacherib (CH02-BCE07-08).",
     "- Psamtik I (664–610 TCN): không thuộc nhóm trên — ông lập vương triều 26 bằng cách hất người Kush khỏi Ai Cập, tức chấm dứt vương triều 25 chứ không nối tiếp. Bị loại vì thuộc TK 7 và vì đóng góp của ông (phục hưng Sais, mở cửa cho lính đánh thuê Hy Lạp) không trùng trục nào của chapter.",
     "- Gosāla (phái Ājīvika), Yāska, Patañjali: xếp sau Mahāvīra và Pāṇini trong cùng truyền thống Nam Á.",
     "- Āpastamba, Kātyāyana, Mānava (truyền thống Śulbasūtra): xếp sau Baudhāyana theo thứ tự tương đối của Pingree, dựa trên dấu vết vay mượn văn bản. Kātyāyana còn bị loại vì niên đại: Plofker đặt ông sau Pāṇini, tức thuộc Chapter 3.",
@@ -83,7 +83,8 @@
       "CH02-BCE07-04",
       "CH02-BCE07-05",
       "CH02-BCE07-06",
-      "CH02-BCE07-07"
+      "CH02-BCE07-07",
+      "CH02-BCE07-08"
      ]
     },
     {
@@ -815,6 +816,13 @@
      "evidence": "qua trường phái",
      "raw": "CH02-BCE08-05 · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH02-BCE07-08",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH02-BCE07-08 · kế thừa · trực tiếp",
+     "undetermined": false
     }
    ],
    "influences": [
@@ -1296,6 +1304,82 @@
     "width": 500,
     "how": "thumbnail 500px"
    }
+  },
+  "CH02-BCE07-08": {
+   "id": "CH02-BCE07-08",
+   "name_vi": "Sennacherib",
+   "name_orig": "Sîn-aḫḫē-erība",
+   "labels": [],
+   "years_raw": "k. 745–681 TCN",
+   "born": -745,
+   "died": -681,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Nineveh, Assyria, nay thuộc Iraq",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Kỹ thuật/Công nghệ",
+    "Nghệ thuật/Kiến trúc"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q207140",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Vua Assyria, nổi tiếng vì cuộc vây Jerusalem năm 701 TCN, nhưng dấu ấn bền nhất là kỹ thuật thuỷ lợi và đô thị. Từ 703 đến 688 TCN ông đào bốn hệ kênh đưa nước núi về Nineveh; hệ cuối, kênh Khinis dài khoảng 55 km, vượt thung lũng Jerwan bằng cầu máng đá vôi đẽo dài 280 m, khắc bi ký của ông — kiểu công trình chưa thấy ở đâu trước thời La Mã. Nineveh mở rộng tới 750 ha, tường thành 12 km, dân số ước trên 100.000, vào hàng lớn nhất đương thời; cung \"Không đối thủ\" (ekallu ša šānina lā īšû) chứa phù điêu Lachish. Năm 689 ông phá huỷ Babylon, cho nước Arahtu cuốn trôi nền thành.",
+   "why": "Hai ứng viên cùng thời đã cân nhắc: Sargon II (trị vì 722–705 TCN), cha ông, người xây kinh đô mới Dur-Sharrukin; và Taharqa (trị vì 690–664 TCN), vua Kush–Ai Cập với các công trình đền ở Kawa và Karnak. Sennacherib vượt ở tính nguyên bản (c): cầu máng Jerwan là kiểu công trình không thấy ở đâu khác trước thời La Mã, còn Dur-Sharrukin bị bỏ ngay khi Sargon chết; và ở độ bền (b): hệ kênh Khinis còn để lại dấu vết vật chất lẫn bi ký định niên tại chỗ, nguồn hiếm có về kỹ thuật cổ đại.",
+   "sources": "Thorkild Jacobsen và Seton Lloyd, *Sennacherib's Aqueduct at Jerwan*, Oriental Institute Publications 24 (Chicago, 1935), https://isac-assets.s3.amazonaws.com/isac-publications/oip24.pdf; John Malcolm Russell, *Sennacherib's Palace Without Rival at Nineveh* (University of Chicago Press, 1991).",
+   "inherits": [
+    {
+     "target": "Sargon II (chương trình xây Dur-Sharrukin)",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Sargon II (chương trình xây Dur-Sharrukin) · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH02-BCE08-05",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE08-05 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống vườn thượng uyển Assyria (Ashurnasirpal II ở Kalhu)",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "Truyền thống vườn thượng uyển Assyria (Ashurnasirpal II ở Kalhu) · kế thừa · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH02-BCE07-01",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH02-BCE07-01 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Esarhaddon (tái thiết Babylon)",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "Esarhaddon (tái thiết Babylon) · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Hezekiah xứ Judah",
+     "relation": "phản bác",
+     "evidence": "suy đoán học giả",
+     "raw": "Hezekiah xứ Judah · phản bác · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "group": "BCE07",
+   "chapter": 2,
+   "file": "ch02.md",
+   "image": null
   },
   "CH02-BCE06-01": {
    "id": "CH02-BCE06-01",
