@@ -161,6 +161,7 @@
     "- Alexandre de Rhodes (CH90-CE15_18-07): vùng ghi là Đông Nam Á theo nơi hoạt động, không theo nơi sinh. Công lao chữ Quốc ngữ là của một tập thể gồm Francisco de Pina, Gaspar do Amaral, António Barbosa và nhiều thầy giảng người Việt; mục này ghi ông ở vai trò người xuất bản và chuẩn hoá.",
     "- Nhóm BCE03_01 chỉ có 2 nhân vật và 2 lĩnh vực nên bị lint cảnh báo đa dạng lĩnh vực. Đây là giới hạn của tư liệu chứ không phải thiếu sót: văn hoá Đông Sơn không để lại tên người nào.",
     "- Niên đại trước thế kỷ 10 phần lớn dựa vào thư tịch Trung Hoa và các bộ sử Việt soạn rất muộn; các mục tương ứng đều để độ tin cậy Thấp hoặc Trung bình.",
+    "- Kiểm toán nguồn độc lập (95 trích dẫn) còn **bốn chỗ không xác minh được nội dung**, chỉ xác minh được tác phẩm và phạm vi: Trần Văn Giáp cho Chu Văn An (chưa tra được tập/trang); Bản kỷ tục biên năm 1585 cho Nguyễn Bỉnh Khiêm; Li Tana cho Đào Duy Từ (không đọc được toàn văn); và báo cáo Cổ Loa vô danh của An Dương Vương — chỗ này đã thay bằng công bố có tên. Cần đối chiếu trên bản in trước khi coi là đã kiểm.",
     "**Vấn đề từ vựng §5 — đã xử lý**",
     "Phụ lục này là nơi lỗ hổng từ vựng lộ rõ nhất: Chu Văn An là nhà giáo dục, Trương Vĩnh Ký và Alexandre de Rhodes là nhà ngôn ngữ. Owner đã bổ sung hai lĩnh vực **Giáo dục** và **Ngôn ngữ học**, nên ba mục này nay ghi đúng chuyên môn thay vì xếp tạm vào Triết học / Văn học."
    ],
@@ -2961,7 +2962,7 @@
    ],
    "ideas": "Theo truyền thống, ông hợp nhất Âu Việt với Lạc Việt thành Âu Lạc và dời đô về Cổ Loa. Khảo cổ xác nhận toà thành ba vòng dời hơn hai triệu mét khối đất, kho một vạn mũi tên đồng và khuôn đúc tại chỗ ở Cầu Vực (Kim, Lai và Trinh, 2010) — bằng chứng sớm nhất ở Việt Nam về một quyền lực huy động được lao dịch lớn. Nhưng lớp luỹ sớm nhất có thể có trước niên đại truyền thống của ông: công trình chứng minh một nhà nước, không chứng minh chính ông. Truyền thuyết nỏ thần và Mỵ Châu – Trọng Thuỷ, chép sớm nhất trong Giao Châu ngoại vực ký thế kỷ 3–4, thành câu chuyện cảnh giác kể mãi về sau.",
    "why": "Ứng viên cùng giai đoạn là các Hùng Vương, nhưng đó là một danh sách truyền thuyết không có niên đại hay cá nhân xác định được. An Dương Vương được chọn vì counterfactual (d) và vì có vật chứng: thành Cổ Loa và kho mũi tên là mốc khảo cổ cho bước chuyển từ thủ lĩnh bộ lạc sang nhà nước. Nhãn [Tranh cãi lịch sử] vì nhân vật chỉ được chép trong thư tịch soạn rất muộn.",
-   "sources": "Keith W. Taylor, The Birth of Vietnam (1983), chương 1; báo cáo khai quật di chỉ Cổ Loa, Viện Khảo cổ học.",
+   "sources": "Keith W. Taylor, The Birth of Vietnam (1983), chương 1; Nam C. Kim, Lai Văn Tới và Trịnh Hoàng Hiệp, \"Co Loa: an investigation of Vietnam's ancient capital\", Antiquity 84 (2010).",
    "inherits": [
     {
      "target": "Không xác định",
@@ -4271,7 +4272,7 @@
    ],
    "ideas": "Ông khởi binh ở Lam Sơn năm 1418 khi nhà Minh đã cai trị gần mười một năm, trong đó bảy năm bị kháng chiến Hậu Trần thách thức, trải qua giai đoạn đầu cực kỳ khó khăn phải rút vào núi Chí Linh ba lần, rồi chuyển hướng chiến lược vào Nghệ An để lấy hậu phương, cuối cùng vây hãm Đông Quan và buộc quân Minh rút cuối 1427 – đầu 1428. Cách kết thúc chiến tranh đáng chú ý không kém cách tiến hành: ông cấp thuyền, ngựa và lương cho hơn tám vạn quân Minh về nước (Minh thực lục ghi 84.640 người), mở đường rút thay vì tiêu diệt để tránh chiến tranh kéo dài.",
    "why": "Ứng viên cùng cuộc khởi nghĩa là Nguyễn Trãi, người hoạch định đường lối, và Nguyễn Chích, người đề xuất chuyển quân vào Nghệ An. Lê Lợi được chọn theo counterfactual (d): giai đoạn sáu năm đầu gần như tuyệt vọng, và việc lực lượng không tan rã gắn trực tiếp với uy tín cá nhân ông. Nhà Lê do ông lập kéo dài, kể cả danh nghĩa, tới năm 1789.",
-   "sources": "Đại Việt sử ký toàn thư, Bản kỷ, quyển 10; Lam Sơn thực lục.",
+   "sources": "Đại Việt sử ký toàn thư, Bản kỷ, quyển 10; Lam Sơn thực lục (tác giả theo giả thuyết là Nguyễn Trãi; bản hiện tồn bị sửa đáng kể thời Vĩnh Trị 1676–1680, theo Lê Quý Đôn).",
    "inherits": [
     {
      "target": "CH90-CE10_14-07",
@@ -4917,7 +4918,7 @@
    ],
    "ideas": "Trong mười tám năm phong trào Tây Sơn lần lượt lật đổ chúa Nguyễn (1777), chúa Trịnh (1786) và vua Lê (1789); ông cầm quân các chiến dịch quyết định, đánh tan quân Xiêm ở Rạch Gầm – Xoài Mút năm 1785 và quân Thanh ở Ngọc Hồi – Đống Đa đầu năm 1789 sau cuộc hành quân ba mươi chín ngày từ Phú Xuân, chặng cuối từ Tam Điệp chỉ năm sáu ngày. Về chính sách, ông cho dùng chữ Nôm trong khoa cử và công văn, lập Viện Sùng chính giao Nguyễn Thiếp dịch kinh sách, ban chiếu khuyến nông và mở cửa thông thương. Ông mất đột ngột ở tuổi ba mươi chín, triều Tây Sơn sụp sau đó mười năm.",
    "why": "Ứng viên cùng phong trào là hai anh em Nguyễn Nhạc và Nguyễn Lữ. Nguyễn Huệ được chọn theo phạm vi (a) và tính nguyên bản (c): ông là người chỉ huy mọi chiến dịch quyết định, và là vị vua đầu tiên đưa chữ Nôm thành văn tự hành chính chính thức — nỗ lực mà Hồ Quý Ly từng thử và thất bại. Counterfactual (d) rõ: triều đại tan rã ngay sau khi ông mất.",
-   "sources": "Đại Nam thực lục chính biên; Hoàng Lê nhất thống chí; Tạ Chí Đại Trường, Lịch sử nội chiến ở Việt Nam 1771–1802 (1973).",
+   "sources": "Đại Nam chính biên liệt truyện sơ tập, quyển 30 \"Nguỵ Tây liệt truyện\" (sử triều Nguyễn, thù địch với Tây Sơn — đọc có đối chiếu); Hoàng Lê nhất thống chí; Tạ Chí Đại Trường, Lịch sử nội chiến ở Việt Nam 1771–1802 (1973).",
    "inherits": [
     {
      "target": "CH90-CE10_14-10",
@@ -5067,7 +5068,7 @@
    ],
    "ideas": "Sau hai mươi lăm năm giao tranh, ông thống nhất lãnh thổ từ Lạng Sơn tới Hà Tiên năm 1802 — lần đầu một chính quyền duy nhất kiểm soát dải đất tương ứng Việt Nam ngày nay. Quốc hiệu Việt Nam (1804) do nhà Thanh đảo ngược tên \"Nam Việt\" ông xin phong, để khỏi trùng nước của Triệu Đà. Ông đóng đô ở Huế, lập địa bạ Bắc Hà (1805), tu bổ, nối dài đường thiên lý, khởi soạn Hoàng Việt luật lệ. Việc ông cầu viện Pháp — hiệp ước Versailles 1787 không được thi hành, chỉ dưới trăm lính tình nguyện Pigneau de Béhaine quyên tiền chiêu mộ — và việc các vua sau đóng cửa với phương Tây còn gây tranh luận gay gắt.",
    "why": "Ứng viên cạnh tranh là Minh Mạng, người hoàn thiện bộ máy hành chính tỉnh và bộ luật. Gia Long được chọn theo counterfactual (d): sự thống nhất lãnh thổ năm 1802 là điều kiện cho mọi việc sau đó, kể cả cải cách của Minh Mạng. Đánh giá về ông vẫn chia rẽ trong sử học Việt Nam; phụ lục ghi nhận thành tựu lãnh thổ mà không gộp luôn phán xét về đường lối đối ngoại.",
-   "sources": "Đại Nam thực lục chính biên; Choi Byung Wook, Southern Vietnam under the Reign of Minh Mạng (2004).",
+   "sources": "Đại Nam thực lục chính biên, đệ nhất kỷ (đời Gia Long); Choi Byung Wook, Southern Vietnam under the Reign of Minh Mạng (2004).",
    "inherits": [
     {
      "target": "CH90-CE15_18-05",
@@ -5138,7 +5139,7 @@
    ],
    "ideas": "Thơ Nôm của bà dùng thể Đường luật nghiêm ngặt để viết về thân phận làm lẽ, sinh nở, goá bụa và ham muốn, với lối nói hai nghĩa khiến mỗi bài đọc được theo cả nghĩa tả cảnh lẫn nghĩa tục. Đó là cách công kích thói đạo đức giả của nam giới có học mà vẫn nằm trong khuôn khổ hình thức họ đặt ra. Trong một nền văn chương do nam giới và chữ Hán chi phối, việc một phụ nữ lấy chính trải nghiệm thân thể làm đề tài là chưa từng có. Năm 2021 UNESCO ra nghị quyết cùng kỷ niệm 250 năm sinh và 200 năm mất của bà trong hai năm 2022–2023.",
    "why": "Ứng viên cùng thời là Bà Huyện Thanh Quan và Đoàn Thị Điểm, hai nữ sĩ có danh phận rõ hơn. Hồ Xuân Hương được chọn theo tính nguyên bản (c): giọng điệu và đề tài của bà không có tiền lệ trong văn học Đông Á. Niên đại để Thấp vì tiểu sử mơ hồ và một phần thơ gán cho bà có thể do người sau thêm; bản Lưu Hương ký phát hiện năm 1964 vẫn đang được khảo chứng.",
-   "sources": "Lưu Hương ký; Đỗ Lai Thuý, Hồ Xuân Hương — hoài niệm phồn thực (1999).",
+   "sources": "Lưu Hương ký (bản Trần Thanh Mại công bố 1964, tác quyền từng bài còn khảo chứng); Đỗ Lai Thuý, Hồ Xuân Hương — hoài niệm phồn thực (1999).",
    "inherits": [
     {
      "target": "Truyền thống ca dao và hát đối",
