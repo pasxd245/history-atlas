@@ -3496,5 +3496,34 @@
    "enwiki": "Sappho"
   },
   "fetched": 1793375281
+ },
+ "wd:Q3384944": {
+  "id": "Q3384944",
+  "labels": {
+   "en": "Baudhayana"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -800,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -800,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "enwiki": "Baudhayana"
+  },
+  "fetched": 1793376551
  }
 }

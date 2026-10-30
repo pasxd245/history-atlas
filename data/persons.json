@@ -15,7 +15,7 @@
    "files": [
     "ch02.md"
    ],
-   "intro": "Giai đoạn 800–401 TCN chứng kiến nhiều truyền thống tư tưởng xuất hiện gần như song song ở Trung Hoa, Ấn Độ, Iran, Israel–Judah và Hy Lạp — hiện tượng Karl Jaspers gọi là Thời kỳ Trục. Chapter này không khẳng định các vùng đã ảnh hưởng lẫn nhau: phần lớn quan hệ xuyên vùng được ghi là tương đồng độc lập. Bốn nhóm thế kỷ gồm 33 nhân vật, từ vua Assyria và ngôn sứ Do Thái tới Khổng Tử, Đức Phật, Thales và Socrates, chọn theo phạm vi, độ bền, tính nguyên bản và counterfactual.",
+   "intro": "Giai đoạn 800–401 TCN chứng kiến nhiều truyền thống tư tưởng xuất hiện gần như song song ở Trung Hoa, Ấn Độ, Iran, Israel–Judah và Hy Lạp — hiện tượng Karl Jaspers gọi là Thời kỳ Trục. Chapter này không khẳng định các vùng đã ảnh hưởng lẫn nhau: phần lớn quan hệ xuyên vùng được ghi là tương đồng độc lập. Bốn nhóm thế kỷ gồm 35 nhân vật, từ vua Assyria và ngôn sứ Do Thái tới Khổng Tử, Đức Phật, Thales và Socrates, chọn theo phạm vi, độ bền, tính nguyên bản và counterfactual.",
    "editorial": [
     "**Cách chapter này được soạn**",
     "Phần văn xuôi của chapter do mô hình AI (Claude) viết theo prompt cố định tại `prompts/atlas-prompt.md`, không qua bình duyệt chuyên môn. Tên, niên đại và định danh được đối chiếu tự động với Wikidata; phần diễn giải, đánh giá ảnh hưởng và lựa chọn nhân vật là tổng hợp của model theo bốn tiêu chí (a)–(d), không phải kết luận của giới nghiên cứu. Mục Nguồn là điểm khởi đầu để tự kiểm tra, chưa được đối chiếu từng câu. Xem mục \"Về dự án\" ở trang Overview để biết giới hạn đầy đủ.",
@@ -29,6 +29,9 @@
     "- Taharqa, Sargon II, Nebuchadnezzar II: bị loại vì kế thừa mô hình do Piye và Tiglath-Pileser III tạo ra (riêng Nebuchadnezzar II chỉ kế thừa ở mức lỏng).",
     "- Psamtik I (664–610 TCN): không thuộc nhóm trên — ông lập vương triều 26 bằng cách hất người Kush khỏi Ai Cập, tức chấm dứt vương triều 25 chứ không nối tiếp. Bị loại vì thuộc TK 7 và vì đóng góp của ông (phục hưng Sais, mở cửa cho lính đánh thuê Hy Lạp) không trùng trục nào của chapter.",
     "- Gosāla (phái Ājīvika), Yāska, Patañjali: xếp sau Mahāvīra và Pāṇini trong cùng truyền thống Nam Á.",
+    "- Āpastamba, Kātyāyana, Mānava (truyền thống Śulbasūtra): xếp sau Baudhāyana theo thứ tự tương đối của Pingree, dựa trên dấu vết vay mượn văn bản. Kātyāyana còn bị loại vì niên đại: Plofker đặt ông sau Pāṇini, tức thuộc Chapter 3.",
+    "**Về độ phủ giới**",
+    "Bản thảo đầu của chapter có 33 nhân vật và không có người nữ nào, mà không nói gì về điều đó. Sappho (CH02-BCE06-11) được bổ sung sau bình duyệt. Tỉ lệ 1/35 phản ánh hai thứ chồng lên nhau, không nên đọc lẫn: trong cửa sổ 800–401 TCN rất ít phụ nữ để lại tác phẩm hoặc hành động được nguồn đương thời định danh; và chính việc chọn lọc, sao chép, lưu truyền của đời sau cũng đã lọc bớt. Sappho là trường hợp hiếm còn văn bản để đọc — và cũng chỉ còn khoảng 650 trên ước chừng 10.000 dòng. Ứng viên nữ đã rà và không chọn: Enheduanna (TK 23 TCN, thuộc Chapter 1); Gārgī Vācaknavī và Maitreyī (nhân vật đối thoại trong Bṛhadāraṇyaka Upaniṣad, không có tiểu sử độc lập — cùng giới hạn tư liệu với Yajnavalkya).",
     "**Ứng viên Việt Nam**",
     "Đã rà soát và không chọn được ai cho chapter này. Giai đoạn 800–401 TCN ở bắc Việt Nam tương ứng văn hoá Đông Sơn, với thành tựu vật chất rõ rệt — trống đồng Ngọc Lũ, kỹ thuật đúc đồng, canh tác lúa nước — nhưng không có nhân vật nào được định danh bằng nguồn đương thời. Các nhân vật truyền thống như Hùng Vương hay Thục Phán An Dương Vương chỉ xuất hiện trong thư tịch soạn từ thế kỷ 13–15 trở đi, không đủ cơ sở để gán niên đại hay đóng góp cá nhân theo chuẩn §5. Việt Nam sẽ xuất hiện sớm nhất ở Chapter 3 (Chiến Quốc – Tần Hán) hoặc Chapter 4.",
     "**Điểm cần kiểm chứng thêm**",
@@ -60,7 +63,8 @@
       "CH02-BCE08-03",
       "CH02-BCE08-04",
       "CH02-BCE08-05",
-      "CH02-BCE08-06"
+      "CH02-BCE08-06",
+      "CH02-BCE08-08"
      ]
     },
     {
@@ -99,7 +103,8 @@
       "CH02-BCE06-07",
       "CH02-BCE06-08",
       "CH02-BCE06-09",
-      "CH02-BCE06-10"
+      "CH02-BCE06-10",
+      "CH02-BCE06-11"
      ]
     },
     {
@@ -705,6 +710,70 @@
     "how": "thumbnail 500px"
    }
   },
+  "CH02-BCE08-08": {
+   "id": "CH02-BCE08-08",
+   "name_vi": "Baudhāyana",
+   "name_orig": "बौधायन",
+   "labels": [
+    "Tranh cãi lịch sử"
+   ],
+   "years_raw": "hoạt động k. 800–700 TCN",
+   "born": -800,
+   "died": -700,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "không xác định; trường phái Taittirīya của Kṛṣṇa Yajurveda, bắc Ấn Độ ngày nay",
+   "region": "Nam Á",
+   "fields": [
+    "Toán học",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q3384944",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Baudhāyana Śulbasūtra là phần \"dây đo\" (śulba) trong bộ Kalpasūtra của trường phái Taittirīya, soạn để dựng bàn thờ lửa đúng diện tích quy định cho tế lễ śrauta: hình học ở đây sinh ra từ ràng buộc nghi lễ, không từ nhu cầu lý thuyết. Văn bản phát biểu quy tắc đường chéo cho hình chữ nhật bất kỳ — hình vuông trên đường chéo bằng tổng hai hình vuông trên hai cạnh — kèm các bộ ba (3,4,5), (5,12,13), (8,15,17), (12,35,37). Đây là phát biểu bằng lời ở dạng tổng quát sớm nhất còn lại của quan hệ về sau mang tên Pythagoras. Sách còn cho xấp xỉ √2 bằng phân số 577/408, đúng tới năm chữ số thập phân, và phép biến đổi gần đúng vuông–tròn.",
+   "why": "Ứng viên cùng truyền thống là Mānava, người Plofker xếp cùng tầng niên đại với ông, và Āpastamba, soạn Śulbasūtra kế tiếp khoảng 600 TCN. Baudhāyana thắng ở tính nguyên bản (c): Pingree xếp ba văn bản kia sau ông dựa trên dấu vết vay mượn, và cả ba chỉ chép lại xấp xỉ √2 cùng quy tắc đường chéo đã có ở ông. Về độ bền (b), bộ quy tắc này chi phối việc dựng bàn thờ Vệ Đà suốt nhiều thế kỷ. Kātyāyana bị loại vì soạn sau Pāṇini, không cùng thời.",
+   "sources": "S. N. Sen và A. K. Bag, *The Śulbasūtras of Baudhāyana, Āpastamba, Kātyāyana and Mānava, with Text, English Translation and Commentary* (Indian National Science Academy, New Delhi, 1983); Kim Plofker, *Mathematics in India* (Princeton University Press, 2009), chương 2.",
+   "inherits": [
+    {
+     "target": "Quy tắc dựng bàn thờ trong tế lễ Vệ Đà (Taittirīya Saṃhitā, Śatapatha Brāhmaṇa)",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Quy tắc dựng bàn thờ trong tế lễ Vệ Đà (Taittirīya Saṃhitā, Śatapatha Brāhmaṇa) · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Toán học Babylon cổ",
+     "relation": "tương đồng độc lập",
+     "evidence": "suy đoán học giả",
+     "raw": "Toán học Babylon cổ · tương đồng độc lập · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Truyền thống Śulbasūtra về sau (Āpastamba, Kātyāyana, Mānava)",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Truyền thống Śulbasūtra về sau (Āpastamba, Kātyāyana, Mānava) · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH02-BCE06-06",
+     "relation": "tương đồng độc lập",
+     "evidence": "suy đoán học giả",
+     "raw": "CH02-BCE06-06 · tương đồng độc lập · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "group": "BCE08",
+   "chapter": 2,
+   "file": "ch02.md",
+   "image": null
+  },
   "CH02-BCE07-01": {
    "id": "CH02-BCE07-01",
    "name_vi": "Ashurbanipal",
@@ -946,7 +1015,7 @@
     "Con người"
    ],
    "ideas": "Nhà thơ trữ tình sớm nhất của Hy Lạp mà ta còn đọc được, ông mở ra lối viết lấy cái tôi cụ thể làm trung tâm thay cho giọng sử thi vô danh. Các mảnh thơ iambic và elegiac của ông nói thẳng về tình yêu, hận thù, nghèo khó và cả việc vứt khiên bỏ chạy — một lời thú nhận đảo ngược hoàn toàn luân lý anh hùng của Homer. Ông cũng được coi là người đưa nhịp iambic vào thơ châm biếm, hình thức mà bi kịch và hài kịch Athens sau này dùng làm nhịp đối thoại chuẩn.",
-   "why": "Cùng thời có Tyrtaeus ở Sparta và Callinus xứ Ephesus, đều làm thơ elegy quân sự. Archilochus vượt trội ở tính nguyên bản (c): ông là người đầu tiên đặt kinh nghiệm cá nhân, kể cả kinh nghiệm đáng xấu hổ, làm đề tài hợp lệ của thơ trữ tình đơn ca — Hesiod đã nói ở ngôi thứ nhất nhưng trong khuôn sử thi giáo huấn, và ở độ bền (b): Horace, Catullus rồi cả truyền thống thơ trữ tình châu Âu đều nhận ảnh hưởng, trong khi Tyrtaeus chỉ sống trong giáo dục Sparta.",
+   "why": "Cùng thời có Tyrtaeus ở Sparta và Callinus xứ Ephesus, đều làm thơ elegy quân sự. Archilochus vượt trội ở tính nguyên bản (c): ông là người đầu tiên đặt kinh nghiệm cá nhân, kể cả kinh nghiệm đáng xấu hổ, làm đề tài hợp lệ của thơ iambus và elegy — Hesiod đã nói ở ngôi thứ nhất nhưng trong khuôn sử thi giáo huấn, và ở độ bền (b): Horace, Catullus rồi cả truyền thống thơ trữ tình châu Âu đều nhận ảnh hưởng, trong khi Tyrtaeus chỉ sống trong giáo dục Sparta.",
    "sources": "Oxford Classical Dictionary, mục \"Archilochus\"; M. L. West, Iambi et Elegi Graeci (1971–72).",
    "inherits": [
     {
@@ -1632,6 +1701,13 @@
      "evidence": "suy đoán học giả",
      "raw": "Toán học Babylon · kế thừa · suy đoán học giả",
      "undetermined": false
+    },
+    {
+     "target": "CH02-BCE08-08",
+     "relation": "tương đồng độc lập",
+     "evidence": "suy đoán học giả",
+     "raw": "CH02-BCE08-08 · tương đồng độc lập · suy đoán học giả",
+     "undetermined": false
     }
    ],
    "influences": [
@@ -1975,6 +2051,74 @@
     "width": 500,
     "how": "thumbnail 500px"
    }
+  },
+  "CH02-BCE06-11": {
+   "id": "CH02-BCE06-11",
+   "name_vi": "Sappho xứ Lesbos",
+   "name_orig": "Σαπφώ Sapphṓ",
+   "labels": [],
+   "years_raw": "k. 630–570 TCN",
+   "born": -630,
+   "died": -570,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Mytilene (nguồn cổ cũng ghi Eresos), đảo Lesbos, nay thuộc Hy Lạp",
+   "region": "Châu Âu",
+   "fields": [
+    "Văn học"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q17892",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Thơ bà thuộc dòng melic đơn ca: bài hát ngắn bằng phương ngữ Aeolic, hát với đàn lyre trong nhóm nhỏ, khác thơ iambus ngâm đọc. Đóng góp bền nhất là biến ham muốn thành đối tượng quan sát: mảnh 31 liệt kê triệu chứng cơ thể của người nhìn người mình yêu ngồi cạnh kẻ khác; mảnh 16 đặt cái mỗi người yêu lên trên kỵ binh và hạm thuyền của sử thi. Khổ bốn dòng mang tên bà trở thành khuôn mẫu thơ Latin, dù Alcaeus cùng thời cũng dùng. Bản Alexandria ít nhất tám quyển, ước mười nghìn dòng; nay còn khoảng sáu trăm năm mươi dòng, phần lớn nhờ giấy cói Ai Cập, và chỉ mảnh 1 chắc chắn trọn vẹn.",
+   "why": "Hai ứng viên cùng thời đã cân nhắc: Alcaeus (k. 625–580 TCN), cùng thành Mytilene, cùng hệ khổ thơ; và Stesichorus (k. 630–555 TCN), cũng trong kinh điển chín nhà thơ trữ tình Alexandria. Sappho vượt ở độ bền (b): thơ phe phái của Alcaeus gắn chặt bối cảnh Mytilene đã mất; hai mươi sáu quyển của Stesichorus nay gần như thất truyền; còn mảnh 31 được Catullus dịch thành bài 51, và khổ thơ mang tên bà đi tiếp qua Horace vào thánh ca Latin. Về phạm vi (a), bà là người nữ duy nhất trong kinh điển ấy.",
+   "sources": "Eva-Maria Voigt, *Sappho et Alcaeus: Fragmenta* (Amsterdam, 1971) — bản hiệu đính chuẩn, cũng là hệ đánh số mảnh dùng ở mục này; Anton Bierl và André Lardinois (chủ biên), *The Newest Sappho: P. Sapph. Obbink and P. GC inv. 105, Frs. 1–4* (Brill, 2016).",
+   "inherits": [
+    {
+     "target": "CH02-BCE08-01",
+     "relation": "phản bác",
+     "evidence": "suy đoán học giả",
+     "raw": "CH02-BCE08-01 · phản bác · suy đoán học giả",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống ca khúc Aeolic ở Lesbos (Terpander)",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "Truyền thống ca khúc Aeolic ở Lesbos (Terpander) · kế thừa · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Catullus (Gaius Valerius Catullus)",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Catullus (Gaius Valerius Catullus) · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Horace (Quintus Horatius Flaccus)",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Horace (Quintus Horatius Flaccus) · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Thánh ca Latin trung cổ theo khổ Sapphic",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Thánh ca Latin trung cổ theo khổ Sapphic · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "BCE06",
+   "chapter": 2,
+   "file": "ch02.md",
+   "image": null
   },
   "CH02-BCE05-01": {
    "id": "CH02-BCE05-01",
@@ -2903,9 +3047,9 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Cùng em là Trưng Nhị, bà khởi binh năm 40 chống thái thú Tô Định, chiếm được sáu mươi lăm thành và xưng vương ở Mê Linh, cai trị ba năm trước khi thua Mã Viện. Đây là cuộc nổi dậy có tổ chức sớm nhất chống ách đô hộ phương Bắc mà sử liệu cả hai phía đều ghi. Việc hai người phụ nữ cầm quân, cùng vai trò các nữ tướng đi theo, về sau được dẫn liên tục như bằng chứng cho vị thế của phụ nữ trong xã hội Lạc Việt trước khi Nho giáo bén rễ sâu.",
+   "ideas": "Cùng em là Trưng Nhị, bà khởi binh năm 40 chống thái thú Tô Định, chiếm được sáu mươi lăm thành và xưng vương ở Mê Linh, cai trị ba năm trước khi thua Mã Viện. Đây là cuộc nổi dậy có tổ chức sớm nhất chống ách đô hộ phương Bắc được Hậu Hán thư đương thời chép; phía Việt, bản chép sớm nhất còn lại là Toàn thư thế kỷ 15. Việc hai người phụ nữ cầm quân, cùng vai trò các nữ tướng đi theo, về sau được dẫn liên tục như bằng chứng cho vị thế của phụ nữ trong xã hội Lạc Việt trước khi Nho giáo bén rễ sâu.",
    "why": "Ứng viên cùng loại là Bà Triệu ở thế kỷ 3 và Lý Bí ở thế kỷ 6. Hai Bà Trưng được xếp trước theo tính nguyên bản (c) và độ bền (b): đây là mốc đầu tiên của mạch khởi nghĩa, và là hình tượng được đền thờ, đưa vào sách giáo khoa, đặt tên đường liên tục tới nay ở cả ba miền. Dùng Q-ID của Trưng Trắc vì Wikidata xếp \"Hai Bà Trưng\" là một cặp, không phải một người.",
-   "sources": "Keith W. Taylor, The Birth of Vietnam (1983), chương 2; Hậu Hán thư, Mã Viện truyện.",
+   "sources": "Keith W. Taylor, The Birth of Vietnam (1983), chương 1; Hậu Hán thư, Mã Viện truyện.",
    "inherits": [
     {
      "target": "Không xác định",
@@ -2963,7 +3107,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Bà cầm đầu cuộc nổi dậy ở Cửu Chân năm 248 chống chính quyền Đông Ngô, cầm cự vài tháng trước khi thất bại. Sử liệu về bà mỏng và phần lớn đến từ phía đối phương, nhưng câu nói được gán cho bà — thà cưỡi cơn gió mạnh, đạp sóng dữ, chứ không chịu khom lưng làm tì thiếp — trở thành một trong những phát ngôn được trích nhiều nhất trong văn hoá Việt Nam. Cùng với Hai Bà Trưng, bà củng cố mô-típ người phụ nữ cầm quân như một đặc điểm của ký ức lịch sử Việt.",
+   "ideas": "Bà cầm đầu cuộc nổi dậy ở Cửu Chân năm 248 chống chính quyền Đông Ngô, cầm cự vài tháng trước khi thất bại. Sử liệu về bà mỏng: ghi chép sớm nhất là văn bản Hán, còn tên, tuổi và câu nói nổi tiếng chỉ đến từ nguồn Việt thế kỷ 17 như Thiên Nam ngữ lục; câu được gán cho bà — thà cưỡi cơn gió mạnh, đạp sóng dữ, chứ không chịu khom lưng làm tì thiếp — trở thành một trong những phát ngôn được trích nhiều nhất trong văn hoá Việt Nam. Cùng với Hai Bà Trưng, bà củng cố mô-típ người phụ nữ cầm quân như một đặc điểm của ký ức lịch sử Việt.",
    "why": "Cùng thế kỷ không có ứng viên nào nổi bật hơn; đối thủ thực sự là chính Hai Bà Trưng về mặt trùng lặp chủ đề. Bà Triệu vẫn được giữ theo độ bền (b): việc mô-típ lặp lại chỉ sau hai trăm năm cho thấy đây là khuôn mẫu phản kháng ổn định chứ không phải sự kiện đơn lẻ. Niên đại để Trung bình vì năm sinh chỉ là suy đoán từ tuổi được chép.",
    "sources": "Đại Việt sử ký toàn thư, Ngoại kỷ; Keith W. Taylor, The Birth of Vietnam (1983).",
    "inherits": [
@@ -3028,8 +3172,8 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Thái thú Giao Chỉ suốt bốn mươi năm, ông giữ cho vùng này gần như tự trị và yên ổn giữa lúc Trung Hoa tan vỡ thời Tam Quốc, khiến sĩ phu phương Bắc chạy loạn xuống tị nạn rất đông. Luy Lâu dưới thời ông thành một trung tâm học thuật và dịch kinh Phật sớm, nơi tăng sĩ từ Ấn Độ và Trung Á dừng chân. Truyền thống Nho học Việt Nam về sau tôn ông là \"Nam Giao học tổ\", dù phần lớn công lao thực chất thuộc về lớp di dân mà ông dung nạp.",
-   "why": "Ông được chọn theo counterfactual (d) chứ không theo thành tựu cá nhân: bốn mươi năm ổn định hiếm hoi là điều kiện để Luy Lâu trở thành cửa ngõ của cả Phật giáo lẫn Nho học vào Việt Nam. Ứng viên thay thế là các tăng sĩ Khương Tăng Hội và Mâu Tử cùng hoạt động tại đó, nhưng ảnh hưởng của họ nằm trong khuôn khổ mà quyền lực của Sĩ Nhiếp tạo ra.",
+   "ideas": "Thái thú Giao Chỉ suốt bốn mươi năm, ông giữ cho vùng này gần như tự trị và yên ổn giữa lúc Trung Hoa tan vỡ thời Tam Quốc, khiến sĩ phu phương Bắc chạy loạn xuống tị nạn rất đông. Luy Lâu dưới thời ông thành một trung tâm Phật giáo sớm, nơi tăng sĩ Ấn Độ và Trung Á dừng chân — dù con số hai mươi tháp, năm trăm tăng, mười lăm quyển kinh dịch chỉ có trong Thiền uyển tập anh thế kỷ 14. Nho học Việt Nam đời sau tôn ông là \"Nam Giao học tổ\", một mỹ hiệu đặt muộn, dù phần lớn công lao thực chất thuộc về lớp di dân mà ông dung nạp.",
+   "why": "Ông được chọn theo counterfactual (d) chứ không theo thành tựu cá nhân: bốn mươi năm ổn định hiếm hoi là điều kiện để Luy Lâu trở thành cửa ngõ của cả Phật giáo lẫn Nho học vào Việt Nam. Ứng viên thay thế là Mâu Tử, nho sĩ lánh loạn xuống Giao Chỉ rồi theo Phật và viết Lý hoặc luận tại đó; còn Khương Tăng Hội tuy sinh ở Giao Chỉ nhưng dịch kinh ở Kiến Nghiệp từ năm 247, sau khi Sĩ Nhiếp mất. Ảnh hưởng của Mâu Tử nằm trong khuôn khổ quyền lực Sĩ Nhiếp tạo ra.",
    "sources": "Tam quốc chí, Sĩ Nhiếp truyện; Lê Mạnh Thát, Lịch sử Phật giáo Việt Nam, tập 1.",
    "inherits": [
     {
@@ -3088,8 +3232,8 @@
    "big_questions": [
     "Thực tại"
    ],
-   "ideas": "Tăng sĩ gốc Nam Ấn, sau khi học ở Trung Hoa thì sang Giao Châu năm 580 và trụ tại chùa Pháp Vân. Ông được coi là người lập dòng Thiền có truyền thừa sớm nhất ở Việt Nam, kéo dài mười chín đời tới thế kỷ 13. Dòng này pha Thiền với mật chú và tín ngưỡng bản địa, khác với Thiền Trung Hoa thuần tuý — một đặc điểm còn thấy trong thực hành Phật giáo Việt Nam đến nay. Việc Phật giáo bén rễ sâu trước khi Nho giáo thành quốc giáo định hình toàn bộ đời sống tinh thần thời Lý–Trần.",
-   "why": "Ứng viên cạnh tranh là Khương Tăng Hội, người dịch kinh ở Giao Châu sớm hơn ba thế kỷ, và Vô Ngôn Thông, lập dòng Thiền thứ hai năm 820. Tì-ni-đa-lưu-chi được chọn theo tính nguyên bản (c) về mặt thiết chế: ông là người đầu tiên lập một dòng truyền thừa liên tục có tên tuổi chép được, thứ mà Khương Tăng Hội không để lại. Niên đại chỉ biết qua Thiền uyển tập anh soạn rất muộn.",
+   "ideas": "Tăng sĩ gốc Nam Ấn, thư tịch Hán ghi ông dịch kinh ở Trường An năm 582; riêng chuyến sang Giao Châu năm 580 và việc trụ chùa Pháp Vân chỉ có trong Thiền uyển tập anh. Văn bản ấy coi ông là tổ dòng Thiền truyền mười chín đời tới thế kỷ 13 — phả hệ mà Cuong Tu Nguyen (1997) cho là dựng hồi cố vào thế kỷ 13–14. Dòng này pha Thiền với mật chú và tín ngưỡng bản địa, nét còn thấy trong Phật giáo Việt Nam đến nay. Việc Phật giáo bén rễ sâu trước khi Nho giáo thành quốc giáo định hình toàn bộ đời sống tinh thần thời Lý–Trần.",
+   "why": "Ứng viên cạnh tranh là Khương Tăng Hội, người gốc Giao Châu dịch kinh ở Kiến Nghiệp ba thế kỷ trước, và Vô Ngôn Thông, lập dòng Thiền thứ hai năm 820. Tì-ni-đa-lưu-chi được chọn theo tính nguyên bản (c) về mặt thiết chế: ông là người đầu tiên lập một dòng truyền thừa liên tục có tên tuổi chép được, thứ mà Khương Tăng Hội không để lại. Cả niên đại lẫn chính sự tồn tại của dòng phái chỉ biết qua Thiền uyển tập anh soạn rất muộn.",
    "sources": "Thiền uyển tập anh; Nguyễn Lang, Việt Nam Phật giáo sử luận, tập 1.",
    "inherits": [
     {
@@ -3156,7 +3300,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Năm 544 ông đánh đuổi thứ sử nhà Lương, xưng đế, đặt quốc hiệu Vạn Xuân và niên hiệu riêng, lập triều đình có văn ban võ ban và cho dựng chùa Khai Quốc. Đây là lần đầu một thủ lĩnh người Việt không chỉ nổi dậy mà tuyên bố một nhà nước ngang hàng, có đủ biểu tượng chủ quyền theo chuẩn mực Đông Á đương thời. Vạn Xuân tồn tại gần sáu mươi năm qua tay Triệu Quang Phục và nhà Hậu Lý trước khi nhà Tuỳ tái chiếm năm 602.",
+   "ideas": "Năm 542 ông đánh đuổi thứ sử nhà Lương là Tiêu Tư; năm 544 xưng đế, đặt quốc hiệu Vạn Xuân và niên hiệu Thiên Đức, lập triều đình có văn ban võ ban. Việc dựng chùa Khai Quốc gán cho ông chỉ có trong bia và truyền thống đời sau, không có trong Toàn thư. Đây là lần đầu một thủ lĩnh người Việt không chỉ nổi dậy mà tuyên bố một nhà nước ngang hàng, có đủ biểu tượng chủ quyền theo chuẩn mực Đông Á đương thời. Vạn Xuân tồn tại gần sáu mươi năm qua tay Triệu Quang Phục rồi Lý Phật Tử (Hậu Lý Nam Đế) trước khi nhà Tuỳ tái chiếm năm 602.",
    "why": "Ứng viên cùng mạch là Triệu Quang Phục, người giữ Vạn Xuân sau ông, và Mai Thúc Loan thế kỷ 8. Lý Bí được chọn theo tính nguyên bản (c): việc đặt quốc hiệu và niên hiệu là bước nhảy về chất so với mọi cuộc khởi nghĩa trước, vốn chỉ nhằm đuổi quan lại. Về counterfactual (d), mô hình nhà nước ông dựng là tiền lệ mà các triều đại độc lập thế kỷ 10 viện dẫn.",
    "sources": "Đại Việt sử ký toàn thư, Ngoại kỷ, quyển 4; Keith W. Taylor, The Birth of Vietnam (1983), chương 4.",
    "inherits": [
@@ -3211,10 +3355,10 @@
    "name_vi": "Mai Hắc Đế",
    "name_orig": "Mai Thúc Loan",
    "labels": [],
-   "years_raw": "hoạt động 713–723",
+   "years_raw": "hoạt động k. 713–722",
    "born": 713,
-   "died": 723,
-   "approx": false,
+   "died": 722,
+   "approx": true,
    "alive": false,
    "years_ok": true,
    "place": "Hoan Châu, nay thuộc Nghệ An",
@@ -3227,7 +3371,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Ông khởi binh ở Hoan Châu, chiếm phủ thành Tống Bình và xưng đế, giữ được khoảng mười năm trước khi quân Đường do Dương Tư Húc chỉ huy đàn áp. Điểm đáng chú ý là quy mô liên kết: sử Đường chép lực lượng của ông huy động được cả Lâm Ấp và Chân Lạp, tức cuộc nổi dậy vượt khỏi khuôn khổ một châu và mang tính khu vực. Căn cứ Vạn An cùng hệ thống đền thờ dọc sông Lam cho thấy ảnh hưởng tại chỗ kéo dài rất lâu sau khi ông mất.",
+   "ideas": "Ông khởi binh ở Hoan Châu và xưng đế; sử Đường và Toàn thư đều đặt việc Dương Tư Húc dẹp ông vào năm 722, còn mốc khởi đầu 713 và kịch bản chiếm phủ thành Tống Bình là tái dựng hiện đại của Phan Huy Lê, đang bị tranh luận. Điểm đáng chú ý là quy mô liên kết: sử Đường chép lực lượng của ông huy động được cả Lâm Ấp và Chân Lạp, tức cuộc nổi dậy vượt khỏi khuôn khổ một châu và mang tính khu vực. Căn cứ Vạn An cùng hệ thống đền thờ dọc sông Lam cho thấy ảnh hưởng tại chỗ kéo dài rất lâu sau khi ông mất.",
    "why": "Ứng viên cùng thế kỷ là Phùng Hưng, nổi dậy muộn hơn và thành công hơn ở vùng châu thổ. Mai Thúc Loan được giữ vì phạm vi (a): đây là cuộc nổi dậy duy nhất thời Bắc thuộc có bằng chứng liên minh với các thế lực Đông Nam Á lân cận, cho thấy Giao Châu khi đó nằm trong một mạng lưới khu vực chứ không chỉ là vùng biên của Trung Hoa.",
    "sources": "Tân Đường thư, Dương Tư Húc truyện; Đại Việt sử ký toàn thư, Ngoại kỷ, quyển 5.",
    "inherits": [
@@ -3264,10 +3408,10 @@
    "name_vi": "Phùng Hưng",
    "name_orig": "Bố Cái Đại Vương",
    "labels": [],
-   "years_raw": "761–802",
-   "born": 761,
-   "died": 802,
-   "approx": false,
+   "years_raw": "hoạt động k. 766–791",
+   "born": 766,
+   "died": 791,
+   "approx": true,
    "alive": false,
    "years_ok": true,
    "place": "Đường Lâm, nay thuộc Hà Nội",
@@ -3276,14 +3420,14 @@
     "Quân sự",
     "Chính trị/Nhà nước"
    ],
-   "confidence": "Trung bình",
+   "confidence": "Thấp",
    "wikidata": "Q7188354",
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Ông nổi dậy vào khoảng năm 791, chiếm phủ thành Tống Bình và nắm quyền cai trị cho tới khi mất. Danh hiệu Bố Cái Đại Vương mà dân chúng tôn — dùng hai tiếng Việt thuần \"bố\" và \"cái\" chứ không phải từ Hán — là một trong những dấu vết sớm nhất của ý thức tự xưng bằng ngôn ngữ bản địa trong một danh hiệu chính trị. Cuộc nổi dậy diễn ra giữa lúc nhà Đường suy yếu sau loạn An Lộc Sơn, báo trước khoảng trống quyền lực mà họ Khúc sẽ tận dụng một thế kỷ sau.",
+   "ideas": "Toàn thư dồn cả cuộc nổi dậy, việc chiếm phủ thành Tống Bình và cái chết của ông vào năm 791; Việt điện u linh kéo dài từ niên hiệu Đại Lịch (766–779); sử Đường đương thời chỉ chép thủ lĩnh Đỗ Anh Hàn, không nhắc tên ông. Danh hiệu Bố Cái Đại Vương — ghi âm hai tiếng Việt thuần, đọc là \"cha mẹ\" hay \"vua lớn\" còn tranh luận — là một trong những dấu vết sớm nhất của ý thức tự xưng bằng ngôn ngữ bản địa trong một danh hiệu chính trị. Cuộc nổi dậy diễn ra khi nhà Đường suy yếu sau loạn An Lộc Sơn, báo trước khoảng trống mà họ Khúc tận dụng một thế kỷ sau.",
    "why": "Ứng viên cùng giai đoạn là Dương Thanh, nổi dậy năm 819, và Khúc Thừa Dụ đầu thế kỷ 10. Phùng Hưng được chọn theo tính nguyên bản (c) ở khía cạnh biểu tượng: danh hiệu tiếng Việt cho thấy bản sắc ngôn ngữ vẫn sống sau tám thế kỷ đô hộ, điều mà các cuộc nổi dậy khác không để lại bằng chứng rõ bằng.",
-   "sources": "Đại Việt sử ký toàn thư, Ngoại kỷ, quyển 5; Keith W. Taylor, The Birth of Vietnam (1983), chương 6.",
+   "sources": "Đại Việt sử ký toàn thư, Ngoại kỷ, quyển 5; Keith W. Taylor, The Birth of Vietnam (1983), chương 5; Taylor, \"Phùng Hưng: Mencian King or Austric Paramount?\", The Vietnam Forum 8 (1986).",
    "inherits": [
     {
      "target": "CH90-CE01_09-06",
@@ -4083,7 +4227,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Ông khởi binh ở Lam Sơn năm 1418 khi nhà Minh đã cai trị được mười năm, trải qua giai đoạn đầu cực kỳ khó khăn phải rút vào núi Chí Linh ba lần, rồi chuyển hướng chiến lược vào Nghệ An để lấy hậu phương, cuối cùng vây hãm Đông Quan và buộc quân Minh rút năm 1427. Cách kết thúc chiến tranh đáng chú ý không kém cách tiến hành: ông cấp thuyền, ngựa và lương cho mười vạn quân Minh về nước, chọn giải pháp mở đường rút thay vì tiêu diệt để tránh một cuộc chiến kéo dài.",
+   "ideas": "Ông khởi binh ở Lam Sơn năm 1418 khi nhà Minh đã cai trị gần mười một năm, trong đó bảy năm bị kháng chiến Hậu Trần thách thức, trải qua giai đoạn đầu cực kỳ khó khăn phải rút vào núi Chí Linh ba lần, rồi chuyển hướng chiến lược vào Nghệ An để lấy hậu phương, cuối cùng vây hãm Đông Quan và buộc quân Minh rút cuối 1427 – đầu 1428. Cách kết thúc chiến tranh đáng chú ý không kém cách tiến hành: ông cấp thuyền, ngựa và lương cho hơn tám vạn quân Minh về nước (Minh thực lục ghi 84.640 người), mở đường rút thay vì tiêu diệt để tránh chiến tranh kéo dài.",
    "why": "Ứng viên cùng cuộc khởi nghĩa là Nguyễn Trãi, người hoạch định đường lối, và Nguyễn Chích, người đề xuất chuyển quân vào Nghệ An. Lê Lợi được chọn theo counterfactual (d): giai đoạn sáu năm đầu gần như tuyệt vọng, và việc lực lượng không tan rã gắn trực tiếp với uy tín cá nhân ông. Nhà Lê do ông lập kéo dài, kể cả danh nghĩa, tới năm 1789.",
    "sources": "Đại Việt sử ký toàn thư, Bản kỷ, quyển 10; Lam Sơn thực lục.",
    "inherits": [
@@ -4156,8 +4300,8 @@
     "Con người"
    ],
    "ideas": "Quân sư của Lê Lợi, ông chủ trương \"đánh vào lòng người\" — dùng thư từ chiêu hàng và lập luận chính nghĩa thay cho vây đánh — tập hợp trong Quân trung từ mệnh tập. Bình Ngô đại cáo do ông soạn năm 1428 mở đầu bằng mệnh đề nhân nghĩa cốt ở yên dân, và khẳng định Đại Việt có văn hiến, cương vực, phong tục riêng: một tuyên ngôn độc lập dựa trên khác biệt văn hoá chứ không chỉ lãnh thổ. Quốc âm thi tập của ông là tập thơ chữ Nôm sớm nhất còn lại, đặt nền cho văn học tiếng Việt.",
-   "why": "Ứng viên cùng thời là Nguyễn Mộng Tuân và Lý Tử Tấn, cũng là văn thần Lam Sơn. Nguyễn Trãi vượt trội ở cả hai mặt (a) và (c): ông vừa là kiến trúc sư đường lối chính trị của cuộc khởi nghĩa, vừa là người mở đầu dòng văn học chữ Nôm. Vụ án Lệ Chi Viên khiến ông bị tru di tam tộc năm 1442 và mãi hai mươi năm sau mới được minh oan.",
-   "sources": "Bình Ngô đại cáo; Quốc âm thi tập; Nguyễn Huệ Chi (chủ biên), Nguyễn Trãi toàn tập tân biên (2000).",
+   "why": "Ứng viên cùng thời là Nguyễn Mộng Tuân và Lý Tử Tấn, cũng là văn thần Lam Sơn. Nguyễn Trãi vượt trội ở cả hai mặt (a) và (c): ông vừa là kiến trúc sư đường lối chính trị của cuộc khởi nghĩa, vừa là người mở đầu dòng văn học chữ Nôm. Vụ án Lệ Chi Viên khiến ông bị tru di tam tộc năm 1442 và hai mươi hai năm sau mới được Lê Thánh Tông minh oan; Nguyễn Thị Lộ thì không bao giờ.",
+   "sources": "Bình Ngô đại cáo; Quốc âm thi tập; Mai Quốc Liên (chủ biên), Nguyễn Trãi toàn tập tân biên, 3 tập (Trung tâm Nghiên cứu Quốc học – NXB Văn học, 1999–2000).",
    "inherits": [
     {
      "target": "CH90-CE15_18-01",
@@ -4234,9 +4378,9 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Trị vì ba mươi bảy năm, ông cải tổ bộ máy theo mô hình lục bộ, bỏ chức tể tướng để quyền tập trung về vua, chia nước thành mười ba đạo thừa tuyên và lập bản đồ Hồng Đức. Bộ Quốc triều hình luật mang tên ông đáng chú ý nhất ở các điều về phụ nữ: con gái được hưởng thừa kế, vợ có thể xin ly hôn trong một số trường hợp, hôn nhân cần sự ưng thuận — những quy định không có trong luật Minh mà bộ luật này dựa vào, cho thấy tập quán bản địa được giữ lại.",
-   "why": "Ứng viên cạnh tranh là Lê Thái Tổ và Minh Mạng ở thế kỷ 19, hai người cũng cải tổ hành chính lớn. Lê Thánh Tông được chọn theo độ bền (b) và tính nguyên bản (c): Quốc triều hình luật được dùng suốt gần bốn thế kỷ, và các điều khoản về quyền phụ nữ khiến nó thành văn bản được giới nghiên cứu luật học so sánh viện dẫn nhiều nhất của Đông Á tiền hiện đại.",
-   "sources": "Quốc triều hình luật (luật Hồng Đức); Insun Yu, Law and Society in Seventeenth and Eighteenth Century Vietnam (1990).",
+   "ideas": "Trị vì gần ba mươi bảy năm, ông cải tổ bộ máy theo mô hình lục bộ, bỏ chức tể tướng để quyền tập trung về vua, chia nước thành mười hai rồi mười ba đạo thừa tuyên (1466, 1471) và lập bản đồ Hồng Đức. Bộ Quốc triều hình luật gắn với tên ông — dù bản truyền lại in muộn và Yao Takao nghi ngờ đó là luật Hồng Đức — đáng chú ý ở các điều về phụ nữ: con gái có phần thừa kế, vợ được xin ly hôn trong một số trường hợp. Insun Yu và Tạ Văn Tài đọc đó là quyền ngang bằng, Nhung Tuyet Tran (2018) phản bác; bộ luật dựa chủ yếu vào Đường luật chứ không phải luật Minh.",
+   "why": "Ứng viên cạnh tranh là Lê Thái Tổ và Minh Mạng ở thế kỷ 19, hai người cũng cải tổ hành chính lớn. Lê Thánh Tông được chọn theo độ bền (b) và tính nguyên bản (c): Quốc triều hình luật được dùng hơn ba thế kỷ, tới Hoàng Việt luật lệ 1812–1815, và là văn bản pháp luật Việt Nam tiền hiện đại được nghiên cứu nhiều nhất, nhất là trong tranh luận về địa vị phụ nữ ở Đông Nam Á.",
+   "sources": "Quốc triều hình luật (bản A.341, Viện Hán Nôm); Insun Yu, Law and Society in Seventeenth and Eighteenth Century Vietnam (1990) và Nhung Tuyet Tran, Familial Properties (Hawai'i, 2018) — hai phía của tranh luận; Yao Takao, \"Luật Quang Thuận đã từng tồn tại?\" (2013).",
    "inherits": [
     {
      "target": "CH90-CE15_18-01",
@@ -4314,9 +4458,9 @@
     "Vũ trụ",
     "Con người"
    ],
-   "ideas": "Đỗ trạng nguyên năm 1535, làm quan nhà Mạc tám năm rồi về quê dạy học gần bốn mươi năm, học trò gồm nhiều nhân vật chủ chốt của cả ba phe Mạc, Trịnh, Nguyễn. Ông vận dụng Dịch học và tượng số theo hướng Thiệu Ung để luận về thời thế; lời khuyên \"Hoành Sơn nhất đái, vạn đại dung thân\" gắn với quyết định Nam tiến của Nguyễn Hoàng. Bạch Vân am thi tập của ông, gồm cả thơ chữ Hán và chữ Nôm, chuyển trọng tâm sang triết lý sống ẩn dật và phê phán thói đời.",
-   "why": "Ứng viên cùng thế kỷ là Lương Thế Vinh, nhà toán học, và Nguyễn Dữ, tác giả Truyền kỳ mạn lục. Nguyễn Bỉnh Khiêm được chọn theo phạm vi (a): ông là nhân vật duy nhất được cả ba thế lực đối địch cùng hỏi ý, nên ảnh hưởng vượt qua ranh giới phe phái. Phần sấm ký gán cho ông phần lớn là do đời sau thêm vào, phụ lục không dựa vào đó.",
-   "sources": "Bạch Vân am thi tập; Đại Việt sử ký toàn thư, Bản kỷ tục biên.",
+   "ideas": "Đỗ trạng nguyên năm 1535, làm quan nhà Mạc tám năm rồi về quê dạy học, song vẫn được triều Mạc hỏi ý và phong tước Trình Quốc công; học trò gồm nhiều nhân vật chủ chốt của cả ba phe Mạc, Trịnh, Nguyễn. Ông vận dụng Dịch học và tượng số để luận về thời thế; lời khuyên \"Hoành Sơn nhất đái, khả dĩ dung thân\" gửi Nguyễn Hoàng là giai thoại chỉ chép trong Đại Nam thực lục tiền biên hai thế kỷ rưỡi sau, bản \"vạn đại\" có lẽ là chữ đời Nguyễn sửa. Bạch Vân am thi tập (chữ Hán) và Bạch Vân quốc ngữ thi tập (chữ Nôm) chuyển trọng tâm sang triết lý sống ẩn dật và phê phán thói đời.",
+   "why": "Ứng viên cùng thời là Nguyễn Dữ, tác giả Truyền kỳ mạn lục và là học trò ông, và Phùng Khắc Khoan, học trò khác đi theo nhà Lê. Nguyễn Bỉnh Khiêm được chọn theo phạm vi (a): ông là nhân vật duy nhất được cả ba thế lực đối địch cùng hỏi ý, nên ảnh hưởng vượt qua ranh giới phe phái. Phần sấm ký gán cho ông phần lớn là do đời sau thêm vào, phụ lục không dựa vào đó.",
+   "sources": "Bạch Vân am thi tập; Bạch Vân quốc ngữ thi tập; Đại Việt sử ký toàn thư, Bản kỷ tục biên.",
    "inherits": [
     {
      "target": "CH90-CE10_14-09",
@@ -4392,7 +4536,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Năm 1558 ông xin vào trấn thủ Thuận Hoá, vùng biên viễn nghèo và nhiều rủi ro, rồi biến nơi đó thành cơ sở quyền lực riêng. Ông chiêu mộ lưu dân khai hoang, giảm thuế, mở cửa cho thương nhân Nhật Bản, Trung Hoa và Bồ Đào Nha buôn bán ở Hội An, dùng nguồn thu ngoại thương nuôi quân. Chính sách dung nạp cả người Chăm, người Hoa và sau này người Khmer tạo nên một xã hội Đàng Trong có cấu trúc khác hẳn Đàng Ngoài, và mở đầu quá trình Nam tiến đưa lãnh thổ tới đồng bằng sông Cửu Long.",
+   "ideas": "Năm 1558 ông xin vào trấn thủ Thuận Hoá, vùng biên viễn nghèo và nhiều rủi ro, rồi biến nơi đó thành cơ sở quyền lực riêng. Ông chiêu mộ lưu dân khai hoang, giảm thuế, mở cửa cho thương nhân Nhật Bản và Trung Hoa buôn bán ở Hội An (người Bồ Đào Nha đến rõ nét dưới thời con ông), dùng nguồn thu ngoại thương nuôi quân. Chính sách dung nạp người Chăm và người Hoa, được các chúa sau mở rộng sang người Khmer, tạo nên một xã hội Đàng Trong khác hẳn Đàng Ngoài, và mở giai đoạn quyết định của Nam tiến — vốn đã bắt đầu từ 1069 — đưa lãnh thổ tới đồng bằng sông Cửu Long.",
    "why": "Ứng viên cạnh tranh là Trịnh Kiểm ở Đàng Ngoài và các chúa Nguyễn kế tục như Nguyễn Phúc Nguyên. Nguyễn Hoàng được chọn theo counterfactual (d): quyết định đi về phương nam năm 1558 là điểm rẽ tạo ra cả hình dạng lãnh thổ hiện nay lẫn sự phân hoá vùng miền kéo dài. Các chúa sau phát triển trên nền ông đặt.",
    "sources": "Đại Nam thực lục tiền biên; Li Tana, Nguyễn Cochinchina: Southern Vietnam in the Seventeenth and Eighteenth Centuries (1998).",
    "inherits": [
@@ -4464,8 +4608,8 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Bị cấm thi ở Đàng Ngoài vì xuất thân con nhà hát xướng, ông vào Nam và trở thành mưu sĩ chính của chúa Nguyễn Phúc Nguyên. Ông thiết kế hệ luỹ Trường Dục và luỹ Nhật Lệ — thường gọi chung là luỹ Thầy — dựa địa hình sông núi hẹp ở Quảng Bình, khiến quân Trịnh đông hơn nhiều vẫn không vượt qua được suốt bảy lần giao tranh trong gần nửa thế kỷ. Ông cũng soạn Hổ trướng khu cơ, binh thư Việt Nam hiếm hoi bàn cả về công thành, thuỷ chiến và hoả khí.",
-   "why": "Ứng viên cùng vai trò là Nguyễn Hữu Dật và Nguyễn Hữu Tiến, hai tướng chỉ huy phòng tuyến sau ông. Đào Duy Từ được chọn theo counterfactual (d): hệ luỹ do ông thiết kế là lý do kỹ thuật khiến Đàng Trong tồn tại độc lập được hai thế kỷ. Trường hợp bị cấm thi vì lý lịch của ông cũng là ví dụ rõ về giới hạn của chế độ khoa cử Đàng Ngoài.",
+   "ideas": "Theo Đại Nam thực lục, bị gạt khỏi kỳ thi ở Đàng Ngoài vì xuất thân con nhà hát xướng, ông vào Nam và trở thành mưu sĩ chính của chúa Nguyễn Phúc Nguyên. Ông thiết kế hệ luỹ Trường Dục và luỹ Nhật Lệ — thường gọi chung là luỹ Thầy — dựa địa hình sông núi hẹp ở Quảng Bình, khiến quân Trịnh đông hơn nhiều vẫn không vượt qua được trong các lần giao tranh sau khi luỹ dựng xong (1631–1672). Ông cũng soạn Hổ trướng khu cơ, binh thư Việt Nam hiếm hoi bàn cả về công thành, thuỷ chiến và hoả khí.",
+   "why": "Ứng viên cùng vai trò là Nguyễn Hữu Dật và Nguyễn Hữu Tiến, hai tướng chỉ huy phòng tuyến sau ông. Đào Duy Từ được chọn theo counterfactual (d): hệ luỹ do ông thiết kế giữ vững Đàng Trong suốt bốn thập niên giao tranh, rồi một thế kỷ đình chiến nối tiếp. Trường hợp bị cấm thi vì lý lịch của ông cũng là ví dụ rõ về giới hạn của chế độ khoa cử Đàng Ngoài.",
    "sources": "Đại Nam thực lục tiền biên; Hổ trướng khu cơ; Li Tana, Nguyễn Cochinchina (1998).",
    "inherits": [
     {
@@ -4501,7 +4645,7 @@
    "name_vi": "Alexandre de Rhodes",
    "name_orig": "A-lịch-sơn Đắc Lộ",
    "labels": [],
-   "years_raw": "1591–1660",
+   "years_raw": "1591–1660 (năm sinh còn tranh luận: 1593)",
    "born": 1591,
    "died": 1660,
    "approx": false,
@@ -4513,12 +4657,12 @@
     "Ngôn ngữ học",
     "Tôn giáo/Tâm linh"
    ],
-   "confidence": "Cao",
+   "confidence": "Trung bình",
    "wikidata": "Q336653",
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Giáo sĩ Dòng Tên gốc Avignon, truyền giáo ở Việt Nam trong khoảng hai mươi năm. Năm 1651 ông cho in tại Roma hai cuốn Dictionarium Annamiticum Lusitanum et Latinum và Phép giảng tám ngày — những ấn phẩm đầu tiên dùng lối ghi âm tiếng Việt bằng chữ cái Latin. Hệ chữ này về sau thành chữ Quốc ngữ, thay thế chữ Hán và chữ Nôm, và là lý do tỷ lệ biết chữ ở Việt Nam tăng rất nhanh trong thế kỷ 20. Ông cũng để lại các ghi chép dân tộc học sớm về xã hội Đại Việt.",
+   "ideas": "Giáo sĩ Dòng Tên gốc Avignon, truyền giáo ở Việt Nam tổng cộng khoảng chín năm, rải trong giai đoạn 1624–1645 giữa những lần bị trục xuất. Năm 1651 ông cho in tại Roma hai cuốn Dictionarium Annamiticum Lusitanum et Latinum và Phép giảng tám ngày — những ấn phẩm đầu tiên dùng lối ghi âm tiếng Việt bằng chữ cái Latin. Hệ chữ này nằm trong cộng đồng Công giáo gần hai thế kỷ rưỡi rồi mới thành chữ Quốc ngữ chung, thay thế chữ Hán và chữ Nôm; việc phổ cập là chuyện của thế kỷ 20, nhất là Bình dân học vụ từ 1945. Ông cũng để lại các ghi chép dân tộc học sớm về xã hội Đại Việt.",
    "why": "Công trạng thường bị gán quá mức cho riêng ông: Francisco de Pina mới là người khởi đầu việc ghi âm, Gaspar do Amaral và António Barbosa đã soạn từ điển mà ông thừa kế, và nhiều thầy giảng người Việt tham gia trực tiếp. Ông vẫn được chọn theo phạm vi (a) vì là người xuất bản và chuẩn hoá, đưa hệ chữ ra khỏi phạm vi bản thảo nội bộ. Phụ lục ghi rõ đây là công trình tập thể.",
    "sources": "Dictionarium Annamiticum Lusitanum et Latinum (Roma, 1651); Roland Jacques, Portuguese Pioneers of Vietnamese Linguistics (2002).",
    "inherits": [
@@ -4652,8 +4796,8 @@
    "name_vi": "Lê Hữu Trác",
    "name_orig": "黎有晫, Hải Thượng Lãn Ông",
    "labels": [],
-   "years_raw": "1720–1791",
-   "born": 1720,
+   "years_raw": "1724–1791 (có bản ghi 1720)",
+   "born": 1724,
    "died": 1791,
    "approx": false,
    "alive": false,
@@ -4668,7 +4812,7 @@
    "big_questions": [
     "Con người"
    ],
-   "ideas": "Bỏ nghiệp võ về quê làm thuốc, ông soạn Hải Thượng y tông tâm lĩnh gồm hai mươi tám tập, bộ sách y học lớn nhất của Việt Nam thời quân chủ. Ông không chép lại y thư Trung Hoa mà hiệu chỉnh theo khí hậu, thể chất và dược liệu bản địa, khảo cứu hàng trăm vị thuốc Nam. Tập Thượng kinh ký sự ghi lại chuyến bị triệu ra Thăng Long chữa bệnh cho thế tử Trịnh Cán, vừa là tư liệu y học vừa là một trong những tác phẩm ký sự sớm nhất của văn học Việt Nam. Ông cũng nêu chín điều y huấn về đạo đức nghề nghiệp.",
+   "ideas": "Bỏ nghiệp võ về quê làm thuốc, ông soạn Hải Thượng y tông tâm lĩnh gồm hai mươi tám tập, bộ sách y học lớn nhất của Việt Nam thời quân chủ. Ông không chép lại y thư Trung Hoa mà hiệu chỉnh theo khí hậu, thể chất và dược liệu bản địa, khảo cứu hàng trăm vị thuốc Nam. Tập Thượng kinh ký sự ghi lại chuyến bị triệu ra Thăng Long năm 1782 chữa bệnh cho chúa Trịnh Sâm và thế tử Trịnh Cán, vừa là tư liệu y học vừa là một trong những tác phẩm ký sự sớm nhất của văn học Việt Nam. Ông cũng nêu chín điều y huấn về đạo đức nghề nghiệp.",
    "why": "Ứng viên cùng lĩnh vực là Tuệ Tĩnh ở thế kỷ 14, người nêu chủ trương \"Nam dược trị Nam nhân\". Lê Hữu Trác được chọn theo phạm vi (a) và độ bền (b): trước tác của Tuệ Tĩnh phần lớn thất lạc, còn bộ của ông còn gần trọn vẹn và vẫn là giáo trình nền của y học cổ truyền Việt Nam. Mục này cũng cân bằng phụ lục vốn nặng về chính trị và quân sự.",
    "sources": "Hải Thượng y tông tâm lĩnh; Thượng kinh ký sự.",
    "inherits": [
@@ -4729,7 +4873,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Trong mười tám năm ông lần lượt lật đổ chúa Nguyễn, chúa Trịnh và vua Lê, đánh tan quân Xiêm ở Rạch Gầm – Xoài Mút năm 1785 và quân Thanh ở Ngọc Hồi – Đống Đa đầu năm 1789 sau cuộc hành quân thần tốc từ Phú Xuân ra Thăng Long trong khoảng một tháng. Về chính sách, ông cho dùng chữ Nôm trong khoa cử và công văn, lập Viện Sùng chính giao Nguyễn Thiếp dịch kinh sách, mở cửa thông thương và khuyến nông bằng chiếu khuyến nông. Ông mất đột ngột ở tuổi ba mươi chín, triều Tây Sơn sụp sau đó mười năm.",
+   "ideas": "Trong mười tám năm phong trào Tây Sơn lần lượt lật đổ chúa Nguyễn (1777), chúa Trịnh (1786) và vua Lê (1789); ông cầm quân các chiến dịch quyết định, đánh tan quân Xiêm ở Rạch Gầm – Xoài Mút năm 1785 và quân Thanh ở Ngọc Hồi – Đống Đa đầu năm 1789 sau cuộc hành quân ba mươi chín ngày từ Phú Xuân, chặng cuối từ Tam Điệp chỉ năm sáu ngày. Về chính sách, ông cho dùng chữ Nôm trong khoa cử và công văn, lập Viện Sùng chính giao Nguyễn Thiếp dịch kinh sách, ban chiếu khuyến nông và mở cửa thông thương. Ông mất đột ngột ở tuổi ba mươi chín, triều Tây Sơn sụp sau đó mười năm.",
    "why": "Ứng viên cùng phong trào là hai anh em Nguyễn Nhạc và Nguyễn Lữ. Nguyễn Huệ được chọn theo phạm vi (a) và tính nguyên bản (c): ông là người chỉ huy mọi chiến dịch quyết định, và là vị vua đầu tiên đưa chữ Nôm thành văn tự hành chính chính thức — nỗ lực mà Hồ Quý Ly từng thử và thất bại. Counterfactual (d) rõ: triều đại tan rã ngay sau khi ông mất.",
    "sources": "Đại Nam thực lục chính biên; Hoàng Lê nhất thống chí; Tạ Chí Đại Trường, Lịch sử nội chiến ở Việt Nam 1771–1802 (1973).",
    "inherits": [
