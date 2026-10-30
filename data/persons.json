@@ -2,7 +2,7 @@
  "project": {
   "title": "Atlas nhân vật ảnh hưởng",
   "subtitle": "Những người định hình tư tưởng nhân loại, 2000 TCN – 2026",
-  "version": "P1",
+  "version": "P2",
   "start_year": -2000,
   "end_year": 2026,
   "reference_year": 2026
@@ -17,6 +17,8 @@
    ],
    "intro": "Giai đoạn 800–401 TCN chứng kiến nhiều truyền thống tư tưởng xuất hiện gần như song song ở Trung Hoa, Ấn Độ, Iran, Israel–Judah và Hy Lạp — hiện tượng Karl Jaspers gọi là Thời kỳ Trục. Chapter này không khẳng định các vùng đã ảnh hưởng lẫn nhau: phần lớn quan hệ xuyên vùng được ghi là tương đồng độc lập. Bốn nhóm thế kỷ gồm 33 nhân vật, từ vua Assyria và ngôn sứ Do Thái tới Khổng Tử, Đức Phật, Thales và Socrates, chọn theo phạm vi, độ bền, tính nguyên bản và counterfactual.",
    "editorial": [
+    "**Cách chapter này được soạn**",
+    "Phần văn xuôi của chapter do mô hình AI (Claude) viết theo prompt cố định tại `prompts/atlas-prompt.md`, không qua bình duyệt chuyên môn. Tên, niên đại và định danh được đối chiếu tự động với Wikidata; phần diễn giải, đánh giá ảnh hưởng và lựa chọn nhân vật là tổng hợp của model theo bốn tiêu chí (a)–(d), không phải kết luận của giới nghiên cứu. Mục Nguồn là điểm khởi đầu để tự kiểm tra, chưa được đối chiếu từng câu. Xem mục \"Về dự án\" ở trang Overview để biết giới hạn đầy đủ.",
     "**Ứng viên mạnh đã bị loại và lý do**",
     "- Thucydides (TK 5 TCN): bị Herodotus lấn chỗ ở lĩnh vực Sử học. Ông nghiêm ngặt hơn về phương pháp nhưng kế thừa thể loại đã có; nên cân nhắc lại ở P4 nếu muốn tách \"sử học phê phán\" khỏi \"sử học điều tra\".",
     "- Heraclitus (TK 6–5 TCN): nhóm BCE06 đã đủ 10 và Parmenides được ưu tiên theo counterfactual. Đây là mục loại gây tiếc nhất của chapter; nếu Zarathustra chuyển sang Chapter 1 thì Heraclitus nên vào chỗ trống.",
@@ -131,6 +133,8 @@
    ],
    "intro": "Phụ lục này dùng chung bốn tiêu chí (a)–(d) của atlas, nhưng đổi hệ quy chiếu: ảnh hưởng được đo trong phạm vi Việt Nam và Đông Nam Á, không phải toàn nhân loại. Đó là lý do nó tách riêng và không tính vào thống kê độ phủ của atlas chính — trộn hai thang đo khác nhau vào một bảng xếp hạng sẽ làm sai lệch cả hai. Năm nhóm chia theo thời kỳ lịch sử thay vì từng thế kỷ, vì tư liệu Việt Nam trước thế kỷ 10 quá thưa để chia nhỏ hơn.",
    "editorial": [
+    "**Cách chapter này được soạn**",
+    "Phần văn xuôi của chapter do mô hình AI (Claude) viết theo prompt cố định tại `prompts/atlas-prompt.md`, không qua bình duyệt chuyên môn. Tên, niên đại và định danh được đối chiếu tự động với Wikidata; phần diễn giải, đánh giá ảnh hưởng và lựa chọn nhân vật là tổng hợp của model theo bốn tiêu chí (a)–(d), không phải kết luận của giới nghiên cứu. Mục Nguồn là điểm khởi đầu để tự kiểm tra, chưa được đối chiếu từng câu. Xem mục \"Về dự án\" ở trang Overview để biết giới hạn đầy đủ.",
     "**Vì sao phụ lục này tách riêng**",
     "Atlas chính đo ảnh hưởng ở quy mô nhân loại. Áp đúng thang đó cho Việt Nam thì gần như chỉ còn Hồ Chí Minh và Thích Nhất Hạnh, và toàn bộ hai nghìn năm còn lại biến mất — một kết quả đúng về kỹ thuật nhưng vô dụng với người đọc Việt Nam. Phụ lục giữ nguyên bốn tiêu chí (a) phạm vi, (b) độ bền, (c) tính nguyên bản, (d) counterfactual, chỉ đổi hệ quy chiếu sang Việt Nam và Đông Nam Á. Vì hai thang đo khác nhau, build loại phụ lục khỏi thống kê và lưới độ phủ của atlas chính; trộn chung sẽ làm sai lệch cả hai.",
     "**Trùng lặp có chủ ý với atlas chính**",

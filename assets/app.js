@@ -52,6 +52,8 @@
     var head = no !== null ? (TRACK[no] === "main" ? "Chapter " + no : "Phụ lục") : null;
     var title = head !== null ? (head + (lblText ? " · " + lblText : "")) : (base.replace(".html", "") === "overview" ? "Overview" : "Credits");
     crumb.textContent = title;
+    frame.setAttribute("title", title);          // trước đây luôn là "Nội dung"
+    if (body.classList.contains("menu-open")) setMenu(false);   // chọn xong thì đóng menu trên mobile
     var idx = no !== null ? chapterNos.indexOf(no) : -1;
     btnPrev.disabled = idx <= 0; btnNext.disabled = idx < 0 || idx >= chapterNos.length - 1;
   }
@@ -90,7 +92,30 @@
 
   // ---- menu mobile
   var mb = document.getElementById("menu-btn");
-  if (mb) mb.addEventListener("click", function () { body.classList.toggle("menu-open"); });
+  var sidebarEl = document.getElementById("sidebar");
+  var mq = window.matchMedia("(max-width: 1000px)");
+
+  // Sidebar off-canvas vẫn visible khi đóng, nên giữ 67 phần tử focus được nằm ngoài
+  // màn hình: người dùng bàn phím phải Tab hết chừng đó mới tới nội dung, còn screen
+  // reader thì đọc nguyên một menu đang đóng. inert cắt cả hai.
+  function syncSidebar() {
+    var offCanvas = mq.matches && !body.classList.contains("menu-open");
+    if (offCanvas) { sidebarEl.setAttribute("inert", ""); sidebarEl.setAttribute("aria-hidden", "true"); }
+    else { sidebarEl.removeAttribute("inert"); sidebarEl.removeAttribute("aria-hidden"); }
+    if (mb) mb.setAttribute("aria-expanded", body.classList.contains("menu-open") ? "true" : "false");
+  }
+  function setMenu(open) {
+    body.classList.toggle("menu-open", open);
+    syncSidebar();
+    if (open) { var f = sidebarEl.querySelector("input, a"); if (f) f.focus(); }
+    else if (mb) mb.focus();
+  }
+  if (mb) mb.addEventListener("click", function () { setMenu(!body.classList.contains("menu-open")); });
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape" && body.classList.contains("menu-open")) setMenu(false);
+  });
+  (mq.addEventListener ? mq.addEventListener.bind(mq, "change") : mq.addListener.bind(mq))(syncSidebar);
+  syncSidebar();
   document.getElementById("brand-link").addEventListener("click", function (e) { e.preventDefault(); go("overview.html"); });
 
   // ---- tìm kiếm: tên, tên gốc, lĩnh vực, vùng, ID

@@ -55,6 +55,7 @@ Hãy research trước khi viết; ưu tiên nguồn học thuật (Stanford Enc
 **Nguồn:** 1–2 nguồn tham khảo đáng tin (tên tài liệu, kèm link nếu có).
 
 ## Ghi chú biên tập
+- **Bắt buộc mở đầu bằng khối "Cách chapter này được soạn"** — chép nguyên văn khối dưới phần "Khối minh bạch bắt buộc" ở cuối tài liệu này.
 - Các ứng viên mạnh đã bị loại và lý do.
 - Các ứng viên Việt Nam đã được cân nhắc (nếu có) và kết quả.
 - Các điểm cần kiểm chứng thêm.
@@ -92,3 +93,12 @@ Ví dụ: CH02-BCE06-01, CH08-CE17-03, CH01-BCE20_18-02.
 | 11 | Thế kỷ 21 (đến 2026) | 2001 → 2026 | CE21 |
 
 Lệnh `python build.py --groups 4` in sẵn dòng `{{DANH SÁCH NHÓM}}` để dán.
+
+## Khối minh bạch bắt buộc
+
+Mọi chapter phải mở đầu mục `## Ghi chú biên tập` bằng đúng khối này (D: minh bạch về tác giả). Build không kiểm tra tự động, nên đây là việc của người biên tập:
+
+```markdown
+**Cách chapter này được soạn**
+Phần văn xuôi của chapter do mô hình AI (Claude) viết theo prompt cố định tại `prompts/atlas-prompt.md`, không qua bình duyệt chuyên môn. Tên, niên đại và định danh được đối chiếu tự động với Wikidata; phần diễn giải, đánh giá ảnh hưởng và lựa chọn nhân vật là tổng hợp của model theo bốn tiêu chí (a)–(d), không phải kết luận của giới nghiên cứu. Mục Nguồn là điểm khởi đầu để tự kiểm tra, chưa được đối chiếu từng câu. Xem mục "Về dự án" ở trang Overview để biết giới hạn đầy đủ.
+```

@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parent.parent
 PROJECT = {
     "title": "Atlas nhân vật ảnh hưởng",
     "subtitle": "Những người định hình tư tưởng nhân loại, 2000 TCN – 2026",
-    "version": "P1",
+    "version": "P2",
     "start_year": -2000,
     "end_year": 2026,
     "reference_year": 2026,

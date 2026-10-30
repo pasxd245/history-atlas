@@ -1,0 +1,50 @@
+MIT License
+
+Copyright (c) 2026 xdevteamv2 — history-atlas
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+===========================================================================
+PHẠM VI — ĐỌC KỸ
+===========================================================================
+
+Giấy phép MIT ở trên áp dụng cho PHẦN DO DỰ ÁN NÀY TẠO RA:
+
+  - mã nguồn: build.py, fetch_images.py, atlaslib/, assets/app.js,
+    assets/style.css
+  - nội dung văn xuôi: content/*.md và HTML sinh ra từ đó
+  - dữ liệu sinh tự động: data/*.json, data/*.js
+
+KHÔNG áp dụng cho ba nhóm sau, vốn giữ nguyên giấy phép riêng:
+
+1. ẢNH trong assets/img/ — tải từ Wikimedia Commons, mỗi ảnh giữ giấy phép
+   gốc của nó (Public domain, CC0, hoặc CC BY-SA các phiên bản). Trang
+   credits.html liệt kê từng ảnh kèm tác giả, giấy phép và link tệp gốc.
+   Dùng lại ảnh thì phải theo giấy phép của chính ảnh đó, không phải MIT.
+   Riêng ảnh CC BY-SA: nếu bạn tạo tác phẩm phái sinh TỪ ẢNH thì phần phái
+   sinh đó phải chia sẻ theo cùng điều khoản.
+
+2. THƯ VIỆN BÊN THỨ BA trong assets/ — mermaid.min.js (MIT, kèm các thành
+   phần được đóng gói: DOMPurify, js-yaml, lodash-es, Cytoscape — xem
+   assets/LICENSE-mermaid.txt và khối "Bundled license information" bên
+   trong chính tệp) và d3.min.js (ISC, xem assets/LICENSE-d3.txt).
+
+3. DỮ LIỆU WIKIDATA dùng để đối chiếu niên đại và định danh — CC0.
+
+Nói ngắn: mã và chữ của dự án là MIT; ảnh và thư viện thì không.

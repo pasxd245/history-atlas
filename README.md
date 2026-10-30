@@ -2,7 +2,28 @@
 
 Website tĩnh, mở được bằng `file://`, deploy được lên GitHub Pages/Vercel. Nội dung do model viết dưới dạng Markdown theo template cố định; `build.py` lint, đối chiếu Wikidata và sinh HTML. Ảnh lấy từ Wikimedia Commons theo chính sách giấy phép cứng.
 
-Trạng thái: **P1 — Khung kỹ thuật** (ZIP #1). PLAN đã duyệt nằm trong Project "[Z] MY-PJ" (`claude/history-atlas-PLAN.md`).
+Trạng thái: **P2 xong** — Chapter 2 (Axial Age, 33 nhân vật) và Phụ lục Việt Nam (40 nhân vật). Atlas chính mới phủ 1/11 chapter · 4/33 nhóm. PLAN đã duyệt nằm trong Project "[Z] MY-PJ" (`claude/history-atlas-PLAN.md`).
+
+## Bản chất và giới hạn của nội dung
+
+Đây là **dự án nghiên cứu cá nhân**, không phải bách khoa thư và không phải sản phẩm thương mại.
+
+- **Văn xuôi do mô hình AI (Claude) viết** theo prompt cố định ở `prompts/atlas-prompt.md`. Không có nhà sử học nào viết hay bình duyệt. Đây là tổng hợp do model thực hiện, không phải nghiên cứu sơ cấp.
+- **Tên, niên đại, định danh** được đối chiếu tự động với Wikidata (CC0) bởi `build.py`; lệch quá ngưỡng thì lint chặn build.
+- **Lựa chọn nhân vật là phán đoán biên tập** theo bốn tiêu chí (a) phạm vi, (b) độ bền, (c) tính nguyên bản, (d) counterfactual — không phải xếp hạng khách quan. Trần 10 người/nhóm buộc phải loại nhiều người xứng đáng; danh sách bị loại và lý do nằm ở `## Ghi chú biên tập` cuối mỗi chapter.
+- **Mỗi mục chỉ có 1–2 nguồn**, và nội dung bên trong nguồn chưa được đối chiếu từng câu. Đủ để lần đầu mối, không đủ để trích dẫn. Hãy đi tới nguồn.
+- **Phụ lục Việt Nam dùng hệ quy chiếu Việt Nam / Đông Nam Á**, không phải nhân loại, nên bị loại khỏi mọi thống kê toàn cục.
+- **"Ảnh hưởng" không đồng nghĩa với "đáng ngưỡng mộ".**
+
+Bản đầy đủ của các tuyên bố này nằm ở `overview.html` (mục *Về dự án*, *Giới hạn*, *Về những giai đoạn còn tranh luận*) và hiển thị trên chính trang web.
+
+## Giấy phép
+
+Mã nguồn và văn xuôi của dự án: **MIT** (xem `LICENSE`).
+
+Ba nhóm KHÔNG thuộc MIT, giữ nguyên giấy phép riêng: **ảnh** trong `assets/img/` (Public domain / CC0 / CC BY-SA, từng ảnh liệt kê ở `credits.html`), **thư viện bên thứ ba** trong `assets/` (`LICENSE-mermaid.txt`, `LICENSE-d3.txt`), và **dữ liệu Wikidata** (CC0). Chi tiết ở phần PHẠM VI cuối `LICENSE`.
+
+Đóng góp: xem `CONTRIBUTING.md`.
 
 ## Cây thư mục
 
@@ -14,7 +35,7 @@ history-atlas/
 ├── chapters/chXX.html      # sinh tự động, mỗi file mở riêng được
 ├── content/
 │   ├── chXX.md             # nguồn do model viết theo prompts/atlas-prompt.md; chapter lớn: chXX.part1.md, chXX.part2.md
-│   ├── ch00-sample.md      # mẫu kỹ thuật P1 — XOÁ khi bắt đầu P2
+│   │                       # ch02.md (Axial Age) · ch90.md (phụ lục Việt Nam — track riêng, ngoài thống kê chính)
 │   └── images.yaml         # override ảnh: đổi file, viết lại chú thích, bỏ ảnh, danh sách nhạy cảm (aniconism)
 ├── assets/
 │   ├── style.css · app.js
@@ -29,7 +50,8 @@ history-atlas/
 ├── prompts/atlas-prompt.md # prompt research v2 (PLAN §5, nguyên văn) + bảng biến theo chapter
 ├── atlaslib/               # common (hằng số, năm/thế kỷ, HTTP, Wikidata) · parse · lint · render
 ├── tests/                  # ch99-bad.md (23 lỗi cài sẵn) · ch98-wikidata.md (lệch niên đại)
-├── build.py · fetch_images.py · requirements.txt · README.md
+├── build.py · fetch_images.py · requirements.txt
+├── README.md · LICENSE (MIT) · CONTRIBUTING.md
 ```
 
 ## Yêu cầu
@@ -38,12 +60,13 @@ Python 3.11+ và gói `markdown` (`pip install -r requirements.txt`). Tuỳ ch�
 
 ## Quy trình mỗi chapter (P2/P3)
 
-1. `python build.py --groups 2` → copy dòng `{{DANH SÁCH NHÓM}}`; mở **incognito chat**, dán `prompts/atlas-prompt.md` đã thay biến (D11).
-2. Lưu kết quả vào `content/ch02.md` (chapter lớn: `.part1.md`, `.part2.md`, mỗi phần ≤ ~30 nhân vật).
+1. `python build.py --groups 2` → copy dòng `{{DANH SÁCH NHÓM}}`, thay biến trong `prompts/atlas-prompt.md`.
+2. Soạn nội dung vào `content/ch02.md` (chapter lớn: `.part1.md`, `.part2.md`, mỗi phần ≤ ~30 nhân vật). **Tra Wikidata Q-ID và kiểm URL nguồn TRƯỚC khi viết** — xem `CONTRIBUTING.md`.
 3. `python build.py` → lint (chặn build khi có ERROR) + đối chiếu Wikidata + sinh HTML. Xem `reports/lint-ch02.txt`, sửa content, chạy lại. `--offline` nếu không muốn gọi Wikidata.
 4. `python fetch_images.py CH02` → tải ảnh theo §7; xem `reports/images-review.txt`, chỉnh `content/images.yaml` nếu cần; `python fetch_images.py --recaption` để tính lại chú thích không cần mạng.
 5. `python build.py` lần nữa để nhúng ảnh. Mở `index.html`.
-6. Checklist review PLAN §11. Cứ 3 chapter → ZIP checkpoint.
+6. **Agent đánh giá độc lập** (bắt buộc, xem `CONTRIBUTING.md` mục *Quy trình một chapter*), sửa theo kết quả, rồi mới commit.
+7. Checklist review PLAN §11. Cứ 3 chapter → ZIP checkpoint.
 
 Lệnh khác: `--lint-only [FILE]` (chỉ lint; FILE bất kỳ → báo cáo vào `reports/tests/`), `--force` (vẫn sinh HTML dù có lỗi, chỉ để xem giao diện), `--list-ids`.
 
@@ -87,8 +110,9 @@ Hai điểm kỹ thuật lệch nhẹ so với PLAN §7.1 (không đụng §2):
 
 ## Việc còn lại theo PLAN
 
-- **P2** Pilot Ch2 (Axial Age): research incognito → `content/ch02.md` → lint → ảnh → build → Owner duyệt (→ prompt v3 nếu cần). Xoá `content/ch00-sample.md`.
+- ~~**P2** Pilot Ch2 (Axial Age)~~ — xong. 33 nhân vật, lint 0 lỗi, 33/33 Q-ID khớp Wikidata.
 - **P3** Sản xuất Ch3 → Ch1 → Ch4 (2 phần) → Ch5 (2 phần) → Ch6…Ch11; ZIP mỗi 3 chapter.
+  **Mỗi chapter phải qua một lượt agent đánh giá độc lập trước khi commit** — xem `CONTRIBUTING.md`, mục *Quy trình một chapter*.
 - **P4** Rà soát toàn cục: trùng nhân vật, liên kết tên → ID, hai chiều, 10% nguồn, ảnh/chú thích.
 - **P5** Overview: timeline toàn cục + graph dòng chảy tư tưởng bằng D3, bộ lọc, thống kê xuyên vùng, (bản đồ).
 - **P6** Bàn giao: rà credits, ZIP cuối, tuỳ chọn deploy.

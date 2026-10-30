@@ -164,8 +164,11 @@ def topnav(ch_no: int | None, chapters: list[dict], depth: int) -> str:
 
 def footer(depth: int) -> str:
     rel = "../" * depth
-    return (f'<div class="footer">{E(C.PROJECT["title"])} · bản dựng {E(C.PROJECT["version"])} · HTML sinh bởi build.py từ content/*.md · '
-            f'Dữ liệu danh tính/niên đại: <a href="https://www.wikidata.org" rel="noopener">Wikidata</a> (CC0) · Ảnh: <a href="{rel}credits.html">Credits</a></div>')
+    return (f'<div class="footer">{E(C.PROJECT["title"])} · bản dựng {E(C.PROJECT["version"])} · HTML sinh bởi build.py từ content/*.md<br>'
+            f'<b>Văn xuôi do mô hình AI (Claude) soạn theo prompt cố định, chưa qua bình duyệt chuyên môn</b> — '
+            f'<a href="{rel}overview.html#ve-du-an">đọc giới hạn của dự án</a> · '
+            f'Dữ liệu danh tính/niên đại: <a href="https://www.wikidata.org" rel="noopener">Wikidata</a> (CC0) · '
+            f'Ảnh: <a href="{rel}credits.html">Credits</a> · Mã và văn bản: MIT</div>')
 
 
 # ============================================================ ảnh
@@ -238,26 +241,26 @@ def person_card(p: dict, persons: dict, images: dict, wd_cache: dict, depth: int
                 li.append('<li class="muted">Không xác định</li>')
                 continue
             li.append(f'<li>{anchor_link(l["target"], persons, False)} <span class="badge rel rel-{E(C.slug(l["relation"]))}">{E(l["relation"])}</span> <span class="badge ev ev-{E(C.slug(l["evidence"]))}">{E(l["evidence"])}</span></li>')
-        return f'<div class="sec"><b>{title}</b><ul class="links">{"".join(li)}</ul></div>'
+        return f'<div class="sec"><h4>{title}</h4><ul class="links">{"".join(li)}</ul></div>'
 
     # cạnh ngược: ai ghi "Kế thừa từ" người này (tính tự động)
     rev = [(q, l) for q in persons.values() for l in q["inherits"] if l["target"] == p["id"]]
     rev_html = ""
     if rev:
         li = "".join(f'<li>{anchor_link(q["id"], persons, False)} <span class="badge rel rel-{E(C.slug(l["relation"]))}">{E(l["relation"])}</span> <span class="badge ev ev-{E(C.slug(l["evidence"]))}">{E(l["evidence"])}</span></li>' for q, l in rev)
-        rev_html = f'<div class="sec"><b>Được ghi là nguồn kế thừa bởi</b> <span class="muted small">(tự động từ dữ liệu)</span><ul class="links">{li}</ul></div>'
+        rev_html = f'<div class="sec"><h4>Được ghi là nguồn kế thừa bởi <span class="muted small">(tự động từ dữ liệu)</span></h4><ul class="links">{li}</ul></div>'
 
     return f'''<article class="person" id="{E(p["id"])}">
   {figure_html(p, images, wd_cache, depth)}
   <div class="body">
     <h3><a class="anchor" href="#{E(p["id"])}">#</a>{E(p["name_vi"])}{labels}{alive} <span class="orig">{E(p["name_orig"])}</span></h3>
     <div class="badges">{" ".join(badges)}</div>
-    <div class="sec"><b>Tư tưởng / đóng góp chính</b>{md_inline(p["ideas"])}</div>
-    <div class="sec"><b>Vì sao chọn</b>{md_inline(p["why"])}</div>
+    <div class="sec"><h4>Tư tưởng / đóng góp chính</h4>{md_inline(p["ideas"])}</div>
+    <div class="sec"><h4>Vì sao chọn</h4>{md_inline(p["why"])}</div>
     {links(p["inherits"], "Kế thừa từ")}
     {links(p["influences"], "Ảnh hưởng tới")}
     {rev_html}
-    <div class="sec sources"><b>Nguồn</b>{md_inline(p["sources"])}</div>
+    <div class="sec sources"><h4>Nguồn</h4>{md_inline(p["sources"])}</div>
     <div class="small muted mono">{E(p["id"])}</div>
   </div>
 </article>'''
@@ -322,20 +325,24 @@ def render_index(chapters: list[dict], persons: dict) -> str:
         app_items.append(_sidebar_chapter(cfg["no"], cfg["title"], cfg["label"], cfg["groups"], ch, num_label=cfg.get("num_label")))
     app_block = (f'<div class="group-title">Phụ lục <span class="muted small">(ngoài thống kê chính)</span></div>{"".join(app_items)}'
                  if app_items else "")
-    body = f'''<button class="menu-btn" id="menu-btn" aria-label="Menu">☰</button>
-<aside class="sidebar" id="sidebar">
+    body = f'''<a class="skip-link" href="#frame">Bỏ qua điều hướng, tới nội dung</a>
+<button class="menu-btn" id="menu-btn" aria-label="Mở mục lục" aria-controls="sidebar" aria-expanded="false">☰</button>
+<aside class="sidebar" id="sidebar" aria-label="Mục lục">
   <div class="brand"><a href="#intro" id="brand-link"><h1>{E(C.PROJECT["title"])}</h1></a><div class="sub">{E(C.PROJECT["subtitle"])}</div></div>
+  <label class="vh" for="q">Tìm nhân vật theo tên, lĩnh vực hoặc vùng</label>
   <input id="q" type="search" placeholder="Tìm tên, lĩnh vực, vùng…" autocomplete="off">
-  <div id="hits"></div>
+  <div id="hits" role="region" aria-live="polite" aria-label="Kết quả tìm kiếm"></div>
   <div class="group-title">Tổng quan</div>
   <a class="item top" href="overview.html" data-page="overview.html"><span class="lbl">Overview — timeline &amp; dòng chảy tư tưởng</span></a>
   <a class="item top" href="credits.html" data-page="credits.html"><span class="lbl">Credits — ảnh &amp; giấy phép</span></a>
+  <nav aria-label="Chapter và phụ lục">
   <div class="group-title">Chapter</div>
   {"".join(items)}
   {app_block}
+  </nav>
   <div class="foot">{len(persons)} nhân vật · bản dựng {E(C.PROJECT["version"])}<br><a id="open-new" href="overview.html" target="_blank">Mở trang hiện tại trong tab mới ↗</a></div>
 </aside>
-<main class="main"><div class="framebar"><button id="prev" title="Chapter trước">←</button><span id="crumb"></span><button id="next" title="Chapter sau">→</button></div><iframe id="frame" name="frame" src="overview.html" title="Nội dung"></iframe></main>
+<main class="main"><div class="framebar"><button id="prev" title="Chapter trước" aria-label="Chapter trước">←</button><span id="crumb"></span><button id="next" title="Chapter sau" aria-label="Chapter sau">→</button></div><iframe id="frame" name="frame" src="overview.html" title="Nội dung"></iframe></main>
 <script src="data/persons.js"></script>
 <script src="assets/app.js"></script>'''
     return page("Mục lục", body, depth=0, body_class="index")
@@ -440,13 +447,45 @@ def render_overview(chapters: list[dict], persons: dict, st: dict) -> str:
     body = topnav(None, chapters, 0) + f'''
 <header class="chapter-head"><div class="kicker">Overview</div><h1>Timeline toàn cục &amp; dòng chảy tư tưởng</h1>
 <div class="meta">{st["total_persons"]} nhân vật · {n_main_ch}/{len(C.CHAPTERS)} chapter có dữ liệu{app_meta} · <span class="badge sample">P5 — bản khung</span> graph D3 có bộ lọc sẽ hoàn thiện ở P5</div></header>
+<section class="note" id="ve-du-an">
+<h2>Về dự án — đọc trước khi dùng</h2>
+<p><b>Đây là dự án nghiên cứu cá nhân, không phải bách khoa thư.</b> Mục đích là dựng một bản đồ có cấu trúc về dòng chảy tư tưởng để tự học và để thảo luận, không phải để trích dẫn như tài liệu tham khảo học thuật.</p>
+<p><b>Phần văn xuôi do mô hình AI viết.</b> Toàn bộ phần "Tư tưởng / đóng góp chính", "Vì sao chọn", bối cảnh nhóm, giới thiệu chapter và ghi chú biên tập đều do mô hình ngôn ngữ (Claude của Anthropic) soạn theo một prompt cố định lưu tại <code>prompts/atlas-prompt.md</code>. Không có nhà sử học hay chuyên gia nào viết hoặc bình duyệt những đoạn này. Văn bản là <i>tổng hợp</i> do model thực hiện, không phải nghiên cứu sơ cấp.</p>
+<p><b>Phần nào KHÔNG do model quyết định.</b> Tên, năm sinh, năm mất, định danh nhân vật và liên kết ảnh được đối chiếu tự động với <a href="https://www.wikidata.org" rel="noopener">Wikidata</a> (CC0) bằng <code>build.py</code>; chênh lệch niên đại vượt ngưỡng sẽ bị báo và phải xử lý tay. Ảnh lấy từ Wikimedia Commons theo chính sách giấy phép cứng trong <code>fetch_images.py</code>. Cấu trúc chapter, từ vựng lĩnh vực/vùng/quan hệ và mọi ngưỡng kiểm tra là do người đặt ra.</p>
+<p><b>Về mục "Nguồn".</b> Mỗi nhân vật có 1–2 nguồn tham khảo do model liệt kê. Với nguồn có đường dẫn, sự tồn tại của trang đã được kiểm tự động trước khi đưa vào; với sách và mục từ bách khoa thì chỉ kiểm ở mức tên tài liệu. <b>Nội dung bên trong nguồn chưa được đối chiếu từng câu với phần văn xuôi.</b> Hãy coi mục Nguồn là điểm khởi đầu để tự kiểm tra, không phải bằng chứng đã được xác minh — trích dẫn sai hoặc bịa là lỗi đã biết của mô hình ngôn ngữ.</p>
+<p class="small muted">Nếu bạn phát hiện một chi tiết sai, một nguồn không tồn tại, hoặc một quy kết không có cơ sở — xin báo lại. Đó là cách dự án này khá lên.</p>
+</section>
+
+<section class="note" id="gioi-han">
+<h2>Giới hạn của atlas này</h2>
+<p><b>Đây không phải bảng xếp hạng.</b> Mỗi mục được chọn theo bốn tiêu chí, xếp theo thứ tự ưu tiên: (a) phạm vi ảnh hưởng, (b) độ bền theo thời gian, (c) tính nguyên bản, (d) counterfactual — nếu không có người này thì thay đổi có đến muộn hơn đáng kể không. Bốn tiêu chí đó là một khung do người đặt ra, không phải một phép đo. Đổi khung thì đổi danh sách. Mục "Vì sao chọn" của mỗi nhân vật nêu đích danh 1–2 người cùng thời đã bị loại và lý do, để bạn tự đánh giá được phán đoán đó thay vì phải tin.</p>
+<p><b>Mỗi nhóm tối đa 10 người.</b> Đó là ràng buộc của định dạng, không phải kết luận lịch sử. Nhiều nhân vật xứng đáng bị loại chỉ vì nhóm đã đầy; danh sách bị loại và lý do nằm ở mục "Ghi chú biên tập" cuối mỗi chapter — nên đọc phần đó cùng với danh sách chính.</p>
+<p><b>Độ sâu nguồn rất mỏng.</b> Mỗi mục dẫn 1–2 nguồn. Đủ để lần ra đầu mối, không đủ để dùng làm căn cứ. Đừng trích atlas này trong bài viết học thuật — hãy đi tới nguồn, rồi trích nguồn.</p>
+<p><b>Niên đại nhiều mục không chắc chắn.</b> Huy hiệu "niên đại: Cao / Trung bình / Thấp" trên mỗi thẻ là mức tin cậy của chính niên đại đó. Với nhân vật cổ đại, trường "năm" đôi khi là khoảng hoạt động hoặc thời gian trị vì chứ không phải năm sinh–mất, và điều này được ghi rõ trong Ghi chú biên tập. Có những trường hợp giới nghiên cứu lệch nhau hàng trăm năm — atlas ghi nhận sự bất định đó thay vì giấu đi.</p>
+<p><b>Thiên lệch tư liệu, không chỉ thiên lệch châu Âu.</b> Prompt research có chỉ thị chủ động xét Trung Hoa, Ấn Độ, Ba Tư, thế giới Hồi giáo, châu Phi, châu Mỹ và Đông Nam Á; phân bố theo vùng được công bố ngay trên trang này để bạn tự kiểm tra thay vì phải tin lời hứa. Nhưng còn một thiên lệch sâu hơn không sửa được bằng ý chí: <b>bản thân tư liệu đã thiên lệch</b>. Nền văn minh nào có chữ viết sớm, có truyền thống chép sử, có văn bản sống sót thì có tên người; nền văn minh nào không, thì không. Văn hoá Đông Sơn để lại trống đồng và kỹ thuật đúc đồng ở trình độ cao mà không để lại một cái tên nào — nên nó vắng mặt. Vắng mặt ở đây nghĩa là <i>không có tên được ghi lại</i>, không phải <i>không có đóng góp</i>.</p>
+<p><b>Phụ lục Việt Nam dùng thước đo khác.</b> Phụ lục giữ nguyên bốn tiêu chí nhưng đổi hệ quy chiếu: ảnh hưởng được đo trong phạm vi Việt Nam và Đông Nam Á, không phải toàn nhân loại. Vì là hai thước đo khác nhau nên phụ lục <b>không</b> được tính vào thống kê và lưới độ phủ trên trang này. Đừng so sánh trực tiếp một mục ở phụ lục với một mục ở chapter chính — chúng không đo cùng một thứ.</p>
+<p><b>"Ảnh hưởng" không có nghĩa là "đáng ngưỡng mộ".</b> Atlas ghi nhận mức độ một người định hình đường đi của tư tưởng hay thiết chế về sau. Nhiều người trong danh sách đạt được điều đó bằng chinh phạt, cưỡng ép hoặc những cách mà hôm nay ta lên án. Có mặt trong atlas là một nhận định về hệ quả, không phải một lời tán thành.</p>
+</section>
+
+<section class="note" id="trung-lap">
+<h2>Về những giai đoạn còn tranh luận</h2>
+<p>Atlas đi qua nhiều giai đoạn mà giới sử học chưa thống nhất, và nhiều nhân vật còn trong ký ức sống của người đang đọc. Nguyên tắc làm việc gồm bốn điều:</p>
+<p><b>1. Ghi nhận tranh luận, không phân xử.</b> Khi một vấn đề còn chưa khép lại trong giới nghiên cứu — nhà Triệu có thuộc quốc thống Việt Nam hay không là ví dụ rõ nhất — atlas trình bày các lập trường và nguồn của chúng, rồi dừng ở đó. Mục đích là để bạn thấy được cuộc tranh luận, không phải để nhận một kết luận có sẵn.</p>
+<p><b>2. Nhân vật được chọn vì hệ quả, không vì lập trường.</b> Có mặt trong atlas nghĩa là người đó đã định hình đáng kể đường đi về sau — không phải một đánh giá đạo đức, không phải lời tán thành, cũng không phải lời lên án.</p>
+<p><b>3. Giai đoạn càng gần, kết luận càng tạm.</b> Tiêu chí (b) độ bền cần thời gian mới đo được. Vì vậy phụ lục Việt Nam dừng ở thế kỷ 20 và không lập nhóm thế kỷ 21; với giai đoạn 1954–1975, nhân vật của cả hai phía đều đã được xem xét theo cùng một bộ tiêu chí, và việc không mở rộng là vì chưa đủ độ lùi thời gian chứ không phải vì né tránh.</p>
+<p><b>4. Phân biệt sự kiện với quy kết.</b> Atlas nêu những gì có nguồn và tránh gán động cơ cho người đã khuất hay người còn sống. Với nhân vật đương đại hoặc mới qua đời, phạm vi chỉ gồm những gì đã được ghi chép công khai và liên quan trực tiếp tới ảnh hưởng của họ.</p>
+<p class="small muted">Nếu bạn thấy một mục nghiêng lệch, thiếu một lập trường có cơ sở, hoặc nêu sai một sự kiện — xin báo kèm nguồn. Phản hồi có nguồn sẽ được sửa; phản hồi chỉ là quan điểm sẽ được ghi nhận nhưng không làm đổi nội dung.</p>
+</section>
+
 <div class="note"><p><b>Trạng thái.</b> Trang này hiện chỉ gồm thống kê trung tính và độ phủ theo nhóm (sinh từ <code>data/persons.json</code>). Ở P5 sẽ bổ sung: timeline toàn cục và graph dòng chảy tư tưởng bằng D3 (đã vendored tại <code>assets/d3.min.js</code>), lọc theo loại quan hệ / lĩnh vực / vùng / giai đoạn, liên kết xuyên vùng theo thời gian, bản đồ vị trí. Việc đối chiếu với giả thuyết do Owner tự làm ngoài pipeline (§9).</p></div>
 
 <h2>Độ phủ theo nhóm (33 nhóm)</h2>
 <div class="grid-groups">{"".join(cells)}</div>
 
 <h2>Các chapter</h2>
-<table class="tbl"><tr><th>#</th><th>Chapter</th><th>Giai đoạn</th><th>Nhóm có dữ liệu</th><th>Nhân vật</th></tr>{"".join(rows)}</table>
+<div class="tbl-wrap"><table class="tbl">
+<thead><tr><th scope="col">#</th><th scope="col">Chapter</th><th scope="col">Giai đoạn</th><th scope="col">Nhóm có dữ liệu</th><th scope="col">Nhân vật</th></tr></thead>
+<tbody>{"".join(rows)}</tbody></table></div>
 
 <h2>Thống kê toàn bộ</h2>
 <div class="cards2">
@@ -481,7 +520,9 @@ def render_credits(chapters: list[dict], persons: dict, images: dict) -> str:
     body = topnav(None, chapters, 0) + f'''
 <header class="chapter-head"><div class="kicker">Credits</div><h1>Ảnh &amp; giấy phép</h1><div class="meta">{len(rows)} ảnh nhúng · {len(review)} chờ xem xét · {len(nolic)} thiếu giấy phép · {len(none)} không có ảnh</div></header>
 <div class="note"><p><b>Chính sách (PLAN §7.2).</b> Public domain / CC0: nhúng, vẫn ghi nguồn. CC BY / CC BY-SA: nhúng kèm tác giả, tên giấy phép có link, link tệp gốc và ghi chú "đã thu nhỏ". Ảnh có hạn chế quyền (quyền nhân thân, nhãn hiệu…): không nhúng tự động, chờ Owner. Thiếu hoặc không rõ giấy phép: không nhúng, chỉ đặt link tham khảo. Không có P18: link tới Wikipedia/Wikidata. Ảnh được tải về <code>assets/img/</code> (không hotlink) từ Wikimedia Commons theo P18 của <a href="https://www.wikidata.org" rel="noopener">Wikidata</a> (dữ liệu CC0). Override thủ công: <code>content/images.yaml</code>.</p></div>
-<table class="tbl"><tr><th></th><th>Nhân vật</th><th>Tệp gốc trên Commons</th><th>Tác giả</th><th>Giấy phép</th><th>Chú thích</th></tr>{"".join(rows) or '<tr><td colspan=6 class=muted>chưa có ảnh</td></tr>'}</table>
+<div class="tbl-wrap"><table class="tbl">
+<thead><tr><th scope="col"><span class="vh">Ảnh</span></th><th scope="col">Nhân vật</th><th scope="col">Tệp gốc trên Commons</th><th scope="col">Tác giả</th><th scope="col">Giấy phép</th><th scope="col">Chú thích</th></tr></thead>
+<tbody>{"".join(rows) or '<tr><td colspan=6 class=muted>chưa có ảnh</td></tr>'}</tbody></table></div>
 {"<h2>Chờ Owner xem xét</h2><ul>" + "".join(review) + "</ul>" if review else ""}
 {"<h2>Thiếu hoặc không rõ giấy phép (không nhúng)</h2><ul>" + "".join(nolic) + "</ul>" if nolic else ""}
 {"<h2>Không có ảnh (thiếu P18 hoặc chưa fetch)</h2><p class=small>" + " · ".join(none) + "</p>" if none else ""}
