@@ -24,7 +24,7 @@ Hãy research trước khi viết; ưu tiên nguồn học thuật (Stanford Enc
    (d) Counterfactual: nếu không có người này, thay đổi có đến muộn hơn đáng kể không.
 5. Đa dạng: mỗi nhóm phủ ít nhất 4 lĩnh vực và ít nhất 3 vùng khi tư liệu cho phép. Tránh thiên lệch châu Âu; chủ động xét Trung Hoa, Ấn Độ, Ba Tư, thế giới Hồi giáo, châu Phi, châu Mỹ, Đông Nam Á (bao gồm Việt Nam).
 6. Lĩnh vực chỉ dùng danh sách sau (tối đa 2 cho mỗi người):
-   Triết học · Tôn giáo/Tâm linh · Toán học · Khoa học tự nhiên · Y học · Kỹ thuật/Công nghệ · Chính trị/Nhà nước · Quân sự · Luật · Kinh tế · Văn học · Nghệ thuật/Kiến trúc · Sử học · Khám phá/Địa lý
+   Triết học · Tôn giáo/Tâm linh · Toán học · Khoa học tự nhiên · Y học · Kỹ thuật/Công nghệ · Chính trị/Nhà nước · Quân sự · Luật · Kinh tế · Văn học · Nghệ thuật/Kiến trúc · Sử học · Khám phá/Địa lý · Giáo dục · Ngôn ngữ học
 7. Vùng chỉ dùng: Đông Á · Nam Á · Đông Nam Á · Trung Đông/Bắc Phi · Châu Phi hạ Sahara · Châu Âu · Châu Mỹ · Trung Á · Châu Đại Dương
 8. Nhân vật truyền thuyết hoặc còn tranh cãi về sự tồn tại (vd. Moses, Laozi, Homer) vẫn được chọn nếu ảnh hưởng lớn, nhưng gắn nhãn [Truyền thuyết] hoặc [Tranh cãi lịch sử] ngay sau tên.
 9. Người còn sống: chỉ chọn khi ảnh hưởng đã kéo dài từ 10 năm trở lên.

@@ -70,7 +70,8 @@ def is_main(no: int | None) -> bool:
 
 # ---- PLAN §5: từ vựng cố định
 FIELDS = ["Triết học", "Tôn giáo/Tâm linh", "Toán học", "Khoa học tự nhiên", "Y học", "Kỹ thuật/Công nghệ",
-          "Chính trị/Nhà nước", "Quân sự", "Luật", "Kinh tế", "Văn học", "Nghệ thuật/Kiến trúc", "Sử học", "Khám phá/Địa lý"]
+          "Chính trị/Nhà nước", "Quân sự", "Luật", "Kinh tế", "Văn học", "Nghệ thuật/Kiến trúc", "Sử học", "Khám phá/Địa lý",
+          "Giáo dục", "Ngôn ngữ học"]
 REGIONS = ["Đông Á", "Nam Á", "Đông Nam Á", "Trung Đông/Bắc Phi", "Châu Phi hạ Sahara", "Châu Âu", "Châu Mỹ", "Trung Á", "Châu Đại Dương"]
 BIG_QUESTIONS = ["Vũ trụ", "Con người", "Thực tại", "Không áp dụng"]
 CONFIDENCE = ["Cao", "Trung bình", "Thấp"]
