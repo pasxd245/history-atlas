@@ -242,5 +242,3142 @@
    "enwiki": "Laozi"
   },
   "fetched": 1791959341
+ },
+ "wd:Q10261": {
+  "id": "Q10261",
+  "labels": {
+   "en": "Pythagoras",
+   "vi": "Pythagoras"
+  },
+  "aliases": {
+   "en": [
+    "Pythagoras from Samos",
+    "Samian Sage",
+    "Pythagoras of Samos"
+   ],
+   "vi": [
+    "Pytago"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -582,
+    "precision": 7,
+    "rank": "preferred"
+   },
+   {
+    "year": -550,
+    "precision": 7,
+    "rank": "normal"
+   },
+   {
+    "year": -582,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -580,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -575,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -572,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -571,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -570,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -490,
+    "precision": 8,
+    "rank": "preferred"
+   },
+   {
+    "year": -500,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -499,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -497,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -496,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -492,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -490,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Kapitolinischer Pythagoras.jpg",
+  "sitelinks": {
+   "viwiki": "Pythagoras",
+   "enwiki": "Pythagoras"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q125551": {
+  "id": "Q125551",
+  "labels": {
+   "vi": "Parmenides",
+   "en": "Parmenides"
+  },
+  "aliases": {
+   "en": [
+    "Parmenides of Elea"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -515,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -470,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Busto di Parmenide (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Parmenides",
+   "enwiki": "Parmenides"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q133337": {
+  "id": "Q133337",
+  "labels": {
+   "en": "Solon",
+   "vi": "Solon"
+  },
+  "aliases": {
+   "en": [
+    "Solon of Athens"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -630,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -638,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -635,
+    "precision": 8,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -560,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -558,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -559,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Ignoto, c.d. solone, replica del 90 dc ca da orig. greco del 110 ac. ca, 6143.JPG",
+  "sitelinks": {
+   "viwiki": "Solon",
+   "enwiki": "Solon"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q1423663": {
+  "id": "Q1423663",
+  "labels": {
+   "en": "Yajnavalkya"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -800,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -700,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Yajnavalkya and Janaka.jpg",
+  "sitelinks": {
+   "enwiki": "Yajnavalkya"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q158825": {
+  "id": "Q158825",
+  "labels": {
+   "en": "Jeremiah"
+  },
+  "aliases": {
+   "en": [
+    "Yirmiah",
+    "Yirmiyah",
+    "Yirmiyahu",
+    "Yirmiahu",
+    "Yirmiya",
+    "Jeremy",
+    "Yirmiyohu"
+   ]
+  },
+  "P31": [
+   "Q20643955"
+  ],
+  "P569": [
+   {
+    "year": -645,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -587,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Jeremiah.jpg",
+  "sitelinks": {
+   "enwiki": "Jeremiah"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q171191": {
+  "id": "Q171191",
+  "labels": {
+   "vi": "Ashurbanipal",
+   "en": "Ashurbanipal"
+  },
+  "aliases": {
+   "en": [
+    "Aššur-bāni-apli",
+    "Assurbanipal",
+    "mamellut"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -685,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -631,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Ashurbanipal, detail of a lion-hunt scene from Nineveh, 7th century BC, the British Museum.jpg",
+  "sitelinks": {
+   "viwiki": "Ashurbanipal",
+   "enwiki": "Ashurbanipal"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q188794": {
+  "id": "Q188794",
+  "labels": {
+   "en": "Isaiah",
+   "vi": "Isaiah"
+  },
+  "aliases": {},
+  "P31": [
+   "Q20643955"
+  ],
+  "P569": [
+   {
+    "year": -766,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -766,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -686,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -687,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Isaiah.jpg",
+  "sitelinks": {
+   "viwiki": "Isaiah",
+   "enwiki": "Isaiah"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q189725": {
+  "id": "Q189725",
+  "labels": {
+   "en": "Panini",
+   "vi": "Pāṇini"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -520,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -460,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Grammarian Panini.png",
+  "sitelinks": {
+   "viwiki": "Pāṇini",
+   "enwiki": "Pāṇini"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q201323": {
+  "id": "Q201323",
+  "labels": {
+   "en": "Archilochus of Paros"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -688,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -680,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 700,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -645,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Archilochus 01 pushkin.jpg",
+  "sitelinks": {
+   "enwiki": "Archilochus"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q210074": {
+  "id": "Q210074",
+  "labels": {
+   "vi": "Tiglath-Pileser III",
+   "en": "Tiglath-Pileser III"
+  },
+  "aliases": {
+   "en": [
+    "Pul"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [],
+  "P570": [
+   {
+    "year": -727,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Tilglath pileser iii.jpg",
+  "sitelinks": {
+   "viwiki": "Tiglath-Pileser III",
+   "enwiki": "Tiglath-Pileser III"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q213850": {
+  "id": "Q213850",
+  "labels": {
+   "en": "Amos"
+  },
+  "aliases": {
+   "en": [
+    "Amos the Prophet"
+   ]
+  },
+  "P31": [
+   "Q20643955",
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -814,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -740,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Amos-prophet.jpg",
+  "sitelinks": {
+   "enwiki": "Amos (prophet)"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q26825": {
+  "id": "Q26825",
+  "labels": {
+   "vi": "Herodotos",
+   "en": "Herodotus"
+  },
+  "aliases": {
+   "vi": [
+    "Hy-la-đa-đức",
+    "Hêrôđôt",
+    "Hērodotos",
+    "Herodotus"
+   ],
+   "en": [
+    "Herodotus of Halicarnassus",
+    "Herodotos",
+    "Father of History"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -484,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -425,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Marble bust of Herodotos MET DT11742 (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Herodotos",
+   "enwiki": "Herodotus"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q272411": {
+  "id": "Q272411",
+  "labels": {
+   "vi": "Mặc Tử",
+   "en": "Mozi"
+  },
+  "aliases": {
+   "vi": [
+    "Mặc Địch"
+   ],
+   "en": [
+    "Mocius",
+    "Mo Tzu",
+    "Mo Tse",
+    "Mo Tsu",
+    "Mo Zi",
+    "Mo Di",
+    "Micius",
+    "墨翟",
+    "Master Mo",
+    "Moztsu",
+    "Motzi",
+    "Motze",
+    "Mo Tsi"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -470,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -391,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Философ Мо-Цзы.jpg",
+  "sitelinks": {
+   "viwiki": "Mặc Tử",
+   "enwiki": "Mozi"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q2724299": {
+  "id": "Q2724299",
+  "labels": {
+   "en": "Aruni"
+  },
+  "aliases": {},
+  "P31": [
+   "Q19896979",
+   "Q5"
+  ],
+  "P569": [],
+  "P570": [],
+  "P18": null,
+  "sitelinks": {
+   "enwiki": "Uddālaka Āruṇi"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q28626": {
+  "id": "Q28626",
+  "labels": {
+   "vi": "Dracon",
+   "en": "Draco"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -650,
+    "precision": 8,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -600,
+    "precision": 8,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Draco engraving from 1833 (cropped) 1 1.jpg",
+  "sitelinks": {
+   "viwiki": "Drakon",
+   "enwiki": "Draco (legislator)"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q315695": {
+  "id": "Q315695",
+  "labels": {
+   "vi": "Piye",
+   "en": "Piye"
+  },
+  "aliases": {
+   "vi": [
+    "Piankhi"
+   ],
+   "en": [
+    "Piankhi",
+    "Piankhy"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -800,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -716,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Stele Piye submission Mariette.jpg",
+  "sitelinks": {
+   "viwiki": "Piye",
+   "enwiki": "Piye"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q35811": {
+  "id": "Q35811",
+  "labels": {
+   "vi": "Zarathushtra",
+   "en": "Zoroaster"
+  },
+  "aliases": {
+   "en": [
+    "Zarathushtra",
+    "Zarathoustra",
+    "Zarathusthra",
+    "Zerdusht",
+    "Zartusht",
+    "Zarathushtra Spitama",
+    "Zoroastre",
+    "Zardusht",
+    "Zurtasht",
+    "Zartosht"
+   ]
+  },
+  "P31": [
+   "Q5",
+   "Q18563354"
+  ],
+  "P569": [
+   {
+    "year": -628,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -551,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Zartosht 30salegee.jpg",
+  "sitelinks": {
+   "viwiki": "Zarathustra",
+   "enwiki": "Zoroaster"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q36303": {
+  "id": "Q36303",
+  "labels": {
+   "vi": "Thales",
+   "en": "Thales"
+  },
+  "aliases": {
+   "vi": [
+    "Ta-lét",
+    "Talet"
+   ],
+   "en": [
+    "Thales of Miletus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -625,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -650,
+    "precision": 7,
+    "rank": "normal"
+   },
+   {
+    "year": -650,
+    "precision": 7,
+    "rank": "normal"
+   },
+   {
+    "year": -640,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -640,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -639,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -634,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -630,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -650,
+    "precision": 7,
+    "rank": "normal"
+   },
+   {
+    "year": -625,
+    "precision": 8,
+    "rank": "normal"
+   },
+   {
+    "year": -624,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -624,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -624,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -620,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -545,
+    "precision": 8,
+    "rank": "preferred"
+   },
+   {
+    "year": -548,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -546,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -548,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -543,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -550,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -546,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -547,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -548,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -545,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Illustrerad Verldshistoria band I Ill 107.svg",
+  "sitelinks": {
+   "viwiki": "Thales",
+   "enwiki": "Thales of Miletus"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q37151": {
+  "id": "Q37151",
+  "labels": {
+   "vi": "Tôn Vũ",
+   "en": "Sun Tzu"
+  },
+  "aliases": {
+   "vi": [
+    "Tôn Vũ Tử",
+    "Tôn Tử",
+    "Tôn Võ",
+    "Tôn Võ Tử"
+   ],
+   "en": [
+    "Sun Wu",
+    "Suentzyy",
+    "Suen Tzyy"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -544,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -496,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -470,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "吴司马孙武.jpg",
+  "sitelinks": {
+   "viwiki": "Tôn Vũ",
+   "enwiki": "Sun Tzu"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q40939": {
+  "id": "Q40939",
+  "labels": {
+   "vi": "Aeschylus",
+   "en": "Aeschylus"
+  },
+  "aliases": {
+   "en": [
+    "Aeschylos",
+    "Æschylus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -525,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -456,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Aeschylusathens.jpg",
+  "sitelinks": {
+   "viwiki": "Aeschylus",
+   "enwiki": "Aeschylus"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q41980": {
+  "id": "Q41980",
+  "labels": {
+   "vi": "Democritos",
+   "en": "Democritus"
+  },
+  "aliases": {
+   "vi": [
+    "Démocrite",
+    "Democritus"
+   ],
+   "en": [
+    "Demokritos",
+    "Laughing Philosopher",
+    "Democritus of Abdera"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -460,
+    "precision": 8,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -360,
+    "precision": 8,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Bust of an unknown Greek - Museo archeologico nazionale di Napoli.jpg",
+  "sitelinks": {
+   "viwiki": "Democritos",
+   "enwiki": "Democritus"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q42458": {
+  "id": "Q42458",
+  "labels": {
+   "vi": "Anaximandros",
+   "en": "Anaximander"
+  },
+  "aliases": {
+   "en": [
+    "Anaximander of Miletus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -610,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -620,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -611,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -546,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -547,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -556,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -540,
+    "precision": 8,
+    "rank": "deprecated"
+   }
+  ],
+  "P18": "Anaximander Mosaic.jpg",
+  "sitelinks": {
+   "viwiki": "Anaximandros",
+   "enwiki": "Anaximander"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q44233": {
+  "id": "Q44233",
+  "labels": {
+   "vi": "Hesiodos",
+   "en": "Hesiod"
+  },
+  "aliases": {
+   "vi": [
+    "Hesiod"
+   ],
+   "en": [
+    "Hesiod of Ascra",
+    "Hesiodus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -776,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -700,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Pseudo-Seneca BM GR1962.8-24.1.jpg",
+  "sitelinks": {
+   "viwiki": "Hesiodos",
+   "enwiki": "Hesiod"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q44387": {
+  "id": "Q44387",
+  "labels": {
+   "vi": "Darius I của Ba Tư",
+   "en": "Darius I"
+  },
+  "aliases": {
+   "vi": [
+    "Darius Vĩ đại",
+    "Darius Đại đế của Ba Tư",
+    "Darius Đại đế",
+    "Darius I Đại đế",
+    "Darayavaush Đại đế",
+    "Darius I",
+    "Darius I, Đại đế"
+   ],
+   "en": [
+    "Darius I of Persia",
+    "Dareios",
+    "Dārayavahuš",
+    "Darayavaush",
+    "Dāryūsh",
+    "Dārayavauš",
+    "Darius the Great",
+    "Dāriyūsh"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -550,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -486,
+    "precision": 10,
+    "rank": "preferred"
+   },
+   {
+    "year": -486,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Darius the great. jpg.jpg",
+  "sitelinks": {
+   "viwiki": "Darius I",
+   "enwiki": "Darius the Great"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q457972": {
+  "id": "Q457972",
+  "labels": {
+   "en": "Guan Zhong",
+   "vi": "Quản Trọng"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -720,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -645,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Qihuangongguanzhong.jpg",
+  "sitelinks": {
+   "viwiki": "Quản Trọng",
+   "enwiki": "Guan Zhong"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q5264": {
+  "id": "Q5264",
+  "labels": {
+   "en": "Hippocrates",
+   "vi": "Hippocrates"
+  },
+  "aliases": {
+   "en": [
+    "Hippokrates of Kos",
+    "Hippokrates",
+    "Hippocrates II",
+    "Hippocrates of Cos"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -460,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -370,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Hippocrates rubens.jpg",
+  "sitelinks": {
+   "viwiki": "Hippocrates",
+   "enwiki": "Hippocrates"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q6691": {
+  "id": "Q6691",
+  "labels": {
+   "en": "Homer",
+   "vi": "Hómēros"
+  },
+  "aliases": {
+   "en": [
+    "Homerus",
+    "Homeros",
+    "Mæonides"
+   ]
+  },
+  "P31": [
+   "Q21070568",
+   "Q5",
+   "Q3375719"
+  ],
+  "P569": [
+   {
+    "year": -900,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -800,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Homer bust, Farnese collection (Naples).jpg",
+  "sitelinks": {
+   "viwiki": "Homeros",
+   "enwiki": "Homer"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q8423": {
+  "id": "Q8423",
+  "labels": {
+   "en": "Cyrus the Great",
+   "vi": "Cyrus Đại đế"
+  },
+  "aliases": {
+   "en": [
+    "King of Persia Kyros",
+    "Cyrus II the Elder",
+    "King Cyrus",
+    "King of Persia Cyrus II",
+    "Kabir Kurushi",
+    "King of Persia Siroe",
+    "King of Persia Cyrus",
+    "King of Persia Cyrus the Great",
+    "Cyrus II",
+    "King Cyrus the Great",
+    "Cyrus",
+    "Cyrus the Elder",
+    "Cyrus II of Persia",
+    "Kurosh"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -600,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -530,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Great Men and Famous Women Volume 1 - Cyrus the Great.png",
+  "sitelinks": {
+   "viwiki": "Cyrus Đại đế",
+   "enwiki": "Cyrus the Great"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q9422": {
+  "id": "Q9422",
+  "labels": {
+   "en": "Mahavira",
+   "vi": "Mahavira"
+  },
+  "aliases": {
+   "en": [
+    "Nirgrantha",
+    "Maha-ativeer",
+    "Vir",
+    "Mahavir Swami",
+    "Vardhaman Mahavir",
+    "Lord Mahavir",
+    "Vardhamāna Mahāvīra",
+    "Nigaṇṭha Nātaputta",
+    "Nātaputta",
+    "Mahaveera",
+    "Mahavir"
+   ],
+   "vi": [
+    "Phiệt-đà-ma-na"
+   ]
+  },
+  "P31": [
+   "Q1077817",
+   "Q21070568"
+  ],
+  "P569": [
+   {
+    "year": -599,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -540,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -527,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -468,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Mahavir.jpg",
+  "sitelinks": {
+   "viwiki": "Mahavira",
+   "enwiki": "Mahavira"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q9441": {
+  "id": "Q9441",
+  "labels": {
+   "en": "The Buddha",
+   "vi": "Siddhārtha Gautama"
+  },
+  "aliases": {
+   "en": [
+    "Buddhadeva",
+    "Trigya",
+    "Trigyesh",
+    "Mahatma Buddha",
+    "Lokapradīpa",
+    "Padmayani",
+    "Buddha",
+    "Sugata",
+    "Bhagwan Buddha",
+    "Sakya-muni",
+    "Sakyamuni",
+    "Shakyasimha",
+    "Shakyamuni Buddha",
+    "Sakyasinha",
+    "Siddhartha Gautama",
+    "Khajit",
+    "Munish",
+    "Gautama Buddha",
+    "Shakyamuni",
+    "Gotama Buddha",
+    "Devarajalu",
+    "Fo",
+    "Prabudha",
+    "Tathagata Buddha",
+    "Lord Buddha",
+    "Gautam Buddha"
+   ],
+   "vi": [
+    "Tất-đạt-đa Cồ-đàm",
+    "Thích-ca Mâu-ni",
+    "Pháp Giai"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -500,
+    "precision": 6,
+    "rank": "preferred"
+   },
+   {
+    "year": -563,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": -623,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -500,
+    "precision": 6,
+    "rank": "preferred"
+   },
+   {
+    "year": -483,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -543,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Buddha in Sarnath Museum (Dhammajak Mutra).jpg",
+  "sitelinks": {
+   "viwiki": "Thích-ca Mâu-ni",
+   "enwiki": "The Buddha"
+  },
+  "fetched": 1793208809
+ },
+ "wd:Q1076219": {
+  "id": "Q1076219",
+  "labels": {
+   "vi": "Vạn Hạnh",
+   "en": "Van Hanh"
+  },
+  "aliases": {
+   "vi": [
+    "Thiền sư Vạn Hạnh",
+    "Sư Vạn Hạnh"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 938,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1025,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Vạn Hạnh",
+   "enwiki": "Vạn Hạnh"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q10831250": {
+  "id": "Q10831250",
+  "labels": {
+   "vi": "Tôn Thất Tùng",
+   "en": "Tôn Thất Tùng"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1912,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1912,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1982,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1982,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Professor Tôn Thất Tùng (1947).jpg",
+  "sitelinks": {
+   "viwiki": "Tôn Thất Tùng"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q1155893": {
+  "id": "Q1155893",
+  "labels": {
+   "vi": "Chu Văn An",
+   "en": "Chu Văn An"
+  },
+  "aliases": {
+   "vi": [
+    "Chu Văn Trinh",
+    "Chu An"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1292,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1370,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Chu Văn An statue.jpg",
+  "sitelinks": {
+   "viwiki": "Chu Văn An",
+   "enwiki": "Chu Văn An"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q1184365": {
+  "id": "Q1184365",
+  "labels": {
+   "en": "Đinh Bộ Lĩnh",
+   "vi": "Đinh Tiên Hoàng"
+  },
+  "aliases": {
+   "vi": [
+    "Đinh Bộ Lĩnh",
+    "Đinh Tiên Hoàng Đế",
+    "Đinh Hoàn"
+   ],
+   "en": [
+    "Đinh Hoàn",
+    "Đinh Tiên Hoàng"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 924,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 979,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "VuaDinhTienHoang.jpg",
+  "sitelinks": {
+   "viwiki": "Đinh Tiên Hoàng",
+   "enwiki": "Đinh Bộ Lĩnh"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q1195391": {
+  "id": "Q1195391",
+  "labels": {
+   "vi": "Lê Thái Tổ",
+   "en": "Lê Thái Tổ"
+  },
+  "aliases": {
+   "vi": [
+    "Lê Lợi",
+    "Bình Định vương"
+   ],
+   "en": [
+    "Lê Lợi"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1384,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1433,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Le Loi statue.JPG",
+  "sitelinks": {
+   "viwiki": "Lê Thái Tổ",
+   "enwiki": "Lê Lợi"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q1274690": {
+  "id": "Q1274690",
+  "labels": {
+   "vi": "An Dương Vương",
+   "en": "An Dương Vương"
+  },
+  "aliases": {
+   "vi": [
+    "Thục Phán"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -250,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -207,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "AnDuongVuong.jpg",
+  "sitelinks": {
+   "viwiki": "An Dương Vương",
+   "enwiki": "An Dương Vương"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q1319152": {
+  "id": "Q1319152",
+  "labels": {
+   "vi": "Hồ Quý Ly",
+   "en": "Hồ Quý Ly"
+  },
+  "aliases": {
+   "vi": [
+    "Lê Quý Ly",
+    "Hồ Quí Li"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1336,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1407,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Hồ Quý Ly",
+   "enwiki": "Hồ Quý Ly"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q1347181": {
+  "id": "Q1347181",
+  "labels": {
+   "vi": "Nguyễn Trãi",
+   "en": "Nguyen Trai"
+  },
+  "aliases": {
+   "vi": [
+    "Ức Trai",
+    "Lê Trãi",
+    "Nguyen Trai",
+    "阮廌",
+    "抑齋"
+   ],
+   "en": [
+    "Nguyễn Trãi",
+    "Uc Trai",
+    "Ức Trai",
+    "抑齋",
+    "阮廌"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1380,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1442,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Nguyen Trai.jpg",
+  "sitelinks": {
+   "viwiki": "Nguyễn Trãi",
+   "enwiki": "Nguyễn Trãi"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q1771050": {
+  "id": "Q1771050",
+  "labels": {
+   "vi": "Lê Thánh Tông",
+   "en": "Lê Thánh Tông"
+  },
+  "aliases": {
+   "vi": [
+    "Hồng Ðức",
+    "Lê Thuần Đế",
+    "Lê Tư Thành",
+    "Hồng Đức",
+    "Lê Hạo",
+    "Lê Thánh Tôn"
+   ],
+   "en": [
+    "Le Thanh Tong"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1442,
+    "precision": 10,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1497,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Lê Thánh Tông.jpg",
+  "sitelinks": {
+   "viwiki": "Lê Thánh Tông",
+   "enwiki": "Lê Thánh Tông"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q179910": {
+  "id": "Q179910",
+  "labels": {
+   "en": "Võ Nguyên Giáp",
+   "vi": "Võ Nguyên Giáp"
+  },
+  "aliases": {
+   "en": [
+    "general Giap",
+    "Vo Nguyen Giap"
+   ],
+   "vi": [
+    "anh Văn",
+    "tướng Giáp",
+    "Võ Giáp"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1911,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 2013,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Mr. Vo Nguyen Giap.jpg",
+  "sitelinks": {
+   "viwiki": "Võ Nguyên Giáp",
+   "enwiki": "Võ Nguyên Giáp"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q210417": {
+  "id": "Q210417",
+  "labels": {
+   "en": "Gia Long",
+   "vi": "Gia Long"
+  },
+  "aliases": {
+   "vi": [
+    "Nguyễn Phước Ánh",
+    "Khai thiên Hoằng đạo Lập kỷ Thùy thống Thần văn Thánh vũ Tuấn đức Long công Chí nhân Đại hiếu Cao Hoàng đế",
+    "Nguyễn Phước Noãn",
+    "Hoàng Đế Gia Long",
+    "Nguyễn Phúc Noãn",
+    "Nguyễn Phúc Ánh",
+    "Nguyễn Phước Chủng",
+    "Nguyễn Ánh",
+    "Nguyễn Thế Tổ",
+    "Nguyễn Phúc Chủng",
+    "Nguyễn Vương"
+   ],
+   "en": [
+    "Nguyễn Phúc Ánh",
+    "Nguyễn Ánh"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1762,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1820,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Emperor Gia Long.jpg",
+  "sitelinks": {
+   "viwiki": "Gia Long",
+   "enwiki": "Gia Long"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q2227236": {
+  "id": "Q2227236",
+  "labels": {
+   "vi": "Nguyễn Bỉnh Khiêm",
+   "en": "Nguyen Binh Khiem"
+  },
+  "aliases": {
+   "vi": [
+    "Bạch Vân Cư Sĩ",
+    "Tuyết Giang phu tử",
+    "Trạng Trình"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1491,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1585,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Cao Dai three saints signing an accord.jpg",
+  "sitelinks": {
+   "viwiki": "Nguyễn Bỉnh Khiêm",
+   "enwiki": "Nguyễn Bỉnh Khiêm"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q25418142": {
+  "id": "Q25418142",
+  "labels": {
+   "vi": "Trưng Trắc",
+   "en": "Trung Trac"
+  },
+  "aliases": {
+   "en": [
+    "Tru'ng Tra̐c",
+    "Trưng sisters",
+    "Trưng Queen"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 14,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 43,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Trưng Trắc",
+   "enwiki": "Trưng Trắc"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q269989": {
+  "id": "Q269989",
+  "labels": {
+   "vi": "Bà Triệu",
+   "en": "Bà Triệu"
+  },
+  "aliases": {
+   "vi": [
+    "Triệu Thị Trinh",
+    "Triệu Trinh Nương",
+    "Nhuỵ Kiều tướng quân",
+    "Khởi nghĩa Bà Triệu"
+   ],
+   "en": [
+    "Triệu Thị Trinh",
+    "Triệu Ẩu",
+    "Lady Triệu"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 225,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 248,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Ba trieu cuoi voi.jpg",
+  "sitelinks": {
+   "viwiki": "Bà Triệu",
+   "enwiki": "Lady Triệu"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q2705303": {
+  "id": "Q2705303",
+  "labels": {
+   "vi": "Phan Châu Trinh",
+   "en": "Phan Châu Trinh"
+  },
+  "aliases": {
+   "vi": [
+    "Phan Tây Hồ",
+    "Phan Chu Trinh",
+    "Hy Mã",
+    "Tử Cán"
+   ],
+   "en": [
+    "Phan Chu Trinh",
+    "Hy Mã",
+    "Tây Hồ"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1872,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1926,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Phan Chau Trinh.jpg",
+  "sitelinks": {
+   "viwiki": "Phan Châu Trinh",
+   "enwiki": "Phan Châu Trinh"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q3087774": {
+  "id": "Q3087774",
+  "labels": {
+   "vi": "Nguyễn Hoàng",
+   "en": "Nguyen Hoang"
+  },
+  "aliases": {
+   "vi": [
+    "Chúa Nguyễn Hoàng",
+    "Nguyễn Tiên Chúa",
+    "Nguyễn Thái Tổ",
+    "Chúa Tiên",
+    "Nguyễn Liệt Tổ"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1525,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1613,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Nguyen hoang.jpg",
+  "sitelinks": {
+   "viwiki": "Nguyễn Hoàng",
+   "enwiki": "Nguyễn Hoàng"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q310913": {
+  "id": "Q310913",
+  "labels": {
+   "en": "Thích Nhất Hạnh",
+   "vi": "Thích Nhất Hạnh"
+  },
+  "aliases": {
+   "vi": [
+    "Nguyễn Xuân Bảo"
+   ],
+   "en": [
+    "Nhat Hanh",
+    "Nguyễn Đình Lang",
+    "Nguyễn Xuân Bảo",
+    "Trừng Quang",
+    "Phùng Xuân",
+    "Thầy Nhất Hạnh",
+    "Thiền Sư Nhất Hạnh",
+    "Thich Nhat Hanh"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1926,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 2022,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Thich Nhat Hanh 12 (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Thích Nhất Hạnh",
+   "enwiki": "Thích Nhất Hạnh"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q313322": {
+  "id": "Q313322",
+  "labels": {
+   "vi": "Nguyễn Du",
+   "en": "Nguyễn Du"
+  },
+  "aliases": {
+   "vi": [
+    "Tố Như",
+    "Thanh Hiên",
+    "Hồng Sơn lạp hộ"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1766,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1765,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1820,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1820,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Tượng đài cụ Nguyễn Du.jpg",
+  "sitelinks": {
+   "viwiki": "Nguyễn Du",
+   "enwiki": "Nguyễn Du"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q336653": {
+  "id": "Q336653",
+  "labels": {
+   "en": "Alexandre de Rhodes",
+   "vi": "Alexandre de Rhodes"
+  },
+  "aliases": {
+   "vi": [
+    "Đắc Lộ",
+    "A-lịch-sơn Đắc Lộ"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1591,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1593,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1660,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Derhodes.jpg",
+  "sitelinks": {
+   "viwiki": "Alexandre de Rhodes",
+   "enwiki": "Alexandre de Rhodes"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q36014": {
+  "id": "Q36014",
+  "labels": {
+   "en": "Ho Chi Minh"
+  },
+  "aliases": {
+   "vi": [
+    "Cụ Hồ",
+    "Chiến Thắng",
+    "Lê Ba",
+    "Ông Lu",
+    "Line",
+    "Chen Vang",
+    "Nguyễn Du Kích",
+    "T.L.",
+    "Bình Sơn",
+    "Cuồng Điệt Tất Thành, C.Đ. Tất Thành",
+    "WANG",
+    "T.Lan",
+    "Thanh Lan",
+    "Lin",
+    "Nguyễn Sinh Côn",
+    "A.P",
+    "La Lập",
+    "Tất Thành",
+    "NGUYỄN.Ái.Quốc",
+    "Nguyễn Tất Thành",
+    "Bác",
+    "Đ.X.",
+    "Hồ Quang",
+    "N.",
+    "Lý Mỗ",
+    "Nilốxki",
+    "C.B",
+    "Thầu Chín",
+    "N.A.Q",
+    "Henri Tren",
+    "Q.T.",
+    "H.T.",
+    "NG.A.Q",
+    "XX.",
+    "N. ÁI QUỐC",
+    "Lê Nhân",
+    "N.K.",
+    "V.",
+    "VICHTO",
+    "Bác Hồ",
+    "H.B",
+    "C.M.Hồ",
+    "Văn Ba",
+    "Din",
+    "Nguyễn",
+    "Vương",
+    "N.A.K.",
+    "Cha già dân tộc",
+    "Tân Sinh",
+    "Sung Man Cho",
+    "H.C.M.",
+    "Pôn",
+    "Albert de Pouvourville",
+    "Nói Thật",
+    "Nguyễn Ái Dân",
+    "Lý Thụy",
+    "Paul Tất Thành",
+    "Chú Nguyễn",
+    "Trần Thắng Lợi",
+    "C.K.",
+    "Thu Giang",
+    "Tân Trào",
+    "V.K.",
+    "Hồ",
+    "Chiến Sĩ",
+    "L.T.",
+    "X.Y.Z.",
+    "Mai Hữu Phúc",
+    "Lý An Nam",
+    "Nguyễn Văn Ba",
+    "P.C.Lin",
+    "Trần Lực",
+    "A.G",
+    "HOWANG T.S.",
+    "Q.TH.",
+    "X.",
+    "Tống Văn Sơ"
+   ],
+   "en": [
+    "La Lập",
+    "Tất Thành",
+    "Uncle Hồ",
+    "Trần Thắng Lợi",
+    "Chiến Thắng",
+    "Thu Giang",
+    "Tân Trào",
+    "Nguyễn Tất Thành",
+    "Văn Ba",
+    "Chairman Ho Chi Minh",
+    "Lê Ba",
+    "Hồ Quang",
+    "Hồ",
+    "Nilốxki",
+    "Lý Mỗ",
+    "Chiến Sĩ",
+    "Ông Lu",
+    "Cuồng Điệt Tất Thành",
+    "Thầu Chín",
+    "Henri Tren",
+    "Vương",
+    "Nguyễn Sinh Công",
+    "Mai Hữu Phúc",
+    "Tân Sinh",
+    "Sung Man Cho",
+    "Chen Vang",
+    "Nguyễn Du Kích",
+    "Lý An Nam",
+    "Nguyễn Văn Ba",
+    "Uncle Ho",
+    "Bình Sơn",
+    "Trần Lực",
+    "Pôn",
+    "Albert de Pouvourville",
+    "Lê Nhân",
+    "Thanh Lan",
+    "Tống Văn Sơ",
+    "Lin",
+    "Nói Thật",
+    "Nguyễn Ái Dân",
+    "Lý Thụy",
+    "Paul Tất Thành",
+    "Bác Hồ"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1890,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1969,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Ho Chi Minh 1946.jpg",
+  "sitelinks": {
+   "viwiki": "Hồ Chí Minh",
+   "enwiki": "Ho Chi Minh"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q379775": {
+  "id": "Q379775",
+  "labels": {
+   "en": "Quang Trung",
+   "vi": "Quang Trung"
+  },
+  "aliases": {
+   "vi": [
+    "Nguyễn Văn Huệ",
+    "Hồ Thơm",
+    "Nguyễn Quang Bình",
+    "Bắc Bình Vương",
+    "Vũ Hoàng Đế",
+    "Tây Sơn Thái Tổ",
+    "Tây Sơn Vũ Hoàng Đế",
+    "Nguyễn Huệ"
+   ],
+   "en": [
+    "Nguyễn Quang Bình",
+    "Ruan Guangping",
+    "Ruan Hui",
+    "Zhongchun",
+    "Nguyễn Huệ"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1752,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1792,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "A portrait painting depicting Annam King, Ruan Guangping.jpg",
+  "sitelinks": {
+   "viwiki": "Quang Trung",
+   "enwiki": "Quang Trung"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q4111528": {
+  "id": "Q4111528",
+  "labels": {
+   "vi": "Tì-ni-đa-lưu-chi",
+   "en": "Vinītaruci"
+  },
+  "aliases": {
+   "vi": [
+    "Tì Ni Đa Lưu Chi",
+    "Tỳ Ni Đa Lưu Chi"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 550,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 594,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Tì-ni-đa-lưu-chi",
+   "enwiki": "Vinītaruci"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q465259": {
+  "id": "Q465259",
+  "labels": {
+   "en": "Hồ Xuân Hương",
+   "vi": "Hồ Xuân Hương"
+  },
+  "aliases": {
+   "vi": [
+    "Xuân Hương",
+    "Bà chúa thơ Nôm"
+   ],
+   "en": [
+    "Ho Xuan Huong"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1772,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1822,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Ho Xuan Huong.png",
+  "sitelinks": {
+   "viwiki": "Hồ Xuân Hương",
+   "enwiki": "Hồ Xuân Hương"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q511375": {
+  "id": "Q511375",
+  "labels": {
+   "en": "Trần Hưng Đạo",
+   "vi": "Trần Hưng Đạo"
+  },
+  "aliases": {
+   "vi": [
+    "Trần Quốc Tuấn",
+    "Hưng Ðạo vương",
+    "Hưng Đạo Đại vương",
+    "Đức Thánh Trần"
+   ],
+   "en": [
+    "Tran Quoc Tuan",
+    "Prince Hung Dao",
+    "Tran Hung Dao"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1228,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1300,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Tran Hung Dao - Nha Trang - 2.jpg",
+  "sitelinks": {
+   "viwiki": "Trần Hưng Đạo",
+   "enwiki": "Trần Hưng Đạo"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q5221504": {
+  "id": "Q5221504",
+  "labels": {
+   "vi": "Đào Duy Từ",
+   "en": "Dao Duy Tu"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1572,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1634,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Đào Duy Từ",
+   "enwiki": "Đào Duy Từ"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q6191512": {
+  "id": "Q6191512",
+  "labels": {
+   "en": "Jiang Gongfu",
+   "vi": "Khương Công Phụ"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 731,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 805,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Khương Công Phụ",
+   "enwiki": "Jiang Gongfu"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q655563": {
+  "id": "Q655563",
+  "labels": {
+   "en": "Pétrus Ky",
+   "vi": "Trương Vĩnh Ký"
+  },
+  "aliases": {
+   "en": [
+    "Petrus Ky",
+    "Trương Vĩnh Ký"
+   ],
+   "vi": [
+    "Pétrus Ký"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1837,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1898,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Truong Vinh Ky Vietnamese linguist.jpg",
+  "sitelinks": {
+   "viwiki": "Trương Vĩnh Ký",
+   "enwiki": "Petrus Trương Vĩnh Ký"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q6649966": {
+  "id": "Q6649966",
+  "labels": {
+   "vi": "Hải Thượng Lãn Ông",
+   "en": "Hải Thượng Lãn Ôn"
+  },
+  "aliases": {
+   "vi": [
+    "Lê Hữu Trác"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1720,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1720,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1791,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1791,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Hải Thượng Lãn Ông",
+   "enwiki": "Hải Thượng Lãn Ông"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q699904": {
+  "id": "Q699904",
+  "labels": {
+   "vi": "Ngô Quyền",
+   "en": "Ngo Quyen"
+  },
+  "aliases": {
+   "vi": [
+    "Tiền Ngô Vương",
+    "Ngô Tiên Chúa"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 897,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 944,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Ngô Quyền",
+   "enwiki": "Ngô Quyền"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q700879": {
+  "id": "Q700879",
+  "labels": {
+   "vi": "Mai Hắc Đế",
+   "en": "Mai Thuc Loan"
+  },
+  "aliases": {
+   "vi": [
+    "Mai Thúc Loan",
+    "Mai Huyền Thành"
+   ],
+   "en": [
+    "Mai Thúc Loan"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [],
+  "P570": [
+   {
+    "year": 723,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Mai Hắc Đế",
+   "enwiki": "Mai Thúc Loan"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q701895": {
+  "id": "Q701895",
+  "labels": {
+   "vi": "Triệu Vũ Đế",
+   "en": "Zhao Tuo"
+  },
+  "aliases": {
+   "vi": [
+    "Triệu Ðà",
+    "Triệu Vũ Vương",
+    "Triệu Vũ Ðế",
+    "Khai Thiên Thế Đạo Thánh Vũ Thần Triết Hoàng Đế",
+    "Nam Việt Vũ Đế"
+   ],
+   "en": [
+    "Triệu Đà",
+    "Triệu Vũ Đế",
+    "Triệu Vũ Vương"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -230,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -137,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "A statue of Zhao Tuo.jpg",
+  "sitelinks": {
+   "viwiki": "Triệu Vũ Vương",
+   "enwiki": "Zhao Tuo"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q702734": {
+  "id": "Q702734",
+  "labels": {
+   "vi": "Lý Thường Kiệt",
+   "en": "Lý Thường  Kiệt"
+  },
+  "aliases": {
+   "vi": [
+    "Ngô Tuấn"
+   ],
+   "en": [
+    "Ngô Tuấn"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1019,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1105,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Lý Thường Kiệt",
+   "enwiki": "Lý Thường Kiệt"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q703747": {
+  "id": "Q703747",
+  "labels": {
+   "vi": "Lê Quý Đôn",
+   "en": "Le Quy Don"
+  },
+  "aliases": {
+   "vi": [
+    "Lê Quý Ðôn",
+    "Lê Danh Phương",
+    "Lê Quí Đôn"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1725,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 1726,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1784,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Statue of Le Quy Don cropped.png",
+  "sitelinks": {
+   "viwiki": "Lê Quý Đôn",
+   "enwiki": "Lê Quý Đôn"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q708341": {
+  "id": "Q708341",
+  "labels": {
+   "vi": "Lý Nam Đế",
+   "en": "Lý Nam Đế"
+  },
+  "aliases": {
+   "vi": [
+    "Tiền Lý Nam Đế",
+    "Lý Bôn",
+    "Lý Bí"
+   ],
+   "en": [
+    "Li bon"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 503,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 548,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Emperor Ly Nam De.jpg",
+  "sitelinks": {
+   "viwiki": "Lý Nam Đế",
+   "enwiki": "Lý Nam Đế"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q712473": {
+  "id": "Q712473",
+  "labels": {
+   "vi": "Trần Thủ Độ",
+   "en": "Tran Thu Do"
+  },
+  "aliases": {
+   "vi": [
+    "Trung Vũ đại vương"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1194,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1264,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Trần Thủ Độ",
+   "enwiki": "Trần Thủ Độ"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q714924": {
+  "id": "Q714924",
+  "labels": {
+   "en": "Phan Bội Châu",
+   "vi": "Phan Bội Châu"
+  },
+  "aliases": {
+   "vi": [
+    "Hài Thu",
+    "Việt Ðiểu",
+    "Hàn Mãn Tử",
+    "Ðộc Kinh Tử",
+    "Sào Nam",
+    "Thị Hán",
+    "Ông già Bến Ngự",
+    "Phan Sào Nam",
+    "Phan Văn San"
+   ],
+   "en": [
+    "Độc Tỉnh Tử",
+    "Việt Điểu"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1867,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1940,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Phan Boi Chau.jpg",
+  "sitelinks": {
+   "viwiki": "Phan Bội Châu",
+   "enwiki": "Phan Bội Châu"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q716945": {
+  "id": "Q716945",
+  "labels": {
+   "vi": "Lý Thái Tổ",
+   "en": "Ly Thai To"
+  },
+  "aliases": {
+   "vi": [
+    "Thái Tổ Nhà Lý",
+    "Thần Vũ Hoàng Đế",
+    "Lý Công Uẩn"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 974,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1028,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Ly Thai To.jpg",
+  "sitelinks": {
+   "viwiki": "Lý Thái Tổ",
+   "enwiki": "Lý Thái Tổ"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q7188354": {
+  "id": "Q7188354",
+  "labels": {
+   "vi": "Phùng Hưng",
+   "en": "Phung Hung"
+  },
+  "aliases": {
+   "vi": [
+    "Bố Cái Đại Vương"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 761,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 802,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "TuongPhungHung.jpg",
+  "sitelinks": {
+   "viwiki": "Phùng Hưng",
+   "enwiki": "Phùng Hưng"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q72083": {
+  "id": "Q72083",
+  "labels": {
+   "vi": "Trần Nhân Tông",
+   "en": "Trần Nhân Tông"
+  },
+  "aliases": {
+   "vi": [
+    "Trần Khâm",
+    "Trần Nhật Tôn"
+   ],
+   "en": [
+    "Trần Khâm",
+    "Trần Nhật Tôn"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 1258,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1308,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Trần Nhân Tông.jpg",
+  "sitelinks": {
+   "viwiki": "Trần Nhân Tông",
+   "enwiki": "Trần Nhân Tông"
+  },
+  "fetched": 1793322915
+ },
+ "wd:Q736714": {
+  "id": "Q736714",
+  "labels": {
+   "vi": "Sĩ Nhiếp",
+   "en": "Shi Xie"
+  },
+  "aliases": {
+   "vi": [
+    "Sỹ Nhiếp",
+    "Sĩ Tiếp"
+   ],
+   "en": [
+    "Xie Shi"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": 137,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 226,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Sĩ Nhiếp",
+   "enwiki": "Shi Xie"
+  },
+  "fetched": 1793322915
  }
 }
