@@ -21,7 +21,7 @@
     "Phần văn xuôi của chapter do mô hình AI (Claude) viết theo prompt cố định tại `prompts/atlas-prompt.md`, không qua bình duyệt chuyên môn. Tên, niên đại và định danh được đối chiếu tự động với Wikidata; phần diễn giải, đánh giá ảnh hưởng và lựa chọn nhân vật là tổng hợp của model theo bốn tiêu chí (a)–(d), không phải kết luận của giới nghiên cứu. Mục Nguồn là điểm khởi đầu để tự kiểm tra, chưa được đối chiếu từng câu. Xem mục \"Về dự án\" ở trang Overview để biết giới hạn đầy đủ.",
     "**Ứng viên mạnh đã bị loại và lý do**",
     "- Thucydides (TK 5 TCN): bị Herodotus lấn chỗ ở lĩnh vực Sử học. Ông nghiêm ngặt hơn về phương pháp nhưng kế thừa thể loại đã có; nên cân nhắc lại ở P4 nếu muốn tách \"sử học phê phán\" khỏi \"sử học điều tra\".",
-    "- Heraclitus (TK 6–5 TCN): Parmenides được ưu tiên theo counterfactual. Đây là mục loại gây tiếc nhất của chapter; nhóm BCE06 còn đúng một chỗ dưới trần 12, và nếu Zarathustra chuyển sang Chapter 1 thì Heraclitus là ứng viên đầu tiên cho chỗ đó.",
+    "- Heraclitus (TK 6–5 TCN): Parmenides được ưu tiên theo counterfactual. Đây là mục loại gây tiếc nhất của chapter; nhóm BCE06 nay đã kín trần 12; Heraclitus chỉ có chỗ nếu Zarathustra chuyển sang Chapter 1.",
     "- Cleisthenes (k. 508 TCN): cải cách bộ lạc và chế độ bỏ phiếu bãi miễn của ông mang tính quyết định với dân chủ Athens, nhưng Solon đã đại diện cho mạch này và thắng ở tiêu chí counterfactual.",
     "- Pericles, Sophocles, Euripides, Protagoras, Zeno xứ Elea, Empedocles, Anaxagoras, Leucippus (TK 5 TCN): bị loại để tránh dồn quá nửa nhóm BCE05 vào Athens và Ionia.",
     "- Dương Chu (楊朱), Ngô Khởi (吳起), Tử Sản (子產), Tề Hoàn Công: các ứng viên Đông Á xếp sau Quản Trọng, Mặc Tử và Tôn Tử theo độ bền.",
@@ -32,7 +32,7 @@
     "- Gosāla (phái Ājīvika), Yāska, Patañjali: xếp sau Mahāvīra và Pāṇini trong cùng truyền thống Nam Á.",
     "- Āpastamba, Kātyāyana, Mānava (truyền thống Śulbasūtra): xếp sau Baudhāyana theo thứ tự tương đối của Pingree, dựa trên dấu vết vay mượn văn bản. Kātyāyana còn bị loại vì niên đại: Plofker đặt ông sau Pāṇini, tức thuộc Chapter 3.",
     "**Về độ phủ giới**",
-    "Bản thảo đầu của chapter có 33 nhân vật và không có người nữ nào, mà không nói gì về điều đó. Sappho (CH02-BCE06-11) được bổ sung sau bình duyệt. Tỉ lệ 1/35 phản ánh hai thứ chồng lên nhau, không nên đọc lẫn: trong cửa sổ 800–401 TCN rất ít phụ nữ để lại tác phẩm hoặc hành động được nguồn đương thời định danh; và chính việc chọn lọc, sao chép, lưu truyền của đời sau cũng đã lọc bớt. Sappho là trường hợp hiếm còn văn bản để đọc — và cũng chỉ còn khoảng 650 trên ước chừng 10.000 dòng. Ứng viên nữ đã rà và không chọn: Enheduanna (TK 23 TCN, thuộc Chapter 1); Gārgī Vācaknavī và Maitreyī (nhân vật đối thoại trong Bṛhadāraṇyaka Upaniṣad, không có tiểu sử độc lập — cùng giới hạn tư liệu với Yajnavalkya).",
+    "Bản thảo đầu của chapter có 33 nhân vật và không có người nữ nào, mà không nói gì về điều đó. Sappho (CH02-BCE06-11) được bổ sung sau bình duyệt. Tỉ lệ 1/38 phản ánh hai thứ chồng lên nhau, không nên đọc lẫn: trong cửa sổ 800–401 TCN rất ít phụ nữ để lại tác phẩm hoặc hành động được nguồn đương thời định danh; và chính việc chọn lọc, sao chép, lưu truyền của đời sau cũng đã lọc bớt. Sappho là trường hợp hiếm còn văn bản để đọc — và cũng chỉ còn khoảng 650 trên ước chừng 10.000 dòng. Ứng viên nữ đã rà và không chọn: Enheduanna (TK 23 TCN, thuộc Chapter 1); Gārgī Vācaknavī và Maitreyī (nhân vật đối thoại trong Bṛhadāraṇyaka Upaniṣad, không có tiểu sử độc lập — cùng giới hạn tư liệu với Yajnavalkya).",
     "**Ứng viên Việt Nam**",
     "Đã rà soát và không chọn được ai cho chapter này. Giai đoạn 800–401 TCN ở bắc Việt Nam tương ứng văn hoá Đông Sơn, với thành tựu vật chất rõ rệt — trống đồng Ngọc Lũ, kỹ thuật đúc đồng, canh tác lúa nước — nhưng không có nhân vật nào được định danh bằng nguồn đương thời. Các nhân vật truyền thống như Hùng Vương hay Thục Phán An Dương Vương chỉ xuất hiện trong thư tịch soạn từ thế kỷ 13–15 trở đi, không đủ cơ sở để gán niên đại hay đóng góp cá nhân theo chuẩn §5. Việt Nam sẽ xuất hiện sớm nhất ở Chapter 3 (Chiến Quốc – Tần Hán) hoặc Chapter 4.",
     "**Điểm cần kiểm chứng thêm**",
@@ -47,6 +47,10 @@
     "- Yajnavalkya (CH02-BCE07-07): bản thảo đầu xếp ông ở BCE08, trước Uddālaka một nhóm, và tự biện minh bằng tiêu chí nguyên bản. Sau bình duyệt đã chuyển về BCE07 — Olivelle, nguồn được dẫn, đặt cả Bṛhadāraṇyaka lẫn Chāndogya vào TK 7–6 TCN, và quy tắc dự án là xếp theo floruit.",
     "- Darius I (CH02-BCE05-10): sinh k. 550 TCN, lên ngôi 522 TCN, nên một phần đáng kể sự nghiệp nằm ở TK 6 TCN. Xếp vào BCE05 vì giai đoạn đế chế đạt quy mô và ổn định hành chính lớn nhất nằm sau năm 500 TCN.",
     "- Mặc Tử và Democritus: đời sống kéo sang TK 4 TCN, có thể cân nhắc chuyển sang Chapter 3 nếu Chapter 3 thiếu người.",
+    "- Baudhāyana (CH02-BCE08-08): Plofker cho biên 800–500 TCN; xếp BCE08 theo đầu cao của biên, cùng cách với Zarathustra theo niên đại truyền thống. Lấy giữa biên thì ông thuộc BCE07 hoặc BCE06, và khi đó chữ \"sớm nhất\" so với Pythagoras không còn đứng.",
+    "- Sappho (CH02-BCE06-11): floruit vắt qua ranh 601/600 TCN (Suda đặt Ol. 42 = 612–608; lưu đày Sicily k. 600; mất k. 570), nên BCE07 và BCE06 đều bảo vệ được. Chọn BCE06 vì phần lớn giai đoạn sáng tác và lưu đày nằm sau 600.",
+    "**Quy ước gán vùng cho Anatolia**",
+    "Bờ tây Anatolia có cả thành bang Hy Lạp lẫn vương quốc bản địa, cách nhau chưa tới trăm cây số. Chapter gán theo ngôn ngữ – văn hoá chứ không theo địa lý: Ionia (Homer, Thales, Anaximander) → Châu Âu; Lydia (Croesus) → Trung Đông/Bắc Phi. Quy ước này ảnh hưởng trực tiếp tới con số 39,5% Châu Âu, nên nói ra để người đọc tự điều chỉnh nếu không đồng ý.",
     "**Vấn đề từ vựng §5 — đã xử lý**",
     "Pāṇini (CH02-BCE05-08) là nhà ngữ pháp nhưng ban đầu phải ghi tạm \"Triết học, Văn học\" vì danh sách lĩnh vực cố định thiếu mục tương ứng. Owner đã bổ sung hai lĩnh vực **Giáo dục** và **Ngôn ngữ học** vào `atlaslib/common.py: FIELDS` và vào `prompts/atlas-prompt.md`; mục này nay ghi \"Ngôn ngữ học, Triết học\". Các chapter sau dùng được ngay cho Bhartṛhari, Sībawayh, Ferdinand de Saussure, và cho những nhà giáo dục như Comenius hay John Dewey."
    ],
@@ -545,8 +549,8 @@
     {
      "target": "CH02-BCE08-07",
      "relation": "kế thừa",
-     "evidence": "qua trường phái",
-     "raw": "CH02-BCE08-07 · kế thừa · qua trường phái",
+     "evidence": "trực tiếp",
+     "raw": "CH02-BCE08-07 · kế thừa · trực tiếp",
      "undetermined": false
     }
    ],
@@ -746,7 +750,7 @@
     "Không áp dụng"
    ],
    "ideas": "Theo 2 Các Vua 18:4, ông dẹp các nơi cao (bāmôt) và rắn đồng Nehushtan, dồn phụng tự về Jerusalem. Khảo cổ chia rẽ: điện thờ Arad và bàn thờ Beersheba bị dỡ trước 701 TCN (Herzog), song Na'aman và Edelman quy cho chiến tranh. Hơn 2.000 quai bình dấu lmlk (\"của nhà vua\"), đường hầm Siloam 533 m (2 Các Vua 20:20) và bulla tên ông khai quật ở Ophel cho thấy quyền lực Isaiah không có: đóng điện thờ, thu thuế, quyết định chiến tranh. Năm 701 TCN, lăng trụ Sennacherib kể 46 thành bị chiếm, 2 Các Vua kể quân Assyria bị diệt; cả hai thừa nhận Jerusalem không thất thủ. Đệ Nhị Luật và Josiah sẽ hệ thống hoá mô hình một đền thờ này.",
-   "why": "Cùng thời có Ahaz, cha ông, vua Judah k. 732–716 TCN, và Marduk-apla-iddina II (Merodach-baladan), vua Babylon 722–710 và 703 TCN chống Assyria. Ahaz bị loại theo counterfactual (d): ông thần phục Tiglath-Pileser III, không để lại thiết chế nào. Marduk-apla-iddina bị loại theo độ bền (b): bị Sennacherib đánh bật năm 702 TCN, Babylon chỉ độc lập lại từ 626 TCN. Hezekiah thắng ở tính nguyên bản (c) — bước tập trung phụng tự đầu tiên có dấu vết khảo cổ — và ở chất lượng chứng thực: bulla, bi ký Siloam, lăng trụ Assyria. Isaiah bổ sung, không cạnh tranh.",
+   "why": "Cùng thời có Ahaz, cha ông, vua Judah k. 732–716 TCN, và Marduk-apla-iddina II (Merodach-baladan), vua Babylon 722–710 và 703 TCN chống Assyria. Ahaz bị loại theo counterfactual (d): ông thần phục Tiglath-Pileser III, không để lại thiết chế nào. Marduk-apla-iddina bị loại theo độ bền (b): bị Sennacherib đánh bật năm 703/702 TCN, Babylon chỉ độc lập lại từ 626 TCN. Hezekiah thắng ở tính nguyên bản (c) — bước tập trung phụng tự đầu tiên có dấu vết khảo cổ — và ở chất lượng chứng thực: bulla, bi ký Siloam, lăng trụ Assyria. Isaiah bổ sung, không cạnh tranh.",
    "sources": "Lester L. Grabbe (chủ biên), *'Like a Bird in a Cage': The Invasion of Sennacherib in 701 BCE* (JSOT Supplement Series 363, Sheffield Academic Press, 2003); Israel Finkelstein và Neil Asher Silberman, \"Temple and Dynasty: Hezekiah, the Remaking of Judah and the Rise of the Pan-Israelite Ideology\", *Journal for the Study of the Old Testament* 30/3 (2006), 259–285.",
    "inherits": [
     {
@@ -759,26 +763,19 @@
     {
      "target": "CH02-BCE08-04",
      "relation": "kế thừa",
-     "evidence": "qua trường phái",
-     "raw": "CH02-BCE08-04 · kế thừa · qua trường phái",
+     "evidence": "trực tiếp",
+     "raw": "CH02-BCE08-04 · kế thừa · trực tiếp",
      "undetermined": false
     },
-    {
-     "target": "CH02-BCE08-05",
-     "relation": "phản bác",
-     "evidence": "suy đoán học giả",
-     "raw": "CH02-BCE08-05 · phản bác · suy đoán học giả",
-     "undetermined": false
-    }
-   ],
-   "influences": [
     {
      "target": "CH02-BCE07-08",
      "relation": "phản bác",
      "evidence": "trực tiếp",
      "raw": "CH02-BCE07-08 · phản bác · trực tiếp",
      "undetermined": false
-    },
+    }
+   ],
+   "influences": [
     {
      "target": "Josiah (vua Judah)",
      "relation": "kế thừa",
@@ -840,7 +837,7 @@
    "big_questions": [
     "Thực tại"
    ],
-   "ideas": "Baudhāyana Śulbasūtra là phần \"dây đo\" (śulba) trong bộ Kalpasūtra của trường phái Taittirīya, soạn để dựng bàn thờ lửa đúng diện tích quy định cho tế lễ śrauta: hình học ở đây sinh ra từ ràng buộc nghi lễ, không từ nhu cầu lý thuyết. Văn bản phát biểu quy tắc đường chéo cho hình chữ nhật bất kỳ — hình vuông trên đường chéo bằng tổng hai hình vuông trên hai cạnh — kèm các bộ ba (3,4,5), (5,12,13), (8,15,17), (12,35,37). Đây là phát biểu bằng lời ở dạng tổng quát sớm nhất còn lại của quan hệ về sau mang tên Pythagoras. Sách còn cho xấp xỉ √2 bằng phân số 577/408, đúng tới năm chữ số thập phân, và phép biến đổi gần đúng vuông–tròn.",
+   "ideas": "Baudhāyana Śulbasūtra là phần \"dây đo\" (śulba) trong bộ Kalpasūtra của trường phái Taittirīya, soạn để dựng bàn thờ lửa đúng diện tích quy định cho tế lễ śrauta: hình học ở đây sinh ra từ ràng buộc nghi lễ, không từ nhu cầu lý thuyết. Văn bản phát biểu quy tắc đường chéo cho hình chữ nhật bất kỳ — hình vuông trên đường chéo bằng tổng hai hình vuông trên hai cạnh — kèm các bộ ba (3,4,5), (5,12,13), (8,15,17), (12,35,37). Theo niên đại cao, đây là phát biểu bằng lời ở dạng tổng quát sớm nhất còn lại của quan hệ về sau mang tên Pythagoras. Sách còn cho xấp xỉ √2 bằng 577/408, đúng tới năm chữ số thập phân.",
    "why": "Ứng viên cùng truyền thống là Mānava, người Plofker xếp cùng tầng niên đại với ông, và Āpastamba, soạn Śulbasūtra kế tiếp khoảng 600 TCN. Baudhāyana thắng ở tính nguyên bản (c): Pingree xếp ba văn bản kia sau ông dựa trên dấu vết vay mượn, và cả ba chỉ chép lại xấp xỉ √2 cùng quy tắc đường chéo đã có ở ông. Về độ bền (b), bộ quy tắc này chi phối việc dựng bàn thờ Vệ Đà suốt nhiều thế kỷ. Kātyāyana bị loại vì soạn sau Pāṇini, không cùng thời.",
    "sources": "S. N. Sen và A. K. Bag, *The Śulbasūtras of Baudhāyana, Āpastamba, Kātyāyana and Mānava, with Text, English Translation and Commentary* (Indian National Science Academy, New Delhi, 1983); Kim Plofker, *Mathematics in India* (Princeton University Press, 2009), chương 2.",
    "inherits": [
@@ -1268,7 +1265,7 @@
    "big_questions": [
     "Con người"
    ],
-   "ideas": "Ngôn sứ chứng kiến Jerusalem thất thủ năm 587 TCN. Ông đưa ra ba ý có hệ quả dài: đền thờ không bảo đảm an toàn nếu dân bất công, nên tôn giáo tách được khỏi một địa điểm cụ thể; giao ước mới sẽ \"viết trong lòng\" chứ không trên bia đá, mở đường cho tôn giáo nội tâm và cá nhân; và trách nhiệm đạo đức thuộc về từng người chứ không truyền từ đời cha sang đời con. Sách Jeremiah cũng là văn bản ngôn sứ bộc lộ nhiều nhất sự giằng xé riêng tư của người nói, một dạng tự thuật hiếm trong văn chương Cận Đông cổ.",
+   "ideas": "Ngôn sứ chứng kiến Jerusalem thất thủ năm 587 TCN. Ông đưa ra ba ý có hệ quả dài: đền thờ không bảo đảm an toàn nếu dân bất công — bài giảng ở cửa đền bác niềm tin Sion bất khả xâm phạm mà việc Jerusalem sống sót năm 701 củng cố — nên tôn giáo tách khỏi một địa điểm; giao ước mới sẽ \"viết trong lòng\" chứ không trên bia đá, mở đường cho tôn giáo nội tâm và cá nhân; và trách nhiệm đạo đức thuộc về từng người, không truyền từ cha sang con. Sách Jeremiah cũng bộc lộ sự giằng xé riêng tư của người nói nhiều hơn mọi sách ngôn sứ khác, một dạng tự thuật hiếm ở Cận Đông cổ.",
    "why": "Cùng thời có Ezekiel, ngôn sứ thời lưu đày, và vua Josiah với cuộc cải cách tập trung phụng tự. Jeremiah được chọn theo counterfactual (d): chính luận điểm của ông về một giao ước không gắn với đền thờ đã giúp Do Thái giáo sống sót sau khi mất đền thờ, điều Ezekiel kế thừa chứ không khởi xướng. Về độ bền (b), khái niệm \"giao ước mới\" trở thành tên gọi của toàn bộ phần sau Kinh Thánh Kitô giáo.",
    "sources": "Britannica, mục \"Jeremiah\"; William L. Holladay, Jeremiah 1–2 (Hermeneia, 1986–89).",
    "inherits": [
@@ -1436,7 +1433,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Vua Assyria, nổi tiếng vì cuộc vây Jerusalem năm 701 TCN, nhưng dấu ấn bền nhất là kỹ thuật thuỷ lợi và đô thị. Từ 703 đến 688 TCN ông đào bốn hệ kênh đưa nước núi về Nineveh; hệ cuối, kênh Khinis dài khoảng 55 km, vượt thung lũng Jerwan bằng cầu máng đá vôi đẽo dài 280 m, khắc bi ký của ông — kiểu công trình chưa thấy ở đâu trước thời La Mã. Nineveh mở rộng tới 750 ha, tường thành 12 km, dân số ước trên 100.000, vào hàng lớn nhất đương thời; cung \"Không đối thủ\" (ekallu ša šānina lā īšû) chứa phù điêu Lachish. Năm 689 ông phá huỷ Babylon, cho nước Arahtu cuốn trôi nền thành.",
+   "ideas": "Vua Assyria, nổi tiếng vì cuộc vây Jerusalem năm 701 TCN, nhưng dấu ấn bền nhất là kỹ thuật thuỷ lợi và đô thị. Từ 703 đến 688 TCN ông đào bốn hệ kênh đưa nước núi về Nineveh; hệ cuối, kênh Khinis dài khoảng 55 km, vượt thung lũng Jerwan bằng cầu máng đá vôi đẽo dài 280 m, khắc bi ký của ông — kiểu cầu máng chưa thấy ở đâu trước thời La Mã. Nineveh mở rộng tới 750 ha, tường thành 12 km, dân số ước trên 100.000, vào hàng lớn nhất đương thời; cung \"Không đối thủ\" (ekallu ša šānina lā īšû) chứa phù điêu Lachish. Năm 689 ông phá huỷ Babylon, cho nước Arahtu cuốn trôi nền thành.",
    "why": "Hai ứng viên cùng thời đã cân nhắc: Sargon II (trị vì 722–705 TCN), cha ông, người xây kinh đô mới Dur-Sharrukin; và Taharqa (trị vì 690–664 TCN), vua Kush–Ai Cập với các công trình đền ở Kawa và Karnak. Sennacherib vượt ở tính nguyên bản (c): cầu máng Jerwan là kiểu công trình không thấy ở đâu khác trước thời La Mã, còn Dur-Sharrukin bị bỏ ngay khi Sargon chết; và ở độ bền (b): hệ kênh Khinis còn để lại dấu vết vật chất lẫn bi ký định niên tại chỗ, nguồn hiếm có về kỹ thuật cổ đại.",
    "sources": "Thorkild Jacobsen và Seton Lloyd, *Sennacherib's Aqueduct at Jerwan*, Oriental Institute Publications 24 (Chicago, 1935), https://isac-assets.s3.amazonaws.com/isac-publications/oip24.pdf; John Malcolm Russell, *Sennacherib's Palace Without Rival at Nineveh* (University of Chicago Press, 1991).",
    "inherits": [
@@ -2031,13 +2028,6 @@
      "relation": "kế thừa",
      "evidence": "trực tiếp",
      "raw": "CH02-BCE05-10 · kế thừa · trực tiếp",
-     "undetermined": false
-    },
-    {
-     "target": "CH02-BCE07-06",
-     "relation": "kế thừa",
-     "evidence": "suy đoán học giả",
-     "raw": "CH02-BCE07-06 · kế thừa · suy đoán học giả",
      "undetermined": false
     }
    ],
@@ -3182,7 +3172,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Ông biến đế chế Cyrus thành một bộ máy vận hành được: chia các satrapy có định mức cống nạp cố định — Herodotus đếm hai mươi khu thuế, bia Behistun của chính ông liệt kê hai mươi ba xứ, đặt thanh tra lưu động kiểm soát tổng đốc, đúc đồng tiền vàng daric thống nhất, và dùng tiếng Aram làm ngôn ngữ hành chính chung cho mọi vùng. Đường Hoàng gia dài hơn hai nghìn cây số cùng hệ trạm ngựa cho phép tin tức đi từ Susa tới Sardis trong chín ngày, so với chín mươi ngày đi bộ. Bia Behistun, khắc ba thứ tiếng, vừa là tuyên ngôn chính trị vừa là chìa khoá giúp thế kỷ 19 giải mã chữ hình nêm.",
+   "ideas": "Ông biến đế chế Cyrus thành một bộ máy vận hành được: chia các satrapy có định mức cống nạp cố định (Herodotus đếm hai mươi khu thuế, bia Behistun của chính ông liệt kê hai mươi ba xứ), đặt thanh tra lưu động kiểm soát tổng đốc, đúc đồng tiền vàng daric thống nhất, và dùng tiếng Aram làm ngôn ngữ hành chính chung cho mọi vùng. Đường Hoàng gia dài hơn hai nghìn cây số cùng hệ trạm ngựa cho phép tin tức đi từ Susa tới Sardis trong chín ngày, so với chín mươi ngày đi bộ. Bia Behistun, khắc ba thứ tiếng, vừa là tuyên ngôn chính trị vừa là chìa khoá giúp thế kỷ 19 giải mã chữ hình nêm.",
    "why": "Ứng viên cạnh tranh là Cyrus, đã xếp ở nhóm trước, và Xerxes I, người kế vị. Darius được chọn theo tính nguyên bản (c): hệ satrapy, thuế định mức, tiền tệ và đường trạm là thiết kế của ông, và được Alexander, Seleucid, Parthia rồi Rome tiếp nhận. Ông được xếp ở nhóm BCE05 vì phần lớn thời gian trị vì và toàn bộ giai đoạn đế chế đạt quy mô lớn nhất nằm sau năm 500 TCN.",
    "sources": "Britannica, mục \"Darius I\"; Pierre Briant, From Cyrus to Alexander (2002).",
    "inherits": [
