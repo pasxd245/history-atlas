@@ -76,6 +76,8 @@ Tránh dạng `TK 6 TCN` — parser bỏ qua, nhân vật sẽ mất chỗ trên
 
 Muốn đổi ảnh thì dùng `content/images.yaml` (`overrides.<ID>.file` / `.caption` / `.skip`), đừng sửa `data/images.json` — file đó do script sinh ra.
 
+**Khi đổi ID của một nhân vật** (chuyển nhóm, đánh số lại): phải xoá bản ghi cũ trong `data/images.json` và file `assets/img/<ID cũ>.*`. Script bỏ qua ID "đã có", nên người kế thừa ID cũ sẽ hiển thị chân dung của người trước — đã xảy ra một lần (Hezekiah nhận ảnh của Yajnavalkya sau khi Yajnavalkya chuyển từ BCE08-07 sang BCE07-07).
+
 ## Quy trình một chapter
 
 Áp dụng cho mọi chapter từ Ch3 trở đi.
