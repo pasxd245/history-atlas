@@ -41,7 +41,9 @@ YAML_PATH = ROOT / "content" / "images.yaml"
 PD_RE = re.compile(r"\bpublic domain\b|^pd\b|^pd-|\bcc0\b|\bpdm\b|no known copyright|public domain mark", re.I)
 CCBY_RE = re.compile(r"\bcc[- ]by(?:[- ]sa)?\b(?![- ]n[cd])", re.I)
 BAD_RE = re.compile(r"\bnc\b|\bnd\b|non[- ]?commercial|no[- ]derivatives|fair use|non-free|all rights reserved", re.I)
-RESTRICT_HTML_RE = re.compile(r"Personality rights|Quyền nhân thân|Trademarked|insignia|Freedom of panorama", re.I)
+RESTRICT_HTML_RE = re.compile(
+    r"Personality rights|Quyền nhân thân|Trademarked|insignia|Freedom of panorama"
+    r"|ita-mibac|mibac|communist|Nazi symbol|currency|costume|design|soviet", re.I)
 
 
 def strip_tags(s: str) -> str:
@@ -431,7 +433,13 @@ def main() -> int:
         rec.update(license=lic_label, attribution_required=(kind == "ccby") or bool(meta.get("attribution_required")),
                    caption=caption, imaginary=imaginary)
         if meta.get("restrictions_unverified"):
-            review.append(f"[info] {pid} {p['name_vi']}: metadata đọc qua fallback (trang File) — trường Restrictions chưa kiểm tra được bằng API")
+            rec.update(status="review", license=lic_label,
+                       note=f"đọc qua fallback (trang File) — KHÔNG xác minh được Restrictions; giấy phép: {lic_label}")
+            images[pid] = rec
+            review.append(f"[review] {pid} {p['name_vi']}: {title} — {rec['note']} → chạy lại khi Commons API trả lời, hoặc quyết định tay qua images.yaml")
+            stats["review"] += 1
+            print(f"  - {pid}: CHỜ XEM XÉT (không xác minh được Restrictions qua fallback)")
+            continue
         if a.dry_run:
             print(f"  - {pid}: OK [{kind}] '{lic_label}' — {rec['author'] or '?'} — {caption[:70]} (dry-run)")
             stats["embedded"] += 1

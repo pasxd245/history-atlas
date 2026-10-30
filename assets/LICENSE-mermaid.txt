@@ -19,3 +19,38 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+--------------------------------------------------------------------------
+GHI CHÚ VỀ THÀNH PHẦN BÊN THỨ BA TRONG assets/mermaid.min.js
+--------------------------------------------------------------------------
+
+mermaid.min.js là một bundle: ngoài mã của Mermaid (giấy phép MIT ở trên),
+nó còn chứa mã của một số thư viện khác. Thông báo giấy phép của các thư
+viện đó ĐƯỢC GIỮ NGUYÊN BÊN TRONG chính tệp mermaid.min.js, trong khối
+"Bundled license information" ở cuối tệp. Không được xoá khối đó khi sao
+chép hay chỉnh sửa tệp.
+
+Các thành phần có thông báo riêng trong khối đó:
+
+  - DOMPurify 3.2.1 — © Cure53 và các cộng tác viên
+    Apache License 2.0 và Mozilla Public License 2.0
+    https://github.com/cure53/DOMPurify/blob/3.2.1/LICENSE
+
+  - js-yaml 4.1.0 — MIT
+    https://github.com/nodeca/js-yaml
+
+  - Lodash (bản build tuỳ chỉnh, lodash-es) — MIT
+    © OpenJS Foundation và các cộng tác viên; dựa trên Underscore.js 1.8.3,
+    © Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+    https://lodash.com/license
+
+  - Cytoscape — MIT, kèm các thông báo MIT riêng cho:
+    Promises/A+ Thenable © Ralf S. Engelschall;
+    đối tượng Event dựa trên jQuery (https://jquery.org/license/);
+    Bezier curve generator © Gaetan Renaudeau;
+    Runge-Kutta spring physics, phỏng theo Framer.js © Koen Bok.
+
+Mermaid còn phụ thuộc các gói khác không để lại thông báo riêng trong
+bundle. Danh sách phụ thuộc đầy đủ và giấy phép tương ứng xem tại
+https://github.com/mermaid-js/mermaid (phiên bản vendored: 11.4.1).
