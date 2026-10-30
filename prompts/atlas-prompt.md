@@ -15,7 +15,7 @@ Hãy research trước khi viết; ưu tiên nguồn học thuật (Stanford Enc
 
 # Quy tắc chọn nhân vật
 1. Mỗi nhóm (Group) = 1 thế kỷ. Trước TK 8 TCN, gộp 3 thế kỷ thành 1 nhóm (đã định sẵn: {{DANH SÁCH NHÓM}}).
-2. Tối đa 10 nhân vật mỗi nhóm. KHÔNG cố cho đủ 10: nếu thiếu ứng viên xứng đáng, chọn ít hơn và ghi lý do.
+2. Tối đa 12 nhân vật mỗi nhóm. KHÔNG cố cho đủ 12: nếu thiếu ứng viên xứng đáng, chọn ít hơn và ghi lý do.
 3. Xếp nhân vật vào thế kỷ của giai đoạn ảnh hưởng chính (floruit / tác phẩm hoặc hành động quan trọng nhất), không theo năm sinh. Mỗi nhân vật chỉ xuất hiện ở 1 nhóm.
 4. Tiêu chí "ảnh hưởng", theo thứ tự ưu tiên:
    (a) Phạm vi: tác động tới bao nhiêu người, bao nhiêu nền văn minh.

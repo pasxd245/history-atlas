@@ -10,7 +10,7 @@ Dạng đóng góp giá trị nhất, và cũng dễ nhất:
 
 - **Chi tiết sai** — mở issue kèm **nguồn**. Phản hồi có nguồn sẽ được sửa; phản hồi chỉ là quan điểm sẽ được ghi nhận nhưng không làm đổi nội dung.
 - **Nguồn không tồn tại hoặc không nói điều được dẫn.** Đây là lỗi đã biết của mô hình ngôn ngữ và là loại báo lỗi hữu ích nhất.
-- **Một ứng viên xứng đáng bị bỏ sót.** Kèm lập luận theo bốn tiêu chí (a) phạm vi · (b) độ bền · (c) tính nguyên bản · (d) counterfactual, và nêu bạn muốn loại ai để lấy chỗ — mỗi nhóm trần 10 người.
+- **Một ứng viên xứng đáng bị bỏ sót.** Kèm lập luận theo bốn tiêu chí (a) phạm vi · (b) độ bền · (c) tính nguyên bản · (d) counterfactual, và nêu bạn muốn loại ai để lấy chỗ — mỗi nhóm trần 12 người.
 - **Một mục nghiêng lệch** ở giai đoạn còn tranh luận. Xem nguyên tắc ở mục *Về những giai đoạn còn tranh luận* trên trang Overview.
 
 ## Môi trường
@@ -28,7 +28,7 @@ Không cần Node, không cần server. Mở `index.html` bằng `file://` là c
 
 Template và từ vựng cố định nằm ở `prompts/atlas-prompt.md` (§5) và `atlaslib/common.py`. Lint chặn build nếu sai, nên cứ chạy `build.py --offline` là biết.
 
-**Lỗi chặn build:** thiếu trường bắt buộc · ID sai quy ước `CHxx-GROUP-nn` hoặc trùng · nhóm không thuộc chapter · lĩnh vực / vùng / câu hỏi lớn / loại quan hệ / mức bằng chứng / độ tin cậy ngoài từ vựng · quá 2 lĩnh vực hoặc 2 câu hỏi lớn · nhóm quá 10 người · năm mất trước năm sinh · liên kết tới chính mình · thiếu `## Ghi chú biên tập`.
+**Lỗi chặn build:** thiếu trường bắt buộc · ID sai quy ước `CHxx-GROUP-nn` hoặc trùng · nhóm không thuộc chapter · lĩnh vực / vùng / câu hỏi lớn / loại quan hệ / mức bằng chứng / độ tin cậy ngoài từ vựng · quá 2 lĩnh vực hoặc 2 câu hỏi lớn · nhóm quá 12 người · năm mất trước năm sinh · liên kết tới chính mình · thiếu `## Ghi chú biên tập`.
 
 **Từ vựng cố định** — muốn thêm giá trị mới thì sửa `atlaslib/common.py` **và** `prompts/atlas-prompt.md`; sửa một nơi thôi là các chapter sau sẽ sinh lỗi:
 

@@ -23,7 +23,7 @@ PROJECT = {
     "start_year": -2000,
     "end_year": 2026,
     "reference_year": 2026,
-    "max_per_group": 10,
+    "max_per_group": 12,
     "living_min_influence_years": 10,
     "user_agent": "history-atlas/0.1 (personal research project) python-urllib",
 }

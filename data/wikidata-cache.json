@@ -3379,5 +3379,122 @@
    "enwiki": "Shi Xie"
   },
   "fetched": 1793322915
+ },
+ "wd:Q17892": {
+  "id": "Q17892",
+  "labels": {
+   "en": "Sappho",
+   "vi": "Sappho"
+  },
+  "aliases": {
+   "en": [
+    "Psappho",
+    "Sapphus",
+    "Sapho"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P569": [
+   {
+    "year": -650,
+    "precision": 7,
+    "rank": "preferred"
+   },
+   {
+    "year": -650,
+    "precision": 7,
+    "rank": "normal"
+   },
+   {
+    "year": -650,
+    "precision": 7,
+    "rank": "normal"
+   },
+   {
+    "year": -630,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -650,
+    "precision": 7,
+    "rank": "normal"
+   },
+   {
+    "year": -628,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -625,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -620,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -612,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -610,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -450,
+    "precision": 7,
+    "rank": "deprecated"
+   }
+  ],
+  "P570": [
+   {
+    "year": -570,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -550,
+    "precision": 7,
+    "rank": "normal"
+   },
+   {
+    "year": -550,
+    "precision": 7,
+    "rank": "normal"
+   },
+   {
+    "year": -550,
+    "precision": 7,
+    "rank": "normal"
+   },
+   {
+    "year": -569,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -568,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -557,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Bust Sappho Musei Capitolini MC1164.jpg",
+  "sitelinks": {
+   "viwiki": "Sappho",
+   "enwiki": "Sappho"
+  },
+  "fetched": 1793375281
  }
 }

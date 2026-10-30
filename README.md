@@ -10,7 +10,7 @@ Trạng thái: **P2 xong** — Chapter 2 (Axial Age, 33 nhân vật) và Phụ l
 
 - **Văn xuôi do mô hình AI (Claude) viết** theo prompt cố định ở `prompts/atlas-prompt.md`. Không có nhà sử học nào viết hay bình duyệt. Đây là tổng hợp do model thực hiện, không phải nghiên cứu sơ cấp.
 - **Tên, niên đại, định danh** được đối chiếu tự động với Wikidata (CC0) bởi `build.py`; lệch quá ngưỡng thì lint chặn build.
-- **Lựa chọn nhân vật là phán đoán biên tập** theo bốn tiêu chí (a) phạm vi, (b) độ bền, (c) tính nguyên bản, (d) counterfactual — không phải xếp hạng khách quan. Trần 10 người/nhóm buộc phải loại nhiều người xứng đáng; danh sách bị loại và lý do nằm ở `## Ghi chú biên tập` cuối mỗi chapter.
+- **Lựa chọn nhân vật là phán đoán biên tập** theo bốn tiêu chí (a) phạm vi, (b) độ bền, (c) tính nguyên bản, (d) counterfactual — không phải xếp hạng khách quan. Trần 12 người/nhóm buộc phải loại nhiều người xứng đáng; danh sách bị loại và lý do nằm ở `## Ghi chú biên tập` cuối mỗi chapter.
 - **Mỗi mục chỉ có 1–2 nguồn**, và nội dung bên trong nguồn chưa được đối chiếu từng câu. Đủ để lần đầu mối, không đủ để trích dẫn. Hãy đi tới nguồn.
 - **Phụ lục Việt Nam dùng hệ quy chiếu Việt Nam / Đông Nam Á**, không phải nhân loại, nên bị loại khỏi mọi thống kê toàn cục.
 - **"Ảnh hưởng" không đồng nghĩa với "đáng ngưỡng mộ".**
@@ -72,7 +72,7 @@ Lệnh khác: `--lint-only [FILE]` (chỉ lint; FILE bất kỳ → báo cáo v�
 
 ## Lint (PLAN §6.2)
 
-**Lỗi (chặn build):** thiếu trường / metadata sai format; ID trùng hoặc sai quy ước `CHxx-GROUP-nn`; nhóm không thuộc chapter; lĩnh vực / vùng / câu hỏi lớn / loại quan hệ / mức bằng chứng / độ tin cậy ngoài từ vựng; quá 2 lĩnh vực hoặc 2 câu hỏi lớn; nhóm > 10 người; năm mất trước năm sinh; liên kết tới chính mình; thiếu `## Ghi chú biên tập`; ảnh nhúng không có giấy phép.
+**Lỗi (chặn build):** thiếu trường / metadata sai format; ID trùng hoặc sai quy ước `CHxx-GROUP-nn`; nhóm không thuộc chapter; lĩnh vực / vùng / câu hỏi lớn / loại quan hệ / mức bằng chứng / độ tin cậy ngoài từ vựng; quá 2 lĩnh vực hoặc 2 câu hỏi lớn; nhóm > 12 người; năm mất trước năm sinh; liên kết tới chính mình; thiếu `## Ghi chú biên tập`; ảnh nhúng không có giấy phép.
 
 **Cảnh báo:** số chữ lệch > 30% (~100 / ~80 / ≤100 / ≤60); nhóm < 4 lĩnh vực hoặc < 3 vùng; liên kết tới ID chưa tồn tại; cùng tên / cùng Wikidata ở nhiều chapter; `wikidata: ?`; nhãn Wikidata không khớp tên; **niên đại lệch Wikidata** (P569/P570) quá 5 năm với độ tin cậy Cao, 25 năm với Trung bình, bỏ qua Thấp (dung sai tự nới khi Wikidata chỉ ghi thập kỷ/thế kỷ); ghi còn sống nhưng Wikidata có năm mất; đời sống không giao với nhóm; Ghi chú biên tập không nhắc ứng viên Việt Nam (D5).
 

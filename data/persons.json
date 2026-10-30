@@ -26,7 +26,8 @@
     "- Pericles, Sophocles, Euripides, Protagoras, Zeno xứ Elea, Empedocles, Anaxagoras, Leucippus (TK 5 TCN): bị loại để tránh dồn quá nửa nhóm BCE05 vào Athens và Ionia.",
     "- Dương Chu (楊朱), Ngô Khởi (吳起), Tử Sản (子產), Tề Hoàn Công: các ứng viên Đông Á xếp sau Quản Trọng, Mặc Tử và Tôn Tử theo độ bền.",
     "- Hosea, Micah, Ezekiel, Josiah, Ezra: lớp ngôn sứ và cải cách Israel–Judah đã được Amos, Isaiah và Jeremiah đại diện. Ezra (TK 5 TCN) đáng xem lại ở P4 vì vai trò định hình kinh điển Torah.",
-    "- Taharqa, Psamtik I, Sargon II, Nebuchadnezzar II: các vua cùng thời bị loại vì kế thừa mô hình do Piye và Tiglath-Pileser III tạo ra.",
+    "- Taharqa, Sargon II, Nebuchadnezzar II: bị loại vì kế thừa mô hình do Piye và Tiglath-Pileser III tạo ra (riêng Nebuchadnezzar II chỉ kế thừa ở mức lỏng).",
+    "- Psamtik I (664–610 TCN): không thuộc nhóm trên — ông lập vương triều 26 bằng cách hất người Kush khỏi Ai Cập, tức chấm dứt vương triều 25 chứ không nối tiếp. Bị loại vì thuộc TK 7 và vì đóng góp của ông (phục hưng Sais, mở cửa cho lính đánh thuê Hy Lạp) không trùng trục nào của chapter.",
     "- Gosāla (phái Ājīvika), Yāska, Patañjali: xếp sau Mahāvīra và Pāṇini trong cùng truyền thống Nam Á.",
     "**Ứng viên Việt Nam**",
     "Đã rà soát và không chọn được ai cho chapter này. Giai đoạn 800–401 TCN ở bắc Việt Nam tương ứng văn hoá Đông Sơn, với thành tựu vật chất rõ rệt — trống đồng Ngọc Lũ, kỹ thuật đúc đồng, canh tác lúa nước — nhưng không có nhân vật nào được định danh bằng nguồn đương thời. Các nhân vật truyền thống như Hùng Vương hay Thục Phán An Dương Vương chỉ xuất hiện trong thư tịch soạn từ thế kỷ 13–15 trở đi, không đủ cơ sở để gán niên đại hay đóng góp cá nhân theo chuẩn §5. Việt Nam sẽ xuất hiện sớm nhất ở Chapter 3 (Chiến Quốc – Tần Hán) hoặc Chapter 4.",
@@ -59,8 +60,7 @@
       "CH02-BCE08-03",
       "CH02-BCE08-04",
       "CH02-BCE08-05",
-      "CH02-BCE08-06",
-      "CH02-BCE08-07"
+      "CH02-BCE08-06"
      ]
     },
     {
@@ -77,7 +77,8 @@
       "CH02-BCE07-03",
       "CH02-BCE07-04",
       "CH02-BCE07-05",
-      "CH02-BCE07-06"
+      "CH02-BCE07-06",
+      "CH02-BCE07-07"
      ]
     },
     {
@@ -87,7 +88,7 @@
       -600,
       -501
      ],
-     "context": "Thế kỷ tập trung nhiều khởi đầu nhất của giai đoạn: Cyrus lập đế chế Achaemenid nối liền từ Aegea tới Ấn Hà; Athens cải cách nợ và công dân; các thành bang Ionia khởi đầu lối giải thích tự nhiên không viện thần linh; Trung Hoa thời Xuân Thu loạn lạc sinh ra Nho và Đạo; lưu vực sông Hằng đô thị hoá, phong trào sa-môn phản biện tế tự Vệ Đà.",
+     "context": "Thế kỷ nhiều khởi đầu nhất của giai đoạn: Cyrus lập đế chế Achaemenid từ Aegea tới Ấn Hà; Athens cải cách nợ; Ionia khởi đầu lối giải thích tự nhiên không viện thần linh; Trung Hoa thời Xuân Thu sinh ra Nho và Đạo; lưu vực sông Hằng đô thị hoá, phong trào sa-môn phản biện tế tự Vệ Đà.",
      "persons": [
       "CH02-BCE06-01",
       "CH02-BCE06-02",
@@ -165,7 +166,7 @@
       -300,
       -1
      ],
-     "context": "Văn hoá Đông Sơn ở đỉnh cao với kỹ thuật đúc đồng và canh tác lúa nước, nhưng không để lại tên người. Hai nhà nước sớm — Âu Lạc rồi Nam Việt — hình thành và lần lượt bị nhà Hán thôn tính năm 111 TCN, mở đầu hơn một nghìn năm Bắc thuộc.",
+     "context": "Văn hoá Đông Sơn ở đỉnh cao với kỹ thuật đúc đồng và canh tác lúa nước, nhưng không để lại tên người. Hai nhà nước sớm nối nhau: Âu Lạc bị Triệu Đà thôn tính khoảng năm 179 TCN, rồi chính Nam Việt bị nhà Hán diệt năm 111 TCN. Lấy mốc nào làm khởi điểm Bắc thuộc — 179 hay 111 TCN — tuỳ thuộc câu hỏi nhà Triệu có thuộc quốc thống Việt Nam hay không.",
      "persons": [
       "CH90-BCE03_01-01",
       "CH90-BCE03_01-02"
@@ -197,7 +198,7 @@
       901,
       1400
      ],
-     "context": "Nhà Đường sụp, họ Khúc rồi Ngô Quyền giành tự chủ; Đinh, Tiền Lê, Lý, Trần lần lượt dựng nhà nước tập quyền, dời đô về Thăng Long, mở khoa cử và ba lần đẩy lui quân Nguyên. Phật giáo giữ vị trí quốc giáo nhưng Nho học bắt đầu lấn dần vào bộ máy hành chính.",
+     "context": "Nhà Đường sụp, họ Khúc rồi Ngô Quyền giành tự chủ; Đinh, Tiền Lê, Lý, Trần lần lượt dựng nhà nước tập quyền, dời đô về Thăng Long, mở khoa cử và ba lần đẩy lui quân Mông Cổ – Nguyên. Phật giáo giữ vị trí quốc giáo nhưng Nho học bắt đầu lấn dần vào bộ máy hành chính.",
      "persons": [
       "CH90-CE10_14-01",
       "CH90-CE10_14-02",
@@ -432,7 +433,7 @@
    ],
    "ideas": "Ngôn sứ đầu tiên có sách mang tên mình. Ông tách công lý xã hội khỏi nghi lễ: tế đàn, hương và thánh ca đều vô giá trị nếu người nghèo bị bóc lột — \"hãy để công lý chảy như nước\". Lời kết án nhắm vào giới chủ đất và thương nhân Israel đang thịnh vượng dưới thời Jeroboam II, và mở rộng sang các dân tộc lân cận, ngụ ý một chuẩn mực đạo đức áp cho mọi dân chứ không riêng Israel. Mô hình phê phán quyền lực nhân danh công lý này về sau đi vào cả Do Thái giáo, Kitô giáo lẫn Hồi giáo.",
    "why": "Cùng thế kỷ có Hosea, người cùng giảng ở Israel, và Micah ở Judah. Amos được chọn theo tính nguyên bản (c): ông là người sớm nhất đặt đạo đức xã hội lên trên nghi lễ, chủ đề Hosea và Micah kế thừa. Về độ bền (b), công thức \"công lý hơn tế lễ\" được Isaiah, Jeremiah và sau đó các phong trào cải cách xã hội hiện đại — kể cả Martin Luther King — trích lại liên tục.",
-   "sources": "Britannica, mục \"Amos\"; The Oxford Handbook of the Prophets (2016), chương về ngôn sứ TK 8 TCN.",
+   "sources": "Britannica, mục \"Amos\"; Carolyn J. Sharp (chủ biên), The Oxford Handbook of the Prophets (OUP, 2016), chương về ngôn sứ TK 8 TCN.",
    "inherits": [
     {
      "target": "Không xác định",
@@ -654,7 +655,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Vua xứ Kush ở Napata, ông đưa quân xuôi sông Nile chinh phục Ai Cập đang chia rẽ và lập vương triều thứ 25 — lần duy nhất một thế lực hạ Sahara cai trị toàn bộ Ai Cập. Bia chiến thắng của ông, một trong những văn bản tự sự dài nhất còn lại bằng chữ tượng hình, trình bày cuộc chinh phục như việc khôi phục chính thống tôn giáo chứ không phải xâm lược. Các vua Kush cho xây lại đền Amun, phục hồi lối viết và nghệ thuật Cổ vương quốc, và sau khi rút về Nubia vẫn duy trì chữ viết Meroitic cùng truyền thống kim tự tháp suốt gần một nghìn năm.",
+   "ideas": "Vua xứ Kush ở Napata, ông đưa quân xuôi sông Nile, buộc các vua Đồng bằng quy phục rồi rút về Napata — bước quyết định đưa vương triều 25 của người Kush lên ngôi Ai Cập, dù Kashta trước ông thường được tính là vua đầu triều và quyền kiểm soát Hạ Ai Cập chỉ thành thực chất dưới thời Shabaka. Bia chiến thắng của ông, một trong những văn bản tự sự dài nhất bằng chữ tượng hình, trình bày cuộc chinh phục như việc khôi phục chính thống tôn giáo. Các vua Kush cho xây lại đền Amun và phục hồi nghệ thuật Cổ vương quốc; sau khi rút về Nubia họ vẫn giữ truyền thống kim tự tháp suốt gần một nghìn năm.",
    "why": "Ứng viên thay thế là Taharqa, vua Kush nổi tiếng hơn nhờ xuất hiện trong Kinh Thánh và các công trình đồ sộ. Piye được chọn theo tiêu chí nguyên bản (c) và counterfactual (d): ông là người thực hiện cuộc chinh phục, Taharqa chỉ kế thừa. Việc đưa một nhân vật Châu Phi hạ Sahara vào nhóm cũng phản ánh yêu cầu đa dạng vùng ở §5, nơi tư liệu khảo cổ Napata đủ vững để không phải suy đoán.",
    "sources": "Britannica, mục \"Piye\"; László Török, The Kingdom of Kush (1997).",
    "inherits": [
@@ -704,88 +705,6 @@
     "how": "thumbnail 500px"
    }
   },
-  "CH02-BCE08-07": {
-   "id": "CH02-BCE08-07",
-   "name_vi": "Yajnavalkya",
-   "name_orig": "याज्ञवल्क्य Yājñavalkya",
-   "labels": [
-    "Tranh cãi lịch sử"
-   ],
-   "years_raw": "hoạt động k. 750–700 TCN",
-   "born": -750,
-   "died": -700,
-   "approx": true,
-   "alive": false,
-   "years_ok": true,
-   "place": "Videha, nay thuộc Bihar, Ấn Độ và Nepal",
-   "region": "Nam Á",
-   "fields": [
-    "Triết học",
-    "Tôn giáo/Tâm linh"
-   ],
-   "confidence": "Thấp",
-   "wikidata": "Q1423663",
-   "big_questions": [
-    "Thực tại",
-    "Con người"
-   ],
-   "ideas": "Nhân vật trung tâm của Bṛhadāraṇyaka Upaniṣad, bản Upanishad cổ nhất. Qua các cuộc tranh biện ở triều vua Janaka, ông đưa ra lối định nghĩa phủ định \"không phải thế này, không phải thế kia\" (neti neti) cho cái tuyệt đối, và khẳng định đồng nhất giữa bản ngã (ātman) với nền tảng của vũ trụ (brahman). Ông cũng nêu sớm quan niệm nghiệp (karma) như cơ chế quyết định tái sinh, thay cho lối giải thích bằng tế lễ. Đây là bộ khung mà toàn bộ truyền thống Vedānta — và cả các phản bác của Phật giáo, Jaina giáo — dựa vào.",
-   "why": "Ứng viên cùng truyền thống là Uddālaka Āruṇi, người nêu công thức \"ngươi là cái đó\" (tat tvam asi) trong Chāndogya Upaniṣad. Yajnavalkya được xếp trước theo tính nguyên bản (c): phương pháp phủ định và học thuyết nghiệp của ông được dẫn lại nhiều hơn trong các bình chú Vedānta sau này. Cả hai đều là nhân vật trong văn bản chứ không có tiểu sử độc lập, nên đặt độ tin cậy Thấp và nhãn [Tranh cãi lịch sử].",
-   "sources": "Patrick Olivelle, The Early Upaniṣads (Oxford, 1998); Britannica, mục \"Yajnavalkya\".",
-   "inherits": [
-    {
-     "target": "Truyền thống tế tự Vệ Đà (Brāhmaṇa)",
-     "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "Truyền thống tế tự Vệ Đà (Brāhmaṇa) · phản bác · trực tiếp",
-     "undetermined": false
-    }
-   ],
-   "influences": [
-    {
-     "target": "CH02-BCE07-03",
-     "relation": "tương đồng độc lập",
-     "evidence": "suy đoán học giả",
-     "raw": "CH02-BCE07-03 · tương đồng độc lập · suy đoán học giả",
-     "undetermined": false
-    },
-    {
-     "target": "CH02-BCE06-03",
-     "relation": "phản bác",
-     "evidence": "suy đoán học giả",
-     "raw": "CH02-BCE06-03 · phản bác · suy đoán học giả",
-     "undetermined": false
-    },
-    {
-     "target": "Śaṅkara (Thương-yết-la)",
-     "relation": "kế thừa",
-     "evidence": "qua trường phái",
-     "raw": "Śaṅkara (Thương-yết-la) · kế thừa · qua trường phái",
-     "undetermined": false
-    }
-   ],
-   "group": "BCE08",
-   "chapter": 2,
-   "file": "ch02.md",
-   "image": {
-    "status": "embedded",
-    "title": "File:Yajnavalkya and Janaka.jpg",
-    "source_url": "https://commons.wikimedia.org/wiki/File:Yajnavalkya_and_Janaka.jpg",
-    "note": "",
-    "via": "api",
-    "author": "எஸ். பி. கிருஷ்ணமூர்த்தி",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "artwork_date": "2015-05-11",
-    "object_name": "Yajnavalkya and Janaka",
-    "attribution_required": true,
-    "caption": "Chân dung Yajnavalkya (tưởng tượng). Ảnh: Wikimedia Commons, CC BY-SA 3.0.",
-    "imaginary": true,
-    "file": "CH02-BCE08-07.jpg",
-    "width": 500,
-    "how": "thumbnail 500px"
-   }
-  },
   "CH02-BCE07-01": {
    "id": "CH02-BCE07-01",
    "name_vi": "Ashurbanipal",
@@ -801,7 +720,7 @@
    "region": "Trung Đông/Bắc Phi",
    "fields": [
     "Chính trị/Nhà nước",
-    "Sử học"
+    "Giáo dục"
    ],
    "confidence": "Cao",
    "wikidata": "Q171191",
@@ -815,8 +734,8 @@
     {
      "target": "CH02-BCE08-05",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH02-BCE08-05 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE08-05 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -880,9 +799,9 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Tể tướng nước Tề, ông đưa Tề Hoàn Công lên vị trí bá chủ chư hầu đầu tiên thời Xuân Thu. Các cải cách gắn với tên ông gồm phân dân theo nghề nghiệp, đánh thuế ruộng theo chất đất, và nhà nước nắm độc quyền muối và sắt — mô hình tài chính được nhà Hán tái lập và tranh luận suốt hai nghìn năm trong Diêm thiết luận. Sách Quản Tử (管子), biên soạn muộn hơn nhiều, gán cho ông quan điểm rằng kho đụn đầy thì dân mới biết lễ tiết, một lập luận đặt kinh tế trước đạo đức khác hẳn Nho giáo sau này.",
-   "why": "Ứng viên cùng thời là Tử Sản nước Trịnh, người công bố hình thư trên đỉnh đồng, và chính Tề Hoàn Công. Quản Trọng vượt trội ở độ bền (b): độc quyền muối sắt trở thành công cụ tài chính thường trực của các triều đại Trung Hoa, trong khi cải cách của Tử Sản chỉ còn trong sử liệu. Niên đại để Trung bình vì tiểu sử chủ yếu đến từ Sử ký, viết sau hơn năm thế kỷ.",
-   "sources": "Britannica, mục \"Guan Zhong\"; W. Allyn Rickett, Guanzi: Political, Economic, and Philosophical Essays (Princeton, 1985).",
+   "ideas": "Tể tướng nước Tề, ông đưa Tề Hoàn Công lên vị trí bá chủ chư hầu đầu tiên thời Xuân Thu. Các cải cách gắn với tên ông gồm phân dân theo nghề nghiệp, đánh thuế ruộng theo chất đất, và nhà nước nắm độc quyền muối và sắt — mô hình tài chính được nhà Hán tái lập, và tranh luận quanh nó — mở đầu bằng Diêm thiết luận năm 81 TCN — còn kéo dài suốt hai nghìn năm. Sách Quản Tử (管子), biên soạn muộn hơn nhiều, gán cho ông quan điểm rằng kho đụn đầy thì dân mới biết lễ tiết, một lập luận đặt kinh tế trước đạo đức khác hẳn Nho giáo sau này.",
+   "why": "Ứng viên cùng thời là Bào Thúc Nha, người tiến cử ông, và chính Tề Hoàn Công; bá chủ kế tiếp là Tấn Văn Công. Quản Trọng vượt trội ở độ bền (b): độc quyền muối sắt trở thành công cụ tài chính thường trực của các triều đại Trung Hoa, còn nghiệp bá của Hoàn Công tan rã ngay sau khi ông mất. Niên đại để Trung bình vì tiểu sử chủ yếu đến từ Sử ký, viết sau hơn năm thế kỷ.",
+   "sources": "W. Allyn Rickett, Guanzi: Political, Economic, and Philosophical Essays, tập I (Princeton, 1985); Sử ký, Quản Yến liệt truyện.",
    "inherits": [
     {
      "target": "Không xác định",
@@ -960,18 +879,25 @@
     "Thực tại"
    ],
    "ideas": "Trong Chāndogya Upaniṣad, ông dạy con trai Śvetaketu bằng một chuỗi thí nghiệm đời thường — hạt cây đa, muối tan trong nước, dòng sông đổ ra biển — để dẫn tới công thức \"ngươi là cái đó\" (tat tvam asi): cái bản chất tinh tế làm nền cho vạn vật cũng chính là bản ngã của người nghe. Ông lập luận rằng cái có không thể sinh ra từ cái không, một nguyên lý nhất nguyên đặt trước mọi siêu hình học Ấn Độ. Lối dạy bằng loại suy cụ thể này khác hẳn phương pháp phủ định của Yajnavalkya.",
-   "why": "Ứng viên cạnh tranh trực tiếp là Yajnavalkya, đã xếp ở nhóm trước, và Sanatkumāra trong cùng văn bản. Uddālaka được chọn theo tính nguyên bản (c): ông đưa ra phiên bản nhất nguyên luận dựa trên quan sát tự nhiên, không dựa vào uy quyền tế tự, và chính câu tat tvam asi trở thành một trong bốn \"đại cú\" mà Vedānta sau này xây toàn bộ hệ thống chú giải quanh đó.",
-   "sources": "Patrick Olivelle, The Early Upaniṣads (Oxford, 1998), Chāndogya VI; Britannica, mục \"Uddalaka Aruni\".",
+   "why": "Ứng viên cạnh tranh là Sanatkumāra trong cùng văn bản. Uddālaka được chọn theo tính nguyên bản (c): ông đưa ra phiên bản nhất nguyên luận dựa trên quan sát tự nhiên, không dựa vào uy quyền tế tự, và chính câu tat tvam asi trở thành một trong bốn \"đại cú\" mà Vedānta sau này xây toàn bộ hệ thống chú giải quanh đó.",
+   "sources": "Patrick Olivelle, The Early Upaniṣads (Oxford, 1998), Chāndogya Upaniṣad VI.1–16.",
    "inherits": [
     {
-     "target": "CH02-BCE08-07",
-     "relation": "tương đồng độc lập",
-     "evidence": "suy đoán học giả",
-     "raw": "CH02-BCE08-07 · tương đồng độc lập · suy đoán học giả",
+     "target": "Truyền thống tế tự Vệ Đà (Brāhmaṇa)",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống tế tự Vệ Đà (Brāhmaṇa) · phản bác · qua trường phái",
      "undetermined": false
     }
    ],
    "influences": [
+    {
+     "target": "CH02-BCE07-07",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE07-07 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
     {
      "target": "Śaṅkara (Thương-yết-la)",
      "relation": "kế thừa",
@@ -1020,14 +946,14 @@
     "Con người"
    ],
    "ideas": "Nhà thơ trữ tình sớm nhất của Hy Lạp mà ta còn đọc được, ông mở ra lối viết lấy cái tôi cụ thể làm trung tâm thay cho giọng sử thi vô danh. Các mảnh thơ iambic và elegiac của ông nói thẳng về tình yêu, hận thù, nghèo khó và cả việc vứt khiên bỏ chạy — một lời thú nhận đảo ngược hoàn toàn luân lý anh hùng của Homer. Ông cũng được coi là người đưa nhịp iambic vào thơ châm biếm, hình thức mà bi kịch và hài kịch Athens sau này dùng làm nhịp đối thoại chuẩn.",
-   "why": "Cùng thời có Tyrtaeus ở Sparta và Callinus xứ Ephesus, đều làm thơ elegy quân sự. Archilochus vượt trội ở tính nguyên bản (c): ông là người đầu tiên đặt kinh nghiệm cá nhân, kể cả kinh nghiệm đáng xấu hổ, làm đề tài hợp lệ của thơ, và ở độ bền (b): Horace, Catullus rồi cả truyền thống thơ trữ tình châu Âu đều nhận ảnh hưởng, trong khi Tyrtaeus chỉ sống trong giáo dục Sparta.",
+   "why": "Cùng thời có Tyrtaeus ở Sparta và Callinus xứ Ephesus, đều làm thơ elegy quân sự. Archilochus vượt trội ở tính nguyên bản (c): ông là người đầu tiên đặt kinh nghiệm cá nhân, kể cả kinh nghiệm đáng xấu hổ, làm đề tài hợp lệ của thơ trữ tình đơn ca — Hesiod đã nói ở ngôi thứ nhất nhưng trong khuôn sử thi giáo huấn, và ở độ bền (b): Horace, Catullus rồi cả truyền thống thơ trữ tình châu Âu đều nhận ảnh hưởng, trong khi Tyrtaeus chỉ sống trong giáo dục Sparta.",
    "sources": "Oxford Classical Dictionary, mục \"Archilochus\"; M. L. West, Iambi et Elegi Graeci (1971–72).",
    "inherits": [
     {
      "target": "CH02-BCE08-01",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "CH02-BCE08-01 · phản bác · trực tiếp",
+     "evidence": "suy đoán học giả",
+     "raw": "CH02-BCE08-01 · phản bác · suy đoán học giả",
      "undetermined": false
     }
    ],
@@ -1074,8 +1000,8 @@
    "name_vi": "Dracon",
    "name_orig": "Δράκων Drákōn",
    "labels": [],
-   "years_raw": "hoạt động k. 622–621 TCN",
-   "born": -622,
+   "years_raw": "hoạt động k. 624–621 TCN",
+   "born": -624,
    "died": -621,
    "approx": true,
    "alive": false,
@@ -1092,7 +1018,7 @@
    ],
    "ideas": "Người soạn bộ luật thành văn đầu tiên của Athens. Nội dung nổi tiếng vì khắc nghiệt — về sau tính từ \"hà khắc\" trong nhiều ngôn ngữ châu Âu lấy từ tên ông — nhưng ý nghĩa thật nằm ở chỗ khác: luật được công bố công khai trên bảng gỗ, nên thẩm phán quý tộc không còn độc quyền diễn giải truyền thống. Điều khoản duy nhất còn lại gần nguyên vẹn phân biệt giết người cố ý với ngộ sát và chuyển việc báo thù của dòng họ sang thủ tục xét xử của thành bang, một bước chuyển căn bản từ tư thù sang công lý công cộng.",
    "why": "Cùng chức năng có Zaleucus xứ Locri và Charondas xứ Catania, hai nhà lập pháp Hy Lạp sớm khác, cùng Lycurgus ở Sparta. Dracon được chọn vì counterfactual (d) và phạm vi (a): bộ luật của ông là tiền đề trực tiếp cho cải cách Solon và do đó cho nền dân chủ Athens, còn luật Zaleucus chỉ còn qua tường thuật muộn. Niên đại để Thấp vì chỉ biết qua Aristotle và Plutarch, viết sau nhiều thế kỷ.",
-   "sources": "Oxford Classical Dictionary, mục \"Draco\"; Aristotle, Athenaion Politeia, 4 và 7.",
+   "sources": "Oxford Classical Dictionary, mục \"Draco\"; Aristotle, Athenaion Politeia, 7 (chương 4, mô tả \"hiến pháp Dracon\", phần lớn giới nghiên cứu coi là nguỵ tạo đời sau).",
    "inherits": [
     {
      "target": "Tập quán báo thù dòng họ Hy Lạp",
@@ -1138,13 +1064,13 @@
    "name_vi": "Jeremiah",
    "name_orig": "יִרְמְיָהוּ Yirməyāhū",
    "labels": [],
-   "years_raw": "k. 645–587 TCN",
-   "born": -645,
-   "died": -587,
+   "years_raw": "k. 650–k. 570 TCN",
+   "born": -650,
+   "died": -570,
    "approx": true,
    "alive": false,
    "years_ok": true,
-   "place": "Anathoth và Jerusalem, vương quốc Judah",
+   "place": "Anathoth, Jerusalem, sau bị đưa sang Ai Cập",
    "region": "Trung Đông/Bắc Phi",
    "fields": [
     "Tôn giáo/Tâm linh"
@@ -1210,6 +1136,71 @@
     "width": 500,
     "how": "thumbnail 500px"
    }
+  },
+  "CH02-BCE07-07": {
+   "id": "CH02-BCE07-07",
+   "name_vi": "Yajnavalkya",
+   "name_orig": "याज्ञवल्क्य Yājñavalkya",
+   "labels": [
+    "Tranh cãi lịch sử"
+   ],
+   "years_raw": "hoạt động k. 700–650 TCN",
+   "born": -700,
+   "died": -650,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Videha, nay thuộc Bihar, Ấn Độ và Nepal",
+   "region": "Nam Á",
+   "fields": [
+    "Triết học",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q1423663",
+   "big_questions": [
+    "Thực tại",
+    "Con người"
+   ],
+   "ideas": "Nhân vật trung tâm của Bṛhadāraṇyaka Upaniṣad, bản Upanishad cổ nhất. Qua các cuộc tranh biện ở triều vua Janaka, ông đưa ra lối định nghĩa phủ định \"không phải thế này, không phải thế kia\" (neti neti) cho cái tuyệt đối, và khẳng định đồng nhất giữa bản ngã (ātman) với nền tảng của vũ trụ (brahman). Ông cũng nêu sớm quan niệm nghiệp (karma) như cơ chế quyết định tái sinh, thay cho lối giải thích bằng tế lễ. Đây là bộ khung mà toàn bộ truyền thống Vedānta — và cả các phản bác của Phật giáo, Jaina giáo — dựa vào.",
+   "why": "Ứng viên cùng truyền thống là Uddālaka Āruṇi, người nêu công thức \"ngươi là cái đó\" (tat tvam asi) trong Chāndogya Upaniṣad. Truyền thống phần lớn đặt Uddālaka ở vai thầy, nhưng chính Bṛhadāraṇyaka lại dựng hai người thành đối thủ tranh biện ở triều Janaka. Yajnavalkya được giữ theo tính nguyên bản (c): phương pháp phủ định và học thuyết nghiệp của ông được dẫn lại nhiều hơn trong các bình chú Vedānta. Cả hai là nhân vật trong văn bản, không có tiểu sử độc lập, nên để độ tin cậy Thấp.",
+   "sources": "Patrick Olivelle, The Early Upaniṣads (Oxford, 1998); Britannica, mục \"Yajnavalkya\".",
+   "inherits": [
+    {
+     "target": "Truyền thống tế tự Vệ Đà (Brāhmaṇa)",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "Truyền thống tế tự Vệ Đà (Brāhmaṇa) · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH02-BCE07-03",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE07-03 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH02-BCE06-03",
+     "relation": "phản bác",
+     "evidence": "suy đoán học giả",
+     "raw": "CH02-BCE06-03 · phản bác · suy đoán học giả",
+     "undetermined": false
+    },
+    {
+     "target": "Śaṅkara (Thương-yết-la)",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Śaṅkara (Thương-yết-la) · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "BCE07",
+   "chapter": 2,
+   "file": "ch02.md",
+   "image": null
   },
   "CH02-BCE06-01": {
    "id": "CH02-BCE06-01",
@@ -1400,10 +1391,10 @@
    "sources": "Stanford Encyclopedia of Philosophy, \"The Buddha\" (https://plato.stanford.edu/entries/buddha/); Richard Gombrich, What the Buddha Thought (2009).",
    "inherits": [
     {
-     "target": "CH02-BCE08-07",
+     "target": "CH02-BCE07-07",
      "relation": "phản bác",
      "evidence": "suy đoán học giả",
-     "raw": "CH02-BCE08-07 · phản bác · suy đoán học giả",
+     "raw": "CH02-BCE07-07 · phản bác · suy đoán học giả",
      "undetermined": false
     },
     {
@@ -1457,7 +1448,7 @@
    "name_vi": "Mahāvīra",
    "name_orig": "महावीर, Vardhamāna",
    "labels": [],
-   "years_raw": "k. 599–527 TCN",
+   "years_raw": "k. 599–527 TCN (niên đại truyền thống; biên khác k. 540–468 TCN)",
    "born": -599,
    "died": -527,
    "approx": true,
@@ -1468,14 +1459,14 @@
    "fields": [
     "Tôn giáo/Tâm linh"
    ],
-   "confidence": "Trung bình",
+   "confidence": "Thấp",
    "wikidata": "Q9422",
    "big_questions": [
     "Thực tại"
    ],
-   "ideas": "Vị tổ thứ hai mươi tư của Jaina giáo, người định hình truyền thống này thành một tôn giáo có giới luật và tăng đoàn rõ ràng. Ba đóng góp lan ra ngoài phạm vi Jaina: bất hại (ahiṃsā) được đẩy tới mức triệt để, áp cho mọi sinh vật kể cả côn trùng; thuyết anekāntavāda cho rằng thực tại có nhiều mặt nên mọi phán đoán đều chỉ đúng một phần, một dạng đa nguyên nhận thức hiếm thấy ở thời cổ; và syādvāda, lối phát biểu có điều kiện kèm theo. Giới thương nhân Jaina duy trì mạng lưới tín dụng và từ thiện ở Ấn Độ suốt hai nghìn năm.",
-   "why": "Đối thủ hiển nhiên là Đức Phật, cùng vùng, cùng thời, cùng phong trào sa-môn, và Gosāla của phái Ājīvika. Mahāvīra vẫn được chọn vì tính nguyên bản (c) của ahiṃsā triệt để và anekāntavāda, hai ý Phật giáo không có dạng mạnh tương đương, và vì counterfactual (d): qua Raychandbhai, chính ahiṃsā Jaina định hình trực tiếp đường lối bất bạo động của Gandhi ở thế kỷ 20.",
-   "sources": "Britannica, mục \"Mahavira\"; Paul Dundas, The Jains (ấn bản 2, 2002).",
+   "ideas": "Vị tổ thứ hai mươi tư của Jaina giáo, người định hình truyền thống này thành một tôn giáo có giới luật và tăng đoàn rõ ràng. Đóng góp lan ra ngoài phạm vi Jaina là bất hại (ahiṃsā) được đẩy tới mức triệt để, áp cho mọi sinh vật kể cả côn trùng. Từ lập trường đa diện của ông, truyền thống Jaina về sau khai triển thành thuyết anekāntavāda — thực tại có nhiều mặt nên mọi phán đoán đều chỉ đúng một phần — và syādvāda, lối phát biểu có điều kiện kèm theo; cả hai chỉ thành học thuyết có cấu trúc qua Umāsvāti, Siddhasena rồi Samantabhadra, tức bảy tới mười thế kỷ sau.",
+   "why": "Đối thủ hiển nhiên là Đức Phật, cùng vùng, cùng thời, cùng phong trào sa-môn, và Gosāla của phái Ājīvika. Mahāvīra vẫn được chọn vì tính nguyên bản (c) của ahiṃsā triệt để, điều Phật giáo không có dạng mạnh tương đương, và vì counterfactual (d): qua Raychandbhai, chính ahiṃsā Jaina định hình trực tiếp đường lối bất bạo động của Gandhi ở thế kỷ 20.",
+   "sources": "Britannica, mục \"Vardhamāna\"; Paul Dundas, The Jains (ấn bản 2, 2002).",
    "inherits": [
     {
      "target": "Pārśvanātha",
@@ -1624,7 +1615,7 @@
    "big_questions": [
     "Thực tại"
    ],
-   "ideas": "Ông lập ở Croton một cộng đồng vừa nghiên cứu vừa tu tập, gắn toán học với quan niệm về linh hồn và tái sinh. Ý tưởng trung tâm — rằng cấu trúc của thực tại có thể diễn đạt bằng tỉ lệ số, chứng minh qua quan hệ giữa độ dài dây đàn và cao độ — là khởi điểm của truyền thống toán học hoá tự nhiên. Việc phát hiện những đại lượng không thông ước, như đường chéo hình vuông, buộc người Hy Lạp phân biệt số với độ lớn hình học. Định lý mang tên ông đã được biết trước ở Babylon và Ấn Độ; đóng góp Hy Lạp là yêu cầu chứng minh.",
+   "ideas": "Ông lập ở Croton một cộng đồng vừa nghiên cứu vừa tu tập, gắn toán học với quan niệm về linh hồn và tái sinh. Ý tưởng trung tâm — rằng cấu trúc của thực tại có thể diễn đạt bằng tỉ lệ số, mà truyền thống minh hoạ bằng quan hệ giữa độ dài dây đàn và cao độ — là khởi điểm của truyền thống toán học hoá tự nhiên. Việc phát hiện những đại lượng không thông ước, như đường chéo hình vuông, buộc người Hy Lạp phân biệt số với độ lớn hình học. Định lý mang tên ông đã được biết trước ở Babylon và Ấn Độ; đóng góp Hy Lạp là yêu cầu chứng minh.",
    "why": "Ứng viên thay thế là Hippasus, học trò gắn với phát hiện số vô tỉ, và Philolaus, người đầu tiên viết ra học thuyết Pythagoras. Pythagoras được chọn vì độ bền (b) và phạm vi (a): chương trình \"mô tả tự nhiên bằng số\" của trường phái ông chạy thẳng tới Plato, Kepler và vật lý toán hiện đại. Tiểu sử bị truyền thuyết phủ dày nên mọi quy công cho cá nhân ông đều phải dè dặt.",
    "sources": "Stanford Encyclopedia of Philosophy, \"Pythagoras\" (https://plato.stanford.edu/entries/pythagoras/); Walter Burkert, Lore and Science in Ancient Pythagoreanism (1972).",
    "inherits": [
@@ -1704,7 +1695,7 @@
     "Không áp dụng"
    ],
    "ideas": "Trong khoảng hai mươi năm ông hợp nhất Media, Lydia và Babylon thành đế chế lớn nhất thế giới từng có đến lúc đó, trải từ Aegea tới Trung Á. Điểm khác biệt nằm ở phương thức cai trị: thay vì di dân cưỡng bức kiểu Assyria, ông giữ nguyên thiết chế, tôn giáo và giới tinh hoa địa phương, tự trình bày mình như người khôi phục trật tự chính đáng ở mỗi nơi. Trụ Cyrus ghi việc phục hồi các đền thờ Babylon; Kinh Thánh ghi việc cho người Do Thái lưu đày hồi hương và xây lại đền thờ.",
-   "why": "Ứng viên cạnh tranh là Darius I, người xây bộ máy hành chính Achaemenid, và Nebuchadnezzar II của Babylon. Cyrus được chọn theo tính nguyên bản (c) và counterfactual (d): mô hình đế chế đa sắc tộc dựa trên khoan dung thiết chế là của ông, Darius chỉ hệ thống hoá. Về độ bền (b), Xenophon dựng ông thành mẫu quân vương, và hình mẫu ấy được đọc lại suốt thời Phục Hưng và Khai sáng.",
+   "why": "Ứng viên cạnh tranh là Darius I, người xây bộ máy hành chính Achaemenid, và Nebuchadnezzar II của Babylon. Cyrus được chọn theo phạm vi (a) và counterfactual (d): việc phục hồi đền miếu và cho dân bị đày hồi hương vốn là công cụ hành chính quy ước của các đế chế Lưỡng Hà, nhưng ông vận dụng ở quy mô chưa từng có, còn Darius thì hệ thống hoá. Về độ bền (b), Xenophon dựng ông thành mẫu quân vương, và hình mẫu ấy được đọc lại suốt thời Phục Hưng và Khai sáng.",
    "sources": "Britannica, mục \"Cyrus the Great\"; Pierre Briant, From Cyrus to Alexander (2002).",
    "inherits": [
     {
@@ -1777,7 +1768,7 @@
    ],
    "ideas": "Được trao quyền hoà giải năm 594 TCN giữa lúc Athens gần nội chiến vì nợ, ông xoá nợ và cấm vĩnh viễn việc lấy thân thể con nợ làm bảo đảm — chấm dứt chế độ nô lệ vì nợ đối với công dân. Ông phân công dân theo mức thu nhập chứ không theo dòng dõi, mở toà phúc thẩm cho mọi công dân, và cho phép bất kỳ ai khởi kiện thay người bị hại, biến việc bảo vệ pháp luật thành chuyện chung. Các bài thơ của ông, nguồn tự thuật chính trị sớm nhất của Hy Lạp, biện minh cho lựa chọn giữ thế cân bằng thay vì ngả về phe nào.",
    "why": "Ứng viên cùng lĩnh vực là Dracon trước ông và Cleisthenes sau ông, người thường được gọi là cha đẻ nền dân chủ Athens. Solon được chọn theo counterfactual (d): việc xoá nô lệ vì nợ tạo ra một tầng lớp công dân tự do mà cải cách Cleisthenes mới có chỗ dựa; nếu không, Athens nhiều khả năng đi theo con đường tập trung ruộng đất như nhiều thành bang khác.",
-   "sources": "Stanford Encyclopedia of Philosophy, \"Ancient Political Philosophy\" (https://plato.stanford.edu/entries/ancient-political/); Aristotle, Athenaion Politeia, 5–12.",
+   "sources": "Aristotle, Athenaion Politeia, 5–12 (chương 7 liệt kê bốn hạng công dân theo thu nhập); Plutarch, Solon.",
    "inherits": [
     {
      "target": "CH02-BCE07-05",
@@ -1798,8 +1789,8 @@
     {
      "target": "CH02-BCE05-03",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH02-BCE05-03 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE05-03 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -1850,8 +1841,8 @@
     "Con người"
    ],
    "ideas": "Các bài Gāthā, phần cổ nhất của kinh Avesta và được coi là lời của chính ông, đặt Ahura Mazdā làm đấng sáng tạo duy nhất và dựng thế giới thành cuộc đối kháng đạo đức giữa chân lý (aša) và dối trá (druj). Từ đó nảy ra một chuỗi quan niệm về sau rất quen thuộc: con người tự do chọn phe, mỗi người bị phán xét sau khi chết, lịch sử có điểm kết, và cái thiện rốt cuộc thắng. Qua thời Achaemenid và Parthia, các mô-típ này thấm vào Do Thái giáo thời Nhị Đền, rồi gián tiếp vào Kitô giáo và Hồi giáo.",
-   "why": "Không có ứng viên cùng vùng nào tương đương về ảnh hưởng. Vấn đề là niên đại: truyền thống Zoroaster đặt ông ở thế kỷ 6 TCN, nhưng ngôn ngữ Avesta cổ gần tiếng Phạn Rigveda tới mức phần lớn nhà Iran học nay đẩy về khoảng 1200–1000 TCN. Ông được giữ ở đây theo niên đại truyền thống để không bỏ trống một trụ cột của luận đề Axial Age, kèm nhãn [Tranh cãi lịch sử]; P4 cần quyết định có chuyển sang Chapter 1 hay không.",
-   "sources": "Encyclopaedia Iranica, mục \"Zoroaster\"; Mary Boyce, Zoroastrians: Their Religious Beliefs and Practices (1979).",
+   "why": "Không cá nhân nào khác ở đông Iran hay Trung Á thế kỷ 6 TCN được nguồn đương thời định danh — chính sự trống vắng ấy là một phát hiện về tư liệu. Vấn đề còn lại là niên đại: truyền thống Zoroaster đặt ông ở thế kỷ 6 TCN, nhưng ngôn ngữ Avesta cổ gần tiếng Phạn Rigveda tới mức phần lớn nhà Iran học nay đẩy về khoảng 1200–1000 TCN. Ông được giữ ở đây theo niên đại truyền thống, kèm nhãn [Tranh cãi lịch sử]; P4 quyết định có chuyển sang Chapter 1 hay không.",
+   "sources": "Encyclopaedia Iranica, mục \"Zoroaster ii. General Survey\"; Mary Boyce, Zoroastrians: Their Religious Beliefs and Practices (1979).",
    "inherits": [
     {
      "target": "Tôn giáo Ấn–Iran thời tiền sử",
@@ -2093,7 +2084,7 @@
    ],
    "ideas": "Trong bài thơ Về tự nhiên, ông lập luận rằng chỉ \"cái đang là\" mới có thể được nghĩ tới và nói tới; \"cái không là\" thì không, nên sinh thành và huỷ diệt là không thể. Kết luận — thực tại duy nhất, bất biến, không phân chia — đi ngược hoàn toàn kinh nghiệm giác quan, và chính chỗ đó mới là bước ngoặt: ông đặt suy luận diễn dịch cao hơn quan sát, và buộc mọi triết gia sau phải trả lời bằng lập luận chứ không bằng mô tả. Empedocles, Anaxagoras và thuyết nguyên tử đều là các cách cứu lấy sự biến đổi trước thách thức này.",
    "why": "Ứng viên cùng thời là Heraclitus, với dòng chảy và lògos, và Zeno xứ Elea, học trò ông. Parmenides được chọn theo counterfactual (d): chính thách thức của ông, chứ không phải của Heraclitus, định hình chương trình nghị sự của toàn bộ triết học Hy Lạp sau đó, kể cả thuyết nguyên tử và lý thuyết Ý niệm của Plato. Zeno chỉ xây nghịch lý để bảo vệ lập luận đã có của thầy.",
-   "sources": "Stanford Encyclopedia of Philosophy, \"Parmenides\" (https://plato.stanford.edu/entries/parmenides/); Stanford Encyclopedia of Philosophy, \"Presocratic Philosophy\".",
+   "sources": "Stanford Encyclopedia of Philosophy, \"Parmenides\" (https://plato.stanford.edu/entries/parmenides/); A. H. Coxon, The Fragments of Parmenides (bản sửa, 2009).",
    "inherits": [
     {
      "target": "CH02-BCE06-06",
@@ -2184,8 +2175,8 @@
     {
      "target": "CH02-BCE06-08",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH02-BCE06-08 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE06-08 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -2478,7 +2469,7 @@
    "big_questions": [
     "Con người"
    ],
-   "ideas": "Ông phản bác Nho giáo ngay ở gốc: thay lòng nhân có thứ bậc bằng kiêm ái (兼愛) — yêu thương không phân biệt thân sơ — và đánh giá mọi thiết chế bằng lợi ích đo được cho dân chúng, nên bác bỏ nhạc lễ và tang ma tốn kém. Ông chống chiến tranh xâm lược bằng cả lập luận lẫn hành động: đoàn Mặc gia nổi tiếng về kỹ thuật phòng thủ thành. Các thiên Mặc kinh còn chứa phần sớm nhất của Trung Hoa về logic, định nghĩa, quang học và cơ học — truyền thống lập luận hình thức duy nhất bản địa trước khi Phật giáo đưa nhân minh vào.",
+   "ideas": "Ông phản bác Nho giáo ngay ở gốc: thay lòng nhân có thứ bậc bằng kiêm ái (兼愛) — yêu thương không phân biệt thân sơ — và đánh giá mọi thiết chế bằng lợi ích đo được cho dân chúng, nên bác bỏ nhạc lễ và tang ma tốn kém. Ông chống chiến tranh xâm lược bằng cả lập luận lẫn hành động: đoàn Mặc gia nổi tiếng về kỹ thuật phòng thủ thành. Các thiên Mặc kinh còn chứa phần sớm nhất của Trung Hoa về logic, định nghĩa, quang học và cơ học — truyền thống lập luận hình thức bản địa sớm nhất và hệ thống nhất, bên cạnh Danh gia, trước khi Phật giáo đưa nhân minh vào.",
    "why": "Đối thủ cùng thời là Dương Chu, người chủ trương vị ngã, và chính truyền thống Nho gia. Mặc Tử được chọn theo tính nguyên bản (c): ông là người đầu tiên ở Trung Hoa lập luận đạo đức theo kiểu hệ quả và xây bộ công cụ logic rõ ràng. Về counterfactual (d), sức ép từ Mặc gia buộc Mạnh Tử và Tuân Tử phải biện minh có hệ thống cho Nho giáo, điều họ sẽ không cần làm nếu thiếu ông.",
    "sources": "Stanford Encyclopedia of Philosophy, \"Mohism\" (https://plato.stanford.edu/entries/mohism/); Chris Fraser, The Philosophy of the Mòzǐ (2016).",
    "inherits": [
@@ -2552,7 +2543,7 @@
    ],
    "ideas": "Bộ Aṣṭādhyāyī mô tả trọn vẹn tiếng Phạn bằng khoảng bốn nghìn quy tắc ngắn gọn, vận hành như một hệ thống sinh: có bảng âm vị, siêu quy tắc định thứ tự áp dụng, quy ước ưu tiên khi hai quy tắc xung đột, và cơ chế tương đương đệ quy. Về mặt hình thức, đây là ngữ pháp sinh đầu tiên của nhân loại, sớm hơn hai mươi lăm thế kỷ so với các hệ thống tương tự ở phương Tây. Nó cũng chuẩn hoá tiếng Phạn cổ điển, giữ ngôn ngữ này ổn định đủ để làm phương tiện học thuật xuyên Nam và Đông Nam Á.",
    "why": "Ứng viên cùng truyền thống là Yāska, tác giả Nirukta về từ nguyên, và Patañjali, người viết đại bình chú sau này. Pāṇini được chọn theo tính nguyên bản (c): cấu trúc siêu quy tắc của ông là thứ Yāska không có và Patañjali chỉ chú giải. Về độ bền (b), Bloomfield và sau đó giới khoa học máy tính đọc lại Aṣṭādhyāyī như mô hình đặc tả hình thức. Hệ thống của ông cũng là lý do tiếng Phạn cổ điển gần như không đổi suốt hai thiên niên kỷ.",
-   "sources": "Britannica, mục \"Panini\"; George Cardona, Pāṇini: His Work and Its Traditions (1997).",
+   "sources": "Britannica, mục \"Panini\"; George Cardona, Pāṇini: His Work and Its Traditions, tập I (bản sửa lần 2, 1997).",
    "inherits": [
     {
      "target": "Yāska",
@@ -2632,7 +2623,7 @@
    ],
    "ideas": "Binh pháp Tôn Tử (孫子兵法) chuyển bàn luận quân sự từ nghi lễ và dũng khí sang tính toán: so sánh năm yếu tố trước khi động binh, coi chiến tranh là việc tốn kém của quốc gia nên phải ngắn, và đặt mục tiêu cao nhất là khuất phục đối phương mà không cần giao chiến. Các chủ đề tình báo, nghi binh, địa hình và tâm lý tướng sĩ được xử lý như biến số điều khiển được. Từ thế kỷ 20, văn bản này được đọc lại trong chiến tranh du kích, quản trị doanh nghiệp và lý thuyết cạnh tranh, xa ngoài phạm vi quân sự.",
    "why": "Ứng viên cùng lĩnh vực là Ngô Khởi (吳起) và Tôn Tẫn (孫臏), đều có binh thư. Tôn Tử được chọn theo phạm vi (a) và độ bền (b): bản của ông được dịch ra hầu hết các ngôn ngữ lớn và vẫn nằm trong chương trình học quân sự hiện đại. Nhãn [Tranh cãi lịch sử] vì nhiều nhà nghiên cứu cho rằng văn bản được hoàn chỉnh ở thời Chiến Quốc, sau nhân vật truyền thống khoảng một thế kỷ.",
-   "sources": "Britannica, mục \"Sunzi\"; Victor H. Mair, The Art of War: Sun Zi's Military Methods (2007).",
+   "sources": "Britannica, mục \"Sun Tzu\"; Victor H. Mair, The Art of War: Sun Zi's Military Methods (2007).",
    "inherits": [
     {
      "target": "Không xác định",
@@ -2702,7 +2693,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Ông biến đế chế Cyrus thành một bộ máy vận hành được: chia hai mươi satrapy có định mức cống nạp cố định, đặt thanh tra lưu động kiểm soát tổng đốc, đúc đồng tiền vàng daric thống nhất, và dùng tiếng Aram làm ngôn ngữ hành chính chung cho mọi vùng. Đường Hoàng gia dài hơn hai nghìn cây số cùng hệ trạm ngựa cho phép tin tức đi từ Susa tới Sardis trong khoảng một tuần. Bia Behistun, khắc ba thứ tiếng, vừa là tuyên ngôn chính trị vừa là chìa khoá giúp thế kỷ 19 giải mã chữ hình nêm.",
+   "ideas": "Ông biến đế chế Cyrus thành một bộ máy vận hành được: chia các satrapy có định mức cống nạp cố định — Herodotus đếm hai mươi khu thuế, bia Behistun của chính ông liệt kê hai mươi ba xứ, đặt thanh tra lưu động kiểm soát tổng đốc, đúc đồng tiền vàng daric thống nhất, và dùng tiếng Aram làm ngôn ngữ hành chính chung cho mọi vùng. Đường Hoàng gia dài hơn hai nghìn cây số cùng hệ trạm ngựa cho phép tin tức đi từ Susa tới Sardis trong chín ngày, so với chín mươi ngày đi bộ. Bia Behistun, khắc ba thứ tiếng, vừa là tuyên ngôn chính trị vừa là chìa khoá giúp thế kỷ 19 giải mã chữ hình nêm.",
    "why": "Ứng viên cạnh tranh là Cyrus, đã xếp ở nhóm trước, và Xerxes I, người kế vị. Darius được chọn theo tính nguyên bản (c): hệ satrapy, thuế định mức, tiền tệ và đường trạm là thiết kế của ông, và được Alexander, Seleucid, Parthia rồi Rome tiếp nhận. Ông được xếp ở nhóm BCE05 vì phần lớn thời gian trị vì và toàn bộ giai đoạn đế chế đạt quy mô lớn nhất nằm sau năm 500 TCN.",
    "sources": "Britannica, mục \"Darius I\"; Pierre Briant, From Cyrus to Alexander (2002).",
    "inherits": [
@@ -2766,9 +2757,9 @@
    "labels": [
     "Tranh cãi lịch sử"
    ],
-   "years_raw": "k. 250–207 TCN",
-   "born": -250,
-   "died": -207,
+   "years_raw": "trị vì 257–208 TCN theo ĐVSKTT (sử học hiện đại: Âu Lạc k. 208–179 TCN; năm sinh không rõ)",
+   "born": -257,
+   "died": -208,
    "approx": true,
    "alive": false,
    "years_ok": true,
@@ -2783,7 +2774,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Người hợp nhất Âu Việt và Lạc Việt thành nhà nước Âu Lạc và dời trung tâm về Cổ Loa. Khảo cổ xác nhận một toà thành đất ba vòng quy mô lớn cùng kho mũi tên đồng hàng vạn chiếc — bằng chứng vật chất sớm nhất ở Việt Nam về một quyền lực đủ sức huy động lao dịch và sản xuất vũ khí tập trung. Truyền thuyết nỏ thần và chuyện Mỵ Châu – Trọng Thuỷ gắn với thất bại trước Triệu Đà về sau trở thành câu chuyện cảnh giác được kể lại liên tục trong văn hoá chính trị Việt Nam.",
+   "ideas": "Theo truyền thống, ông hợp nhất Âu Việt với Lạc Việt thành Âu Lạc và dời đô về Cổ Loa. Khảo cổ xác nhận toà thành ba vòng dời hơn hai triệu mét khối đất, kho một vạn mũi tên đồng và khuôn đúc tại chỗ ở Cầu Vực (Kim, Lai và Trinh, 2010) — bằng chứng sớm nhất ở Việt Nam về một quyền lực huy động được lao dịch lớn. Nhưng lớp luỹ sớm nhất có thể có trước niên đại truyền thống của ông: công trình chứng minh một nhà nước, không chứng minh chính ông. Truyền thuyết nỏ thần và Mỵ Châu – Trọng Thuỷ, chép sớm nhất trong Giao Châu ngoại vực ký thế kỷ 3–4, thành câu chuyện cảnh giác kể mãi về sau.",
    "why": "Ứng viên cùng giai đoạn là các Hùng Vương, nhưng đó là một danh sách truyền thuyết không có niên đại hay cá nhân xác định được. An Dương Vương được chọn vì counterfactual (d) và vì có vật chứng: thành Cổ Loa và kho mũi tên là mốc khảo cổ cho bước chuyển từ thủ lĩnh bộ lạc sang nhà nước. Nhãn [Tranh cãi lịch sử] vì nhân vật chỉ được chép trong thư tịch soạn rất muộn.",
    "sources": "Keith W. Taylor, The Birth of Vietnam (1983), chương 1; báo cáo khai quật di chỉ Cổ Loa, Viện Khảo cổ học.",
    "inherits": [
@@ -2831,10 +2822,10 @@
    "name_vi": "Triệu Đà",
    "name_orig": "趙佗 Zhào Tuó, Triệu Vũ Đế",
    "labels": [],
-   "years_raw": "k. 230–137 TCN",
-   "born": -230,
+   "years_raw": "trị vì 207–137 TCN (ĐVSKTT: 207–136 TCN; năm sinh không rõ)",
+   "born": -207,
    "died": -137,
-   "approx": true,
+   "approx": false,
    "alive": false,
    "years_ok": true,
    "place": "Phiên Ngung, Nam Việt, nay thuộc Quảng Châu, Trung Quốc",
@@ -2847,9 +2838,9 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Viên quan nhà Tần, nhân lúc Tần sụp đổ đã lập nước Nam Việt, thôn tính Âu Lạc và cai trị gần một thế kỷ. Ông theo đường lối dung hoà: giữ tục địa phương, dùng người Việt làm quan, tự xưng đế ngang hàng nhà Hán. Mộ Triệu Văn Đế khai quật năm 1983 cho thấy một triều đình pha trộn nghi thức Hán với đồ dùng bản địa. Việc ông được xếp là \"chính thống\" hay \"ngoại xâm\" là một trong những tranh luận sử học kéo dài nhất của Việt Nam.",
-   "why": "Ông được chọn chính vì tranh luận đó, chứ không bất chấp nó. Về độ bền (b), cách Đại Việt sử ký toàn thư đặt nhà Triệu vào quốc thống, rồi Ngô Thì Sĩ và sử học hiện đại phản bác, cho thấy một vấn đề lặp lại suốt lịch sử Việt Nam: ranh giới giữa tiếp nhận và bị đồng hoá. Phụ lục ghi nhận ông mà không kết luận thay người đọc.",
-   "sources": "Keith W. Taylor, The Birth of Vietnam (1983); Đại Việt sử ký toàn thư, Kỷ nhà Triệu; Ngô Thì Sĩ, Việt sử tiêu án.",
+   "ideas": "Viên quan nhà Tần, nhân lúc Tần sụp đổ đã lập nước Nam Việt, thôn tính Âu Lạc và cai trị bảy mươi năm; nhà nước ông dựng tồn tại tới năm 111 TCN. Ông theo đường lối dung hoà: giữ tục địa phương, dùng người Việt làm quan, tự xưng đế ngang hàng nhà Hán. Mộ Triệu Văn Đế khai quật năm 1983 cho thấy một triều đình pha trộn nghi thức Hán với đồ dùng bản địa. Việc ông được xếp là \"chính thống\" hay \"ngoại xâm\" là một trong những tranh luận sử học kéo dài nhất của Việt Nam.",
+   "why": "Ứng viên cùng giai đoạn là Lữ Gia, tể tướng cầm đầu cuộc kháng cự khi nhà Hán diệt Nam Việt năm 111 TCN. Triệu Đà được chọn theo counterfactual (d): ông tạo ra nhà nước mà Lữ Gia chỉ bảo vệ. Về độ bền (b), việc Lê Văn Hưu xếp nhà Triệu vào quốc thống từ thế kỷ 13, rồi Ngô Thì Sĩ năm 1775 và dòng chính thống hiện nay phản bác trong khi một mạch xét lại vẫn còn, cho thấy vấn đề lặp lại suốt lịch sử Việt Nam: ranh giới giữa tiếp nhận và bị đồng hoá.",
+   "sources": "Keith W. Taylor, The Birth of Vietnam (1983), chương 1; Đại Việt sử ký toàn thư, Kỷ nhà Triệu (kế thừa lập trường của Lê Văn Hưu); Ngô Thì Sĩ, Việt sử tiêu án.",
    "inherits": [
     {
      "target": "Thiết chế quận huyện nhà Tần",
@@ -3418,7 +3409,7 @@
    ],
    "ideas": "Trận Bạch Đằng năm 938, với bãi cọc đóng ngầm đón thuỷ triều để phá hạm đội Nam Hán, chấm dứt hơn một nghìn năm Bắc thuộc. Sau chiến thắng ông bỏ chức tiết độ sứ — danh hiệu do phương Bắc phong — mà xưng vương, đặt trăm quan, định triều nghi, dựng kinh đô ở Cổ Loa. Việc chọn lại đất cũ của An Dương Vương là một tuyên bố nối tiếp chính thống bản địa. Chiến thuật cọc ngầm về sau được Lê Hoàn và Trần Hưng Đạo dùng lại ngay trên khúc sông ấy.",
    "why": "Ứng viên cạnh tranh là Khúc Thừa Dụ, người giành quyền tự chủ trên thực tế từ năm 905, và Dương Đình Nghệ. Ngô Quyền được chọn theo counterfactual (d): họ Khúc vẫn nhận danh nghĩa nhà Đường, còn ông là người đầu tiên cắt đứt hẳn quan hệ phiên thuộc bằng cả quân sự lẫn danh hiệu. Về độ bền (b), năm 938 là mốc mở đầu kỷ nguyên độc lập trong mọi cách phân kỳ sử Việt.",
-   "sources": "Đại Việt sử ký toàn thư, Bản kỷ, quyển 5; Keith W. Taylor, A History of the Vietnamese (2013), chương 2.",
+   "sources": "Đại Việt sử ký toàn thư, Ngoại kỷ, quyển 5; Keith W. Taylor, A History of the Vietnamese (2013), chương 1.",
    "inherits": [
     {
      "target": "CH90-CE01_09-05",
@@ -3483,7 +3474,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Dẹp xong loạn mười hai sứ quân, ông thống nhất lãnh thổ và năm 968 xưng Hoàng đế — không phải vương — đặt quốc hiệu Đại Cồ Việt, niên hiệu Thái Bình, định đô Hoa Lư. Ông lập quân đội mười đạo, đặt quan chế văn võ, cho đúc tiền Thái Bình hưng bảo, đồng tiền riêng đầu tiên của Việt Nam. Việc xưng đế trong khi vẫn nhận sách phong từ nhà Tống tạo ra thế lưỡng trùng danh hiệu: đế ở trong nước, vương với phương Bắc — một công thức ngoại giao mà các triều sau dùng suốt chín trăm năm.",
+   "ideas": "Dẹp xong loạn mười hai sứ quân, ông thống nhất lãnh thổ và năm 968 xưng Hoàng đế — không phải vương — đặt quốc hiệu Đại Cồ Việt và định đô Hoa Lư, đến năm 970 mới đặt niên hiệu Thái Bình. Ông lập quân đội mười đạo, đặt quan chế văn võ, cho đúc tiền Thái Bình hưng bảo, đồng tiền riêng đầu tiên của Việt Nam. Việc xưng đế trong khi vẫn nhận sách phong từ nhà Tống tạo ra thế lưỡng trùng danh hiệu: đế ở trong nước, vương với phương Bắc — một công thức ngoại giao mà các triều sau dùng suốt chín trăm năm.",
    "why": "Ứng viên cạnh tranh là Lê Hoàn, người kế tục và đánh bại quân Tống năm 981. Đinh Bộ Lĩnh được chọn theo tính nguyên bản (c): quốc hiệu, niên hiệu, tiền riêng và công thức \"trong đế ngoài vương\" đều bắt đầu từ ông; Lê Hoàn vận hành bộ máy đó. Về counterfactual (d), không có bước thống nhất này, vùng châu thổ nhiều khả năng tiếp tục phân liệt theo các sứ quân.",
    "sources": "Đại Việt sử ký toàn thư, Bản kỷ, quyển 1; Keith W. Taylor, A History of the Vietnamese (2013).",
    "inherits": [
@@ -3555,8 +3546,8 @@
    "big_questions": [
     "Thực tại"
    ],
-   "ideas": "Thiền sư thuộc dòng Tì-ni-đa-lưu-chi, ông là cố vấn của Lê Đại Hành rồi là người chủ mưu đưa Lý Công Uẩn — học trò ông nuôi dạy từ nhỏ — lên ngôi năm 1009, gần như không đổ máu. Bài kệ \"thân như bóng chớp, có rồi không\" của ông là một trong những văn bản văn học Việt Nam sớm nhất còn nguyên. Vai trò của ông định hình mô hình quan hệ chùa – triều đình đặc trưng thời Lý: tăng sĩ vừa là cố vấn chính trị vừa là người giữ học vấn, trước khi Nho sĩ thay thế vị trí ấy.",
-   "why": "Ứng viên cùng loại là Khuông Việt Ngô Chân Lưu, vị tăng thống đầu tiên, và Đỗ Pháp Thuận, người tiếp sứ Tống. Vạn Hạnh được chọn theo counterfactual (d): chuyển giao quyền lực năm 1009 là bước ngoặt mở ra hai thế kỷ ổn định nhà Lý, và ông là người tổ chức nó. Niên đại để Trung bình vì năm sinh chỉ được suy ra từ tuổi thọ chép trong Thiền uyển tập anh.",
+   "ideas": "Thiền sư thuộc dòng Tì-ni-đa-lưu-chi, ông là cố vấn của Lê Đại Hành rồi là người chủ mưu đưa Lý Công Uẩn — do Lý Khánh Văn nuôi, do ông dạy ở chùa Lục Tổ — lên ngôi năm 1009, gần như không đổ máu. Bài kệ \"thân như bóng chớp, có rồi không\" của ông thuộc lớp thơ thiền sớm nhất của người Việt, sau Quốc tộ của Đỗ Pháp Thuận và Vương lang quy của Khuông Việt, và chỉ còn qua Thiền uyển tập anh. Vai trò của ông định hình mô hình quan hệ chùa – triều đình đặc trưng thời Lý: tăng sĩ vừa là cố vấn chính trị vừa là người giữ học vấn, trước khi Nho sĩ thay thế vị trí ấy.",
+   "why": "Ứng viên cùng loại là Khuông Việt Ngô Chân Lưu, vị tăng thống đầu tiên, và Đỗ Pháp Thuận, người tiếp sứ Tống. Vạn Hạnh được chọn theo counterfactual (d): chuyển giao quyền lực năm 1009 là bước ngoặt mở ra hai thế kỷ ổn định nhà Lý, và ông là người tổ chức nó. Niên đại để Trung bình vì năm sinh chỉ suy ra từ tuổi thọ chép trong Thiền uyển tập anh; năm mất thì bản truyền lại chép Thuận Thiên 16 (1025), còn Trần Văn Giáp hiệu đính thành 1018, trùng với ĐVSKTT.",
    "sources": "Thiền uyển tập anh; Nguyễn Lang, Việt Nam Phật giáo sử luận, tập 1.",
    "inherits": [
     {
@@ -3615,7 +3606,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Lên ngôi năm 1009, ngay năm sau ông dời đô từ Hoa Lư ra Đại La và đổi tên thành Thăng Long. Chiếu dời đô nêu lý do bằng lập luận địa lý và kinh tế — đất bằng rộng, tiện đường sông, dân cư không khổ vì ngập lụt — chứ không bằng điềm triệu, một văn bản hành chính hiếm hoi còn lại của thế kỷ 11. Lựa chọn này chuyển trung tâm quyền lực từ thung lũng phòng thủ ra đồng bằng mở, gắn nhà nước với sản xuất lúa nước và thương mại sông biển. Thăng Long giữ vai trò ấy gần một nghìn năm.",
+   "ideas": "Lên ngôi năm 1009, ngay năm sau ông dời đô từ Hoa Lư ra Đại La và đổi tên thành Thăng Long. Chiếu dời đô dựng lý lẽ hai tầng: viện tiền lệ Thương – Chu, mệnh trời và thế \"rồng cuộn hổ ngồi\" để chính danh, rồi tả Đại La bằng con mắt thực dụng — đất bằng rộng, tiện đường sông, dân cư không khổ vì ngập lụt. Vế sau ấy hiếm trong văn thư thế kỷ 11. Lựa chọn này chuyển trung tâm quyền lực từ thung lũng phòng thủ ra đồng bằng mở, gắn nhà nước với sản xuất lúa nước và thương mại sông biển. Thăng Long giữ vai trò ấy gần một nghìn năm.",
    "why": "Ứng viên cạnh tranh là con ông Lý Thái Tông, người ban bộ Hình thư năm 1042, và Lý Thánh Tông, người lập Văn Miếu. Lý Công Uẩn được chọn theo counterfactual (d) và độ bền (b): quyết định dời đô là điều kiện nền cho mọi thành tựu sau đó của nhà Lý, và là quyết định quy hoạch có hệ quả dài nhất trong lịch sử Việt Nam.",
    "sources": "Đại Việt sử ký toàn thư, Bản kỷ, quyển 2; Chiếu dời đô (1010).",
    "inherits": [
@@ -3680,16 +3671,15 @@
    "place": "Thăng Long và phòng tuyến sông Như Nguyệt",
    "region": "Đông Nam Á",
    "fields": [
-    "Quân sự",
-    "Văn học"
+    "Quân sự"
    ],
    "confidence": "Cao",
    "wikidata": "Q702734",
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Năm 1075 ông chủ động đánh sang Ung Châu và Khâm Châu để phá thế chuẩn bị xâm lược của nhà Tống, rồi rút về lập phòng tuyến sông Như Nguyệt chặn đứng đại quân Tống năm 1077 — một thế trận tiến công phủ đầu rồi phòng ngự chiều sâu, hiếm gặp ở Đông Á đương thời. Bài thơ \"Nam quốc sơn hà\" gắn với trận này được coi là tuyên ngôn chủ quyền sớm nhất của Việt Nam, khẳng định biên giới là điều đã định trong \"thiên thư\", tức lập luận chính danh chứ không chỉ sức mạnh.",
-   "why": "Ứng viên cùng thời là Tông Đản, phối hợp đánh Ung Châu, và Lý Đạo Thành bên văn ban. Lý Thường Kiệt được chọn theo tính nguyên bản (c): tư duy đánh trước để phá thế chuẩn bị của đối phương là lựa chọn chiến lược chưa từng có trước đó ở Đại Việt. Về độ bền (b), \"Nam quốc sơn hà\" vẫn là văn bản được trích nhiều nhất khi bàn về chủ quyền.",
+   "ideas": "Cuối năm 1075 ông chủ động đánh sang đất Tống để phá thế chuẩn bị xâm lược, hạ Khâm Châu rồi phá Ung Châu tháng 3/1076, rồi rút về lập phòng tuyến sông Như Nguyệt chặn đứng đại quân Tống năm 1077 — một thế trận tiến công phủ đầu rồi phòng ngự chiều sâu, hiếm gặp ở Đông Á đương thời. Bài thơ \"Nam quốc sơn hà\" gắn với trận này được coi là tuyên ngôn chủ quyền sớm nhất của người Việt, dù không thư tịch cổ nào ghi tác giả và truyền thuyết sớm còn gắn nó với cuộc kháng Tống năm 981; bài thơ khẳng định biên giới là điều đã định trong \"thiên thư\", tức lập luận chính danh chứ không chỉ sức mạnh.",
+   "why": "Ứng viên cùng thời là Tông Đản, phối hợp đánh Ung Châu, và Lý Đạo Thành bên văn ban. Lý Thường Kiệt được chọn theo tính nguyên bản (c): tư duy đánh trước để phá thế chuẩn bị của đối phương là lựa chọn chiến lược chưa từng có trước đó ở Đại Việt. Về độ bền (b), sau Như Nguyệt nhà Tống không mở cuộc xâm lược nào nữa, và thế trận ấy thành khuôn mẫu cho Trần Hưng Đạo hai thế kỷ sau; \"Nam quốc sơn hà\" thì gắn với chiến dịch của ông hơn là với ngòi bút ông.",
    "sources": "Đại Việt sử ký toàn thư, Bản kỷ, quyển 3; Hoàng Xuân Hãn, Lý Thường Kiệt (1949).",
    "inherits": [
     {
@@ -3748,9 +3738,9 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Ông tổ chức cuộc chuyển giao từ nhà Lý sang nhà Trần năm 1225 bằng một cuộc hôn nhân chứ không bằng binh biến, rồi dựng bộ khung thiết chế đặc trưng của triều Trần: chế độ Thái thượng hoàng để tránh tranh ngôi, hôn nhân nội tộc để giữ quyền lực trong họ, và điền trang thái ấp cấp cho tông thất đổi lấy nghĩa vụ quân sự. Chính bộ khung ấy cho phép Đại Việt huy động lực lượng nhanh và giữ được thống nhất chỉ huy khi quân Nguyên tràn sang ba lần.",
-   "why": "Ứng viên thay thế là Trần Thái Tông, vị vua đầu triều. Trần Thủ Độ được chọn theo counterfactual (d): các thiết chế quyết định sức bền của nhà Trần đều do ông thiết kế, và câu trả lời của ông khi quân Nguyên áp sát — đầu thần chưa rơi xuống đất, xin bệ hạ đừng lo — là minh chứng cho vai trò cầm trịch thực tế. Các biện pháp tàn khốc với tông thất nhà Lý cũng là của ông, phụ lục ghi cả hai mặt.",
-   "sources": "Đại Việt sử ký toàn thư, Bản kỷ, quyển 5; Keith W. Taylor, A History of the Vietnamese (2013), chương 4.",
+   "ideas": "Ông tổ chức cuộc chuyển giao từ nhà Lý sang nhà Trần năm 1225 bằng một cuộc hôn nhân chứ không bằng binh biến, rồi đặt nền cho bộ khung thiết chế đặc trưng của triều Trần: hôn nhân nội tộc để giữ quyền lực trong họ, thái ấp cấp cho tông thất đổi lấy nghĩa vụ quân sự, và lệ Thái thượng hoàng — chính ông dâng sớ xin tôn Trần Thừa làm Thượng hoàng năm 1226, dù sử không chép ông là người thiết kế cả chế độ. Chính bộ khung ấy cho phép Đại Việt huy động lực lượng nhanh và giữ được thống nhất chỉ huy khi quân Mông Cổ rồi quân Nguyên tràn sang ba lần.",
+   "why": "Ứng viên thay thế là Trần Thái Tông, vị vua đầu triều. Trần Thủ Độ được chọn theo counterfactual (d): các thiết chế quyết định sức bền của nhà Trần đều do ông thiết kế, và câu trả lời của ông khi quân Mông Cổ tràn vào Thăng Long đầu năm 1258 — đầu thần chưa rơi xuống đất, xin bệ hạ đừng lo — là minh chứng cho vai trò cầm trịch thực tế. Các biện pháp tàn khốc với tông thất nhà Lý cũng là của ông, phụ lục ghi cả hai mặt.",
+   "sources": "Đại Việt sử ký toàn thư, Bản kỷ, quyển 5; Keith W. Taylor, A History of the Vietnamese (2013), chương 3.",
    "inherits": [
     {
      "target": "Không xác định",
@@ -3808,9 +3798,9 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Tổng chỉ huy trong hai cuộc kháng chiến chống Nguyên 1285 và 1288, ông chọn lối rút lui chiến lược, bỏ trống kinh thành, tiêu hao hậu cần địch rồi phản công khi quân Nguyên kiệt sức vì khí hậu và tiếp tế — kết thúc bằng trận Bạch Đằng 1288 dùng lại kế cọc ngầm. Hịch tướng sĩ của ông là văn bản động viên quân đội sớm nhất còn lại, và Binh thư yếu lược là trước tác quân sự riêng đầu tiên của Việt Nam. Lời dặn cuối đời — khoan thư sức dân làm kế sâu rễ bền gốc — tóm lại toàn bộ quan niệm của ông về quốc phòng.",
-   "why": "Ứng viên cùng thời là Trần Khánh Dư, người phá đoàn thuyền lương Trương Văn Hổ, và Trần Nhật Duật. Trần Hưng Đạo được chọn theo phạm vi (a) và độ bền (b): ông là người hoạch định toàn cục cả ba lần, và việc đánh bại đế chế Mông Cổ ở đỉnh cao là sự kiện đưa Đại Việt vào lịch sử quân sự thế giới, bên cạnh Nhật Bản và Ai Cập.",
-   "sources": "Đại Việt sử ký toàn thư, Bản kỷ, quyển 5–6; Hịch tướng sĩ; Binh thư yếu lược.",
+   "ideas": "Tổng chỉ huy trong hai cuộc kháng chiến chống Nguyên 1285 và 1287–1288, ông chọn lối rút lui chiến lược, bỏ trống kinh thành, tiêu hao hậu cần địch rồi phản công khi quân Nguyên kiệt sức vì khí hậu và tiếp tế — kết thúc bằng trận Bạch Đằng 1288 dùng lại kế cọc ngầm. Hịch tướng sĩ là văn bản động viên quân đội sớm nhất còn lại; binh thư ông soạn thì đã thất truyền — văn bản mang tên Binh thư yếu lược lưu hành ngày nay được khảo cứu xác định là soạn muộn, không sớm hơn 1869. Lời dặn cuối đời — khoan thư sức dân làm kế sâu rễ bền gốc — tóm lại quan niệm quốc phòng của ông.",
+   "why": "Ứng viên cùng thời là Trần Khánh Dư, người phá đoàn thuyền lương Trương Văn Hổ, và Trần Nhật Duật. Trần Hưng Đạo được chọn theo phạm vi (a) và độ bền (b): ông dự cả ba lần chống xâm lược, và từ khi được phong Quốc công tiết chế tháng 10/1283 thì là người hoạch định toàn cục hai lần sau, và việc đánh bại đế chế Mông Cổ ở đỉnh cao là sự kiện đưa Đại Việt vào lịch sử quân sự thế giới, bên cạnh Nhật Bản và Ai Cập.",
+   "sources": "Đại Việt sử ký toàn thư, Bản kỷ, quyển 5–6; Hịch tướng sĩ; Ngô Đức Thọ, \"Đi tìm nguồn gốc và năm xuất hiện của văn bản Binh thư yếu lược\" (1986).",
    "inherits": [
     {
      "target": "CH90-CE10_14-01",
@@ -3890,7 +3880,7 @@
    ],
    "ideas": "Vị vua trực tiếp lãnh đạo hai cuộc kháng chiến chống Nguyên, sau đó nhường ngôi và xuất gia, lập thiền phái Trúc Lâm Yên Tử — dòng Thiền do người Việt sáng lập, hợp nhất ba dòng có trước. Bài phú Nôm Cư trần lạc đạo của ông nêu chủ trương tu giữa đời thường: \"đói thì ăn, mệt thì ngủ\", không cần lìa bỏ xã hội mới đạt đạo. Đây cũng là một trong những văn bản chữ Nôm sớm nhất còn lại. Ông đồng thời sắp xếp cuộc hôn nhân Huyền Trân – Chế Mân, mở rộng lãnh thổ về phía nam bằng ngoại giao.",
    "why": "Ứng viên cùng dòng là Pháp Loa và Huyền Quang, hai tổ kế tiếp của Trúc Lâm. Trần Nhân Tông được chọn theo tính nguyên bản (c): ông là người sáng lập, và là trường hợp hiếm trong lịch sử thế giới khi một vị vua thắng trận tự nguyện rời ngôi để xây dựng một truyền thống tôn giáo. Về độ bền (b), Trúc Lâm vẫn là bản sắc được viện dẫn của Phật giáo Việt Nam hiện nay.",
-   "sources": "Nguyễn Lang, Việt Nam Phật giáo sử luận, tập 1; Cư trần lạc đạo phú; Đại Việt sử ký toàn thư, Bản kỷ, quyển 6.",
+   "sources": "Nguyễn Lang, Việt Nam Phật giáo sử luận, tập 1; Cư trần lạc đạo phú; Đại Việt sử ký toàn thư, Bản kỷ, quyển 5–6.",
    "inherits": [
     {
      "target": "CH90-CE10_14-03",
@@ -3967,7 +3957,7 @@
    "big_questions": [
     "Con người"
    ],
-   "ideas": "Ông mở trường tư ở Thanh Đàm dạy không phân biệt giàu nghèo, sau được mời làm tư nghiệp Quốc Tử Giám. Năm 1339 ông dâng Thất trảm sớ xin chém bảy gian thần; vua không nghe, ông từ quan về ẩn ở Chí Linh và không nhận mời ra làm quan nữa. Hành vi đó định hình mẫu mực \"kẻ sĩ\" trong văn hoá Việt Nam: can gián đến cùng, rồi rút lui giữ khí tiết thay vì thoả hiệp. Ông là người đầu tiên không thuộc hoàng tộc được thờ ở Văn Miếu.",
+   "ideas": "Ông mở trường tư ở Thanh Đàm dạy không phân biệt giàu nghèo, sau được mời làm tư nghiệp Quốc Tử Giám. Dưới triều Trần Dụ Tông (ĐVSKTT không ghi năm, niên đại thường dẫn là 1358), ông dâng Thất trảm sớ xin chém bảy gian thần; vua không nghe, ông từ quan về ẩn ở Chí Linh và không nhận mời ra làm quan nữa. Hành vi đó định hình mẫu mực \"kẻ sĩ\" trong văn hoá Việt Nam: can gián đến cùng, rồi rút lui giữ khí tiết thay vì thoả hiệp. Ông là người đầu tiên không thuộc hoàng tộc được thờ ở Văn Miếu.",
    "why": "Ứng viên cùng thời là Trương Hán Siêu và Lê Văn Hưu, tác giả bộ quốc sử đầu tiên. Chu Văn An được chọn theo độ bền (b): trước tác của ông gần như mất hết, nhưng hình mẫu đạo đức mà ông để lại được viện dẫn liên tục suốt sáu thế kỷ, tới mức tên ông trở thành chuẩn mực để đánh giá người làm thầy và người làm quan.",
    "sources": "Đại Việt sử ký toàn thư, Bản kỷ, quyển 7; Trần Văn Giáp, Tìm hiểu kho sách Hán Nôm.",
    "inherits": [
@@ -4039,9 +4029,9 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Ông tiến hành gói cải cách triệt để nhất của thời quân chủ Việt Nam: phát hành tiền giấy Thông bảo hội sao thay tiền đồng, hạn điền và hạn nô để phá thế lực điền trang quý tộc Trần, lập sổ hộ tịch toàn quốc, mở trường và đưa chữ Nôm vào thi cử cùng khoa toán. Ông cũng cho dịch Kinh Thi, Kinh Thư sang chữ Nôm. Hầu hết cải cách thất bại vì thực hiện quá gấp giữa lúc nhà Minh đe doạ, và triều Hồ sụp sau bảy năm, mở đường cho hai mươi năm Minh thuộc.",
-   "why": "Ứng viên thay thế không có — không ai cùng thời làm điều tương tự. Ông được chọn theo tính nguyên bản (c): tiền giấy và hạn điền là những thử nghiệm chưa từng có ở Đại Việt, và việc đưa chữ Nôm vào khoa cử là nỗ lực sớm nhất dùng ngôn ngữ bản địa làm phương tiện học thuật chính thức. Đây là mục cho thấy phụ lục ghi cả thất bại có hệ quả, không chỉ thành công.",
-   "sources": "Đại Việt sử ký toàn thư, Bản kỷ, quyển 8; Keith W. Taylor, A History of the Vietnamese (2013), chương 5.",
+   "ideas": "Gói cải cách triệt để nhất thời quân chủ Việt Nam: phát hành tiền giấy Thông bảo hội sao thay tiền đồng, hạn điền, hạn nô phá thế lực điền trang quý tộc Trần, lập sổ hộ tịch toàn quốc, mở trường, định phép thi tứ trường (1396), thêm kỳ thi viết chữ và toán pháp (1404). Khoa cử vẫn thi bằng chữ Hán; chữ Nôm ông dùng ở chỗ khác: dịch thiên Vô dật của Kinh Thư (1395) dạy vua, soạn Quốc ngữ Thi nghĩa giải Kinh Thi (1396), bài tựa cãi lại Chu Hy. Hầu hết cải cách thất bại vì thực hiện quá gấp giữa lúc nhà Minh đe doạ, và triều Hồ sụp sau bảy năm, mở đường cho hai mươi năm Minh thuộc.",
+   "why": "Ứng viên thay thế không có — không ai cùng thời làm điều tương tự. Ông được chọn theo tính nguyên bản (c): tiền giấy và hạn điền là thử nghiệm chưa từng có ở Đại Việt. Chữ Nôm ông mới đẩy được vào sách dịch và sách dạy trong cung, chưa vào nổi trường thi — bước ấy phải đợi Quang Trung gần bốn thế kỷ sau, nhưng ý định dùng tiếng bản địa làm phương tiện học thuật bắt đầu từ đây. Đây là mục cho thấy phụ lục ghi cả thất bại có hệ quả, không chỉ thành công.",
+   "sources": "Đại Việt sử ký toàn thư, Bản kỷ, quyển 8; Keith W. Taylor, A History of the Vietnamese (2013), chương 3–4.",
    "inherits": [
     {
      "target": "Vương An Thạch (王安石)",
