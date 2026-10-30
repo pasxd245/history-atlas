@@ -67,7 +67,8 @@ def lint_chapter(ch: dict, all_persons: dict[str, dict], images: dict | None, re
         regions = Counter(p["region"] for p in g["persons"] if p["region"])
         if g["persons"] and len(fields) < 4:
             rep.warn(gw, f"chỉ {len(fields)} lĩnh vực (khuyến nghị ≥ 4)")
-        if g["persons"] and len(regions) < 3:
+        # Đa dạng vùng là tiêu chí của atlas toàn cầu; phụ lục theo một vùng là đúng thiết kế.
+        if g["persons"] and len(regions) < 3 and C.is_main(no):
             rep.warn(gw, f"chỉ {len(regions)} vùng (khuyến nghị ≥ 3)")
 
         for p in g["persons"]:
@@ -171,12 +172,23 @@ def lint_global(chapters: list[dict], all_persons: dict[str, dict], rep: Report)
                 by_name.setdefault(C.norm_name(p["name_vi"]), []).append(p["id"])
                 if p["wikidata"]:
                     by_q.setdefault(p["wikidata"], []).append(p["id"])
+    def tracks(ids: list[str]) -> set[str]:
+        """Track của từng ID. Trùng giữa atlas chính và phụ lục là CÓ CHỦ Ý (D: liên kết chéo),
+        nên hạ xuống INFO; trùng trong cùng một track mới là điều cần cảnh báo."""
+        return {C.track_of(int(i[2:4])) for i in ids if C.ID_RE.match(i)}
+
     for k, ids in by_name.items():
         if len(ids) > 1 and len({i[:4] for i in ids}) > 1:
-            rep.warn(ids[0], f"cùng tên xuất hiện ở nhiều chapter: {', '.join(ids)}")
+            if len(tracks(ids)) > 1:
+                rep.info(ids[0], f"cùng tên ở cả atlas chính và phụ lục — có chủ ý: {', '.join(ids)}")
+            else:
+                rep.warn(ids[0], f"cùng tên xuất hiện ở nhiều chapter: {', '.join(ids)}")
     for q, ids in by_q.items():
         if len(ids) > 1:
-            rep.warn(ids[0], f"cùng Wikidata {q} ở nhiều mục: {', '.join(ids)}")
+            if len(tracks(ids)) > 1:
+                rep.info(ids[0], f"cùng Wikidata {q} ở cả atlas chính và phụ lục — có chủ ý: {', '.join(ids)}")
+            else:
+                rep.warn(ids[0], f"cùng Wikidata {q} ở nhiều mục: {', '.join(ids)}")
     # liên kết một chiều (kiểm tra đầy đủ ở P4)
     for p in all_persons.values():
         for l in p["inherits"]:

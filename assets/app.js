@@ -10,6 +10,7 @@
   var body = document.body;
   var PERSONS = window.ATLAS_PERSONS || [];
   var CHAPTERS = (window.ATLAS_CHAPTERS || []).filter(function (c) { return c.has; }); // chỉ chapter có dữ liệu
+  var TRACK = {}; (window.ATLAS_CHAPTERS || []).forEach(function (c) { TRACK[c.no] = c.track || "main"; });
   var chapterNos = CHAPTERS.map(function (c) { return c.no; });
 
   // ---- hash <-> trang
@@ -48,7 +49,8 @@
     var no = currentChapterNo(page);
     var lbl = best ? best.querySelector(".lbl") : null;
     var lblText = lbl ? (lbl.childNodes[0] ? lbl.childNodes[0].textContent : lbl.textContent).trim() : "";
-    var title = no !== null ? ("Chapter " + no + (lblText ? " · " + lblText : "")) : (base.replace(".html", "") === "overview" ? "Overview" : "Credits");
+    var head = no !== null ? (TRACK[no] === "main" ? "Chapter " + no : "Phụ lục") : null;
+    var title = head !== null ? (head + (lblText ? " · " + lblText : "")) : (base.replace(".html", "") === "overview" ? "Overview" : "Credits");
     crumb.textContent = title;
     var idx = no !== null ? chapterNos.indexOf(no) : -1;
     btnPrev.disabled = idx <= 0; btnNext.disabled = idx < 0 || idx >= chapterNos.length - 1;

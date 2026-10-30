@@ -241,7 +241,7 @@ def render_chapter(ch: dict, chapters: list[dict], persons: dict, images: dict, 
     gmap = {g["id"]: g for g in ch["groups"]}
     n_persons = sum(len(g["persons"]) for g in ch["groups"])
     parts = [topnav(no, chapters, 1), f'''<header class="chapter-head">
-  <div class="kicker">Chapter {no} · {E(chapter_label(no))}</div>
+  <div class="kicker">{f"Phụ lục · {E(chapter_label(no))}" if not C.is_main(no) else f"Chapter {no} · {E(chapter_label(no))}"}</div>
   <h1>{E(title)}{sample}</h1>
   <div class="meta">{n_persons} nhân vật · {len([g for g in ch["groups"] if g["persons"]])}/{len(group_order)} nhóm có dữ liệu · nguồn: {E(", ".join(ch["files"]))}</div>
 </header>
@@ -279,6 +279,12 @@ def render_index(chapters: list[dict], persons: dict) -> str:
     for cfg in C.CHAPTERS:
         ch = present.get(cfg["no"])
         items.append(_sidebar_chapter(cfg["no"], cfg["title"], cfg["label"], cfg["groups"], ch))
+    app_items = []
+    for cfg in C.APPENDICES:
+        ch = present.get(cfg["no"])
+        app_items.append(_sidebar_chapter(cfg["no"], cfg["title"], cfg["label"], cfg["groups"], ch, num_label=cfg.get("num_label")))
+    app_block = (f'<div class="group-title">Phụ lục <span class="muted small">(ngoài thống kê chính)</span></div>{"".join(app_items)}'
+                 if app_items else "")
     body = f'''<button class="menu-btn" id="menu-btn" aria-label="Menu">☰</button>
 <aside class="sidebar" id="sidebar">
   <div class="brand"><a href="#intro" id="brand-link"><h1>{E(C.PROJECT["title"])}</h1></a><div class="sub">{E(C.PROJECT["subtitle"])}</div></div>
@@ -289,6 +295,7 @@ def render_index(chapters: list[dict], persons: dict) -> str:
   <a class="item top" href="credits.html" data-page="credits.html"><span class="lbl">Credits — ảnh &amp; giấy phép</span></a>
   <div class="group-title">Chapter</div>
   {"".join(items)}
+  {app_block}
   <div class="foot">{len(persons)} nhân vật · bản dựng {E(C.PROJECT["version"])}<br><a id="open-new" href="overview.html" target="_blank">Mở trang hiện tại trong tab mới ↗</a></div>
 </aside>
 <main class="main"><div class="framebar"><button id="prev" title="Chapter trước">←</button><span id="crumb"></span><button id="next" title="Chapter sau">→</button></div><iframe id="frame" name="frame" src="overview.html" title="Nội dung"></iframe></main>
@@ -297,7 +304,7 @@ def render_index(chapters: list[dict], persons: dict) -> str:
     return page("Mục lục", body, depth=0, body_class="index")
 
 
-def _sidebar_chapter(no: int, title: str, label: str, groups: list[str], ch: dict | None, sample: bool = False) -> str:
+def _sidebar_chapter(no: int, title: str, label: str, groups: list[str], ch: dict | None, sample: bool = False, num_label: str | None = None) -> str:
     gmap = {g["id"]: g for g in ch["groups"]} if ch else {}
     n = sum(len(g["persons"]) for g in ch["groups"]) if ch else 0
     tag = chapter_tag(no)
@@ -307,7 +314,7 @@ def _sidebar_chapter(no: int, title: str, label: str, groups: list[str], ch: dic
     cls = "item chap" + ("" if ch else " empty")
     badge = ' <span class="badge sample">MẪU</span>' if sample else ""
     return f'''<details class="chapter" {"open" if ch else ""}>
-<summary><a class="{cls}" href="chapters/{tag}.html" data-page="chapters/{tag}.html"><span class="num">{no}</span><span class="lbl">{E(title)}{badge}<span class="range">{E(label)}</span></span><span class="cnt">{n or "–"}</span></a></summary>
+<summary><a class="{cls}" href="chapters/{tag}.html" data-page="chapters/{tag}.html"><span class="num">{E(num_label) if num_label else no}</span><span class="lbl">{E(title)}{badge}<span class="range">{E(label)}</span></span><span class="cnt">{n or "–"}</span></a></summary>
 {sub}
 </details>'''
 
@@ -319,7 +326,8 @@ def stats(chapters: list[dict], persons: dict) -> dict:
         c = Counter(items)
         tot = sum(c.values()) or 1
         return {k: {"n": v, "pct": round(100 * v / tot, 1)} for k, v in c.most_common()}
-    out = {"total_persons": len(persons), "chapters": {}}
+    main_persons = {pid: p for pid, p in persons.items() if C.is_main(p["chapter"])}
+    out = {"total_persons": len(main_persons), "appendix_persons": len(persons) - len(main_persons), "chapters": {}}
     all_regions, all_fields, all_rel, all_ev, all_bq = [], [], [], [], []
     for ch in chapters:
         ps = [p for g in ch["groups"] for p in g["persons"]]
@@ -328,12 +336,16 @@ def stats(chapters: list[dict], persons: dict) -> dict:
         rels = [l["relation"] for p in ps for k in ("inherits", "influences") for l in p[k] if not l["undetermined"]]
         evs = [l["evidence"] for p in ps for k in ("inherits", "influences") for l in p[k] if not l["undetermined"]]
         bqs = [q for p in ps for q in p["big_questions"]]
-        out["chapters"][chapter_tag(ch["no"])] = {"persons": len(ps), "regions": dist(regions), "fields": dist(fields), "relations": dist(rels), "evidence": dist(evs), "big_questions": dist(bqs)}
+        out["chapters"][chapter_tag(ch["no"])] = {"persons": len(ps), "track": C.track_of(ch["no"]), "regions": dist(regions), "fields": dist(fields), "relations": dist(rels), "evidence": dist(evs), "big_questions": dist(bqs)}
+        if not C.is_main(ch["no"]):
+            continue  # phụ lục: thống kê riêng theo chapter, không dồn vào "Toàn bộ"
         all_regions += regions; all_fields += fields; all_rel += rels; all_ev += evs; all_bq += bqs
     out["all"] = {"regions": dist(all_regions), "fields": dist(all_fields), "relations": dist(all_rel), "evidence": dist(all_ev), "big_questions": dist(all_bq)}
     # bậc vào/ra
-    deg = {pid: {"in": 0, "out": 0} for pid in persons}
+    deg = {pid: {"in": 0, "out": 0} for pid, p in persons.items() if C.is_main(p["chapter"])}
     for p in persons.values():
+        if not C.is_main(p["chapter"]):
+            continue  # liên kết từ phụ lục không làm phồng bậc của atlas chính
         for l in p["inherits"]:
             if l["target"] in deg and not l["undetermined"]:
                 deg[p["id"]]["out"] += 1
@@ -343,7 +355,8 @@ def stats(chapters: list[dict], persons: dict) -> dict:
 
 
 def stats_txt(st: dict) -> str:
-    lines = [f"STATS — {st['total_persons']} nhân vật", ""]
+    lines = [f"STATS — {st['total_persons']} nhân vật (atlas chính)"
+             + (f" + {st['appendix_persons']} ở phụ lục (không tính vào thống kê toàn cục)" if st.get("appendix_persons") else ""), ""]
 
     def block(title, d):
         lines.append(title)
@@ -353,7 +366,7 @@ def stats_txt(st: dict) -> str:
     for key, title in (("regions", "Vùng"), ("fields", "Lĩnh vực"), ("relations", "Loại quan hệ"), ("evidence", "Mức bằng chứng"), ("big_questions", "Câu hỏi lớn")):
         block(f"[Toàn bộ] {title}", st["all"][key])
     for tag, cs in st["chapters"].items():
-        lines.append(f"=== {tag} ({cs['persons']} nhân vật) ===")
+        lines.append(f"=== {tag} ({cs['persons']} nhân vật){' — PHỤ LỤC, ngoài thống kê toàn cục' if cs.get('track') not in (None, 'main') else ''} ===")
         for key, title in (("regions", "Vùng"), ("fields", "Lĩnh vực"), ("relations", "Loại quan hệ")):
             block(f"[{tag}] {title}", cs[key])
     return "\n".join(lines)

@@ -42,9 +42,31 @@ CHAPTERS = [
     {"no": 10, "title": "Thế kỷ 20",                              "label": "TK 20",        "groups": ["CE20"]},
     {"no": 11, "title": "Thế kỷ 21 (đến 2026)",                   "label": "TK 21",        "groups": ["CE21"]},
 ]
-CHAPTER_BY_NO = {c["no"]: c for c in CHAPTERS}
-GROUP_TO_CHAPTER = {g: c["no"] for c in CHAPTERS for g in c["groups"]}
+
+# ---- Phụ lục: track riêng, KHÔNG tính vào thống kê/độ phủ toàn cục.
+# Tiêu chí (a)-(d) giữ nguyên nhưng hệ quy chiếu là Việt Nam + Đông Nam Á, không phải nhân loại —
+# đó là lý do phụ lục tách khỏi atlas chính chứ không trộn vào.
+# ID nhóm đều là dạng gộp nhiều thế kỷ, không trùng nhóm nào của 11 chapter chính.
+APPENDICES = [
+    {"no": 90, "title": "Phụ lục · Việt Nam qua các thời kỳ", "label": "TK 3 TCN – TK 20", "track": "vn", "num_label": "VN",
+     "groups": ["BCE03_01", "CE01_09", "CE10_14", "CE15_18", "CE19_20"]},
+]
+for _c in CHAPTERS:
+    _c.setdefault("track", "main")
+ALL_CHAPTERS = CHAPTERS + APPENDICES
+
+CHAPTER_BY_NO = {c["no"]: c for c in ALL_CHAPTERS}
+GROUP_TO_CHAPTER = {g: c["no"] for c in ALL_CHAPTERS for g in c["groups"]}
 SAMPLE_CHAPTER_NO = 0  # content/ch00-sample.md — chỉ dùng ở P1
+
+
+def track_of(no: int | None) -> str:
+    """Track của chapter: 'main' cho 11 chapter PLAN §4, 'vn' cho phụ lục Việt Nam."""
+    return CHAPTER_BY_NO.get(no, {}).get("track", "main")
+
+
+def is_main(no: int | None) -> bool:
+    return track_of(no) == "main"
 
 # ---- PLAN §5: từ vựng cố định
 FIELDS = ["Triết học", "Tôn giáo/Tâm linh", "Toán học", "Khoa học tự nhiên", "Y học", "Kỹ thuật/Công nghệ",

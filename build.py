@@ -49,7 +49,7 @@ def write_persons(chapters: list[dict], persons: dict, images: dict):
     search = [{"id": p["id"], "n": p["name_vi"], "o": p["name_orig"], "f": p["fields"], "r": p["region"], "g": C.group_label(p["group"]),
                "u": f"chapters/{R.chapter_tag(p['chapter'])}.html#{p['id']}"} for p in persons.values()]
     present = {c["no"] for c in chapters}
-    chs = [{"no": c["no"], "title": c["title"], "has": c["no"] in present} for c in C.CHAPTERS]
+    chs = [{"no": c["no"], "title": c["title"], "has": c["no"] in present, "track": c.get("track", "main")} for c in C.ALL_CHAPTERS]
     if C.SAMPLE_CHAPTER_NO in present:
         chs.insert(0, {"no": 0, "title": "Mẫu", "has": True})
     (ROOT / "data" / "persons.js").write_text(
