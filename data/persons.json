@@ -15,7 +15,7 @@
    "files": [
     "ch02.md"
    ],
-   "intro": "Giai đoạn 800–401 TCN chứng kiến nhiều truyền thống tư tưởng xuất hiện gần như song song ở Trung Hoa, Ấn Độ, Iran, Israel–Judah và Hy Lạp — hiện tượng Karl Jaspers gọi là Thời kỳ Trục. Chapter này không khẳng định các vùng đã ảnh hưởng lẫn nhau: phần lớn quan hệ xuyên vùng được ghi là tương đồng độc lập. Bốn nhóm thế kỷ gồm 35 nhân vật, từ vua Assyria và ngôn sứ Do Thái tới Khổng Tử, Đức Phật, Thales và Socrates, chọn theo phạm vi, độ bền, tính nguyên bản và counterfactual.",
+   "intro": "Giai đoạn 800–401 TCN chứng kiến nhiều truyền thống tư tưởng xuất hiện gần như song song ở Trung Hoa, Ấn Độ, Iran, Israel–Judah và Hy Lạp — hiện tượng Karl Jaspers gọi là Thời kỳ Trục. Chapter này không khẳng định các vùng đã ảnh hưởng lẫn nhau: phần lớn quan hệ xuyên vùng được ghi là tương đồng độc lập. Bốn nhóm thế kỷ gồm 36 nhân vật, từ vua Assyria và ngôn sứ Do Thái tới Khổng Tử, Đức Phật, Thales và Socrates, chọn theo phạm vi, độ bền, tính nguyên bản và counterfactual.",
    "editorial": [
     "**Cách chapter này được soạn**",
     "Phần văn xuôi của chapter do mô hình AI (Claude) viết theo prompt cố định tại `prompts/atlas-prompt.md`, không qua bình duyệt chuyên môn. Tên, niên đại và định danh được đối chiếu tự động với Wikidata; phần diễn giải, đánh giá ảnh hưởng và lựa chọn nhân vật là tổng hợp của model theo bốn tiêu chí (a)–(d), không phải kết luận của giới nghiên cứu. Mục Nguồn là điểm khởi đầu để tự kiểm tra, chưa được đối chiếu từng câu. Xem mục \"Về dự án\" ở trang Overview để biết giới hạn đầy đủ.",
@@ -105,7 +105,8 @@
       "CH02-BCE06-08",
       "CH02-BCE06-09",
       "CH02-BCE06-10",
-      "CH02-BCE06-11"
+      "CH02-BCE06-11",
+      "CH02-BCE06-12"
      ]
     },
     {
@@ -1805,6 +1806,13 @@
      "evidence": "suy đoán học giả",
      "raw": "CH02-BCE08-05 · phản bác · suy đoán học giả",
      "undetermined": false
+    },
+    {
+     "target": "CH02-BCE06-12",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH02-BCE06-12 · kế thừa · trực tiếp",
+     "undetermined": false
     }
    ],
    "influences": [
@@ -2161,6 +2169,74 @@
     "width": 500,
     "how": "thumbnail 500px"
    }
+  },
+  "CH02-BCE06-12": {
+   "id": "CH02-BCE06-12",
+   "name_vi": "Croesus xứ Lydia",
+   "name_orig": "Κροῖσος Kroîsos",
+   "labels": [],
+   "years_raw": "k. 595 – sau 546 TCN (trị vì k. 560–546 TCN theo niên đại quy ước; Wallace 2016 đẩy năm lên ngôi về thập niên 580)",
+   "born": -595,
+   "died": -546,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Sardis, xứ Lydia, nay thuộc tỉnh Manisa, Thổ Nhĩ Kỳ",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Kinh tế"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q184462",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Herodotus (I.94) gọi người Lydia là dân đầu tiên đúc tiền vàng, bạc. Cha ông, Alyattes, đúc tiền electrum, hợp kim vàng–bạc hàm lượng không đều nên giá trị khó kiểm. Croesus thay nó bằng hệ lưỡng kim đầu tiên: stater vàng ròng và bạc ròng cùng hình sư tử–bò, tỉ giá cố định — một stater vàng (k. 8,1 g) ăn mười stater bạc, tức vàng/bạc khoảng 13,3:1 — kèm mệnh giá tới 1/48 cho giao dịch nhỏ. Tiền dưới tầng phá huỷ Sardis (1988, 2002, 2021) xác nhận nó lưu hành trước khi Cyrus chiếm thành, bác giả thuyết nó chỉ bắt đầu thời Ba Tư. Truyện gặp Solon và dàn hoả thiêu ở Herodotus là tiếp nhận văn học, không phải sử liệu.",
+   "why": "Ứng viên cùng thời, cùng lĩnh vực: Alyattes (k. 610–560 TCN), đúc electrum đầu sư tử khắc chữ WALWET; và Amasis II (Ai Cập, 570–526 TCN), mở Naukratis làm cảng độc quyền cho người Hy Lạp (Herodotus II.178). Croesus vượt ở tính nguyên bản (c) và độ bền (b): tiền ròng theo tỉ giá cố định làm giá trị kiểm được; Cyrus giữ xưởng Sardis và loại tiền này ba mươi năm; daric–siglos của Darius kế thừa hệ cân. Về counterfactual (d), bạc Aegina ra đời gần cùng lúc (k. 550 TCN), nhưng lưỡng kim định tỉ giá chưa có tiền lệ.",
+   "sources": "John H. Kroll, \"The Coins of Sardis\", trong Nicholas D. Cahill (chủ biên), *The Lydians and Their World* (Istanbul: Yapı Kredi Yayınları, 2010) (https://sardisexpedition.org/en/essays/latw-kroll-coins-of-sardis); Nicholas Cahill, William Bruce, John H. Kroll và cộng sự, \"A New Find of Croeseid Coins from Sardis\", *Hesperia* 94.2 (2025), 143–183 (DOI 10.2972/hes.2025.a963374).",
+   "inherits": [
+    {
+     "target": "Alyattes xứ Lydia",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Alyattes xứ Lydia · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Hệ cân shekel Lưỡng Hà (siglos = shekel)",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "Hệ cân shekel Lưỡng Hà (siglos = shekel) · kế thừa · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH02-BCE06-07",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH02-BCE06-07 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH02-BCE05-10",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE05-10 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Tiền bạc Hy Lạp cổ phong (Aegina, Corinth, Athens)",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "Tiền bạc Hy Lạp cổ phong (Aegina, Corinth, Athens) · kế thừa · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "group": "BCE06",
+   "chapter": 2,
+   "file": "ch02.md",
+   "image": null
   },
   "CH02-BCE05-01": {
    "id": "CH02-BCE05-01",
@@ -2895,6 +2971,13 @@
      "relation": "kế thừa",
      "evidence": "suy đoán học giả",
      "raw": "CH02-BCE08-05 · kế thừa · suy đoán học giả",
+     "undetermined": false
+    },
+    {
+     "target": "CH02-BCE06-12",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE06-12 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
