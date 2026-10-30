@@ -2,18 +2,19 @@
 :root {
   --bg: #f7f5f0; --panel: #ffffff; --ink: #1f1d1a; --muted: #6b6560; --line: #e4dfd6;
   --accent: #8a3b12; --accent-soft: #f3e4d8; --chip: #efe9df; --chip-ink: #4a443d; --link: #0f4c81;
-  --sidebar-w: 320px; --sample: #a33;
-  --rel-ke-thua: #2f7d4f; --rel-tong-hop: #6a4c93; --rel-phan-bac: #b3261e; --rel-tuong-dong-doc-lap: #5f7d8a;
-  --ev-truc-tiep: #1d6fb8; --ev-qua-truong-phai: #b07a1a; --ev-suy-doan-hoc-gia: #8a8a8a;
-  --conf-cao: #2f7d4f; --conf-trung-binh: #b07a1a; --conf-thap: #8a8a8a;
+  --sidebar-w: clamp(240px, 24vw, 320px); --sample: #a33;
+  --rel-ke-thua: #2f7d4f; --rel-tong-hop: #6a4c93; --rel-phan-bac: #b3261e; --rel-tuong-dong-doc-lap: #4d6673;
+  --ev-truc-tiep: #1d6fb8; --ev-qua-truong-phai: #8a5f14; --ev-suy-doan-hoc-gia: #6b6b6b;
+  --conf-cao: #216139; --conf-trung-binh: #7d560f; --conf-thap: #5f5f5f;
 }
 @media (prefers-color-scheme: dark) {
   :root { --bg: #171512; --panel: #201d19; --ink: #ece7df; --muted: #a39b91; --line: #352f29;
-    --accent: #e0905c; --accent-soft: #3a2a1f; --chip: #2d2823; --chip-ink: #d8d0c5; --link: #8fbcea; }
+    --accent: #e0905c; --accent-soft: #3a2a1f; --chip: #2d2823; --chip-ink: #d8d0c5; --link: #8fbcea;
+    --conf-cao: #7fc79b; --conf-trung-binh: #e0b05a; --conf-thap: #a79e94; }
 }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
-body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.6 "Noto Serif", Georgia, "Times New Roman", serif; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 1rem/1.6 "Noto Serif", Georgia, "Times New Roman", serif; }
 body:not(.index) { padding: 24px 20px 80px; max-width: 1000px; margin: 0 auto; }
 a { color: var(--link); text-decoration: none; } a:hover { text-decoration: underline; }
 h1, h2, h3, h4 { font-family: "Noto Sans", "Segoe UI", system-ui, sans-serif; line-height: 1.25; margin: 0 0 .4em; }
@@ -52,7 +53,11 @@ a.badge:hover { text-decoration: none; filter: brightness(.95); }
 .group > h2 .cnt { font-size: .8rem; color: var(--muted); font-weight: 400; }
 .context { margin: .4em 0 1em; }
 .mermaid-wrap { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 8px 12px; overflow-x: auto; margin: 0 0 1em; }
-.mermaid-wrap .mermaid { margin: 0; } .mermaid-wrap .mermaid svg { max-width: 100%; height: auto; }
+.mermaid-wrap .mermaid { margin: 0; min-width: 1290px; }
+/* SVG của Mermaid có width="100%": đừng đặt width:auto (nó sẽ sập về 0px).
+   Thay vào đó bỏ trần max-width rồi ép bề rộng tối thiểu ở khung trong,
+   để chữ không bị co xuống 3–9px và khung ngoài cuộn ngang. */
+.mermaid-wrap .mermaid svg { max-width: none; height: auto; }
 .mermaid-src { display: none; white-space: pre-wrap; font-size: .8rem; color: var(--muted); }
 
 /* person card */
@@ -79,12 +84,15 @@ table.tbl img.thumb { width: 44px; height: 56px; object-fit: cover; border-radiu
 .cards2 { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 10px; }
 .cards2 .c { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; font-size: .9rem; }
 .cards2 .c > b { display: block; font-family: "Noto Sans", system-ui, sans-serif; margin-bottom: 4px; }
-.bars { font-family: "Noto Sans", system-ui, sans-serif; font-size: .82rem; } .bars .row { display: grid; grid-template-columns: 150px 1fr 80px; gap: 8px; align-items: center; margin: 3px 0; }
-.bars .bar { height: 11px; background: var(--accent); border-radius: 3px; min-width: 2px; } .bars .n { text-align: right; color: var(--muted); white-space: nowrap; }
+.bars { font-family: "Noto Sans", system-ui, sans-serif; font-size: .82rem; }
+/* nhãn + số trên một dòng, thanh ăn trọn bề ngang — trước đây thanh dài nhất chỉ 41px nên không so sánh được */
+.bars .row { display: grid; grid-template-columns: 1fr max-content; gap: 2px 8px; margin: 7px 0; }
+.bars .bar { grid-column: 1 / -1; height: 9px; background: var(--accent); border-radius: 3px; min-width: 2px; }
+.bars .n { text-align: right; color: var(--muted); white-space: nowrap; }
 .grid-groups { display: grid; grid-template-columns: repeat(11, 1fr); gap: 4px; font-family: "Noto Sans", system-ui, sans-serif; font-size: .7rem; }
 .grid-groups a { display: flex; flex-direction: column; align-items: center; padding: 6px 2px; border-radius: 5px; background: var(--chip); color: var(--chip-ink); line-height: 1.2; }
 .grid-groups a b { font-size: .95rem; } .grid-groups a span { white-space: nowrap; }
-.grid-groups a.l1 { background: #f0d9c6; color: #4a2a12; } .grid-groups a.l2 { background: #e2b48f; color: #3a1d08; } .grid-groups a.l3 { background: #c9834c; color: #fff; } .grid-groups a.l4 { background: var(--accent); color: #fff; }
+.grid-groups a.l1 { background: #f0d9c6; color: #4a2a12; } .grid-groups a.l2 { background: #e2b48f; color: #3a1d08; } .grid-groups a.l3 { background: #a85f2a; color: #fff; } .grid-groups a.l4 { background: var(--accent); color: var(--panel); }
 @media (max-width: 680px) { .grid-groups { grid-template-columns: repeat(6, 1fr); } }
 .footer { margin-top: 48px; padding-top: 16px; border-top: 1px solid var(--line); color: var(--muted); font-size: .8rem; font-family: "Noto Sans", system-ui, sans-serif; }
 
@@ -113,7 +121,7 @@ body.index { display: grid; grid-template-columns: var(--sidebar-w) 1fr; height:
 .framebar #crumb { flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .main iframe { flex: 1; width: 100%; border: 0; background: var(--bg); }
 .menu-btn { display: none; position: fixed; top: 8px; left: 8px; z-index: 20; border: 1px solid var(--line); background: var(--panel); color: var(--ink); border-radius: 8px; font-size: 1.2rem; padding: 2px 10px; cursor: pointer; }
-@media (max-width: 800px) {
+@media (max-width: 1000px) {
   body.index { grid-template-columns: 1fr; }
   .menu-btn { display: block; }
   .sidebar { position: fixed; inset: 0 auto 0 0; width: min(85vw, 340px); z-index: 10; transform: translateX(-100%); transition: transform .2s; box-shadow: 4px 0 24px rgba(0,0,0,.2); }
@@ -121,3 +129,73 @@ body.index { display: grid; grid-template-columns: var(--sidebar-w) 1fr; height:
   .framebar { padding-left: 56px; }
   .sidebar .brand { padding-left: 52px; }
 }
+
+/* ============================================================
+   Đợt rà soát thiết kế — các quy tắc bổ sung.
+   Đặt cuối file để đè lên khai báo phía trên theo thứ tự cascade.
+   ============================================================ */
+
+/* Mục 1 + 10 — giới hạn độ dài dòng ở chính khối văn xuôi.
+   body:not(.index){max-width:1000px} giới hạn TRANG chứ không giới hạn ĐOẠN,
+   nên ở 1440px mỗi dòng dài 86–101 ký tự (khoảng dễ đọc là 45–75).
+   Dùng ch để tự co theo cỡ chữ người dùng. Badge và danh sách liên kết
+   không bị giới hạn — chúng nên được rộng. */
+.person .sec p,
+.intro p,
+.context,
+.note p { max-width: 54ch; }
+.person .sec p,
+.intro p,
+.context { line-height: 1.72; }
+
+/* Mục 7 — trước đây không có một rule :focus nào, phó mặc mặc định trình duyệt.
+   Riêng sidebar đã có ~70 điểm dừng tab, và a.item.active có nền riêng làm
+   ring mặc định chìm mất. */
+:where(a, button, summary, input, [tabindex]):focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+/* Mục 4 — neo "#" trong tiêu đề thẻ nhân vật trước đây 1.27–1.33:1, gần như vô hình,
+   trong khi nó là một link focus được. */
+.person h3 .anchor { color: var(--muted); opacity: .45; margin-right: .3em; font-weight: 400; }
+.person h3 .anchor:hover,
+.person h3 .anchor:focus-visible { opacity: 1; color: var(--accent); text-decoration: none; }
+
+/* Mục 9 — phân cấp hàng badge. render.py đã phát sẵn class place/region/field/wd
+   nhưng CSS chưa dùng, nên bốn loại ngữ nghĩa khác nhau hiển thị y hệt nhau.
+   Ba tầng: nhận dạng (năm) → phân loại (vùng, lĩnh vực) → siêu dữ liệu (ID, độ tin cậy). */
+.badges { gap: .3em .45em; align-items: center; }
+.badge.region { background: transparent; box-shadow: inset 0 0 0 1px var(--line); color: var(--muted); }
+.badge.field  { background: var(--chip); color: var(--chip-ink); }
+.badge.place  { background: transparent; color: var(--muted); padding-left: 0;
+                white-space: normal; font-weight: 400; }
+.badge.wd,
+.badge[class*="conf-"] { background: transparent; box-shadow: inset 0 0 0 1px var(--line); }
+
+/* Mục 5 — l1/l2 hardcode màu sáng, ở dark mode thành khối hồng chói trên nền tối. */
+@media (prefers-color-scheme: dark) {
+  .grid-groups a.l1 { background: #40301f; color: #e8cdb4; }
+  .grid-groups a.l2 { background: #6b472c; color: #f5e3d4; }
+}
+
+/* Mục 2 — gợi ý còn nội dung bên phải khi timeline phải cuộn ngang. */
+.mermaid-wrap { overscroll-behavior-x: contain;
+  background-image: linear-gradient(to left, var(--panel), rgba(0,0,0,0) 24px); }
+
+/* Mục 6 — scroll-behavior:smooth là toàn cục và trang chapter cao tới ~53.000px,
+   nên một cú nhảy neo sẽ cuộn mượt qua hàng chục nghìn pixel. */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .01ms !important;
+  }
+}
+
+/* Mục 12 — văn bản chỉ dành cho screen reader (SVG Mermaid không có aria-label). */
+.vh { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0;
+      overflow: hidden; clip: rect(0 0 0 0); clip-path: inset(50%); white-space: nowrap; border: 0; }
+.mermaid-wrap > figcaption { margin: 0 0 6px; }

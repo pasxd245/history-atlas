@@ -67,20 +67,53 @@ def mm_text(s: str) -> str:
 
 
 def mermaid_timeline(group: dict) -> str:
-    """D3: build.py tự sinh timeline từ metadata, nhóm theo lĩnh vực chính."""
+    """Timeline sắp ĐÚNG theo thứ tự thời gian.
+
+    Mermaid vẽ một mũi tên ngang chạy trái → phải, tín hiệu phổ quát cho
+    "thời gian tăng dần". Bản trước nhóm theo lĩnh vực chính rồi mới sắp theo
+    năm trong từng nhóm, nên thứ tự ngang KHÔNG đơn điệu theo thời gian: ở
+    nhóm BCE08, Isaiah (740 TCN) bị vẽ trước Homer (750 TCN) và Piye (744 TCN)
+    bị vẽ sau Hesiod (730 TCN). Với một trang tham khảo học thuật thì đó là
+    lỗi nội dung, không phải lỗi thẩm mỹ.
+
+    Nay phát một dãy phẳng sắp theo năm sinh, lĩnh vực chuyển vào nhãn.
+    Khoảng cách giữa các mục vẫn đều nhau — thứ tự đúng, tỉ lệ thì không;
+    caption nói rõ điều đó. Trục thời gian theo tỉ lệ thật để dành cho P5 (D3).
+    """
+    ps = sorted(group["persons"], key=lambda x: (x["born"] if x["born"] is not None else 0, x["id"]))
+    if not ps:
+        return ""
     lines = ["timeline"]
-    by_field: dict[str, list[dict]] = {}
-    for p in sorted(group["persons"], key=lambda x: (x["born"] if x["born"] is not None else 0)):
-        by_field.setdefault(p["fields"][0] if p["fields"] else "Khác", []).append(p)
-    for field, ps in by_field.items():
-        lines.append(f"    section {mm_text(field)}")
-        for p in ps:
-            lines.append(f"        {mm_text(life_label(p))} : {mm_text(p['name_vi'])}")
+    for p in ps:
+        field = p["fields"][0] if p["fields"] else "Khác"
+        lines.append(f"    {mm_text(tl_years(p))} : {mm_text(p['name_vi'])} · {mm_text(field)}")
     return "\n".join(lines)
 
 
-def mermaid_block(code: str) -> str:
-    return f'<div class="mermaid-wrap"><pre class="mermaid">{E(code)}</pre><pre class="mermaid-src">{E(code)}</pre></div>'
+def tl_years(p: dict) -> str:
+    """Nhãn năm gọn cho timeline: '760–745 TCN' thay vì 'k. 760 TCN – 745 TCN'.
+
+    Nhãn dài đẩy bề rộng nội tại của SVG lên, khiến Mermaid co chữ; nó còn hay
+    bị ngắt dòng thành '745TCN' (mất dấu cách). Thẻ nhân vật bên dưới đã ghi
+    đầy đủ cả 'k.' lẫn độ tin cậy nên ở đây không cần lặp lại."""
+    if not p["years_ok"]:
+        return p["years_raw"] or "?"
+    b, d = p["born"], p["died"]
+    if p["alive"]:
+        return f"{C.year_label(b)}–nay"
+    if b is not None and d is not None and b < 0 and d < 0:
+        return f"{-b}–{-d} TCN"        # cùng TCN thì chỉ ghi hậu tố một lần
+    return f"{C.year_label(b)}–{C.year_label(d)}"
+
+
+def mermaid_block(code: str, caption: str = "", names: str = "") -> str:
+    """SVG của Mermaid không có aria-label nên vô hình với screen reader;
+    kèm một figcaption thật và một danh sách văn bản để đọc thay."""
+    cap = f'<figcaption class="small muted">{E(caption)}</figcaption>' if caption else ""
+    alt = f'<p class="vh">Thứ tự theo năm: {E(names)}.</p>' if names else ""
+    return (f'<figure class="mermaid-wrap" role="group">{cap}{alt}'
+            f'<pre class="mermaid" aria-hidden="true">{E(code)}</pre>'
+            f'<pre class="mermaid-src">{E(code)}</pre></figure>')
 
 
 def page(title: str, body: str, depth: int, extra_head: str = "", body_class: str = "", scripts: str = "") -> str:
@@ -258,7 +291,11 @@ def render_chapter(ch: dict, chapters: list[dict], persons: dict, images: dict, 
         if g["context"]:
             parts.append(f'<div class="context"><b>Bối cảnh.</b> {md_inline(g["context"])[3:-4] if g["context"] else ""}</div>')
         if len(g["persons"]) >= 2:  # D3: timeline tự sinh; 1 người thì không cần
-            parts.append(mermaid_block(mermaid_timeline(g)))
+            seq = sorted(g["persons"], key=lambda x: (x["born"] if x["born"] is not None else 0, x["id"]))
+            parts.append(mermaid_block(
+                mermaid_timeline(g),
+                caption="Xếp theo năm, khoảng cách không theo tỉ lệ thời gian.",
+                names=" → ".join(f'{p["name_vi"]} ({life_label(p)})' for p in seq)))
         for p in g["persons"]:
             parts.append(person_card(p, persons, images, wd_cache, 1))
         parts.append("</section>")
