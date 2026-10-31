@@ -3641,5 +3641,2298 @@
    "enwiki": "Hezekiah"
   },
   "fetched": 1793377754
+ },
+ "wd:Q1077817": {
+  "id": "Q1077817",
+  "labels": {
+   "en": "Tirthankara",
+   "vi": "Tirthankara"
+  },
+  "aliases": {},
+  "P31": [
+   "Q190",
+   "Q4164871"
+  ],
+  "P279": [
+   "Q13002315"
+  ],
+  "P569": [],
+  "P570": [],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Tirthankara",
+   "enwiki": "Tirthankara"
+  },
+  "fetched": 1793410424
+ },
+ "wd:Q18563354": {
+  "id": "Q18563354",
+  "labels": {
+   "en": "religious character"
+  },
+  "aliases": {},
+  "P31": [],
+  "P279": [
+   "Q13002315",
+   "Q3658341"
+  ],
+  "P569": [],
+  "P570": [],
+  "P18": null,
+  "sitelinks": {},
+  "fetched": 1793410424
+ },
+ "wd:Q19896979": {
+  "id": "Q19896979",
+  "labels": {
+   "en": "character in the Mahabharata"
+  },
+  "aliases": {},
+  "P31": [],
+  "P279": [
+   "Q18563354",
+   "Q4271324"
+  ],
+  "P569": [],
+  "P570": [],
+  "P18": null,
+  "sitelinks": {},
+  "fetched": 1793410424
+ },
+ "wd:Q20643955": {
+  "id": "Q20643955",
+  "labels": {
+   "en": "human biblical figure"
+  },
+  "aliases": {
+   "en": [
+    "biblical human",
+    "human in the Bible",
+    "biblical human character",
+    "person from the Bible"
+   ]
+  },
+  "P31": [
+   "Q134264207"
+  ],
+  "P279": [
+   "Q12405827",
+   "Q21070568",
+   "Q5"
+  ],
+  "P569": [],
+  "P570": [],
+  "P18": null,
+  "sitelinks": {},
+  "fetched": 1793410424
+ },
+ "wd:Q21070568": {
+  "id": "Q21070568",
+  "labels": {
+   "en": "human whose existence is disputed",
+   "vi": "người mà sự tồn tại bị tranh luận"
+  },
+  "aliases": {
+   "en": [
+    "human that may be fictional",
+    "apocryphal human",
+    "human, possibly fictional",
+    "possibly fictional human",
+    "human who might be fictional",
+    "human who may be fictional"
+   ]
+  },
+  "P31": [],
+  "P279": [
+   "Q122192387",
+   "Q215627",
+   "Q21070598"
+  ],
+  "P569": [],
+  "P570": [],
+  "P18": null,
+  "sitelinks": {},
+  "fetched": 1793410424
+ },
+ "wd:Q3375719": {
+  "id": "Q3375719",
+  "labels": {
+   "en": "conceptual character"
+  },
+  "aliases": {},
+  "P31": [],
+  "P279": [
+   "Q115537581"
+  ],
+  "P569": [],
+  "P570": [],
+  "P18": null,
+  "sitelinks": {
+   "enwiki": "Conceptual character"
+  },
+  "fetched": 1793410424
+ },
+ "wd:Q1048": {
+  "id": "Q1048",
+  "labels": {
+   "en": "Julius Caesar"
+  },
+  "aliases": {
+   "en": [
+    "Divine Julius"
+   ],
+   "vi": [
+    "Caius Julius Caesar"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -100,
+    "precision": 10,
+    "rank": "preferred"
+   },
+   {
+    "year": -100,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": -102,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -100,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -44,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": -44,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Retrato de Julio César (26724093101) (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Julius Caesar",
+   "enwiki": "Julius Caesar"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q105290": {
+  "id": "Q105290",
+  "labels": {
+   "en": "Praxiteles"
+  },
+  "aliases": {
+   "en": [
+    "Praxitèle",
+    "Praxiteles II",
+    "Praxitelis",
+    "Prassitele",
+    "Praxitelès",
+    "Praxitele",
+    "Prassiteles",
+    "Praxitele II",
+    "Praxitèle II"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -395,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -330,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Edifici carrer Tallers 45 Barcelona - 03 Praxiteles.JPG",
+  "sitelinks": {
+   "enwiki": "Praxiteles"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q111559": {
+  "id": "Q111559",
+  "labels": {
+   "en": "Judah Maccabee"
+  },
+  "aliases": {
+   "en": [
+    "Judas Maccabæus",
+    "Judas Maccabeus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -500,
+    "precision": 6,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -160,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Judas Maccabeus medal.svg",
+  "sitelinks": {
+   "enwiki": "Judas Maccabeus"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q131169": {
+  "id": "Q131169",
+  "labels": {
+   "en": "Polybius",
+   "vi": "Polybius"
+  },
+  "aliases": {
+   "en": [
+    "Polybius of Megalopolis"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -200,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -212,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -211,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -120,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -132,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -130,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -129,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Gipsmodelle Wiener Historismus Hofburg-Keller 2012 33 Alois Düll, Polybios.jpg",
+  "sitelinks": {
+   "viwiki": "Polybios",
+   "enwiki": "Polybius"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q1398": {
+  "id": "Q1398",
+  "labels": {
+   "en": "Virgil",
+   "vi": "Virgil"
+  },
+  "aliases": {
+   "en": [
+    "Swan of Mantua",
+    "Mantuan Swan",
+    "Publius Vergilius Maro",
+    "Vergil"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -70,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": -70,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -19,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": -19,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Parco della Grotta di Posillipo5 (crop).jpg",
+  "sitelinks": {
+   "viwiki": "Vergilius",
+   "enwiki": "Virgil"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q1405": {
+  "id": "Q1405",
+  "labels": {
+   "en": "Augustus",
+   "vi": "Augustus"
+  },
+  "aliases": {
+   "en": [
+    "Gaius Julius Caesar",
+    "Gaius Caesar",
+    "Caesar Octavianus",
+    "Gaius Octavius Thurinus",
+    "Gaius Octavius Caepias",
+    "Caius Octavius Thurinus",
+    "Gaius Julius Caesar Octavianus",
+    "Octavius Caesar",
+    "Gaius Julius Caesar Octavianus Augustus",
+    "Octavianus",
+    "Caius Julius Cæsar Octavianus",
+    "Augustus Caesar",
+    "Imperator Gaius Julius Caesar Octavianus Divi Filius Augustus",
+    "Octavian",
+    "Gaius Octavian",
+    "Caius Octavius",
+    "Gaius Julius Caesar Augustus"
+   ],
+   "vi": [
+    "Cái Ô Tư Ốc Đại Duy",
+    "Cái Ô Tư Ốc Đại Duy Đồ Lý Nỗ Tư",
+    "Áo Cổ Tư Đô",
+    "Cái Ô Tư Vưu Lợi Ô Tư Khải Tát Ốc Đại Duy Ô Tư"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -63,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": -63,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 14,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 14,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Statue of the Emperor Octavian Augustus as Jupiter (6).png",
+  "sitelinks": {
+   "viwiki": "Augustus",
+   "enwiki": "Augustus"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q152919": {
+  "id": "Q152919",
+  "labels": {
+   "en": "Li Si",
+   "vi": "Lý Tư"
+  },
+  "aliases": {
+   "vi": [
+    "Lí Tư"
+   ],
+   "en": [
+    "Li Ssû",
+    "Li Ssu"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -280,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -208,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Lý Tư",
+   "enwiki": "Li Si"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q1541": {
+  "id": "Q1541",
+  "labels": {
+   "en": "Cicero",
+   "vi": "Cicero"
+  },
+  "aliases": {
+   "en": [
+    "M. Tullius Cicero",
+    "Marcus Tullius Cicero",
+    "Tully",
+    "M. Tullii Ciceronis"
+   ],
+   "vi": [
+    "Ḳiḳero"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -106,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -43,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": -43,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Bust of Cicero (1st-cent. BC) - Palazzo Nuovo - Musei Capitolini - Rome 2016.jpg",
+  "sitelinks": {
+   "viwiki": "Cicero",
+   "enwiki": "Cicero"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q159905": {
+  "id": "Q159905",
+  "labels": {
+   "en": "Hipparchus",
+   "vi": "Hipparchus"
+  },
+  "aliases": {
+   "en": [
+    "Hipparchus of Rhodes",
+    "Hipparchus of Nicaea"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -190,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -120,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Head of Hipparchus (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Hipparchus (nhà thiên văn học)",
+   "enwiki": "Hipparchus"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q168261": {
+  "id": "Q168261",
+  "labels": {
+   "vi": "Ptolemaios I Soter",
+   "en": "Ptolemy I Soter"
+  },
+  "aliases": {
+   "vi": [
+    "Ptolemy I",
+    "Ptolemy I của Ai Cập",
+    "Ptolemaios I",
+    "Ptolemaeus I Soter",
+    "Ptolemy I Soter",
+    "Ptolemaios I của Ai Cập"
+   ],
+   "en": [
+    "Ptolemy son of Lagus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -365,
+    "precision": 8,
+    "rank": "preferred"
+   },
+   {
+    "year": -367,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -367,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -366,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -365,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -285,
+    "precision": 8,
+    "rank": "preferred"
+   },
+   {
+    "year": -283,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -283,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -282,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -282,
+    "precision": 10,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Ptolemy I Soter Louvre Ma849 A.jpg",
+  "sitelinks": {
+   "viwiki": "Ptolemaios I Soter",
+   "enwiki": "Ptolemy I Soter"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q171303": {
+  "id": "Q171303",
+  "labels": {
+   "en": "Zeno of Citium",
+   "vi": "Zeno xứ Citium"
+  },
+  "aliases": {
+   "en": [
+    "Zenon of Citium",
+    "Zeno",
+    "Zeno of Kition",
+    "Zeno the Stoic"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -334,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -263,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Paolo Monti - Servizio fotografico (Napoli, 1969) - BEIC 6353768.jpg",
+  "sitelinks": {
+   "viwiki": "Zeno xứ Citium",
+   "enwiki": "Zeno of Citium"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q180109": {
+  "id": "Q180109",
+  "labels": {
+   "vi": "Apollonius của Pergaeus",
+   "en": "Apollonius of Perga"
+  },
+  "aliases": {
+   "vi": [
+    "Apollonius của Perga"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -262,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -260,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -240,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -190,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -180,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -170,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Apollonii Pergei Opera 1537 detail.jpg",
+  "sitelinks": {
+   "viwiki": "Apollonius xứ Perga",
+   "enwiki": "Apollonius of Perga"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q185150": {
+  "id": "Q185150",
+  "labels": {
+   "vi": "Eudoxus của Cnidus",
+   "en": "Eudoxus of Cnidus"
+  },
+  "aliases": {
+   "en": [
+    "Eudoxus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -408,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -390,
+    "precision": 8,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -355,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Eudoxus of Cnidus homocentric spheres model.png",
+  "sitelinks": {
+   "viwiki": "Eudoxus xứ Cnidus",
+   "enwiki": "Eudoxus of Cnidus"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q185770": {
+  "id": "Q185770",
+  "labels": {
+   "en": "Posidonius"
+  },
+  "aliases": {
+   "en": [
+    "Poseidonios",
+    "Posidonius of Apamea"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -135,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -51,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Posidonio, replica augustea (23 ac.-14 dc ca) da originale del 100-50 ac. ca. 6142.JPG",
+  "sitelinks": {
+   "enwiki": "Posidonius"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q188541": {
+  "id": "Q188541",
+  "labels": {
+   "vi": "Chandragupta Maurya",
+   "en": "Chandragupta Maurya"
+  },
+  "aliases": {
+   "en": [
+    "Sandracottos",
+    "Androkottos",
+    "Chandragupta"
+   ],
+   "vi": [
+    "Chiên-đà-la-cấp-đa Khổng-tước",
+    "Vua thứ nhất trong triều đại nhà Maurya",
+    "Sandracottos",
+    "Androkottos"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -340,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -297,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Chandragupt maurya Birla mandir 6 dec 2009 (31) (cropped).JPG",
+  "sitelinks": {
+   "viwiki": "Chandragupta Maurya",
+   "enwiki": "Chandragupta Maurya"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q188903": {
+  "id": "Q188903",
+  "labels": {
+   "vi": "Mạnh Tử",
+   "en": "Mencius"
+  },
+  "aliases": {
+   "vi": [
+    "Mạnh Kha"
+   ],
+   "en": [
+    "Meng Ke",
+    "Meng-tze",
+    "Mengzi",
+    "Meng K'e",
+    "Meng-tzu",
+    "Meng Tzu"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -372,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -289,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Half Portraits of the Great Sage and Virtuous Men of Old - Meng Ke (孟軻).jpg",
+  "sitelinks": {
+   "viwiki": "Mạnh Tử",
+   "enwiki": "Mencius"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q197276": {
+  "id": "Q197276",
+  "labels": {
+   "en": "Zhang Qian",
+   "vi": "Trương Khiên"
+  },
+  "aliases": {
+   "en": [
+    "Chang-Kien",
+    "Chang Kien",
+    "Chang Chien",
+    "Chang Ch'ien"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -200,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -114,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -114,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "ZhangQianTravels.jpg",
+  "sitelinks": {
+   "viwiki": "Trương Khiên",
+   "enwiki": "Zhang Qian"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q212109": {
+  "id": "Q212109",
+  "labels": {
+   "en": "Tiberius Gracchus"
+  },
+  "aliases": {
+   "en": [
+    "Tiberius Sempronius Gracchus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -162,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -133,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Tiberius Gracchus.jpg",
+  "sitelinks": {
+   "enwiki": "Tiberius Gracchus"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q216072": {
+  "id": "Q216072",
+  "labels": {
+   "vi": "Tuân Tử",
+   "en": "Xunzi"
+  },
+  "aliases": {
+   "vi": [
+    "Tuân Huống",
+    "Tuân Khanh"
+   ],
+   "en": [
+    "Xun Kuang",
+    "Master Xun"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -313,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -230,
+    "precision": 8,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Portrait of Xun Zi.jpg",
+  "sitelinks": {
+   "viwiki": "Tuân Tử",
+   "enwiki": "Xunzi (philosopher)"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q231680": {
+  "id": "Q231680",
+  "labels": {
+   "en": "Patanjali",
+   "vi": "Patanjali"
+  },
+  "aliases": {
+   "en": [
+    "Patañjali"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [],
+  "P570": [],
+  "P18": "Stamp of India - 2009 - Colnect 159916 - Maharshi Patanjali.jpeg",
+  "sitelinks": {
+   "viwiki": "Patanjali",
+   "enwiki": "Patanjali"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q284994": {
+  "id": "Q284994",
+  "labels": {
+   "en": "Carneades",
+   "vi": "Carneades"
+  },
+  "aliases": {
+   "en": [
+    "Carneades of Cyrene",
+    "Carnades"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -213,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -129,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Carneades.jpg",
+  "sitelinks": {
+   "viwiki": "Carneades",
+   "enwiki": "Carneades"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q28959": {
+  "id": "Q28959",
+  "labels": {
+   "vi": "Hàn Phi",
+   "en": "Han Fei"
+  },
+  "aliases": {
+   "en": [
+    "Han Feizi",
+    "Han Fei Zi",
+    "Master Han Fei",
+    "Master Han",
+    "Hanzi",
+    "Han-tsee",
+    "Hane-tsee"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -279,
+    "precision": 9,
+    "rank": "deprecated"
+   },
+   {
+    "year": -280,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -288,
+    "precision": 9,
+    "rank": "deprecated"
+   }
+  ],
+  "P570": [
+   {
+    "year": -232,
+    "precision": 9,
+    "rank": "deprecated"
+   },
+   {
+    "year": -233,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Statue Of Han Fei.png",
+  "sitelinks": {
+   "viwiki": "Hàn Phi",
+   "enwiki": "Han Fei"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q313330": {
+  "id": "Q313330",
+  "labels": {
+   "vi": "Khuất Nguyên",
+   "en": "Qu Yuan"
+  },
+  "aliases": {
+   "en": [
+    "Ch‘ü P‘ing",
+    "Ch'ü Yüan"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -343,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -278,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Qu Yuan Chen Hongshou 2.jpg",
+  "sitelinks": {
+   "viwiki": "Khuất Nguyên",
+   "enwiki": "Qu Yuan"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q319219": {
+  "id": "Q319219",
+  "labels": {
+   "en": "Hillel the Elder"
+  },
+  "aliases": {
+   "en": [
+    "Hillel",
+    "Hillel HaGadol"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -50,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -100,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 100,
+    "precision": 7,
+    "rank": "preferred"
+   },
+   {
+    "year": 8,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Knesset Menorah P5200009 Hilel.JPG",
+  "sitelinks": {
+   "enwiki": "Hillel the Elder"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q347878": {
+  "id": "Q347878",
+  "labels": {
+   "en": "Menander I",
+   "vi": "Menandros I"
+  },
+  "aliases": {
+   "vi": [
+    "Menandros I Soter",
+    "Menander I"
+   ],
+   "en": [
+    "Menandros"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -300,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -130,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Menander portrait.jpg",
+  "sitelinks": {
+   "viwiki": "Menandros I",
+   "enwiki": "Menander I"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q351345": {
+  "id": "Q351345",
+  "labels": {
+   "en": "Shang Yang",
+   "vi": "Thương Ưởng"
+  },
+  "aliases": {
+   "vi": [
+    "Thương Quân",
+    "Vệ Ưởng"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -390,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -338,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Statue of Shang Yang.jpg",
+  "sitelinks": {
+   "viwiki": "Thương Ưởng",
+   "enwiki": "Shang Yang"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q36456": {
+  "id": "Q36456",
+  "labels": {
+   "vi": "Hannibal",
+   "en": "Hannibal"
+  },
+  "aliases": {
+   "vi": [
+    "Hannibal Barca"
+   ],
+   "en": [
+    "Ḥannibaʿl",
+    "Ḥannobaʿal",
+    "Hannibal son of Hamilcar",
+    "Ḥannibaʿal",
+    "Ḥanniba'al",
+    "Annibal",
+    "Hannibal the Barcid",
+    "Hannibal Barca",
+    "Ḥannoba'al",
+    "Hanibal",
+    "Hannibal, son of Hamilcar",
+    "Gannibal",
+    "Ḥanniba'l",
+    "Annibas",
+    "Annibale"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -247,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -183,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Mommsen p265.jpg",
+  "sitelinks": {
+   "viwiki": "Hannibal",
+   "enwiki": "Hannibal"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q43182": {
+  "id": "Q43182",
+  "labels": {
+   "vi": "Eratosthenes",
+   "en": "Eratosthenes"
+  },
+  "aliases": {
+   "en": [
+    "Eratosthenes of Cyrene",
+    "Eρατοσθένης"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -276,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -194,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -195,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -196,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Eratosthenes.jpg",
+  "sitelinks": {
+   "viwiki": "Eratosthenes",
+   "enwiki": "Eratosthenes"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q43216": {
+  "id": "Q43216",
+  "labels": {
+   "vi": "Epicuros",
+   "en": "Epicurus"
+  },
+  "aliases": {
+   "en": [
+    "Epikouros",
+    "Epíkouros"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -342,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -341,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -270,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Epicurus Massimo Inv197306.jpg",
+  "sitelinks": {
+   "viwiki": "Epikouros",
+   "enwiki": "Epicurus"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q445626": {
+  "id": "Q445626",
+  "labels": {
+   "en": "Dong Zhongshu",
+   "vi": "Đổng Trọng Thư"
+  },
+  "aliases": {
+   "en": [
+    "Tung Chung-shu",
+    "Dongzi",
+    "Tung-tzu",
+    "Tung Tzu",
+    "Tong-tchong-chu",
+    "Tong Tchong-chu",
+    "Ton-chong-chu",
+    "Tou-chong-chu"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -179,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -104,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Dong zhongshu.jpg",
+  "sitelinks": {
+   "viwiki": "Đổng Trọng Thư",
+   "enwiki": "Dong Zhongshu"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q45936": {
+  "id": "Q45936",
+  "labels": {
+   "vi": "Strabo",
+   "en": "Strabo"
+  },
+  "aliases": {
+   "en": [
+    "Strabo of Amaseia"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -63,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -64,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -66,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 23,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 24,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 21,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Strabo.jpg",
+  "sitelinks": {
+   "viwiki": "Strabo",
+   "enwiki": "Strabo"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q465282": {
+  "id": "Q465282",
+  "labels": {
+   "en": "Liu Xiang",
+   "vi": "Lưu Hướng"
+  },
+  "aliases": {
+   "en": [
+    "Liu Gengsheng"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -77,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -6,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Liu Xiang (Han scholar).PNG",
+  "sitelinks": {
+   "viwiki": "Lưu Hướng",
+   "enwiki": "Liu Xiang (scholar)"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q47154": {
+  "id": "Q47154",
+  "labels": {
+   "vi": "Lucretius",
+   "en": "Lucretius"
+  },
+  "aliases": {
+   "en": [
+    "T. Lucretius Carus",
+    "Titus Lucretius Carus",
+    "Titus Carus Lucretius"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -94,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -55,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Lucretius1.png",
+  "sitelinks": {
+   "viwiki": "Lucretius",
+   "enwiki": "Lucretius"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q47163": {
+  "id": "Q47163",
+  "labels": {
+   "vi": "Vitruvius",
+   "en": "Vitruvius"
+  },
+  "aliases": {
+   "en": [
+    "Marcus Vitruvius",
+    "Vitruvius Pollio"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -80,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -15,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Busto di Vitruvio.jpg",
+  "sitelinks": {
+   "viwiki": "Vitruvius",
+   "enwiki": "Vitruvius"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q47739": {
+  "id": "Q47739",
+  "labels": {
+   "vi": "Trang Tử",
+   "en": "Zhuang Zhou"
+  },
+  "aliases": {
+   "vi": [
+    "Zhuangzi",
+    "Trang Chu",
+    "Trang Châu"
+   ],
+   "en": [
+    "Chuang-tzu",
+    "Master Zhuang",
+    "Chuang Tzŭ",
+    "Chuang-tse",
+    "Chuangtzu",
+    "Chuang Tzu",
+    "Chuangtzŭ",
+    "Chuang Chou"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -369,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -288,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Zhuangzi.png",
+  "sitelinks": {
+   "viwiki": "Trang Tử",
+   "enwiki": "Zhuang Zhou"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q59180": {
+  "id": "Q59180",
+  "labels": {
+   "vi": "Diogenes của Sinope",
+   "en": "Diogenes of Sinope"
+  },
+  "aliases": {
+   "en": [
+    "Diogenes the Cynic",
+    "Diogenes"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -400,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -412,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -403,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -323,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -323,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Diogenes-statue-Sinop-enhanced.jpg",
+  "sitelinks": {
+   "viwiki": "Diogenes",
+   "enwiki": "Diogenes"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q635": {
+  "id": "Q635",
+  "labels": {
+   "en": "Cleopatra",
+   "vi": "Cleopatra VII"
+  },
+  "aliases": {
+   "en": [
+    "Cleopatra Philopator",
+    "Cleopatra VII Philopator",
+    "Cleopatra VII",
+    "Cleopatra VII Thea Philopator",
+    "Kleopatra"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -69,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -30,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Kleopatra-VII.-Altes-Museum-Berlin1.jpg",
+  "sitelinks": {
+   "viwiki": "Cleopatra VII",
+   "enwiki": "Cleopatra"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q7192": {
+  "id": "Q7192",
+  "labels": {
+   "en": "Qin Shi Huang",
+   "vi": "Tần Thủy Hoàng"
+  },
+  "aliases": {
+   "en": [
+    "Ch'in Shih Huang-ti",
+    "Chao Cheng",
+    "Chin Shih-huang-ti",
+    "Chi-hoang-ti",
+    "Ch'in Shih-huang",
+    "Ying Cheng",
+    "Zhao Zheng",
+    "Chin Shih Huang",
+    "Shi Huangdi",
+    "Tsin-Chi-hwangti",
+    "Çin Shi Huangdi",
+    "Ch'in Shih Huang",
+    "Chi Hoang-ti",
+    "Tsin Shi Hwangti",
+    "Chin Shi Hwang",
+    "Shih Huang Ti",
+    "Ch'in Shih Huang Ti",
+    "Dragon Emperor",
+    "Shih Huang-ti",
+    "Chin Shih Huang Ti",
+    "Chin Shi Hwangti",
+    "Shih-huang-ti",
+    "Chin Shih Huang-ti",
+    "First Dragon",
+    "Chin Shih-huang",
+    "First Emperor of the Qin",
+    "Ch'in Shih-huang-ti",
+    "First Emperor",
+    "Ying Zheng",
+    "Chi Hoang Ti",
+    "Qin Shihuang"
+   ],
+   "vi": [
+    "Doanh Chính"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -259,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -210,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Qinshihuangdi3.jpg",
+  "sitelinks": {
+   "viwiki": "Tần Thủy Hoàng",
+   "enwiki": "Qin Shi Huang"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q7225": {
+  "id": "Q7225",
+  "labels": {
+   "en": "Emperor Wu of Han",
+   "vi": "Hán Vũ Đế"
+  },
+  "aliases": {
+   "en": [
+    "Liu Che",
+    "Wu Di",
+    "Shi Zong",
+    "Han Wudi",
+    "Shizong",
+    "Han Shizong",
+    "Liu Ch'e",
+    "Han Wu-ti",
+    "Han-wu-ti",
+    "Shih Tsung",
+    "Shih-tsung",
+    "Han Shih-tsung",
+    "Han-shih-tsung",
+    "Wudi",
+    "Wu-ti",
+    "Wu Ti",
+    "Emperor Wu",
+    "Emperor Wudi",
+    "Emperor Wu-ti",
+    "Emperor Vu-ti",
+    "Emperor Vou-ti",
+    "Emperor Vu",
+    "Emperor Vou",
+    "Vou-ti",
+    "Vu-ti",
+    "Martial Emperor of the Han"
+   ],
+   "vi": [
+    "Hán Võ Đế",
+    "Lưu Triệt",
+    "Lưu Thông"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -156,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -87,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "漢武帝.jpg",
+  "sitelinks": {
+   "viwiki": "Hán Vũ Đế",
+   "enwiki": "Emperor Wu of Han"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q8409": {
+  "id": "Q8409",
+  "labels": {
+   "en": "Alexander the Great",
+   "vi": "Alexandros Đại đế"
+  },
+  "aliases": {
+   "en": [
+    "Alexandros III of Macedonia",
+    "Alexander III of Macedonia",
+    "Alexandros III",
+    "the Great Alexander",
+    "Alexandros",
+    "Alexander III",
+    "Great Alexander",
+    "Alexandros the Great",
+    "Alexander of Macedon",
+    "Sikandar",
+    "Alexander of Macedonia",
+    "Eskandar",
+    "Alexander III of Macedon",
+    "Alexander",
+    "Alexandros III of Macedon"
+   ],
+   "vi": [
+    "Alexandros III của Macedonia",
+    "Alexander Đại đế",
+    "A Lịch Sơn Đại đế"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -356,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -323,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Alexander the Great mosaic (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Alexandros Đại đế",
+   "enwiki": "Alexander the Great"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q8589": {
+  "id": "Q8589",
+  "labels": {
+   "en": "Ashoka",
+   "vi": "A-dục vương"
+  },
+  "aliases": {
+   "en": [
+    "Ashok",
+    "Ashoka the Great",
+    "Ashoka Maurya",
+    "Samrat Ashok",
+    "Chakravarty Samrat Ashok",
+    "Asoka",
+    "Mauryan Ashoka",
+    "Ashoka Samrat",
+    "Emperor Ashoka",
+    "The Great Ashoka",
+    "Asok",
+    "Ashoka Mahan",
+    "Ashok Mahan"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -304,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -232,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Ashoka's visit to the Ramagrama stupa Sanchi Stupa 1 Southern gateway.jpg",
+  "sitelinks": {
+   "viwiki": "A-dục vương",
+   "enwiki": "Ashoka"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q859": {
+  "id": "Q859",
+  "labels": {
+   "en": "Plato",
+   "vi": "Plato"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -428,
+    "precision": 8,
+    "rank": "preferred"
+   },
+   {
+    "year": -427,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": -429,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -348,
+    "precision": 8,
+    "rank": "preferred"
+   },
+   {
+    "year": -347,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Plato Silanion Musei Capitolini MC1377.jpg",
+  "sitelinks": {
+   "viwiki": "Platon",
+   "enwiki": "Plato"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q8739": {
+  "id": "Q8739",
+  "labels": {
+   "en": "Archimedes",
+   "vi": "Archimedes"
+  },
+  "aliases": {
+   "en": [
+    "Archimedes of Syracuse"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -287,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -287,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -286,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -285,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -212,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -212,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -211,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -211,
+    "precision": 8,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Retrato de un erudito (¿Arquímedes?), por Domenico Fetti.jpg",
+  "sitelinks": {
+   "viwiki": "Archimedes",
+   "enwiki": "Archimedes"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q8747": {
+  "id": "Q8747",
+  "labels": {
+   "en": "Euclid",
+   "vi": "Euclid"
+  },
+  "aliases": {
+   "en": [
+    "Euclid of Alexandria",
+    "Eukleides",
+    "Euclides"
+   ],
+   "vi": [
+    "Ơ-clít"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -333,
+    "precision": 7,
+    "rank": "preferred"
+   },
+   {
+    "year": -323,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -285,
+    "precision": 9,
+    "rank": "preferred"
+   }
+  ],
+  "P18": "Euklid2.jpg",
+  "sitelinks": {
+   "viwiki": "Eukleides",
+   "enwiki": "Euclid"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q9045": {
+  "id": "Q9045",
+  "labels": {
+   "en": "Chanakya",
+   "vi": "Chanakya"
+  },
+  "aliases": {
+   "en": [
+    "Statecraft, Economic Policy, Military Strategy",
+    "Chanakya Kautilya"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -375,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -283,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Chanakya artistic depiction.jpg",
+  "sitelinks": {
+   "viwiki": "Chanakya",
+   "enwiki": "Chanakya"
+  },
+  "fetched": 1793413656
+ },
+ "wd:Q9372": {
+  "id": "Q9372",
+  "labels": {
+   "en": "Sima Qian",
+   "vi": "Tư Mã Thiên"
+  },
+  "aliases": {
+   "en": [
+    "Father of History",
+    "Sima Chin",
+    "Ssu-ma Chien",
+    "Zichang",
+    "Sze-ma Ts'ien",
+    "Ssu-ma Ch'ien",
+    "Sze-ma Tsien",
+    "Se-ma-tsien",
+    "Se-ma Tsien",
+    "Tai-se-kong",
+    "Taishigong",
+    "Dasima",
+    "Da Sima",
+    "Ta-ssu-ma",
+    "Ta Ssu-ma",
+    "Sima Zichang",
+    "Ssu-ma Tzu-ch'ang",
+    "Ssu-ma Tzu-chang",
+    "T'ai-shih-kung",
+    "Tai-shih-kung",
+    "T'ai Shih Kung",
+    "Tai Shih Kung",
+    "Ssé-ma-tsiene",
+    "Sse-ma-tsiene",
+    "Sze-ma Khien",
+    "Sze-mâ Khien"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -145,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -86,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Si maqian.jpg",
+  "sitelinks": {
+   "viwiki": "Tư Mã Thiên",
+   "enwiki": "Sima Qian"
+  },
+  "fetched": 1793413656
  }
 }
