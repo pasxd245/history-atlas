@@ -5934,5 +5934,1660 @@
    "enwiki": "Sima Qian"
   },
   "fetched": 1793413656
+ },
+ "wd:Q1061289": {
+  "id": "Q1061289",
+  "labels": {
+   "en": "King Wu of Zhou",
+   "vi": "Chu Vũ Vương"
+  },
+  "aliases": {
+   "vi": [
+    "Cơ Phát",
+    "Chu Võ vương"
+   ],
+   "en": [
+    "Zhou Wu Wang",
+    "Ji Fa"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1150,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1043,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "King Wu of Zhou.jpg",
+  "sitelinks": {
+   "viwiki": "Chu Vũ vương",
+   "enwiki": "King Wu of Zhou"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q1073335": {
+  "id": "Q1073335",
+  "labels": {
+   "en": "Ahmes",
+   "vi": "Ahmes"
+  },
+  "aliases": {
+   "en": [
+    "Ahmose"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1660,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1620,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Ahmes",
+   "enwiki": "Ahmes"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q129234": {
+  "id": "Q129234",
+  "labels": {
+   "vi": "Hatshepsut",
+   "en": "Hatshepsut"
+  },
+  "aliases": {
+   "vi": [
+    "Hatshepsout"
+   ],
+   "en": [
+    "Hatchepsut",
+    "Hatsehpsut",
+    "Hatasou",
+    "Hatasu"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1507,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -1504,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1458,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Sphinx of Hatshepsut c.jpg",
+  "sitelinks": {
+   "viwiki": "Hatshepsut",
+   "enwiki": "Hatshepsut"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q133507": {
+  "id": "Q133507",
+  "labels": {
+   "en": "Elijah",
+   "vi": "Elijah"
+  },
+  "aliases": {
+   "en": [
+    "Eliyyah",
+    "Elijah the Prophet",
+    "St. Ilija",
+    "Eliahu ha-Navi",
+    "Eliyah",
+    "Ilyaseen",
+    "Elijah the Tishbite from Tishby",
+    "Eliyohu",
+    "Eliyahu Hanavi",
+    "Elija",
+    "Elya",
+    "Elyahu",
+    "Eliahu",
+    "’Ilyās",
+    "Saint Elijah",
+    "Elijah the Tishbite",
+    "Eliyahu",
+    "Eliya",
+    "St. Elijah",
+    "Ilya",
+    "Prophet Elias",
+    "Eliyyahu",
+    "Eilyohu"
+   ]
+  },
+  "P31": [
+   "Q20643955"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -904,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -850,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Iliya prorok ikona Pskov.jpg",
+  "sitelinks": {
+   "viwiki": "Elijah",
+   "enwiki": "Elijah"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q1523": {
+  "id": "Q1523",
+  "labels": {
+   "en": "Ramesses II",
+   "vi": "Ramesses II"
+  },
+  "aliases": {
+   "en": [
+    "Ramses",
+    "Ozymandias",
+    "Rameses",
+    "Ramesses the Great",
+    "Ramses II",
+    "Ramses the Great"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1303,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1213,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Colossal bust of Ramesses II in the British Museum.jpg",
+  "sitelinks": {
+   "viwiki": "Ramesses II",
+   "enwiki": "Ramesses II"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q1528": {
+  "id": "Q1528",
+  "labels": {
+   "en": "Ramesses III",
+   "vi": "Ramesses III"
+  },
+  "aliases": {
+   "en": [
+    "Ramses",
+    "Rameses",
+    "Usimare Ramesses III"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1217,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1155,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Penn Ramsés III 03.JPG",
+  "sitelinks": {
+   "viwiki": "Ramesses III",
+   "enwiki": "Ramesses III"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q157899": {
+  "id": "Q157899",
+  "labels": {
+   "vi": "Thutmosis III",
+   "en": "Thutmose III"
+  },
+  "aliases": {
+   "vi": [
+    "Djehutymes III",
+    "Thutmosis III của Ai Cập",
+    "Thothmes III",
+    "Djehutymes"
+   ],
+   "en": [
+    "Tuthmosis",
+    "Thothmes"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1481,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1425,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "TuthmosisIII.JPG",
+  "sitelinks": {
+   "viwiki": "Thutmosis III",
+   "enwiki": "Thutmose III"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q18771": {
+  "id": "Q18771",
+  "labels": {
+   "vi": "Amenemhat I",
+   "en": "Amenemhat I"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [],
+  "P570": [
+   {
+    "year": -1965,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Lintel of Amenemhat I and Deities MET DP322055.jpg",
+  "sitelinks": {
+   "viwiki": "Amenemhat I",
+   "enwiki": "Amenemhat I"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q19248": {
+  "id": "Q19248",
+  "labels": {
+   "vi": "Senusret III",
+   "en": "Senusret III"
+  },
+  "aliases": {
+   "vi": [
+    "Sesostris III",
+    "Senwosret III"
+   ],
+   "en": [
+    "Sesostris al III-lea"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1950,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1842,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Head of King Senusret III in Gulbenkian Museum.JPG",
+  "sitelinks": {
+   "viwiki": "Senusret III",
+   "enwiki": "Senusret III"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q193290": {
+  "id": "Q193290",
+  "labels": {
+   "vi": "Ashurnasirpal II",
+   "en": "Ashurnasirpal II"
+  },
+  "aliases": {
+   "en": [
+    "Assur-Nassir-Habal",
+    "Assur-nâsir-pal"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1000,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -859,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Ashurnasirpal2 stele.jpg",
+  "sitelinks": {
+   "viwiki": "Ashurnasirpal II",
+   "enwiki": "Ashurnasirpal II"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q203969": {
+  "id": "Q203969",
+  "labels": {
+   "en": "Zimri–lim"
+  },
+  "aliases": {
+   "en": [
+    "Zimri lim",
+    "Zimrilim"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1800,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1761,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Tablet Zimri-Lim Louvre AO20161.jpg",
+  "sitelinks": {
+   "enwiki": "Zimri-Lim"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q211326": {
+  "id": "Q211326",
+  "labels": {
+   "en": "Lycurgus of Sparta",
+   "vi": "Lykourgos"
+  },
+  "aliases": {
+   "en": [
+    "Lycurgus"
+   ]
+  },
+  "P31": [
+   "Q21070568",
+   "Q22988604"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -800,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -730,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Lycurgus of Sparta, Merry Joseph Blondel.jpg",
+  "sitelinks": {
+   "viwiki": "Lykourgos (Sparta)",
+   "enwiki": "Lycurgus"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q211928": {
+  "id": "Q211928",
+  "labels": {
+   "vi": "Shalmaneser III",
+   "en": "Shalmaneser III"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -900,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -824,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "King Shalmaneser III Istanbul Museum.JPG",
+  "sitelinks": {
+   "viwiki": "Shalmaneser III",
+   "enwiki": "Shalmaneser III"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q222536": {
+  "id": "Q222536",
+  "labels": {
+   "en": "Mursili I"
+  },
+  "aliases": {
+   "en": [
+    "Muršili I",
+    "Murshili I"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1700,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1590,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "enwiki": "Mursili I"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q241900": {
+  "id": "Q241900",
+  "labels": {
+   "en": "Vasiṣṭha"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -2000,
+    "precision": 6,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -2000,
+    "precision": 6,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Vasistha summons Sabala, the cow of abundance, to provide for a feast.jpg",
+  "sitelinks": {
+   "enwiki": "Vasishtha"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q254523": {
+  "id": "Q254523",
+  "labels": {
+   "en": "Shamshi-Adad I"
+  },
+  "aliases": {
+   "en": [
+    "Shamshi Adad I",
+    "Šamši-Adad I"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1860,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1776,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Samsi Addu.PNG",
+  "sitelinks": {
+   "enwiki": "Shamshi-Adad I"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q270018": {
+  "id": "Q270018",
+  "labels": {
+   "vi": "Phụ Hảo",
+   "en": "Fu Hao"
+  },
+  "aliases": {
+   "en": [
+    "Mu Xin"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1300,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1200,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Fu Hao.jpg",
+  "sitelinks": {
+   "viwiki": "Phụ Hảo",
+   "enwiki": "Fu Hao"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q2773345": {
+  "id": "Q2773345",
+  "labels": {
+   "en": "Viśvāmitra"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -2000,
+    "precision": 6,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -2000,
+    "precision": 6,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Menaka Vishwamitra by RRV.jpg",
+  "sitelinks": {
+   "enwiki": "Vishvamitra"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q296295": {
+  "id": "Q296295",
+  "labels": {
+   "en": "Tiglath-Pileser I"
+  },
+  "aliases": {
+   "en": [
+    "Tiglath Pileser"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1200,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1076,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "TiglathPileserI.png",
+  "sitelinks": {
+   "enwiki": "Tiglath-Pileser I"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q297588": {
+  "id": "Q297588",
+  "labels": {
+   "en": "Hattusili III"
+  },
+  "aliases": {
+   "en": [
+    "Ḫattušili III",
+    "Khattushili III"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1300,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1300,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Firaktin1.jpg",
+  "sitelinks": {
+   "enwiki": "Ḫattušili III"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q311811": {
+  "id": "Q311811",
+  "labels": {
+   "vi": "Shoshenq I",
+   "en": "Shoshenq I"
+  },
+  "aliases": {
+   "vi": [
+    "Sheshonk I"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1000,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -924,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Crystal Palace sphinx.gif",
+  "sitelinks": {
+   "viwiki": "Shoshenq I",
+   "enwiki": "Shoshenq I"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q350258": {
+  "id": "Q350258",
+  "labels": {
+   "en": "Mesha"
+  },
+  "aliases": {
+   "en": [
+    "Mesha'",
+    "Méšaʿ"
+   ]
+  },
+  "P31": [
+   "Q5",
+   "Q20643955"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -850,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -850,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "enwiki": "Mesha"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q354903": {
+  "id": "Q354903",
+  "labels": {
+   "en": "Suppiluliuma I"
+  },
+  "aliases": {
+   "en": [
+    "Šuppiluliuma I",
+    "Shuppiluliuma I"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1375,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1335,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Map Hittite rule en.svg",
+  "sitelinks": {
+   "enwiki": "Šuppiluliuma I"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q36359": {
+  "id": "Q36359",
+  "labels": {
+   "vi": "Hammurabi",
+   "en": "Hammurabi"
+  },
+  "aliases": {
+   "en": [
+    "Hammurapi"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1810,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1750,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "F0182 Louvre Code Hammourabi Bas-relief Sb8 rwk.jpg",
+  "sitelinks": {
+   "viwiki": "Hammurabi",
+   "enwiki": "Hammurabi"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q369159": {
+  "id": "Q369159",
+  "labels": {
+   "en": "Wu Ding",
+   "vi": "Vũ Đinh"
+  },
+  "aliases": {
+   "en": [
+    "Gaozong",
+    "Zi Zhao"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1300,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1192,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "武丁.jpg",
+  "sitelinks": {
+   "viwiki": "Vũ Đinh",
+   "enwiki": "Wu Ding"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q37085": {
+  "id": "Q37085",
+  "labels": {
+   "vi": "Solomon",
+   "en": "Solomon"
+  },
+  "aliases": {
+   "vi": [
+    "Xalômông",
+    "Salomon",
+    "Sa-lô-môn"
+   ],
+   "en": [
+    "King Salomon",
+    "Salomon"
+   ]
+  },
+  "P31": [
+   "Q20643955"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -990,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -931,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Nazary Istomin Savin. Church of the Deposition of the Virgin's Robe. Prophet Solomon.jpg",
+  "sitelinks": {
+   "viwiki": "Salomon",
+   "enwiki": "Solomon"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q383259": {
+  "id": "Q383259",
+  "labels": {
+   "en": "Amenhotep, son of Hapu",
+   "vi": "Amenhotep, con của Hapu"
+  },
+  "aliases": {
+   "en": [
+    "Amenhotep the Younger"
+   ]
+  },
+  "P31": [
+   "Q5",
+   "Q146083"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1420,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1400,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Amenhotep son of Hapu.jpg",
+  "sitelinks": {
+   "viwiki": "Amenhotep, con của Hapu",
+   "enwiki": "Amenhotep, son of Hapu"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q40930": {
+  "id": "Q40930",
+  "labels": {
+   "vi": "Nefertiti",
+   "en": "Nefertiti"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1370,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1330,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Nofretete Neues Museum.jpg",
+  "sitelinks": {
+   "viwiki": "Nefertiti",
+   "enwiki": "Nefertiti"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q41370": {
+  "id": "Q41370",
+  "labels": {
+   "vi": "David",
+   "en": "David"
+  },
+  "aliases": {
+   "vi": [
+    "Vua David"
+   ],
+   "en": [
+    "Daud re d'Israele",
+    "Dawud re d'Israele",
+    "David, King of Israel",
+    "Nabi Dawud King of Israel",
+    "King David",
+    "Dawid re d'Israele",
+    "David King of Israel",
+    "David ben Yishai",
+    "sweet singer of Israel"
+   ]
+  },
+  "P31": [
+   "Q20643955",
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1039,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -1040,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -907,
+    "precision": 9,
+    "rank": "deprecated"
+   }
+  ],
+  "P570": [
+   {
+    "year": -969,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -961,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "King David, the King of Israel.jpg",
+  "sitelinks": {
+   "viwiki": "David",
+   "enwiki": "David"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q440496": {
+  "id": "Q440496",
+  "labels": {
+   "en": "Khyan",
+   "vi": "Khyan"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1700,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1600,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Khyan.jpg",
+  "sitelinks": {
+   "viwiki": "Khyan",
+   "enwiki": "Khyan"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q467115": {
+  "id": "Q467115",
+  "labels": {
+   "en": "Hiram I"
+  },
+  "aliases": {
+   "en": [
+    "𐤇𐤓𐤌"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1000,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -935,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "enwiki": "Hiram I"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q468747": {
+  "id": "Q468747",
+  "labels": {
+   "en": "Dan of Zhou",
+   "vi": "Chu công Đán"
+  },
+  "aliases": {
+   "vi": [
+    "Châu công Đán",
+    "Cơ Đán",
+    "Chu công"
+   ],
+   "en": [
+    "Dan of Zhou",
+    "Ji Dan",
+    "Duke Wen of Zhou",
+    "Zhougong",
+    "Zhou Gong",
+    "Chou-kung",
+    "Chou Kung",
+    "Duke of Chou",
+    "Chi Tan",
+    "Zhou Wengong",
+    "Duke Wen of the Zhou",
+    "Chou Wen-kung",
+    "Duke Wen of Chou",
+    "Literary Duke of Zhou",
+    "Literary Duke of the Zhou",
+    "Literary Duke of Chou",
+    "Literary Duke of the Chou",
+    "Civilized Duke of Zhou",
+    "Civilized Duke of the Zhou",
+    "Civilized Duke of Chou",
+    "Civilized Duke of the Chou",
+    "King Wenxian",
+    "Wenxian King of Zhou",
+    "Wenxian King of the Zhou",
+    "Wenxian King of Chou",
+    "Wenxian King of the Chou",
+    "Wen Duke of Zhou",
+    "Wen Duke of the Zhou",
+    "Wen Duke of Chou",
+    "Wen Duke of the Chou",
+    "Zhou Dan",
+    "Chou Tan",
+    "Tan of Chou",
+    "Luzhougong",
+    "Lu Zhou Gong",
+    "King Baode",
+    "Baode King of Zhou",
+    "Baode King of the Zhou",
+    "Pao-te King of Chou",
+    "Pao-te King of the Chou",
+    "King Pao-te",
+    "Chou Kung Tan",
+    "Lu Chou Kung",
+    "Pao-te Wang",
+    "Zhou Baodewang",
+    "Chou Pao-te Wang",
+    "Wen-hsien Wang",
+    "King Wen-hsien",
+    "Wen-hsien King of Chou",
+    "Wen-hsien King of the Chou",
+    "Tcheou-cong",
+    "Tcheou Cong",
+    "Gong Tan",
+    "Zhou Gong Dan",
+    "Tan Gong"
+   ]
+  },
+  "P31": [
+   "Q5",
+   "Q13002315"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1100,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1032,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Zhou gong.jpg",
+  "sitelinks": {
+   "viwiki": "Chu công Đán",
+   "enwiki": "Duke of Zhou"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q471820": {
+  "id": "Q471820",
+  "labels": {
+   "en": "Tang",
+   "vi": "Thành Thang"
+  },
+  "aliases": {
+   "en": [
+    "King Tang",
+    "King Tang of Shang",
+    "Shang Tang",
+    "Shang Tangwang",
+    "Shang Wuwang",
+    "Martial King of Shang",
+    "Thang",
+    "King Thang",
+    "King Thang of Shang",
+    "Tang of Shang",
+    "Thang of Shang",
+    "Zi Lu",
+    "Zi Lü",
+    "Chengtang",
+    "Yin Tang",
+    "King Tang of Yin",
+    "Yin Tangwang",
+    "Yin Wuwang",
+    "Martial King of Yin",
+    "King Thang of Yin",
+    "Tang of Yin",
+    "Thang of Yin",
+    "Shang Taizu",
+    "Yin Taizu",
+    "Supreme Ancestor of the Shang",
+    "Supreme Ancestor of the Yin",
+    "T'ang",
+    "King T'ang of Shang",
+    "King T'ang of Yin",
+    "T'ang of Shang",
+    "T'ang of Yin",
+    "Shang T'ang",
+    "Yin T'ang",
+    "Yin T'ai-tsu",
+    "Yin Tai-tsu",
+    "Shang T'ai-tsu",
+    "Shang Tai-tsu",
+    "Shang Wu-wang",
+    "Yin Wu-wang",
+    "Tching-tang",
+    "King T'ang",
+    "King Tching Thang",
+    "Tching Thang",
+    "King Ch'eng T'ang",
+    "Ch'eng T'ang",
+    "Cheng Tang"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1675,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1587,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -1646,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "King Tang of Shang.jpg",
+  "sitelinks": {
+   "viwiki": "Thành Thang",
+   "enwiki": "Tang of Shang"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q584853": {
+  "id": "Q584853",
+  "labels": {
+   "en": "Kikkuli"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1300,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [],
+  "P18": null,
+  "sitelinks": {
+   "enwiki": "Kikkuli"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q7222": {
+  "id": "Q7222",
+  "labels": {
+   "en": "Ahmose I",
+   "vi": "Ahmose I"
+  },
+  "aliases": {
+   "en": [
+    "Aah-mes",
+    "Ahmes",
+    "Ahmosi",
+    "Ahmose",
+    "Amos",
+    "Amoses",
+    "Amosis"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1560,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1525,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "AhmoseI-or-AmunhotepI-StatueHead BrooklynMuseum.png",
+  "sitelinks": {
+   "viwiki": "Ahmose I",
+   "enwiki": "Ahmose I"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q81794": {
+  "id": "Q81794",
+  "labels": {
+   "vi": "Akhenaton",
+   "en": "Akhenaten"
+  },
+  "aliases": {
+   "vi": [
+    "Amenhotep IV",
+    "Akhenaten",
+    "Akenhaten"
+   ],
+   "en": [
+    "Khuenaten",
+    "Ikhnaton",
+    "Amenhotep IV",
+    "Amenhotep mi padre",
+    "Akenaten",
+    "Akhnaten",
+    "Echnaton",
+    "Akhenaton",
+    "Amenophis IV"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1400,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1336,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": -1324,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -1326,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "GD-EG-Caire-Musée061.JPG",
+  "sitelinks": {
+   "viwiki": "Akhenaton",
+   "enwiki": "Akhenaten"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q9077": {
+  "id": "Q9077",
+  "labels": {
+   "en": "Moses",
+   "vi": "Mô-sê"
+  },
+  "aliases": {
+   "en": [
+    "Moshe",
+    "Moshe Rabbeinu"
+   ],
+   "vi": [
+    "Môi-se",
+    "Moses"
+   ]
+  },
+  "P31": [
+   "Q20643955"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -2000,
+    "precision": 6,
+    "rank": "preferred"
+   },
+   {
+    "year": -1393,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -1526,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1500,
+    "precision": 6,
+    "rank": "preferred"
+   },
+   {
+    "year": -1273,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -1406,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Seleznikha church - prophet Moses (18 c.).jpg",
+  "sitelinks": {
+   "viwiki": "Moses",
+   "enwiki": "Moses"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q9181": {
+  "id": "Q9181",
+  "labels": {
+   "en": "Abraham",
+   "vi": "Abraham"
+  },
+  "aliases": {
+   "en": [
+    "Ibrahim",
+    "Abram",
+    "Abraham the Patriarch",
+    "Avraham Avinu",
+    "Avrohom",
+    "Abiraham",
+    "Avraham"
+   ]
+  },
+  "P31": [
+   "Q20643955"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1813,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1638,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Guercino Abramo ripudia Agar (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Áp-ra-ham",
+   "enwiki": "Abraham"
+  },
+  "fetched": 1793427891
+ },
+ "wd:Q13002315": {
+  "id": "Q13002315",
+  "labels": {
+   "en": "legendary figure"
+  },
+  "aliases": {
+   "en": [
+    "legendary character",
+    "legend"
+   ]
+  },
+  "P31": [],
+  "P279": [
+   "Q21070598"
+  ],
+  "P569": [],
+  "P570": [],
+  "P18": null,
+  "sitelinks": {},
+  "fetched": 1793427894
+ },
+ "wd:Q146083": {
+  "id": "Q146083",
+  "labels": {
+   "en": "Ancient Egyptian deity",
+   "vi": "Những vị thần trong Tôn giáo Ai Cập cổ đại"
+  },
+  "aliases": {
+   "vi": [
+    "Thần thoại Ai Cập"
+   ],
+   "en": [
+    "ancient Egyptian deities",
+    "ancient Egyptian god",
+    "ancient Egyptian goddess"
+   ]
+  },
+  "P31": [],
+  "P279": [
+   "Q178885"
+  ],
+  "P569": [],
+  "P570": [],
+  "P18": "La Tombe de Horemheb cropped.jpg",
+  "sitelinks": {
+   "viwiki": "Những vị thần trong Tôn giáo Ai Cập cổ đại",
+   "enwiki": "Ancient Egyptian deities"
+  },
+  "fetched": 1793427894
+ },
+ "wd:Q22988604": {
+  "id": "Q22988604",
+  "labels": {
+   "en": "mythological Greek character",
+   "vi": "nhân vật thần thoại Hy Lạp"
+  },
+  "aliases": {
+   "en": [
+    "people of Greek mythology",
+    "person in Greek mythology",
+    "Greek mythological character",
+    "Greek mythology character",
+    "Greek mythical character",
+    "Greek mythological figure",
+    "Greek mythical figure",
+    "mythical Greek figure",
+    "mythical Greek character"
+   ]
+  },
+  "P31": [],
+  "P279": [
+   "Q4271324"
+  ],
+  "P569": [],
+  "P570": [],
+  "P18": "Júpiter y Tetis, por Dominique Ingres.jpg",
+  "sitelinks": {},
+  "fetched": 1793427894
  }
 }
