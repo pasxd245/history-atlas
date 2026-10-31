@@ -10590,5 +10590,80 @@
    "enwiki": "Aryadeva"
   },
   "fetched": 1793437701
+ },
+ "wd:Q315714": {
+  "id": "Q315714",
+  "labels": {
+   "en": "Taharqa",
+   "vi": "Taharqa"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -720,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -664,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Taharqa portrait, Kerma Museum.jpg",
+  "sitelinks": {
+   "viwiki": "Taharqa",
+   "enwiki": "Taharqa"
+  },
+  "fetched": 1793446916
+ },
+ "wd:Q382816": {
+  "id": "Q382816",
+  "labels": {
+   "en": "Modu Chanyu",
+   "vi": "Mặc Đốn thiền vu"
+  },
+  "aliases": {
+   "vi": [
+    "Mặc Đốn"
+   ],
+   "en": [
+    "Modun Chanyu",
+    "Maodun",
+    "Maodun Chanyu",
+    "Mao-tun",
+    "Mao-tun Chan-yu"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -234,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -174,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Mặc Đốn thiền vu",
+   "enwiki": "Modu Chanyu"
+  },
+  "fetched": 1793446916
  }
 }

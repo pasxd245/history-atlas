@@ -63,6 +63,13 @@ Template và từ vựng cố định nằm ở `prompts/atlas-prompt.md` (§5) 
 
 Tránh dạng `TK 6 TCN` — parser bỏ qua, nhân vật sẽ mất chỗ trên timeline.
 
+**Quy ước trường `vùng:`** — quy tắc này trước nay **chưa từng được viết ra**, và cả hai vòng bình duyệt độc lập của Chapter 4 đều kết luận rằng con số "atlas chỉ có 1 người Trung Á" đo quy ước nhiều hơn đo lịch sử. Ghi thành văn:
+
+1. **Mặc định là nơi hoạt động chính, không phải nơi sinh** — đúng thứ mà trường `nơi:` in ra. Plotinus sinh ở Lycopolis thuộc Ai Cập nhưng dạy ở Rome nên ghi Châu Âu; Diophantus làm việc ở Alexandria nên ghi Trung Đông/Bắc Phi. Hai mục này **không** mâu thuẫn, dù đọc theo nơi sinh thì trông như có.
+2. **Ngoại lệ đã khai báo: các thành bang nói tiếng Hy Lạp ở Tiểu Á** (Miletus, Nicaea, Cos, Amaseia, Pergamon) ghi **Châu Âu**, vì chúng là bộ phận cấu thành thế giới Hy Lạp. Alexandria **không** theo ngoại lệ này; lý do đầy đủ nằm ở `## Ghi chú biên tập` của Chapter 3.
+3. **`REGIONS` không có ô nào cho Nội Á / thế giới thảo nguyên.** Hệ quả: cao nguyên Mông Cổ ghi **Đông Á** (Mặc Đốn thiền vu, `CH03-BCE02-12`), còn "Trung Á" trên thực tế chỉ còn dùng cho vành đai Transoxiana–Iran đông. Thế giới du mục vì vậy **không tồn tại như một hạng mục** trong thống kê vùng, dù nó là một trong những lực định hình lịch sử Á–Âu. Mọi con số Trung Á phải đọc kèm giới hạn từ vựng này.
+4. **Đừng đổi `vùng:` của một người để cải thiện thống kê.** Khi một vùng trống, chỉ có hai câu trả lời đúng: tìm người thật sự thuộc vùng đó, hoặc ghi vào Ghi chú biên tập rằng vùng ấy trống và vì sao. Vòng rà soát vùng đã **bác** đề xuất chuyển Kanishka từ Nam Á sang Trung Á đúng theo điều này — kinh đô Purushapura nằm ở Nam Á, nên đổi nhãn chỉ phá quy tắc 1 để lấy một con số đẹp hơn.
+
 **Khối minh bạch bắt buộc.** Mỗi chapter phải mở đầu `## Ghi chú biên tập` bằng khối "Cách chapter này được soạn" (nguyên văn ở cuối `prompts/atlas-prompt.md`). Build không kiểm tự động — đây là việc của người biên tập.
 
 ## Quy tắc ảnh

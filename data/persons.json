@@ -20,7 +20,7 @@
     "**Cách chapter này được soạn**",
     "Phần văn xuôi của chapter do mô hình AI (Claude) viết theo prompt cố định tại `prompts/atlas-prompt.md`, không qua bình duyệt chuyên môn. Tên, niên đại và định danh được đối chiếu tự động với Wikidata; phần diễn giải, đánh giá ảnh hưởng và lựa chọn nhân vật là tổng hợp của model theo bốn tiêu chí (a)–(d), không phải kết luận của giới nghiên cứu. Mục Nguồn là điểm khởi đầu để tự kiểm tra, chưa được đối chiếu từng câu. Xem mục \"Về dự án\" ở trang Overview để biết giới hạn đầy đủ.",
     "**Cái quyết định chapter này không phải tiêu chí, mà là chữ viết**",
-    "Ba mươi tám mục ở đây đến từ bốn vùng: Lưỡng Hà, Ai Cập, Anatolia và Levant, rồi Đông Á từ nhà Thương và Nam Á qua Rigveda. Danh sách đó **không phải kết quả của việc cân bốn tiêu chí (a)–(d)** — nó là danh sách các xã hội để lại chữ viết đọc được có nêu tên người. Crete thời Minoan, văn minh Indus và Olmec ở Trung Mỹ đều có đô thị, công trình lớn và mạng trao đổi xa, nhưng Linear A và chữ Indus chưa giải mã được còn Olmec gần như không để lại văn bản, nên không một cá nhân nào của họ vào được atlas. Điều này đúng với năm vùng còn trống hẳn: **Châu Mỹ, Châu Phi hạ Sahara, Trung Á, Châu Đại Dương và Đông Nam Á không có mục nào** trong cả 1200 năm. Đó là giới hạn của tư liệu, và việc ghi nó ra đây là cách duy nhất để con số thống kê vùng ở trang Overview không bị đọc nhầm thành một phát biểu về lịch sử.",
+    "Ba mươi tám mục ở đây đến từ bốn vùng: Lưỡng Hà, Ai Cập, Anatolia và Levant, rồi Đông Á từ nhà Thương và Nam Á qua Rigveda. Danh sách đó **không phải kết quả của việc cân bốn tiêu chí (a)–(d)** — nó là danh sách các xã hội để lại chữ viết đọc được có nêu tên người. Crete thời Minoan, văn minh Indus và Olmec ở Trung Mỹ đều có đô thị, công trình lớn và mạng trao đổi xa, nhưng Linear A và chữ Indus chưa giải mã được còn Olmec gần như không để lại văn bản, nên không một cá nhân nào của họ vào được atlas. Năm vùng trống hẳn — **Châu Mỹ, Châu Phi hạ Sahara, Trung Á, Châu Đại Dương và Đông Nam Á không có mục nào** trong cả 1200 năm — nhưng lý do không đồng nhất, và bản thảo trước của đoạn này gộp chung tất cả vào \"giới hạn tư liệu\" là **nói sai sự thật ở ít nhất một vùng**. Với Châu Phi hạ Sahara, tên người **có tồn tại**: các bản văn trù ếm Ai Cập tìm được ở pháo đài Mirgissa nêu đích danh **Awawa** và con ông **Teri-ahi**, vua Kerma, trong đúng khung thời gian của chapter. Cái thiếu không phải cái tên mà là cơ sở để cân bốn tiêu chí: tất cả những gì còn lại về hai người này là một danh sách nguyền rủa do kẻ thù của họ viết, không phải văn bản của chính họ, nên không thể nói họ **làm** gì. Đó là hai mệnh đề khác nhau — \"không ai để lại tên\" và \"có tên nhưng không đủ căn cứ xét ảnh hưởng\" — và chỉ mệnh đề thứ hai đúng ở đây. Với Crete Minoan, Indus và Olmec thì mệnh đề thứ nhất mới là mệnh đề đúng. Ghi tách ra vì con số thống kê vùng ở trang Overview dễ bị đọc thành một phát biểu về lịch sử thay vì về tư liệu.",
     "**Nhóm BCE20_18 chỉ có một vùng, và lint có cảnh báo**",
     "Sáu mục của nhóm 2000–1701 TCN đều thuộc Trung Đông/Bắc Phi, nên lint báo \"chỉ 1 vùng\". Đây **không phải thiếu sót**: trong ba thế kỷ đó, chỉ Lưỡng Hà và Ai Cập có chữ viết nêu tên người. Nhà Thương chưa bắt đầu, giáp cốt sớm nhất còn hai trăm năm nữa; các bài tụng Rigveda chưa được soạn; Indus đang suy tàn với một hệ ký hiệu không đọc được. Nhóm này cũng chỉ có sáu người thay vì mười hai, theo đúng quy tắc §5 là không cố cho đủ.",
     "**Tỉ lệ nhãn cao, và vì sao không hạ xuống**",
@@ -168,7 +168,7 @@
     "- Dương Chu (楊朱), Ngô Khởi (吳起), Tử Sản (子產), Tề Hoàn Công: các ứng viên Đông Á xếp sau Quản Trọng, Mặc Tử và Tôn Tử theo độ bền.",
     "- Hosea, Micah, Ezekiel, Ezra: lớp ngôn sứ Israel–Judah đã được Amos, Isaiah và Jeremiah đại diện. Ezra (TK 5 TCN) đáng xem lại ở P4 vì vai trò định hình kinh điển Torah.",
     "- Josiah (trị vì k. 640–609 TCN): mạch tập trung phụng tự đã được Hezekiah (CH02-BCE08-07) đại diện. Josiah bị loại theo tính nguyên bản (c) — bước đầu thuộc về Hezekiah theo cả 2 Các Vua 18:4 lẫn tầng khảo cổ Arad và Beersheba (Herzog) — và theo chất lượng chứng thực: không có bi ký hay ấn tín đương thời nào nêu tên Josiah, trong khi Hezekiah có bulla khai quật tại chỗ, bi ký Siloam cùng thời và lăng trụ Sennacherib. Nếu quan điểm \"cải cách Hezekiah là hình chiếu ngược từ Josiah\" (Na'aman, Edelman) được chấp nhận, thứ tự ưu tiên này phải xem lại.",
-    "- Taharqa, Sargon II, Nebuchadnezzar II: bị loại vì kế thừa mô hình do Piye và Tiglath-Pileser III tạo ra (riêng Nebuchadnezzar II chỉ kế thừa ở mức lỏng); ở trục Kỹ thuật/Kiến trúc, Sargon II và Taharqa cũng xếp sau Sennacherib (CH02-BCE07-08).",
+    "- Sargon II, Nebuchadnezzar II: bị loại vì kế thừa mô hình do Piye và Tiglath-Pileser III tạo ra (riêng Nebuchadnezzar II chỉ kế thừa ở mức lỏng); ở trục Kỹ thuật/Kiến trúc, Sargon II xếp sau Sennacherib (CH02-BCE07-08). **Taharqa trước đây nằm trong danh sách này**; vòng rà soát độ phủ vùng kết luận ông bị loại vì một lý do không đứng vững — \"chỉ kế thừa Piye\" đúng với việc chinh phục nhưng không đúng với 26 năm trị vì và với nghĩa địa Nuri — nên ông được đưa vào atlas chính ở `CH02-BCE07-09`.",
     "- Psamtik I (664–610 TCN): không thuộc nhóm trên — ông lập vương triều 26 bằng cách hất người Kush khỏi Ai Cập, tức chấm dứt vương triều 25 chứ không nối tiếp. Bị loại vì thuộc TK 7 và vì đóng góp của ông (phục hưng Sais, mở cửa cho lính đánh thuê Hy Lạp) không trùng trục nào của chapter.",
     "- Gosāla (phái Ājīvika), Yāska, Patañjali: xếp sau Mahāvīra và Pāṇini trong cùng truyền thống Nam Á.",
     "- Āpastamba, Kātyāyana, Mānava (truyền thống Śulbasūtra): xếp sau Baudhāyana theo thứ tự tương đối của Pingree, dựa trên dấu vết vay mượn văn bản. Kātyāyana còn bị loại vì niên đại: Plofker đặt ông sau Pāṇini, tức thuộc Chapter 3.",
@@ -232,7 +232,8 @@
       "CH02-BCE07-05",
       "CH02-BCE07-06",
       "CH02-BCE07-07",
-      "CH02-BCE07-08"
+      "CH02-BCE07-08",
+      "CH02-BCE07-09"
      ]
     },
     {
@@ -390,7 +391,8 @@
       "CH03-BCE02-08",
       "CH03-BCE02-09",
       "CH03-BCE02-10",
-      "CH03-BCE02-11"
+      "CH03-BCE02-11",
+      "CH03-BCE02-12"
      ]
     },
     {
@@ -3795,7 +3797,7 @@
     "Không áp dụng"
    ],
    "ideas": "Vua xứ Kush ở Napata, ông đưa quân xuôi sông Nile, buộc các vua Đồng bằng quy phục rồi rút về Napata — bước quyết định đưa vương triều 25 của người Kush lên ngôi Ai Cập, dù Kashta trước ông thường được tính là vua đầu triều và quyền kiểm soát Hạ Ai Cập chỉ thành thực chất dưới thời Shabaka. Bia chiến thắng của ông, một trong những văn bản tự sự dài nhất bằng chữ tượng hình, trình bày cuộc chinh phục như việc khôi phục chính thống tôn giáo. Các vua Kush cho xây lại đền Amun và phục hồi nghệ thuật Cổ vương quốc; sau khi rút về Nubia họ vẫn giữ truyền thống kim tự tháp suốt gần một nghìn năm.",
-   "why": "Ứng viên thay thế là Taharqa, vua Kush nổi tiếng hơn nhờ xuất hiện trong Kinh Thánh và các công trình đồ sộ. Piye được chọn theo tiêu chí nguyên bản (c) và counterfactual (d): ông là người thực hiện cuộc chinh phục, Taharqa chỉ kế thừa. Việc đưa một nhân vật Châu Phi hạ Sahara vào nhóm cũng phản ánh yêu cầu đa dạng vùng ở §5, nơi tư liệu khảo cổ Napata đủ vững để không phải suy đoán.",
+   "why": "Taharqa **có mục riêng** ở `CH02-BCE07-09` nên không phải ứng viên bị loại; hai mục chia nhau hai thời điểm của vương triều 25. Ứng viên bị loại là Kashta và Shabaka, người đầu tiên kiểm soát thực chất Hạ Ai Cập. Piye vượt ở tính nguyên bản (c) và counterfactual (d): ông thực hiện cuộc chinh phục mở ra toàn bộ giai đoạn, và bia chiến thắng của ông là văn bản tự sự dài nhất của triều. Yêu cầu đa dạng vùng ở §5 khiến nhóm tìm ứng viên Châu Phi hạ Sahara; bốn tiêu chí mới là thứ giữ ông lại.",
    "sources": "Britannica, mục \"Piye\"; László Török, The Kingdom of Kush (1997).",
    "inherits": [
     {
@@ -3808,10 +3810,10 @@
    ],
    "influences": [
     {
-     "target": "Taharqa",
+     "target": "CH02-BCE07-09",
      "relation": "kế thừa",
      "evidence": "trực tiếp",
-     "raw": "Taharqa · kế thừa · trực tiếp",
+     "raw": "CH02-BCE07-09 · kế thừa · trực tiếp",
      "undetermined": false
     },
     {
@@ -4042,6 +4044,13 @@
     }
    ],
    "influences": [
+    {
+     "target": "CH02-BCE07-09",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH02-BCE07-09 · phản bác · trực tiếp",
+     "undetermined": false
+    },
     {
      "target": "Thư viện Alexandria",
      "relation": "tương đồng độc lập",
@@ -4551,7 +4560,7 @@
     "Không áp dụng"
    ],
    "ideas": "Vua Assyria, nổi tiếng vì cuộc vây Jerusalem năm 701 TCN, nhưng dấu ấn bền nhất là kỹ thuật thuỷ lợi và đô thị. Từ 703 đến 688 TCN ông đào bốn hệ kênh đưa nước núi về Nineveh; hệ cuối, kênh Khinis dài khoảng 55 km, vượt thung lũng Jerwan bằng cầu máng đá vôi đẽo dài 280 m, khắc bi ký của ông — kiểu cầu máng chưa thấy ở đâu trước thời La Mã. Nineveh mở rộng tới 750 ha, tường thành 12 km, dân số ước trên 100.000, vào hàng lớn nhất đương thời; cung \"Không đối thủ\" (ekallu ša šānina lā īšû) chứa phù điêu Lachish. Năm 689 ông phá huỷ Babylon, cho nước Arahtu cuốn trôi nền thành.",
-   "why": "Hai ứng viên cùng thời đã cân nhắc: Sargon II (trị vì 722–705 TCN), cha ông, người xây kinh đô mới Dur-Sharrukin; và Taharqa (trị vì 690–664 TCN), vua Kush–Ai Cập với các công trình đền ở Kawa và Karnak. Sennacherib vượt ở tính nguyên bản (c): cầu máng Jerwan là kiểu công trình không thấy ở đâu khác trước thời La Mã, còn Dur-Sharrukin bị bỏ ngay khi Sargon chết; và ở độ bền (b): hệ kênh Khinis còn để lại dấu vết vật chất lẫn bi ký định niên tại chỗ, nguồn hiếm có về kỹ thuật cổ đại.",
+   "why": "Hai ứng viên cùng thời đã cân nhắc: Sargon II (trị vì 722–705 TCN), cha ông, người xây kinh đô mới Dur-Sharrukin; và Taharqa (`CH02-BCE07-09`, **có mục riêng**), vua Kush–Ai Cập với các công trình đền ở Kawa và Karnak. Sennacherib vượt ở tính nguyên bản (c): cầu máng Jerwan là kiểu công trình không thấy ở đâu khác trước thời La Mã, còn Dur-Sharrukin bị bỏ ngay khi Sargon chết; và ở độ bền (b): hệ kênh Khinis còn để lại dấu vết vật chất lẫn bi ký định niên tại chỗ, nguồn hiếm có về kỹ thuật cổ đại.",
    "sources": "Thorkild Jacobsen và Seton Lloyd, *Sennacherib's Aqueduct at Jerwan*, Oriental Institute Publications 24 (Chicago, 1935), https://isac-assets.s3.amazonaws.com/isac-publications/oip24.pdf; John Malcolm Russell, *Sennacherib's Palace Without Rival at Nineveh* (University of Chicago Press, 1991).",
    "inherits": [
     {
@@ -4620,6 +4629,75 @@
     "width": 500,
     "how": "thumbnail 500px"
    }
+  },
+  "CH02-BCE07-09": {
+   "id": "CH02-BCE07-09",
+   "name_vi": "Taharqa",
+   "name_orig": "Tahârqa, 𓇿𓉔𓃭𓈎, Tirhakah",
+   "labels": [],
+   "years_raw": "trị vì 690–664 TCN",
+   "born": -690,
+   "died": -664,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Napata và Memphis, vương quốc Kush–Ai Cập, nay thuộc Sudan và Ai Cập",
+   "region": "Châu Phi hạ Sahara",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Nghệ thuật/Kiến trúc"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q315714",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Vua Kush thứ tư của vương triều 25, trị vì 26 năm — đỉnh cao của giai đoạn Kush cai trị Ai Cập, và lãnh thổ rộng nhất một nhà nước gốc châu Phi hạ Sahara từng kiểm soát: từ đồng bằng sông Nile tới thác thứ tư. Chương trình xây dựng của ông trải đều hai miền: đền Amun ở Kawa, Sanam, Jebel Barkal và dãy cột ở sân thứ nhất đền Karnak. Các bia Kawa ghi ông cúng lượng vàng lớn cho đền, và trình bày việc lên ngôi như một quá trình chính trị phức tạp chứ không phải kế vị suôn sẻ. Ông dời nghĩa địa hoàng gia el-Kurru về Nuri; kim tự tháp của ông ở đó là cái cổ nhất và lớn nhất Nubia.",
+   "why": "Piye (`CH02-BCE08-06`) và Sennacherib (`CH02-BCE07-08`) đều **có mục riêng** nên không phải ứng viên bị loại; nêu ở đây chỉ để định vị. Ứng viên bị loại là Shabaka, người đầu tiên kiểm soát thực chất Hạ Ai Cập, và Tanwetamani, người kế vị. Taharqa vượt ở phạm vi (a) — 26 năm trị vì trên trục Nile–thác thứ tư — và ở độ bền (b): nghĩa địa Nuri ông lập còn là nơi an táng vua Kush suốt hơn ba thế kỷ sau khi vương triều mất Ai Cập.",
+   "sources": "László Török, *The Kingdom of Kush: Handbook of the Napatan-Meroitic Civilization* (Brill, 1997); Robert G. Morkot, *The Black Pharaohs: Egypt's Nubian Rulers* (Rubicon Press, 2000); M. F. Laming Macadam, *The Temples of Kawa I: The Inscriptions* (Oxford University Press, 1949).",
+   "inherits": [
+    {
+     "target": "CH02-BCE08-06",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH02-BCE08-06 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH02-BCE07-01",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH02-BCE07-01 · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống phục hưng hình thức nghệ thuật Cổ vương quốc ở Napata",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống phục hưng hình thức nghệ thuật Cổ vương quốc ở Napata · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Tanwetamani (mất quyền kiểm soát Ai Cập năm 663 TCN)",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Tanwetamani (mất quyền kiểm soát Ai Cập năm 663 TCN) · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Nghĩa địa hoàng gia Nuri và truyền thống kim tự tháp Napata–Meroë",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Nghĩa địa hoàng gia Nuri và truyền thống kim tự tháp Napata–Meroë · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "BCE07",
+   "chapter": 2,
+   "file": "ch02.md",
+   "image": null
   },
   "CH02-BCE06-01": {
    "id": "CH02-BCE06-01",
@@ -8347,6 +8425,13 @@
    "sources": "Michael Loewe, Crisis and Conflict in Han China (1974); Tư Mã Thiên, Sử ký, Hiếu Vũ bản kỷ và Bình chuẩn thư.",
    "inherits": [
     {
+     "target": "CH03-BCE02-12",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH03-BCE02-12 · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
      "target": "CH03-BCE02-01",
      "relation": "kế thừa",
      "evidence": "trực tiếp",
@@ -8582,6 +8667,13 @@
    "why": "Không có người cùng thời nào làm việc tương đương để so; hai ứng viên gần nhất đều ở hai thế kỷ sau: Ban Siêu, người thực sự kiểm soát Tây Vực, và Cam Anh, người đi xa về phía tây hơn. Trương Khiên được chọn theo counterfactual (d) và tính nguyên bản (c): thông tin ông mang về là cái khiến nhà Hán biết có thế giới nào ở phía tây để mà vươn tới, còn Ban Siêu hoạt động hai thế kỷ sau trên chính hiểu biết đó.",
    "sources": "Tư Mã Thiên, Sử ký, Đại Uyển liệt truyện (q. 123); Valerie Hansen, The Silk Road: A New History (2012).",
    "inherits": [
+    {
+     "target": "CH03-BCE02-12",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH03-BCE02-12 · phản bác · trực tiếp",
+     "undetermined": false
+    },
     {
      "target": "CH03-BCE02-02",
      "relation": "kế thừa",
@@ -9071,6 +9163,75 @@
     "width": 500,
     "how": "thumbnail 500px"
    }
+  },
+  "CH03-BCE02-12": {
+   "id": "CH03-BCE02-12",
+   "name_vi": "Mặc Đốn thiền vu",
+   "name_orig": "冒頓單于 Mòdùn Chányú, Modu",
+   "labels": [],
+   "years_raw": "k. 234–174 TCN",
+   "born": -234,
+   "died": -174,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "vương đình trên thảo nguyên sông Orkhon, cao nguyên Mông Cổ, nay thuộc Mông Cổ",
+   "region": "Đông Á",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Quân sự"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q382816",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Năm 209 TCN ông giết cha Đầu Mạn, tự lập làm thiền vu, hợp nhất các bộ lạc thảo nguyên thành nhà nước du mục có tổ chức đầu tiên ở Nội Á: quân chia theo đơn vị thập phân dưới hai mươi tư vạn kỵ trưởng, hai cánh đặt dưới tả và hữu hiền vương. Ông diệt Đông Hồ, đuổi Nguyệt Chi về tây — chuyển động mở đầu chuỗi di dân dẫn tới đế chế Kushan ở Trung Á. Năm 200 TCN ông vây Hán Cao Tổ ở Bạch Đăng; hoà ước hoà thân năm 198 TCN buộc nhà Hán gả công chúa, nộp tơ lụa, rượu và gạo hằng năm, lấy Trường Thành làm biên giới và thừa nhận hai bên ngang hàng.",
+   "why": "Ứng viên bị loại là Đầu Mạn, cha ông, và Lão Thượng thiền vu, con ông — người hoàn tất việc đánh tan Nguyệt Chi. Mặc Đốn vượt ở counterfactual (d): tổ chức thập phân và thế lưỡng cực Hán–Hung Nô là của ông, hai người kia thừa hưởng. Và ở phạm vi (a): hoà thân là lần hiếm hoi một đế chế nông nghiệp Đông Á nộp cống cho một thế lực thảo nguyên và nhận ngang hàng bằng văn bản, thế đảo ngược kéo dài sáu mươi năm.",
+   "sources": "Tư Mã Thiên, *Sử ký*, quyển 110 \"Hung Nô liệt truyện\", bản dịch Burton Watson, *Records of the Grand Historian: Han Dynasty II* (Columbia University Press, 1993); Nicola Di Cosmo, *Ancient China and Its Enemies: The Rise of Nomadic Power in East Asian History* (Cambridge University Press, 2002).",
+   "inherits": [
+    {
+     "target": "Đầu Mạn thiền vu (liên minh bộ lạc Hung Nô trước khi hợp nhất)",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Đầu Mạn thiền vu (liên minh bộ lạc Hung Nô trước khi hợp nhất) · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Áp lực bành trướng của nhà Tần lên thảo nguyên Ordos",
+     "relation": "phản bác",
+     "evidence": "suy đoán học giả",
+     "raw": "Áp lực bành trướng của nhà Tần lên thảo nguyên Ordos · phản bác · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH03-BCE02-02",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH03-BCE02-02 · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE02-05",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH03-BCE02-05 · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Lão Thượng thiền vu (hoàn tất việc đuổi Nguyệt Chi khỏi Trung Á)",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Lão Thượng thiền vu (hoàn tất việc đuổi Nguyệt Chi khỏi Trung Á) · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "BCE02",
+   "chapter": 3,
+   "file": "ch03.md",
+   "image": null
   },
   "CH03-BCE01-01": {
    "id": "CH03-BCE01-01",
@@ -10068,7 +10229,24 @@
    "group": "CE01",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Spas vsederzhitel sinay (cropped1).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Spas_vsederzhitel_sinay_(cropped1).jpg",
+    "note": "",
+    "via": "api",
+    "author": "Unknown artist Unknown artist",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "6 th century date QS:P571,+550-00-00T00:00:00Z/7",
+    "object_name": "Spas vsederzhitel sinay (cropped1)",
+    "attribution_required": false,
+    "caption": "Chân dung Giê-su thành Nazareth, Spas vsederzhitel sinay (cropped1), thế kỷ 6 (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE01-01.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE01-02": {
    "id": "CH04-CE01-02",
@@ -10123,7 +10301,24 @@
    "group": "CE01",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Giovanni Francesco Barbieri - Saint Paul.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Giovanni_Francesco_Barbieri_-_Saint_Paul.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Guercino",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "",
+    "object_name": "Saint Paul label QS:Len,\"Saint Paul\"",
+    "attribution_required": false,
+    "caption": "Chân dung Phaolô thành Tarsus, Saint Paul label QS:Len,\"Saint Paul\" (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE01-02.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE01-03": {
    "id": "CH04-CE01-03",
@@ -10185,7 +10380,13 @@
    "group": "CE01",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "no-image",
+    "title": null,
+    "source_url": null,
+    "note": "Wikidata không có P18",
+    "via": null
+   }
   },
   "CH04-CE01-04": {
    "id": "CH04-CE01-04",
@@ -10232,7 +10433,24 @@
    "group": "CE01",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Han Guangwu Di (cropped1to1) (cropped).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Han_Guangwu_Di_(cropped1to1)_(cropped).jpg",
+    "note": "",
+    "via": "api",
+    "author": "Yan Li-pen",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "7 th century date QS:P571,+650-00-00T00:00:00Z/7",
+    "object_name": "Thirteen Emperors Scroll (detail)",
+    "attribution_required": false,
+    "caption": "Chân dung Hán Quang Vũ Đế, Thirteen Emperors Scroll (detail), thế kỷ 7 (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE01-04.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE01-05": {
    "id": "CH04-CE01-05",
@@ -10294,7 +10512,24 @@
    "group": "CE01",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Duble herma of Socrates and Seneca Antikensammlung Berlin 07.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Duble_herma_of_Socrates_and_Seneca_Antikensammlung_Berlin_07.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Calidius",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artwork_date": "2004-05-21",
+    "object_name": "Duble herma of Socrates and Seneca Antikensammlung Berlin 07",
+    "attribution_required": true,
+    "caption": "Chân dung Seneca (tưởng tượng). Ảnh: Wikimedia Commons, CC BY-SA 3.0.",
+    "imaginary": true,
+    "file": "CH04-CE01-05.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE01-06": {
    "id": "CH04-CE01-06",
@@ -10356,7 +10591,24 @@
    "group": "CE01",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:PhiloThevet.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PhiloThevet.jpg",
+    "note": "",
+    "via": "api",
+    "author": "André Thévet",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "1584",
+    "object_name": "PhiloThevet",
+    "attribution_required": false,
+    "caption": "Chân dung Philo xứ Alexandria, PhiloThevet, 1584 (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE01-06.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE01-07": {
    "id": "CH04-CE01-07",
@@ -10411,7 +10663,24 @@
    "group": "CE01",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Grande Illustrazione del Lombardo Veneto Vol 3 Plinio Secondo 300dpi.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Geoffrey",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "1859",
+    "object_name": "Grande Illustrazione del Lombardo Veneto Vol 3 Plinio Secondo 300dpi",
+    "attribution_required": false,
+    "caption": "Chân dung Pliny Cả, Grande Illustrazione del Lombardo Veneto Vol 3 Plinio Secondo 300dpi (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE01-07.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE01-08": {
    "id": "CH04-CE01-08",
@@ -10465,7 +10734,24 @@
    "group": "CE01",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Illuminated Manuscripts (Middleton) figure07.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Illuminated_Manuscripts_(Middleton)_figure07.jpg",
+    "note": "",
+    "via": "api",
+    "author": "J. Henry Middleton",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "1892",
+    "object_name": "Illuminated Manuscripts (Middleton) figure07",
+    "attribution_required": false,
+    "caption": "Chân dung Dioscorides, Illuminated Manuscripts (Middleton) figure07 (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE01-08.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE01-09": {
    "id": "CH04-CE01-09",
@@ -10519,7 +10805,24 @@
    "group": "CE01",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Portret van Flavius Josephus, RP-P-1906-2507.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Portret_van_Flavius_Josephus,_RP-P-1906-2507.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Rijksmuseum",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "artwork_date": "between 1736 and 1775 date QS:P,+1750-00-00T00:00:00Z/7,P1319,+1736-00-00T00:00:00Z/9,P1326,+1775-00-00T00:00:00Z/9",
+    "object_name": "Portret van Flavius Josephus, RP-P-1906-2507",
+    "attribution_required": false,
+    "caption": "Chân dung Josephus, 1736 (tưởng tượng). Ảnh: Wikimedia Commons, CC0.",
+    "imaginary": true,
+    "file": "CH04-CE01-09.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE01-10": {
    "id": "CH04-CE01-10",
@@ -10580,7 +10883,13 @@
    "group": "CE01",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "no-image",
+    "title": null,
+    "source_url": null,
+    "note": "Wikidata không có P18",
+    "via": null
+   }
   },
   "CH04-CE01-11": {
    "id": "CH04-CE01-11",
@@ -10641,7 +10950,24 @@
    "group": "CE01",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Ban Gu.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ban_Gu.jpg",
+    "note": "",
+    "via": "api",
+    "author": "",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "",
+    "object_name": "Ban Gu",
+    "attribution_required": false,
+    "caption": "Chân dung Ban Cố, Ban Gu (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE01-11.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE01-12": {
    "id": "CH04-CE01-12",
@@ -10696,7 +11022,24 @@
    "group": "CE01",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Banzhao.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Banzhao.jpg",
+    "note": "",
+    "via": "api",
+    "author": "\"Pan-hoei-pan, Femme savante\" published in the China volume of L'Univers ..., about 1847. Reproduced online at http://www.ancestryimages.com/proddetail.php?prod=g6393 .",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "circa 1847 date QS:P571,+1847-00-00T00:00:00Z/9,P1480,Q5727902",
+    "object_name": "Banzhao",
+    "attribution_required": false,
+    "caption": "Chân dung Ban Chiêu, Banzhao (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE01-12.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE02-01": {
    "id": "CH04-CE02-01",
@@ -10750,7 +11093,24 @@
    "group": "CE02",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Cai-lun.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Cai-lun.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Unknown author Unknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "18 th century date QS:P,+1750-00-00T00:00:00Z/7",
+    "object_name": "Cai-lun",
+    "attribution_required": false,
+    "caption": "Chân dung Thái Luân, Cai-lun, thế kỷ 18 (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE02-01.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE02-02": {
    "id": "CH04-CE02-02",
@@ -10798,7 +11158,13 @@
    "group": "CE02",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "no-image",
+    "title": null,
+    "source_url": null,
+    "note": "Wikidata không có P18",
+    "via": null
+   }
   },
   "CH04-CE02-03": {
    "id": "CH04-CE02-03",
@@ -10860,7 +11226,24 @@
    "group": "CE02",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:KanishkaCoin3.JPG",
+    "source_url": "https://commons.wikimedia.org/wiki/File:KanishkaCoin3.JPG",
+    "note": "",
+    "via": "api",
+    "author": "No machine-readable author provided. World Imaging assumed (based on copyright claims).",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "10 June 2007 (according to Exif data)",
+    "object_name": "KanishkaCoin3",
+    "attribution_required": false,
+    "caption": "Chân dung Kanishka (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE02-03.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE02-04": {
    "id": "CH04-CE02-04",
@@ -10922,7 +11305,24 @@
    "group": "CE02",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Ashvaghosha.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ashvaghosha.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Unknown author Unknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "",
+    "object_name": "Ashvaghosha",
+    "attribution_required": false,
+    "caption": "Chân dung Aśvaghoṣa, Ashvaghosha (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE02-04.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE02-05": {
    "id": "CH04-CE02-05",
@@ -10984,7 +11384,24 @@
    "group": "CE02",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:PSM V78 D326 Ptolemy.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PSM_V78_D326_Ptolemy.png",
+    "note": "",
+    "via": "api",
+    "author": "Unknown author Unknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "1584",
+    "object_name": "PSM V78 D326 Ptolemy",
+    "attribution_required": false,
+    "caption": "Chân dung Claudius Ptolemy, PSM V78 D326 Ptolemy, 1584 (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE02-05.png",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE02-06": {
    "id": "CH04-CE02-06",
@@ -11045,7 +11462,24 @@
    "group": "CE02",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Galenus.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Galenus.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Georg Paul Busch (engraver)",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "18 th century date QS:P,+1750-00-00T00:00:00Z/7",
+    "object_name": "Galenus",
+    "attribution_required": false,
+    "caption": "Chân dung Galen, thế kỷ 18 (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE02-06.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE02-07": {
    "id": "CH04-CE02-07",
@@ -11100,7 +11534,24 @@
    "group": "CE02",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Marcus Aurelius Louvre MR561 n02.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Marcus_Aurelius_Louvre_MR561_n02.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Marie-Lan Nguyen (2011)",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "artwork_date": "circa 161–169 AD",
+    "object_name": "Marcus Aurelius Louvre MR561 n02",
+    "attribution_required": true,
+    "caption": "Chân dung Marcus Aurelius, khoảng 161. Ảnh: Wikimedia Commons, CC BY 2.5.",
+    "imaginary": false,
+    "file": "CH04-CE02-07.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE02-08": {
    "id": "CH04-CE02-08",
@@ -11162,7 +11613,18 @@
    "group": "CE02",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "no-license",
+    "title": "File:Nagarjuna at Samye Ling Monastery.JPG",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nagarjuna_at_Samye_Ling_Monastery.JPG",
+    "note": "giấy phép không thuộc danh sách cho phép: Copyrighted free use",
+    "via": "api",
+    "author": "",
+    "license": null,
+    "license_url": "",
+    "artwork_date": "",
+    "object_name": "Nagarjuna at Samye Ling Monastery"
+   }
   },
   "CH04-CE02-09": {
    "id": "CH04-CE02-09",
@@ -11216,7 +11678,24 @@
    "group": "CE02",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Saint Irenaeus.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Saint_Irenaeus.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Unknown author Unknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "4th century",
+    "object_name": "Saint Irenaeus",
+    "attribution_required": false,
+    "caption": "Chân dung Irenaeus thành Lyon, Saint Irenaeus, thế kỷ 4 (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE02-09.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE02-10": {
    "id": "CH04-CE02-10",
@@ -11278,7 +11757,24 @@
    "group": "CE02",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Tertullian2.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Tertullian2.png",
+    "note": "",
+    "via": "api",
+    "author": "André Thevet",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "1584",
+    "object_name": "Tertullian2",
+    "attribution_required": false,
+    "caption": "Chân dung Tertullian, 1584 (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE02-10.png",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE02-11": {
    "id": "CH04-CE02-11",
@@ -11332,7 +11828,24 @@
    "group": "CE02",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Chinese woodcut, Famous medical figures; Zhang Zhongjing Wellcome L0039319.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Chinese_woodcut,_Famous_medical_figures;_Zhang_Zhongjing_Wellcome_L0039319.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Gan Bozong (Tang period, 618-907)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "artwork_date": "",
+    "object_name": "Chinese woodcut, Famous medical figures: Zhang Zhongjing",
+    "attribution_required": true,
+    "caption": "Chân dung Trương Trọng Cảnh, Chinese woodcut, Famous medical figures: Zhang Zhongjing (tưởng tượng). Ảnh: Wikimedia Commons, CC BY 4.0.",
+    "imaginary": true,
+    "file": "CH04-CE02-11.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE02-12": {
    "id": "CH04-CE02-12",
@@ -11388,7 +11901,24 @@
    "group": "CE02",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Zhang Daoling.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Zhang_Daoling.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Werner, E. T. C. (1864-1954)",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "February 1922, Gutenberg Release date: 2005-03-04",
+    "object_name": "Zhang Daoling",
+    "attribution_required": false,
+    "caption": "Chân dung Trương Đạo Lăng, Zhang Daoling (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE02-12.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE03-01": {
    "id": "CH04-CE03-01",
@@ -11457,7 +11987,24 @@
    "group": "CE03",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Paolo Monti - Servizio fotografico (Roma, 1969) - BEIC 6353762.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Paolo_Monti_-_Servizio_fotografico_(Roma,_1969)_-_BEIC_6353762.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Paolo Monti",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artwork_date": "1969 date QS:P571,+1969-00-00T00:00:00Z/9",
+    "object_name": "Servizio fotografico (Roma, 1969)",
+    "attribution_required": true,
+    "caption": "Chân dung Plotinus, Servizio fotografico (Roma, 1969) (tưởng tượng). Ảnh: Wikimedia Commons, CC BY-SA 4.0.",
+    "imaginary": true,
+    "file": "CH04-CE03-01.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE03-02": {
    "id": "CH04-CE03-02",
@@ -11526,7 +12073,24 @@
    "group": "CE03",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Origen3.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Origen3.jpg",
+    "note": "",
+    "via": "api",
+    "author": "",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "",
+    "object_name": "Origen3",
+    "attribution_required": false,
+    "caption": "Chân dung Origen (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE03-02.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE03-03": {
    "id": "CH04-CE03-03",
@@ -11587,7 +12151,24 @@
    "group": "CE03",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Portrait of Porphyry of Tyre from Les vrais pourtraits et vies des hommes illustres grecz, latins et payens.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Porphyry_of_Tyre_from_Les_vrais_pourtraits_et_vies_des_hommes_illustres_grecz,_latins_et_payens.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Unknown author Unknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "1584",
+    "object_name": "Portrait of Porphyry of Tyre from Les vrais pourtraits et vies des hommes illustres grecz, latins et payens",
+    "attribution_required": false,
+    "caption": "Chân dung Porphyry xứ Tyre, 1584 (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE03-03.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE03-04": {
    "id": "CH04-CE03-04",
@@ -11656,7 +12237,24 @@
    "group": "CE03",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Mani, the prophet.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Mani,_the_prophet.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Mladifilozof",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "Unknown date",
+    "object_name": "Mani, the prophet",
+    "attribution_required": false,
+    "caption": "Chân dung Mani (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE03-04.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE03-05": {
    "id": "CH04-CE03-05",
@@ -11717,7 +12315,24 @@
    "group": "CE03",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Dinar of Ardashir I (cropped).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Dinar_of_Ardashir_I_(cropped).jpg",
+    "note": "",
+    "via": "api",
+    "author": "Unknown author Unknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "205/6–223/4",
+    "object_name": "Dinar of Ardashir I (cropped)",
+    "attribution_required": false,
+    "caption": "Chân dung Ardashir I, 205. Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": false,
+    "file": "CH04-CE03-05.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE03-06": {
    "id": "CH04-CE03-06",
@@ -11772,7 +12387,24 @@
    "group": "CE03",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:The triumph of Shapur I over the Roman emperors Valerian and Philip the Arab (detail), Naqsh-e Rostam, Iran (48098809022).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:The_triumph_of_Shapur_I_over_the_Roman_emperors_Valerian_and_Philip_the_Arab_(detail),_Naqsh-e_Rostam,_Iran_(48098809022).jpg",
+    "note": "",
+    "via": "api",
+    "author": "Carole Raddato from Frankfurt, Germany",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "artwork_date": "22 April 2019, 10:38 (according to Exif data)",
+    "object_name": "The triumph of Shapur I over the Roman emperors Valerian and Philip the Arab (detail), Naqsh-e Rostam, Iran (48098809022)",
+    "attribution_required": true,
+    "caption": "Chân dung Shapur I (tưởng tượng). Ảnh: Wikimedia Commons, CC BY-SA 2.0.",
+    "imaginary": true,
+    "file": "CH04-CE03-06.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE03-07": {
    "id": "CH04-CE03-07",
@@ -11826,7 +12458,18 @@
    "group": "CE03",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "no-license",
+    "title": "File:Istanbul - Museo archeol. - Diocleziano (284-305 d.C.) - Foto G. Dall'Orto 28-5-2006.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Istanbul_-_Museo_archeol._-_Diocleziano_(284-305_d.C.)_-_Foto_G._Dall%27Orto_28-5-2006.jpg",
+    "note": "giấy phép không thuộc danh sách cho phép: Attribution",
+    "via": "api",
+    "author": "G.dallorto",
+    "license": null,
+    "license_url": "",
+    "artwork_date": "2006-05-28",
+    "object_name": "Istanbul - Museo archeol. - Diocleziano (284-305 d.C.) - Foto G. Dall'Orto 28-5-2006"
+   }
   },
   "CH04-CE03-08": {
    "id": "CH04-CE03-08",
@@ -11873,7 +12516,24 @@
    "group": "CE03",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Διόφαντος - Diophantos - ДИОФАНТ.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%CE%94%CE%B9%CF%8C%CF%86%CE%B1%CE%BD%CF%84%CE%BF%CF%82_-_Diophantos_-_%D0%94%D0%98%D0%9E%D0%A4%D0%90%D0%9D%D0%A2.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Unknown author Unknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "2014-12-12",
+    "object_name": "Διόφαντος - Diophantos - ДИОФАНТ",
+    "attribution_required": false,
+    "caption": "Chân dung Diophantus xứ Alexandria, Διόφαντος - Diophantos - ДИОФАНТ (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE03-08.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE03-09": {
    "id": "CH04-CE03-09",
@@ -11934,7 +12594,24 @@
    "group": "CE03",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Hunan International Economics University20.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hunan_International_Economics_University20.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Uploaded by Huangdan2060",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "artwork_date": "2014-08-25 14:23:35",
+    "object_name": "Hunan International Economics University20",
+    "attribution_required": true,
+    "caption": "Chân dung Lưu Huy, Hunan International Economics University20 (tưởng tượng). Ảnh: Wikimedia Commons, CC BY 3.0.",
+    "imaginary": true,
+    "file": "CH04-CE03-09.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE03-10": {
    "id": "CH04-CE03-10",
@@ -11995,7 +12672,24 @@
    "group": "CE03",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:至聖先賢半身像 冊-107-王弼.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%E8%87%B3%E8%81%96%E5%85%88%E8%B3%A2%E5%8D%8A%E8%BA%AB%E5%83%8F_%E5%86%8A-107-%E7%8E%8B%E5%BC%BC.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Anonymous Unknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "Yuan dynasty (1271-1368)",
+    "object_name": "至聖先賢半身像 冊-107-王弼",
+    "attribution_required": false,
+    "caption": "Chân dung Vương Bật, 至聖先賢半身像 冊-107-王弼, khoảng 1271–1368 (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE03-10.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE03-11": {
    "id": "CH04-CE03-11",
@@ -12050,7 +12744,24 @@
    "group": "CE03",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:蜀汉丞相忠武侯诸葛亮.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%E8%9C%80%E6%B1%89%E4%B8%9E%E7%9B%B8%E5%BF%A0%E6%AD%A6%E4%BE%AF%E8%AF%B8%E8%91%9B%E4%BA%AE.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Unknown author Unknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "Qing Dynasty",
+    "object_name": "Chinese: 《歷代聖賢名人像-蜀汉丞相忠武侯诸葛亮》 label QS:Lzh,\"歷代聖賢名人像-蜀汉丞相忠武侯诸葛亮\"",
+    "attribution_required": false,
+    "caption": "Chân dung Gia Cát Lượng, Chinese: 《歷代聖賢名人像-蜀汉丞相忠武侯诸葛亮》 label QS:Lzh,\"歷代聖賢名人像-蜀汉丞相忠武侯诸葛亮\" (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE03-11.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE03-12": {
    "id": "CH04-CE03-12",
@@ -12105,7 +12816,24 @@
    "group": "CE03",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Arjadeva.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Arjadeva.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Rartat",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "10 November 2010 (upload date)",
+    "object_name": "Arjadeva",
+    "attribution_required": false,
+    "caption": "Chân dung Āryadeva, Arjadeva (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE03-12.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE04-01": {
    "id": "CH04-CE04-01",
@@ -12167,7 +12895,24 @@
    "group": "CE04",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Rome-Capitole-StatueConstantin.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Rome-Capitole-StatueConstantin.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Jean-Christophe BENOIST",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "artwork_date": "2007-08-03",
+    "object_name": "Rome-Capitole-StatueConstantin",
+    "attribution_required": true,
+    "caption": "Chân dung Constantinus I, Rome-Capitole-StatueConstantin (tưởng tượng). Ảnh: Wikimedia Commons, CC BY 2.5.",
+    "imaginary": true,
+    "file": "CH04-CE04-01.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE04-02": {
    "id": "CH04-CE04-02",
@@ -12228,7 +12973,24 @@
    "group": "CE04",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Ikone Athanasius von Alexandria.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ikone_Athanasius_von_Alexandria.jpg",
+    "note": "",
+    "via": "api",
+    "author": "",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "",
+    "object_name": "Ikone Athanasius von Alexandria",
+    "attribution_required": false,
+    "caption": "Chân dung Athanasius thành Alexandria, Ikone Athanasius von Alexandria (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE04-02.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE04-03": {
    "id": "CH04-CE04-03",
@@ -12283,7 +13045,24 @@
    "group": "CE04",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Wulfila translating the Bible, illustration 1879 - Wulfila übersetzt die Bibel, Illustration von 1879.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Wulfila_translating_the_Bible,_illustration_1879_-_Wulfila_%C3%BCbersetzt_die_Bibel,_Illustration_von_1879.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Wilhelm von Lindenschmit der Jüngere (1829 - 1895)",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "2020-12-23",
+    "object_name": "Wulfila translating the Bible, illustration 1879 - Wulfila übersetzt die Bibel, Illustration von 1879",
+    "attribution_required": false,
+    "caption": "Chân dung Wulfila (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE04-03.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE04-04": {
    "id": "CH04-CE04-04",
@@ -12338,7 +13117,24 @@
    "group": "CE04",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Gold Solidus of Julian the Apostate, Sirmium.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Gold_Solidus_of_Julian_the_Apostate,_Sirmium.jpg",
+    "note": "",
+    "via": "api",
+    "author": "ANS",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artwork_date": "between 361 and 363",
+    "object_name": "Gold Solidus of Julian the Apostate, Sirmium",
+    "attribution_required": true,
+    "caption": "Chân dung Julianus, Gold Solidus of Julian the Apostate, Sirmium, 361. Ảnh: Wikimedia Commons, CC BY-SA 4.0.",
+    "imaginary": false,
+    "file": "CH04-CE04-04.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE04-05": {
    "id": "CH04-CE04-05",
@@ -12393,7 +13189,24 @@
    "group": "CE04",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Bust of Shapur II the Great in the Metropolitan Museum of Art.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Bust_of_Shapur_II_the_Great_in_the_Metropolitan_Museum_of_Art.jpg",
+    "note": "",
+    "via": "api",
+    "author": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art . See the Image and Data Resources Open Access Policy",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "artwork_date": "ca. 4th century",
+    "object_name": "Head of a king",
+    "attribution_required": false,
+    "caption": "Chân dung Shapur II, Head of a king, thế kỷ 4. Ảnh: Wikimedia Commons, CC0.",
+    "imaginary": false,
+    "file": "CH04-CE04-05.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE04-06": {
    "id": "CH04-CE04-06",
@@ -12454,7 +13267,13 @@
    "group": "CE04",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "no-image",
+    "title": null,
+    "source_url": null,
+    "note": "Wikidata không có P18",
+    "via": null
+   }
   },
   "CH04-CE04-07": {
    "id": "CH04-CE04-07",
@@ -12501,7 +13320,24 @@
    "group": "CE04",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Portraits of Famous Men - Wang Xizhi (cropped).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Portraits_of_Famous_Men_-_Wang_Xizhi_(cropped).jpg",
+    "note": "",
+    "via": "api",
+    "author": "Unknown Chinese artist",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "19th - early 20th century",
+    "object_name": "Portraits of Famous Men: Wang Xizhi",
+    "attribution_required": false,
+    "caption": "Chân dung Vương Hi Chi, Portraits of Famous Men: Wang Xizhi (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE04-07.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE04-08": {
    "id": "CH04-CE04-08",
@@ -12570,7 +13406,24 @@
    "group": "CE04",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Theodosius1cng11100822obverse.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Theodosius1cng11100822obverse.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Classical Numismatic Group",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "artwork_date": "2020",
+    "object_name": "Theodosius1cng11100822obverse",
+    "attribution_required": true,
+    "caption": "Chân dung Theodosius I, Theodosius1cng11100822obverse (tưởng tượng). Ảnh: Wikimedia Commons, CC BY-SA 2.5.",
+    "imaginary": true,
+    "file": "CH04-CE04-08.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE04-09": {
    "id": "CH04-CE04-09",
@@ -12624,7 +13477,24 @@
    "group": "CE04",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:ChandraguptaIIOnHorse.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:ChandraguptaIIOnHorse.jpg",
+    "note": "",
+    "via": "api",
+    "author": "PHGCOM",
+    "license": "CC BY-SA 3.0",
+    "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artwork_date": "2007",
+    "object_name": "ChandraguptaIIOnHorse",
+    "attribution_required": true,
+    "caption": "Chân dung Chandragupta II, ChandraguptaIIOnHorse (tưởng tượng). Ảnh: Wikimedia Commons, CC BY-SA 3.0.",
+    "imaginary": true,
+    "file": "CH04-CE04-09.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE04-10": {
    "id": "CH04-CE04-10",
@@ -12686,7 +13556,24 @@
    "group": "CE04",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Mujaku Asanga Kofukuji.JPG",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Mujaku_Asanga_Kofukuji.JPG",
+    "note": "",
+    "via": "api",
+    "author": "sculptor: UNKEI, 13th century, photo: Shihachi Fujimoto(family name)), (1911, IIDA,NAGANO, Japan - 2006,Otaru, Hokkaido, Japan ) a renowned Japanese photographer",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "about ACE1208, Published April 15, 1952",
+    "object_name": "Mujaku Asanga Kofukuji",
+    "attribution_required": false,
+    "caption": "Chân dung Asaṅga (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE04-10.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE04-11": {
    "id": "CH04-CE04-11",
@@ -12742,7 +13629,24 @@
    "group": "CE04",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Vasubandhu.JPG",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Vasubandhu.JPG",
+    "note": "",
+    "via": "api",
+    "author": "",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "",
+    "object_name": "Vasubandhu",
+    "attribution_required": false,
+    "caption": "Chân dung Vasubandhu (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE04-11.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE04-12": {
    "id": "CH04-CE04-12",
@@ -12804,7 +13708,24 @@
    "group": "CE04",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Faxian statue in Maritime Experiential Museum & Aquarium Singapore.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Faxian_statue_in_Maritime_Experiential_Museum_%26_Aquarium_Singapore.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Ms Sarah Welch",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "artwork_date": "2011-10-06 10:55:10",
+    "object_name": "Faxian statue in Maritime Experiential Museum & Aquarium Singapore",
+    "attribution_required": false,
+    "caption": "Chân dung Pháp Hiển, Faxian statue in Maritime Experiential Museum & Aquarium Singapore (tưởng tượng). Ảnh: Wikimedia Commons, CC0.",
+    "imaginary": true,
+    "file": "CH04-CE04-12.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE05-01": {
    "id": "CH04-CE05-01",
@@ -12874,7 +13795,24 @@
    "group": "CE05",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Saint Augustine by Philippe de Champaigne.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Saint_Augustine_by_Philippe_de_Champaigne.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Philippe de Champaigne",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "between circa 1645 and circa 1650 date QS:P571,+1650-00-00T00:00:00Z/7,P1319,+1645-00-00T00:00:00Z/9,P1326,+1650-00-00T00:00:00Z/9,P1480,Q5727902",
+    "object_name": "Saint Augustine Alternative title: Saint Augustin",
+    "attribution_required": false,
+    "caption": "Chân dung Augustinô thành Hippo, Saint Augustine Alternative title: Saint Augustin, khoảng 1645 (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE05-01.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE05-02": {
    "id": "CH04-CE05-02",
@@ -12929,7 +13867,24 @@
    "group": "CE05",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Herrera mozo San León magno Lienzo. Óvalo. 164 x 105 cm. Museo del Prado.png",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Herrera_mozo_San_Le%C3%B3n_magno_Lienzo._%C3%93valo._164_x_105_cm._Museo_del_Prado.png",
+    "note": "",
+    "via": "api",
+    "author": "Francisco Herrera the Younger",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "17 th century date QS:P571,+1650-00-00T00:00:00Z/7",
+    "object_name": "El papa San León I Magno",
+    "attribution_required": false,
+    "caption": "Chân dung Giáo hoàng Lêô I, El papa San León I Magno, thế kỷ 17 (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE05-02.png",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE05-03": {
    "id": "CH04-CE05-03",
@@ -12991,7 +13946,24 @@
    "group": "CE05",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:In primum Euclidis elementorum librum 01.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:In_primum_Euclidis_elementorum_librum_01.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Euclid Francesco Barozzi",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "1560",
+    "object_name": "In primum Euclidis elementorum librum 01",
+    "attribution_required": false,
+    "caption": "Chân dung Proclus, In primum Euclidis elementorum librum 01, 1560 (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE05-03.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE05-04": {
    "id": "CH04-CE05-04",
@@ -13038,7 +14010,24 @@
    "group": "CE05",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Attila Hunnorum Rex Flagellum Dei Aquilejae Eversor Utini Instaurator.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Attila_Hunnorum_Rex_Flagellum_Dei_Aquilejae_Eversor_Utini_Instaurator.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Julio Strozza",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "17. századi illusztráció",
+    "object_name": "Attila Hunnorum Rex Flagellum Dei Aquilejae Eversor Utini Instaurator",
+    "attribution_required": false,
+    "caption": "Chân dung Attila (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE05-04.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE05-05": {
    "id": "CH04-CE05-05",
@@ -13100,7 +14089,24 @@
    "group": "CE05",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Theodosius II Louvre Ma1036.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Theodosius_II_Louvre_Ma1036.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Marie-Lan Nguyen ( User:Jastrow ), 2009",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "artwork_date": "",
+    "object_name": "Theodosius II Louvre Ma1036",
+    "attribution_required": true,
+    "caption": "Chân dung Theodosius II (tưởng tượng). Ảnh: Wikimedia Commons, CC BY 2.5.",
+    "imaginary": true,
+    "file": "CH04-CE05-05.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE05-06": {
    "id": "CH04-CE05-06",
@@ -13155,7 +14161,24 @@
    "group": "CE05",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Hipatia67.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hipatia67.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Elbert Hubbard (June 19, 1856 – May 7, 1915)",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "1908",
+    "object_name": "Hipatia67",
+    "attribution_required": false,
+    "caption": "Chân dung Hypatia, Hipatia67 (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE05-06.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE05-07": {
    "id": "CH04-CE05-07",
@@ -13224,7 +14247,24 @@
    "group": "CE05",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Kumarajiva at Kizil Caves, Kuqa (cropped).jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Kumarajiva_at_Kizil_Caves,_Kuqa_(cropped).jpg",
+    "note": "",
+    "via": "api",
+    "author": "Yoshi Canopus",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artwork_date": "2012-06-13 16:56:45",
+    "object_name": "Kumarajiva at Kizil Caves, Kuqa (cropped)",
+    "attribution_required": true,
+    "caption": "Chân dung Cưu-ma-la-thập, Kumarajiva at Kizil Caves, Kuqa (cropped) (tưởng tượng). Ảnh: Wikimedia Commons, CC BY-SA 3.0.",
+    "imaginary": true,
+    "file": "CH04-CE05-07.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE05-08": {
    "id": "CH04-CE05-08",
@@ -13279,7 +14319,13 @@
    "group": "CE05",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "no-image",
+    "title": null,
+    "source_url": null,
+    "note": "Wikidata không có P18",
+    "via": null
+   }
   },
   "CH04-CE05-09": {
    "id": "CH04-CE05-09",
@@ -13334,7 +14380,24 @@
    "group": "CE05",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:2064 aryabhata-crp.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2064_aryabhata-crp.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Own work",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "",
+    "object_name": "2064 aryabhata-crp",
+    "attribution_required": false,
+    "caption": "Chân dung Āryabhaṭa (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE05-09.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE05-10": {
    "id": "CH04-CE05-10",
@@ -13395,7 +14458,13 @@
    "group": "CE05",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "no-image",
+    "title": null,
+    "source_url": null,
+    "note": "Wikidata không có P18",
+    "via": null
+   }
   },
   "CH04-CE05-11": {
    "id": "CH04-CE05-11",
@@ -13443,7 +14512,24 @@
    "group": "CE05",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:昆山亭林公园祖冲之像.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%E6%98%86%E5%B1%B1%E4%BA%AD%E6%9E%97%E5%85%AC%E5%9B%AD%E7%A5%96%E5%86%B2%E4%B9%8B%E5%83%8F.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Gisling",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artwork_date": "2011-10-29",
+    "object_name": "昆山亭林公园祖冲之像",
+    "attribution_required": true,
+    "caption": "Chân dung Tổ Xung Chi, 昆山亭林公园祖冲之像 (tưởng tượng). Ảnh: Wikimedia Commons, CC BY-SA 3.0.",
+    "imaginary": true,
+    "file": "CH04-CE05-11.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH04-CE05-12": {
    "id": "CH04-CE05-12",
@@ -13497,7 +14583,24 @@
    "group": "CE05",
    "chapter": 4,
    "file": "ch04.md",
-   "image": null
+   "image": {
+    "status": "embedded",
+    "title": "File:Emperor Xiaowen of Northern Wei.jpg",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Emperor_Xiaowen_of_Northern_Wei.jpg",
+    "note": "",
+    "via": "api",
+    "author": "Original uploader was Jason22 at zh.wikipedia",
+    "license": "Public domain",
+    "license_url": "",
+    "artwork_date": "8 June 2008 (original upload date)",
+    "object_name": "Emperor Xiaowen of Northern Wei",
+    "attribution_required": false,
+    "caption": "Chân dung Bắc Nguỵ Hiếu Văn Đế, Emperor Xiaowen of Northern Wei (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
+    "imaginary": true,
+    "file": "CH04-CE05-12.jpg",
+    "width": 500,
+    "how": "thumbnail 500px"
+   }
   },
   "CH90-BCE03_01-01": {
    "id": "CH90-BCE03_01-01",
