@@ -641,6 +641,26 @@
       "CH05-CE06-07",
       "CH05-CE06-08"
      ]
+    },
+    {
+     "id": "CE07",
+     "label": "TK 7",
+     "range": [
+      601,
+      700
+     ],
+     "context": "Một nhà nước mới hình thành ở Ả Rập rồi trong vòng ba mươi năm lấy Ai Cập, Syria, Iraq và Iran, chấm dứt đế chế Sasanian. Nhà Đường mở thời Trinh Quán và Trường An thành đô thị lớn nhất thế giới. Tây Tạng lần đầu có chữ viết và trở thành một cường quốc.",
+     "persons": [
+      "CH05-CE07-01",
+      "CH05-CE07-02",
+      "CH05-CE07-03",
+      "CH05-CE07-04",
+      "CH05-CE07-05",
+      "CH05-CE07-06",
+      "CH05-CE07-07",
+      "CH05-CE07-08",
+      "CH05-CE07-09"
+     ]
     }
    ]
   },
@@ -14464,6 +14484,13 @@
      "evidence": "trực tiếp",
      "raw": "Thiên văn học Ấn Độ tới Brahmagupta và Bhāskara · kế thừa · trực tiếp",
      "undetermined": false
+    },
+    {
+     "target": "CH05-CE07-08",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH05-CE07-08 · phản bác · trực tiếp",
+     "undetermined": false
     }
    ],
    "group": "CE05",
@@ -15174,6 +15201,535 @@
     }
    ],
    "group": "CE06",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE07-01": {
+   "id": "CH05-CE07-01",
+   "name_vi": "Muhammad",
+   "name_orig": "مُحَمَّد",
+   "labels": [],
+   "years_raw": "k. 570–632 CN",
+   "born": 570,
+   "died": 632,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Mecca và Medina, bán đảo Ả Rập",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Tôn giáo/Tâm linh",
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q9458",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Từ khoảng năm 610 ông bắt đầu đọc ra những lời mà tín đồ coi là mặc khải, về sau tập hợp thành Qur'an. Nội dung cốt lõi là độc thần tuyệt đối, phán xét sau cái chết, và nghĩa vụ với người nghèo, cô nhi và nô lệ — tức một trật tự đạo đức thay cho hệ bộ lạc Mecca. Năm 622 ông rời Mecca ra Yathrib, mốc khởi đầu lịch Hồi giáo; ở đó ông không chỉ giảng mà còn cầm quyền, xử kiện và chỉ huy quân. Việc tôn giáo và nhà nước khởi sinh cùng lúc trong một đời người là điều phân biệt trường hợp này.",
+   "why": "Không có ứng viên cùng chỗ: không nhân vật nào khác trong vùng ở thế kỷ 7 có phạm vi gần tương đương. Chọn theo cả bốn tiêu chí. Niên đại để Trung bình vì tiểu sử đầy đủ sớm nhất là của Ibn Ishaq, soạn hơn một thế kỷ sau và nay chỉ còn qua bản hiệu đính của Ibn Hisham; các mốc năm sinh do truyền thống dựng ngược. Bản thân văn bản Qur'an thì được chứng thực sớm hơn nhiều.",
+   "sources": "Ibn Ishaq và Ibn Hisham, Sīrat Rasūl Allāh, bản dịch A. Guillaume (Oxford University Press, 1955); Fred M. Donner, Muhammad and the Believers (Harvard University Press, 2010).",
+   "inherits": [
+    {
+     "target": "Truyền thống độc thần Do Thái và Kitô giáo ở Ả Rập",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống độc thần Do Thái và Kitô giáo ở Ả Rập · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Tục lệ bộ lạc Quraysh ở Mecca",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "Tục lệ bộ lạc Quraysh ở Mecca · phản bác · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH05-CE07-02",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH05-CE07-02 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE07-03",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH05-CE07-03 · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "CE07",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE07-02": {
+   "id": "CH05-CE07-02",
+   "name_vi": "Umar ibn al-Khattab",
+   "name_orig": "عُمَر بن الخَطَّاب",
+   "labels": [],
+   "years_raw": "k. 586–644 CN",
+   "born": 586,
+   "died": 644,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Medina",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Luật"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q8467",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Trong mười năm làm caliph từ 634, biên giới nhà nước Hồi giáo đi từ bán đảo Ả Rập tới Ai Cập, Syria, Iraq và cao nguyên Iran: đế chế Sasanian sụp đổ, Byzantine mất các tỉnh giàu nhất. Nhưng phần bền hơn là cách tổ chức. Ông lập dīwān, sổ lương trả theo thứ bậc công trạng; giữ nguyên bộ máy hành chính và nhân sự địa phương thay vì thay thế; đặt các thành trại như Kufa, Basra và Fustat làm trung tâm cai trị; và lấy năm 622 làm năm gốc cho lịch Hồi giáo.",
+   "why": "Ứng viên cùng thời là Abu Bakr, caliph đầu tiên, và Khalid ibn al-Walid, viên tướng của phần lớn các chiến dịch ấy. Umar được chọn theo độ bền (b): chiến thắng là của nhiều người, nhưng quyết định để bộ máy cũ tiếp tục chạy là của ông, và chính nó khiến vùng chiếm được vận hành được thay vì bị tàn phá. Mọi nguồn về ông đều là biên niên soạn từ thế kỷ 9 trở đi.",
+   "sources": "Ṭabarī, Tārīkh, các quyển XII–XIV, bản dịch SUNY Press; Hugh Kennedy, The Great Arab Conquests (Da Capo Press, 2007).",
+   "inherits": [
+    {
+     "target": "CH05-CE07-01",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH05-CE07-01 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE06-03",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH05-CE06-03 · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Chế độ thuế đất và hành chính của nhà Umayyad",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Chế độ thuế đất và hành chính của nhà Umayyad · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Lịch Hijri",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Lịch Hijri · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "CE07",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE07-03": {
+   "id": "CH05-CE07-03",
+   "name_vi": "Ali ibn Abi Talib",
+   "name_orig": "عَلِيّ بن أَبِي طَالِب",
+   "labels": [],
+   "years_raw": "k. 599–661 CN",
+   "born": 599,
+   "died": 661,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Medina và Kufa",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q39619",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Em họ và con rể nhà tiên tri, ông làm caliph từ năm 656 giữa một cuộc nội chiến: trận Lạc Đà, rồi trận Siffin, nơi việc ông chấp nhận phân xử khiến một bộ phận quân mình ly khai thành phái Khawarij — và chính một người trong số đó giết ông năm 661. Câu hỏi mở ra lúc ấy, rằng quyền kế vị thuộc về cộng đồng chọn hay thuộc dòng dõi nhà tiên tri, không khép lại sau cái chết đó; nó trở thành đường phân chia Sunni và Shia còn định hình chính trị Tây Á tới hôm nay.",
+   "why": "Ứng viên cùng thời là Uthman, caliph thứ ba, người cho lập bản Qur'an chuẩn, và Mu'awiya, người thắng cuộc tranh chấp rồi lập nhà Umayyad. Ali được chọn theo độ bền (b): kết cục quân sự thuộc về Mu'awiya, nhưng câu hỏi mở ra quanh Ali mới là thứ sống tiếp. Mục này cố ý không chọn phía trong tranh luận ấy. Nahj al-Balāgha gán cho ông được biên soạn thế kỷ 10 nên không dùng làm nguồn tiểu sử.",
+   "sources": "Wilferd Madelung, The Succession to Muhammad (Cambridge University Press, 1997); Ṭabarī, Tārīkh, các quyển XVI–XVII, bản dịch SUNY Press.",
+   "inherits": [
+    {
+     "target": "CH05-CE07-01",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH05-CE07-01 · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Phái Shia và chế độ imam",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Phái Shia và chế độ imam · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Phái Khawarij",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "Phái Khawarij · phản bác · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "CE07",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE07-04": {
+   "id": "CH05-CE07-04",
+   "name_vi": "Đường Thái Tông",
+   "name_orig": "唐太宗, Lý Thế Dân",
+   "labels": [],
+   "years_raw": "598–649 CN",
+   "born": 598,
+   "died": 649,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Trường An",
+   "region": "Đông Á",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Quân sự"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q9701",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Ông lên ngôi năm 626 sau khi giết hai anh em ở cửa Huyền Vũ rồi ép cha thoái vị — một sự kiện mà chính sử triều ông phải xử lý, và có dấu hiệu đã được sửa. Thời Trinh Quán sau đó thành hình mẫu cho mọi triều sau: ông duy trì ban gián quan có quyền phản bác hoàng đế, cho biên Đường luật sớ nghị, mở rộng khoa cử, và sau khi đánh bại Đông Đột Quyết năm 630 thì nhận hiệu Thiên Khả Hãn — vừa là hoàng đế Trung Hoa vừa là hãn của thảo nguyên.",
+   "why": "Ứng viên cùng thời là Đường Cao Tổ, cha ông, và Ngụy Trưng, gián quan nổi tiếng nhất. Thái Tông được chọn theo phạm vi (a): khuôn triều đình, bộ luật và chế độ khảo hạch thời ông được Nhật Bản, Triều Tiên và Việt Nam mô phỏng trực tiếp, nên ảnh hưởng vượt hẳn ra ngoài Trung Hoa. Nguồn chính về ông là sử do chính triều ông soạn, và việc ông can thiệp vào khởi cư chú được chép lại.",
+   "sources": "Lưu Hú và nhóm biên soạn, Cựu Đường thư (945); Ngô Căng, Trinh Quán chính yếu; Howard J. Wechsler, Mirror to the Son of Heaven (Yale University Press, 1974).",
+   "inherits": [
+    {
+     "target": "CH05-CE06-06",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH05-CE06-06 · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH05-CE07-05",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH05-CE07-05 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Chế độ luật lệnh ở Nhật Bản, Triều Tiên và Việt Nam",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Chế độ luật lệnh ở Nhật Bản, Triều Tiên và Việt Nam · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE07",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE07-05": {
+   "id": "CH05-CE07-05",
+   "name_vi": "Võ Tắc Thiên",
+   "name_orig": "武則天 Wǔ Zétiān",
+   "labels": [],
+   "years_raw": "624–705 CN",
+   "born": 624,
+   "died": 705,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Trường An và Lạc Dương",
+   "region": "Đông Á",
+   "fields": [
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q9738",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Bà là người phụ nữ duy nhất trong lịch sử Trung Hoa xưng hoàng đế theo đúng nghĩa, lập triều Chu năm 690 sau nhiều năm cầm quyền thực tế qua chồng rồi qua con. Để biện minh cho điều mà hệ tư tưởng Nho giáo không có chỗ chứa, bà dựa vào Phật giáo: cho lưu hành Đại Vân kinh với lời sấm về một nữ vương, và bảo trợ việc tạc tượng ở Long Môn. Bà mở rộng khoa cử và lấy người từ tầng lớp thấp hơn, qua đó làm suy yếu các dòng họ quý tộc vùng tây bắc.",
+   "why": "Ứng viên cùng thời là Đường Cao Tông, chồng bà, và Địch Nhân Kiệt, tể tướng của bà. Võ Tắc Thiên được chọn theo tính nguyên bản (c) và counterfactual (d): chiếm ngôi hoàng đế buộc bà phải dựng một cơ sở chính danh hoàn toàn mới, và bà dựng nó từ Phật giáo. Hình ảnh tàn bạo gắn với bà phần lớn do sử gia Nho giáo đời sau xây, nên mục này tách nguồn đương thời khỏi lớp đánh giá về sau.",
+   "sources": "Lưu Hú và nhóm biên soạn, Cựu Đường thư (945); R.W.L. Guisso, Wu Tse-T'ien and the Politics of Legitimation in T'ang China (Western Washington University, 1978).",
+   "inherits": [
+    {
+     "target": "CH05-CE07-04",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH05-CE07-04 · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Tầng quan lại xuất thân khoa cử thời Đường",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Tầng quan lại xuất thân khoa cử thời Đường · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Nghệ thuật tạc tượng Phật giáo Long Môn",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Nghệ thuật tạc tượng Phật giáo Long Môn · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "CE07",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE07-06": {
+   "id": "CH05-CE07-06",
+   "name_vi": "Huyền Trang",
+   "name_orig": "玄奘 Xuánzàng",
+   "labels": [],
+   "years_raw": "k. 602–664 CN",
+   "born": 602,
+   "died": 664,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Trường An, Trung Á và Ấn Độ",
+   "region": "Đông Á",
+   "fields": [
+    "Tôn giáo/Tâm linh",
+    "Khám phá/Địa lý"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q42063",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Năm 629 ông rời Trung Hoa trái lệnh cấm, đi qua Trung Á tới Ấn Độ, học hơn mười năm ở Nālandā, rồi về năm 645 mang theo hơn sáu trăm bộ kinh. Phần đời còn lại ông dành cho việc dịch, và các bản dịch ấy đặt một chuẩn mới: sát nghĩa, thống nhất thuật ngữ, có quy ước cho từ không dịch. Đại Đường Tây Vực ký chép đường đi, phong tục và tình hình các nước — và vì nguồn Ấn Độ cùng thời rất thưa, nó là tư liệu mà khảo cổ học Ấn Độ thế kỷ 19 dùng để định vị di chỉ.",
+   "why": "Ứng viên cùng thời là Nghĩa Tịnh, người cũng đi Ấn Độ bằng đường biển và để lại ký sự. Huyền Trang được chọn theo phạm vi (a): khối lượng và chất lượng dịch thuật của ông định hình thuật ngữ Phật giáo Đông Á, còn Tây Vực ký có giá trị kép, vừa cho Trung Hoa vừa cho chính lịch sử Ấn Độ. Pháp Hiển **có mục riêng** ở `CH04-CE04-12` nên không phải ứng viên bị loại.",
+   "sources": "Huyền Trang, Đại Đường Tây Vực ký, bản dịch Samuel Beal (1884); Sally Hovey Wriggins, The Silk Road Journey with Xuanzang (Westview Press, 2004).",
+   "inherits": [
+    {
+     "target": "CH04-CE04-11",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE04-11 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE04-10",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE04-10 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Tông Pháp tướng và thuật ngữ Phật giáo Đông Á",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Tông Pháp tướng và thuật ngữ Phật giáo Đông Á · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Khảo cổ học Ấn Độ thế kỷ 19",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Khảo cổ học Ấn Độ thế kỷ 19 · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "CE07",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE07-07": {
+   "id": "CH05-CE07-07",
+   "name_vi": "Huệ Năng",
+   "name_orig": "慧能 Huìnéng, Lục tổ",
+   "labels": [],
+   "years_raw": "638–713 CN",
+   "born": 638,
+   "died": 713,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Lĩnh Nam, nay là Quảng Đông",
+   "region": "Đông Á",
+   "fields": [
+    "Tôn giáo/Tâm linh",
+    "Triết học"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q345012",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Pháp bảo đàn kinh — bộ duy nhất do người Trung Hoa soạn mà được gọi là \"kinh\" — kể ông là một người đốn củi mù chữ, nghe một câu Kinh Kim Cương mà ngộ, rồi được truyền y bát vượt qua các học trò có học. Luận điểm trung tâm là đốn ngộ: tự tánh vốn thanh tịnh, nên giác ngộ không phải kết quả tích luỹ của việc ngồi thiền dần dần. Lập trường ấy được dựng thành thế đối lập với \"tiệm tu\" gán cho Thần Tú.",
+   "why": "Ứng viên cùng thời là Thần Tú, người được triều đình trọng vọng lúc đương thời, và Thần Hội. Huệ Năng được chọn theo độ bền (b): dù phần lớn tường thuật về ông do Thần Hội dựng ở thế kỷ 8 để tranh chính thống — điều Hồ Thích và giới nghiên cứu sau đã chỉ ra — chính hình tượng người bình dân ngộ trước kẻ có học là thứ Thiền tông Đông Á và Zen hiện đại đặt ở trung tâm.",
+   "sources": "Pháp bảo đàn kinh, bản Đôn Hoàng, dịch Philip Yampolsky (Columbia University Press, 1967); John McRae, Seeing Through Zen (University of California Press, 2003).",
+   "inherits": [
+    {
+     "target": "CH05-CE06-08",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE06-08 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Thiền tông Nam phái và các dòng Lâm Tế, Tào Động",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Thiền tông Nam phái và các dòng Lâm Tế, Tào Động · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Zen Nhật Bản và Thiền Việt Nam",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Zen Nhật Bản và Thiền Việt Nam · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE07",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE07-08": {
+   "id": "CH05-CE07-08",
+   "name_vi": "Brahmagupta",
+   "name_orig": "ब्रह्मगुप्त",
+   "labels": [],
+   "years_raw": "k. 598 – k. 668 CN",
+   "born": 598,
+   "died": 668,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Bhillamāla, nay thuộc Rajasthan",
+   "region": "Nam Á",
+   "fields": [
+    "Toán học",
+    "Khoa học tự nhiên"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q202943",
+   "big_questions": [
+    "Vũ trụ"
+   ],
+   "ideas": "Brāhmasphuṭasiddhānta, soạn năm 628, là văn bản sớm nhất còn lại xử lý số không như một số có quy tắc tính chứ không chỉ là ký hiệu đánh dấu chỗ trống: cộng, trừ và nhân với không đều được phát biểu thành quy tắc. Ông cũng nêu quy tắc dấu cho số âm, diễn giải chúng là \"nợ\", và cho công thức diện tích tứ giác nội tiếp mang tên ông. Chỗ ông sai lại đáng chú ý: ông cho rằng không chia cho không bằng không. Khi bộ này tới Baghdad khoảng năm 770, nó là một đường để hệ số vị trí đi vào toán học Ả Rập.",
+   "why": "Ứng viên cùng thời là Bhāskara I, người chú giải Āryabhaṭa. Brahmagupta được chọn theo phạm vi (a): bộ của ông là văn bản Ấn Độ thật sự được dịch sang tiếng Ả Rập, nên đây là mắt xích có chứng cứ chứ không phải mắt xích giả định. Āryabhaṭa **có mục riêng** ở `CH04-CE05-09` nên không phải ứng viên bị loại — và chính Brahmagupta công kích ông, nên quan hệ giữa hai mục là phản bác.",
+   "sources": "Kim Plofker, Mathematics in India (Princeton University Press, 2009); Brahmagupta, Brāhmasphuṭasiddhānta, các chương toán học trong bản dịch H.T. Colebrooke (1817).",
+   "inherits": [
+    {
+     "target": "CH04-CE05-09",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE05-09 · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE06-04",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE06-04 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "al-Khwārizmī và toán học Ả Rập",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "al-Khwārizmī và toán học Ả Rập · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Hệ số vị trí và số không ở châu Âu",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hệ số vị trí và số không ở châu Âu · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE07",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE07-09": {
+   "id": "CH05-CE07-09",
+   "name_vi": "Isiđôrô thành Seville",
+   "name_orig": "Isidorus Hispalensis",
+   "labels": [],
+   "years_raw": "k. 560–636 CN",
+   "born": 560,
+   "died": 636,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Seville, vương quốc Visigoth",
+   "region": "Châu Âu",
+   "fields": [
+    "Giáo dục",
+    "Ngôn ngữ học"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q166876",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Etymologiae gom những gì ông còn với tới được của học thuật cổ điển vào hai mươi quyển, sắp xếp theo lối truy nguyên từ: ông tin rằng biết gốc một từ là biết bản chất của vật mà từ ấy gọi tên. Phương pháp đó sai, nhưng kết quả là một bộ bách khoa duy nhất bao trùm ngữ pháp, y học, luật, địa lý và nông nghiệp — và với phần lớn Tây Âu trong năm thế kỷ sau, nó là chỗ gần nhất với một thư viện. Hơn một nghìn bản chép tay còn lại, con số rất lớn với một văn bản trung cổ sớm.",
+   "why": "Ứng viên cùng thời là Gregorius thành Tours, người viết sử người Frank. Isiđôrô được chọn theo tính nguyên bản (c) hiểu theo nghĩa tư liệu — cùng tiêu chuẩn atlas đã dùng cho Pappus và Wulfila: nhiều đoạn của tác giả cổ điển ngày nay còn lại chỉ vì ông chép. Giá trị nằm ở chỗ không thay thế được chứ không ở phát kiến, và mục này nói rõ như vậy thay vì khen quá lời.",
+   "sources": "Isidore of Seville, The Etymologies, bản dịch Stephen A. Barney và nhóm (Cambridge University Press, 2006); Jacques Fontaine, Isidore de Séville (Brepols, 2000).",
+   "inherits": [
+    {
+     "target": "Truyền thống bách khoa Latin từ Pliny Cả",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống bách khoa Latin từ Pliny Cả · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE05-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Chương trình bảy môn khai phóng thời trung cổ",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Chương trình bảy môn khai phóng thời trung cổ · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Phục hưng Carolingian",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phục hưng Carolingian · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE07",
    "chapter": 5,
    "file": "ch05.md",
    "image": null
