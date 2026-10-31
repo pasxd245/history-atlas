@@ -189,12 +189,33 @@ def lint_global(chapters: list[dict], all_persons: dict[str, dict], rep: Report)
                 rep.info(ids[0], f"cùng Wikidata {q} ở cả atlas chính và phụ lục — có chủ ý: {', '.join(ids)}")
             else:
                 rep.warn(ids[0], f"cùng Wikidata {q} ở nhiều mục: {', '.join(ids)}")
-    # liên kết một chiều (kiểm tra đầy đủ ở P4)
+    # liên kết một chiều — kiểm cả hai hướng. Lint chỉ quét 'Kế thừa từ' cho tới P2,
+    # nên mọi 'Ảnh hưởng tới' trỏ sai đích đều lọt miễn ID có tồn tại; hai vòng đánh
+    # giá độc lập đều tìm ra lỗi loại đó. Vòng đối xứng dưới đây đóng khe hở ấy.
     for p in all_persons.values():
         for l in p["inherits"]:
             t = l["target"]
             if t in all_persons and not any(x["target"] == p["id"] for x in all_persons[t]["influences"]):
                 rep.info(p["id"], f"kế thừa từ {t} nhưng {t} không ghi 'Ảnh hưởng tới' {p['id']} (P4 sẽ đồng bộ)")
+        for l in p["influences"]:
+            t = l["target"]
+            if t in all_persons and not any(x["target"] == p["id"] for x in all_persons[t]["inherits"]):
+                rep.info(p["id"], f"ảnh hưởng tới {t} nhưng {t} không ghi 'Kế thừa từ' {p['id']} (P4 sẽ đồng bộ)")
+
+    # nghịch niên đại: A tác động lên B thì A không thể sinh sau khi B đã mất.
+    # 'tương đồng độc lập' loại trừ vì nó khẳng định KHÔNG có tiếp xúc.
+    DIRECTED = {"kế thừa", "tổng hợp", "phản bác"}
+    for p in all_persons.values():
+        pairs = [(p["id"], l["target"], l) for l in p["influences"]]
+        pairs += [(l["target"], p["id"], l) for l in p["inherits"]]
+        for src_id, dst_id, l in pairs:
+            if l.get("relation") not in DIRECTED:
+                continue
+            src, dst = all_persons.get(src_id), all_persons.get(dst_id)
+            if not src or not dst:
+                continue
+            if src["born"] is not None and dst["died"] is not None and src["born"] > dst["died"]:
+                rep.warn(p["id"], f"nghịch niên đại: {src_id} sinh {src['born']} sau khi {dst_id} mất {dst['died']} — không thể '{l.get('relation')}'")
 
 
 def lint_wikidata(all_persons: dict[str, dict], rep: Report, http: C.Http | None = None):
