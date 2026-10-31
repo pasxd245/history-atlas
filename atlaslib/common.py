@@ -133,6 +133,20 @@ _APPROX_RE = re.compile(r"\b(k\.|kh\.|khoảng|c\.|ca\.|circa|fl\.|~|≈)", re.I
 NON_BIO_YEARS_RE = re.compile(r"^(trị vì|hoạt động)\b", re.I)
 
 
+def year_in_bucket(year: int, wd_year: int, precision: int) -> bool:
+    """Giá trị Wikidata ở mức thế kỷ (p7) hoặc thiên niên kỷ (p6) là một KHOẢNG.
+    Trả True nếu `year` nằm trong khoảng mà `wd_year` đại diện.
+
+    +0300/p7 → thế kỷ 3 CN → 201..300;  -1300/p7 → thế kỷ 13 TCN → -1300..-1201.
+    """
+    size = 1000 if precision <= 6 else 100
+    if wd_year > 0:
+        hi = ((wd_year + size - 1) // size) * size
+        return hi - size + 1 <= year <= hi
+    lo = -(((-wd_year) + size - 1) // size) * size
+    return lo <= year <= lo + size - 1
+
+
 def parse_years(s: str) -> dict:
     """Phân tích chuỗi `năm:` tự do → {born, died, approx, alive, ok}.
 

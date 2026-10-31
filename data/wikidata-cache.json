@@ -7619,5 +7619,2854 @@
    "enwiki": "Tukulti-Ninurta I"
   },
   "fetched": 1793429348
+ },
+ "wd:Q107317": {
+  "id": "Q107317",
+  "labels": {
+   "en": "Ulfilas",
+   "vi": "Wulfila"
+  },
+  "aliases": {
+   "en": [
+    "Wulfila",
+    "Orphila",
+    "Ulphilas"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 311,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 383,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Wulfila translating the Bible, illustration 1879 - Wulfila übersetzt die Bibel, Illustration von 1879.jpg",
+  "sitelinks": {
+   "enwiki": "Ulfilas"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q11359": {
+  "id": "Q11359",
+  "labels": {
+   "en": "Aryabhata",
+   "vi": "Aryabhata"
+  },
+  "aliases": {
+   "en": [
+    "Aryabhata I",
+    "Aryabhatta",
+    "Aryabhatt",
+    "Arya Bhatta",
+    "Aaryabhata",
+    "Arjabatta",
+    "Āryabhaṭa I",
+    "Āryabhaṭa",
+    "Aryabhat",
+    "Arya Bhat"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 476,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 550,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "2064 aryabhata-crp.jpg",
+  "sitelinks": {
+   "viwiki": "Aryabhata",
+   "enwiki": "Aryabhata"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q11903": {
+  "id": "Q11903",
+  "labels": {
+   "en": "Hypatia",
+   "vi": "Hypatia"
+  },
+  "aliases": {
+   "en": [
+    "Hypatia of Alexandria",
+    "Divine Pagan"
+   ],
+   "vi": [
+    "Hypatia thành Alexandria",
+    "Hypatia xứ Alexandria"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 360,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 415,
+    "precision": 10,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Hipatia67.jpg",
+  "sitelinks": {
+   "viwiki": "Hypatia",
+   "enwiki": "Hypatia"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q1327614": {
+  "id": "Q1327614",
+  "labels": {
+   "vi": "Bắc Ngụy Hiếu Văn Đế",
+   "en": "Emperor Xiaowen of Northern Wei"
+  },
+  "aliases": {
+   "vi": [
+    "Thác Bạt Hoành",
+    "Nguyên Hoành",
+    "Bắc Nguỵ Hiếu Văn Đế",
+    "Hiếu Văn Đế",
+    "Ngụy Hiếu Văn Đế"
+   ],
+   "en": [
+    "Yuan Hongyan",
+    "Gao Zu",
+    "Wen Di",
+    "Tuoba Hong",
+    "Yuan Hong",
+    "Wei Xiaowen Di",
+    "Wei Xiaowen Emperor"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 467,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 499,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Emperor Xiaowen of Northern Wei.jpg",
+  "sitelinks": {
+   "viwiki": "Bắc Ngụy Hiếu Văn Đế",
+   "enwiki": "Emperor Xiaowen of Northern Wei"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q134189": {
+  "id": "Q134189",
+  "labels": {
+   "vi": "Plotinus",
+   "en": "Plotinus"
+  },
+  "aliases": {
+   "en": [
+    "Plotinos"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 205,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 270,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Paolo Monti - Servizio fotografico (Roma, 1969) - BEIC 6353762.jpg",
+  "sitelinks": {
+   "viwiki": "Plotinus",
+   "enwiki": "Plotinus"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q134461": {
+  "id": "Q134461",
+  "labels": {
+   "en": "Josephus"
+  },
+  "aliases": {
+   "en": [
+    "Joseph ben Matityahu",
+    "Flavius Iosephus",
+    "Titus Flavius Josephus",
+    "Flavius Josephus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 37,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 38,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 100,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Portret van Flavius Josephus, RP-P-1906-2507.jpg",
+  "sitelinks": {
+   "enwiki": "Josephus"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q1430": {
+  "id": "Q1430",
+  "labels": {
+   "vi": "Marcus Aurelius",
+   "en": "Marcus Aurelius"
+  },
+  "aliases": {
+   "en": [
+    "Marcus Aurelius Verus",
+    "Verissimus",
+    "Antoninus",
+    "Marcus Annius Verus",
+    "Marcus Catilius Severus Annius Verus",
+    "Caesar Marcus Aurelius Antoninus Augustus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 121,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 180,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Marcus Aurelius Louvre MR561 n02.jpg",
+  "sitelinks": {
+   "viwiki": "Marcus Aurelius",
+   "enwiki": "Marcus Aurelius"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q160353": {
+  "id": "Q160353",
+  "labels": {
+   "en": "Theodosius II",
+   "vi": "Theodosius II"
+  },
+  "aliases": {
+   "en": [
+    "Flavius Theodosius Junior Augustus",
+    "Theodosius the Younger",
+    "Theodosius the Calligrapher",
+    "Emperor of Rome Theodosius II",
+    "Theodosius Flavius Secundus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 401,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 450,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Theodosius II Louvre Ma1036.jpg",
+  "sitelinks": {
+   "viwiki": "Theodosius II",
+   "enwiki": "Theodosius II"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q170472": {
+  "id": "Q170472",
+  "labels": {
+   "en": "Origen",
+   "vi": "Origen"
+  },
+  "aliases": {
+   "en": [
+    "Origenes"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 185,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 184,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 185,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 254,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 254,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Origen3.jpg",
+  "sitelinks": {
+   "viwiki": "Origênê",
+   "enwiki": "Origen"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q171195": {
+  "id": "Q171195",
+  "labels": {
+   "vi": "Nāgārjuna",
+   "en": "Nagarjuna"
+  },
+  "aliases": {
+   "vi": [
+    "Long Thụ",
+    "Long Thọ",
+    "Nagarguna",
+    "Na-già-át-thụ-na",
+    "Long Mãnh",
+    "Nagarjuna",
+    "Long Mãnh Bồ Tát"
+   ],
+   "en": [
+    "Nāgajjuna Bhikkhu",
+    "Nāgārjunācārya",
+    "Nāgārjuna Bodhisattva",
+    "Aacharya Nagarjuna",
+    "Nagarjun",
+    "Nagarjunacharya",
+    "Naga Arjuna",
+    "Nāgārjuna"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 150,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 250,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Nagarjuna at Samye Ling Monastery.JPG",
+  "sitelinks": {
+   "viwiki": "Long Thụ",
+   "enwiki": "Nagarjuna"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q174929": {
+  "id": "Q174929",
+  "labels": {
+   "en": "Tertullian",
+   "vi": "Tertullian"
+  },
+  "aliases": {
+   "en": [
+    "Quintus Septimius Florens Tertullianus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 160,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 150,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 155,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 240,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 220,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 230,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Tertullian2.png",
+  "sitelinks": {
+   "viwiki": "Tertullianus",
+   "enwiki": "Tertullian"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q177081": {
+  "id": "Q177081",
+  "labels": {
+   "en": "Ban Zhao",
+   "vi": "Ban Chiêu"
+  },
+  "aliases": {
+   "en": [
+    "Huiji",
+    "Gifted One Ban Zhao"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 45,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 116,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Banzhao.jpg",
+  "sitelinks": {
+   "viwiki": "Ban Chiêu",
+   "enwiki": "Ban Zhao"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q178217": {
+  "id": "Q178217",
+  "labels": {
+   "vi": "Diofantos",
+   "en": "Diophantus of Alexandria"
+  },
+  "aliases": {
+   "vi": [
+    "Diophantine",
+    "Diofantus",
+    "Diophantus"
+   ],
+   "en": [
+    "Diophantus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 200,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 201,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 284,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Διόφαντος - Diophantos - ДИОФАНТ.jpg",
+  "sitelinks": {
+   "viwiki": "Diofantos",
+   "enwiki": "Diophantus"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q182123": {
+  "id": "Q182123",
+  "labels": {
+   "en": "Irenaeus",
+   "vi": "Irênê"
+  },
+  "aliases": {
+   "en": [
+    "Irenæus",
+    "Irenaeus of Lyon"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 130,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 202,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Saint Irenaeus.jpg",
+  "sitelinks": {
+   "viwiki": "Irênê",
+   "enwiki": "Irenaeus"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q189597": {
+  "id": "Q189597",
+  "labels": {
+   "en": "Philo of Alexandria"
+  },
+  "aliases": {
+   "en": [
+    "Philo Judeaus",
+    "Philo Alexandrinus",
+    "Philo Judæus",
+    "Philo",
+    "Philo the Jew",
+    "Philio of Alexandria",
+    "Philio Judæus",
+    "Philio Alexandrinus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -15,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 50,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 45,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "PhiloThevet.jpg",
+  "sitelinks": {
+   "enwiki": "Philo"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q191455": {
+  "id": "Q191455",
+  "labels": {
+   "vi": "Shapur I",
+   "en": "Shapur I"
+  },
+  "aliases": {
+   "vi": [
+    "Shapur I của Ba Tư"
+   ],
+   "en": [
+    "Šābuhr I",
+    "Shabuhr I",
+    "Shapur I the Great",
+    "Shabuhr I the Great",
+    "Šābuhr I the Great"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 300,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 272,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 270,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 270,
+    "precision": 10,
+    "rank": "normal"
+   }
+  ],
+  "P18": "The triumph of Shapur I over the Roman emperors Valerian and Philip the Arab (detail), Naqsh-e Rostam, Iran (48098809022).jpg",
+  "sitelinks": {
+   "viwiki": "Shapur I",
+   "enwiki": "Shapur I"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q197206": {
+  "id": "Q197206",
+  "labels": {
+   "en": "Zhang Heng",
+   "vi": "Trương Hành"
+  },
+  "aliases": {
+   "en": [
+    "Chang Heng"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 78,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 139,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Trương Hành",
+   "enwiki": "Zhang Heng"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q197350": {
+  "id": "Q197350",
+  "labels": {
+   "en": "Zhang Zhongjing",
+   "vi": "Trương Trọng Cảnh"
+  },
+  "aliases": {
+   "en": [
+    "Zhang Zhong Jing",
+    "Zhang Ji",
+    "Zhongjing Zhang"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 150,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 219,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Chinese woodcut, Famous medical figures; Zhang Zhongjing Wellcome L0039319.jpg",
+  "sitelinks": {
+   "viwiki": "Trương Trọng Cảnh",
+   "enwiki": "Zhang Zhongjing"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q198211": {
+  "id": "Q198211",
+  "labels": {
+   "en": "Zhuge Liang",
+   "vi": "Gia Cát Lượng"
+  },
+  "aliases": {
+   "en": [
+    "Zhuge Kongming"
+   ],
+   "vi": [
+    "Gia Cát Khổng Minh",
+    "Chư Cát Lượng"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 181,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 234,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "蜀汉丞相忠武侯诸葛亮.jpg",
+  "sitelinks": {
+   "viwiki": "Gia Cát Lượng",
+   "enwiki": "Zhuge Liang"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q203445": {
+  "id": "Q203445",
+  "labels": {
+   "en": "Porphyry"
+  },
+  "aliases": {
+   "en": [
+    "Porphyry of Tyre",
+    "Malchus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 233,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 301,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Portrait of Porphyry of Tyre from Les vrais pourtraits et vies des hommes illustres grecz, latins et payens.jpg",
+  "sitelinks": {
+   "enwiki": "Porphyry of Tyre"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q203922": {
+  "id": "Q203922",
+  "labels": {
+   "en": "Mani"
+  },
+  "aliases": {
+   "en": [
+    "Suraik",
+    "Manes",
+    "Kurbik"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 216,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 274,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 276,
+    "precision": 9,
+    "rank": "deprecated"
+   },
+   {
+    "year": 277,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Mani, the prophet.jpg",
+  "sitelinks": {
+   "enwiki": "Mani (prophet)"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q2054": {
+  "id": "Q2054",
+  "labels": {
+   "en": "Seneca",
+   "vi": "Seneca"
+  },
+  "aliases": {
+   "en": [
+    "Lucius Annaeus Seneca the Younger",
+    "Lucius Annaeus Seneca",
+    "L. Annæus Seneca",
+    "Lucius Annaeus Seneca Iunior",
+    "Seneca the Younger",
+    "the Younger Seneca",
+    "Annaeus Seneca",
+    "Lucius Annaeus Seneca minor",
+    "Lucio Anneo Seneca"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -4,
+    "precision": 8,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 65,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Duble herma of Socrates and Seneca Antikensammlung Berlin 07.jpg",
+  "sitelinks": {
+   "viwiki": "Seneca",
+   "enwiki": "Seneca the Younger"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q211783": {
+  "id": "Q211783",
+  "labels": {
+   "vi": "Pappus của Alexandria",
+   "en": "Pappus of Alexandria"
+  },
+  "aliases": {
+   "en": [
+    "Pappus",
+    "Pappos of Alexandria"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 290,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 350,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Pappus của Alexandria",
+   "enwiki": "Pappus of Alexandria"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q227444": {
+  "id": "Q227444",
+  "labels": {
+   "en": "Zu Chongzhi",
+   "vi": "Tổ Xung Chi"
+  },
+  "aliases": {
+   "en": [
+    "Chongzhi Zu",
+    "Zu Wenyuan"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 429,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 501,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 500,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "昆山亭林公园祖冲之像.jpg",
+  "sitelinks": {
+   "viwiki": "Tổ Xung Chi",
+   "enwiki": "Zu Chongzhi"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q229235": {
+  "id": "Q229235",
+  "labels": {
+   "vi": "Thái Luân",
+   "en": "Cai Lun"
+  },
+  "aliases": {
+   "vi": [
+    "Sài Luân",
+    "Ts'ai Lun",
+    "Sái Luân",
+    "Cài Lún"
+   ],
+   "en": [
+    "Ts'ai Lun",
+    "Jingzhong"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 48,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 50,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 121,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Cai-lun.jpg",
+  "sitelinks": {
+   "viwiki": "Thái Luân",
+   "enwiki": "Cai Lun"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q234860": {
+  "id": "Q234860",
+  "labels": {
+   "vi": "Shapur II",
+   "en": "Shapur II"
+  },
+  "aliases": {
+   "vi": [
+    "Shapur II của Ba Tư",
+    "Shapur Vĩ đại",
+    "Shapur Đại đế"
+   ],
+   "en": [
+    "Shapur the Great",
+    "Šābuhr II",
+    "Šābuhr the Great"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 309,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 310,
+    "precision": 10,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 379,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Bust of Shapur II the Great in the Metropolitan Museum of Art.jpg",
+  "sitelinks": {
+   "viwiki": "Shapur II",
+   "enwiki": "Shapur II"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q271809": {
+  "id": "Q271809",
+  "labels": {
+   "en": "Proclus"
+  },
+  "aliases": {
+   "en": [
+    "Proclus Lycaeus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 412,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 485,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "In primum Euclidis elementorum librum 01.jpg",
+  "sitelinks": {
+   "enwiki": "Proclus"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q297776": {
+  "id": "Q297776",
+  "labels": {
+   "en": "Pedanius Dioscorides"
+  },
+  "aliases": {
+   "en": [
+    "Dioscorides"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 40,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 90,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Illuminated Manuscripts (Middleton) figure07.jpg",
+  "sitelinks": {
+   "enwiki": "Dioscorides"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q302": {
+  "id": "Q302",
+  "labels": {
+   "en": "Jesus Christ",
+   "vi": "Giê-su"
+  },
+  "aliases": {
+   "en": [
+    "Yeshua ben-Yosef",
+    "Jesus of Nazareth",
+    "God the Son",
+    "Yeshua",
+    "Lord of Lords",
+    "Son of Man",
+    "Jesus",
+    "The Messiah",
+    "Christ",
+    "Son of God",
+    "Yahshua",
+    "Saviour of the world",
+    "Yehoshua",
+    "Jesus Christ of Nazareth",
+    "The Saviour",
+    "Christ Jesus",
+    "King of Kings",
+    "Emmanuel",
+    "Son of the lamb"
+   ],
+   "vi": [
+    "Giêsu thành Nazareth",
+    "Chúa Giêsu Kitô",
+    "Đức Chúa Giê-su",
+    "Giêsu",
+    "Giê-su Ki-tô",
+    "德主支秋",
+    "Chúa Giêsu Kirixitô",
+    "Jesus",
+    "Yêsu",
+    "Gia-tô Cơ-đốc",
+    "Giê-su Nazareth",
+    "Jesus Christ",
+    "Gia-tô",
+    "支秋",
+    "Giêsu con ông Giuse",
+    "Giê-xu"
+   ]
+  },
+  "P31": [
+   "Q178885",
+   "Q20643955",
+   "Q4271324",
+   "Q18563360",
+   "Q5",
+   "Q825",
+   "Q51625"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -5,
+    "precision": 8,
+    "rank": "preferred"
+   },
+   {
+    "year": -7,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": -2,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 30,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 33,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Spas vsederzhitel sinay (cropped1).jpg",
+  "sitelinks": {
+   "viwiki": "Giê-su",
+   "enwiki": "Jesus"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q312544": {
+  "id": "Q312544",
+  "labels": {
+   "vi": "Kanishka",
+   "en": "Kanishka"
+  },
+  "aliases": {
+   "vi": [
+    "Kanishka I"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 78,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 144,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "KanishkaCoin3.JPG",
+  "sitelinks": {
+   "viwiki": "Kanishka",
+   "enwiki": "Kanishka"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q312552": {
+  "id": "Q312552",
+  "labels": {
+   "en": "Aśvaghoṣa",
+   "vi": "Mã Minh"
+  },
+  "aliases": {
+   "en": [
+    "Horse-Voice",
+    "Ashvaghosha"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 80,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 150,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Ashvaghosha.jpg",
+  "sitelinks": {
+   "viwiki": "Mã Minh",
+   "enwiki": "Aśvaghoṣa"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q312978": {
+  "id": "Q312978",
+  "labels": {
+   "en": "Faxian",
+   "vi": "Pháp Hiển"
+  },
+  "aliases": {
+   "en": [
+    "Fa Hien",
+    "Fa Hsien",
+    "Fa Xian",
+    "Fa-hsien",
+    "Fa-Hien",
+    "Fathian",
+    "Fat-hian",
+    "Fat Hian",
+    "Fahien",
+    "Fa-hian",
+    "Fa Hian",
+    "Fahian",
+    "Shi Faxian",
+    "Chy Fa Hian",
+    "Chy Fa-hian",
+    "Fâ-hien",
+    "Fâ Hien",
+    "Chi Fah Hian",
+    "Fah-Hian",
+    "Fâ-Hien"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 340,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 337,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 422,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 422,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Faxian statue in Maritime Experiential Museum & Aquarium Singapore.jpg",
+  "sitelinks": {
+   "viwiki": "Pháp Hiển",
+   "enwiki": "Faxian"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q316304": {
+  "id": "Q316304",
+  "labels": {
+   "en": "Liu Hui",
+   "vi": "Lưu Huy"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 225,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 295,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Hunan International Economics University20.jpg",
+  "sitelinks": {
+   "viwiki": "Lưu Huy (nhà toán học)",
+   "enwiki": "Liu Hui"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q316343": {
+  "id": "Q316343",
+  "labels": {
+   "en": "Vasubandhu",
+   "vi": "Thế Thân"
+  },
+  "aliases": {
+   "vi": [
+    "Bà-tẩu-bàn-đậu",
+    "Thiên Thân",
+    "Bà-tu-bàn-đầu"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 300,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 399,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Vasubandhu.JPG",
+  "sitelinks": {
+   "viwiki": "Thế Thân",
+   "enwiki": "Vasubandhu"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q319329": {
+  "id": "Q319329",
+  "labels": {
+   "en": "Wang Chong",
+   "vi": "Vương Sung"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 27,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 97,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Vương Sung",
+   "enwiki": "Wang Chong"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q335247": {
+  "id": "Q335247",
+  "labels": {
+   "en": "Buddhaghosa",
+   "vi": "Phật Âm"
+  },
+  "aliases": {
+   "vi": [
+    "Giác Âm"
+   ],
+   "en": [
+    "Buddhaghosa Bhikkhu"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 401,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 500,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Phật Âm",
+   "enwiki": "Buddhaghosa"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q335293": {
+  "id": "Q335293",
+  "labels": {
+   "en": "Kumārajīva",
+   "vi": "Cưu-ma-la-thập"
+  },
+  "aliases": {
+   "vi": [
+    "Ðồng Thọ",
+    "Cưu Ma La Thập"
+   ],
+   "en": [
+    "Kumarajiva"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 344,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 344,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 413,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Kumarajiva at Kizil Caves, Kuqa (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Cưu-ma-la-thập",
+   "enwiki": "Kumārajīva"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q33941": {
+  "id": "Q33941",
+  "labels": {
+   "vi": "Julianus",
+   "en": "Julian"
+  },
+  "aliases": {
+   "vi": [
+    "Flavius Claudius Julianus",
+    "Julian Kẻ bội giáo",
+    "Julianus Tà Giáo",
+    "Julian",
+    "Flavius Claudius Julianus Augustus",
+    "Julianus Tà Đạo",
+    "Julian Triết gia",
+    "Julianus Triết gia",
+    "Julianus Bội giáo",
+    "Julian Nhà triết học",
+    "Julianus Nhà triết học",
+    "Julian Bội giáo",
+    "Julianus Kẻ bội giáo"
+   ],
+   "en": [
+    "Flavius Claudius Julianus",
+    "Julian III",
+    "Julian the Apostate",
+    "Imperator Caesar Flavius Claudius Julianus Augustus",
+    "Julianus II",
+    "Flavius Claudius Iulianus",
+    "Julian II",
+    "Julianus III"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 331,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 331,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 363,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Gold Solidus of Julian the Apostate, Sirmium.jpg",
+  "sitelinks": {
+   "viwiki": "Julianus (hoàng đế)",
+   "enwiki": "Julian (emperor)"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q34943": {
+  "id": "Q34943",
+  "labels": {
+   "vi": "Claudius Ptolemaeus",
+   "en": "Ptolemy"
+  },
+  "aliases": {
+   "vi": [
+    "Tô lê mê",
+    "Ptolemaeus",
+    "Claudius Ptolemy",
+    "Pơ tô lê mê",
+    "P tô lê mê",
+    "Ptôlêmê",
+    "Ptolemy",
+    "Ptolémée",
+    "Pờ-tô-lê-mê"
+   ],
+   "en": [
+    "Klaudios Ptolemaios",
+    "Claudius Ptolemaeus",
+    "Claudius Ptolemy",
+    "Claudius Ptolemeus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 100,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 87,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 85,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 170,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 165,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "PSM V78 D326 Ptolemy.png",
+  "sitelinks": {
+   "viwiki": "Claudius Ptolemaeus",
+   "enwiki": "Ptolemy"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q36724": {
+  "id": "Q36724",
+  "labels": {
+   "vi": "Attila",
+   "en": "Attila"
+  },
+  "aliases": {
+   "en": [
+    "the Hun Attila",
+    "King of the Huns Attila",
+    "Attyla"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 500,
+    "precision": 6,
+    "rank": "preferred"
+   },
+   {
+    "year": 395,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 395,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 400,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 453,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Attila Hunnorum Rex Flagellum Dei Aquilejae Eversor Utini Instaurator.jpg",
+  "sitelinks": {
+   "viwiki": "Attila",
+   "enwiki": "Attila"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q371319": {
+  "id": "Q371319",
+  "labels": {
+   "en": "Ardashir I",
+   "vi": "Ardashir I"
+  },
+  "aliases": {
+   "en": [
+    "Ardashīr ī Pābagān",
+    "Artaxerxes IV",
+    "Ardashir the Unifier"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 180,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 242,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 241,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Dinar of Ardashir I (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Ardashir I",
+   "enwiki": "Ardashir I"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q378555": {
+  "id": "Q378555",
+  "labels": {
+   "en": "Gu Kaizhi"
+  },
+  "aliases": {
+   "en": [
+    "Hutou Gu",
+    "Kaizhi Gu",
+    "Kʻai-chih Ku",
+    "hao Hutou zi Changkang",
+    "Ku K'ai-chih",
+    "Gaishi Ko",
+    "Hu-tʻou Ku",
+    "Kae-che Koo"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 345,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 406,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Gu Kaizhi.jpg",
+  "sitelinks": {
+   "enwiki": "Gu Kaizhi"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q378564": {
+  "id": "Q378564",
+  "labels": {
+   "en": "Wang Xizhi",
+   "vi": "Vương Hi Chi"
+  },
+  "aliases": {
+   "vi": [
+    "Vương Hy Chi"
+   ],
+   "en": [
+    "Gishi Ō",
+    "Youjun",
+    "Wang Hsi-chih",
+    "Gi-Shi Ō",
+    "Shaoyi",
+    "Yu-chün",
+    "Yishao Wang",
+    "Wang Hi-tche",
+    "Wang Yeou-kiun",
+    "Wang Youjun",
+    "Wang Yu-chün",
+    "Wang Yu-chun",
+    "Wang Hŭ-ji",
+    "Wang I-shao",
+    "Wang Hŭi-ji"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 321,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 303,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 361,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 361,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Portraits of Famous Men - Wang Xizhi (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Vương Hi Chi",
+   "enwiki": "Wang Xizhi"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q379905": {
+  "id": "Q379905",
+  "labels": {
+   "en": "Asanga",
+   "vi": "Vô Trước"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 300,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 310,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 301,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Mujaku Asanga Kofukuji.JPG",
+  "sitelinks": {
+   "viwiki": "Vô Trước",
+   "enwiki": "Asanga"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q43107": {
+  "id": "Q43107",
+  "labels": {
+   "vi": "Diocletianus",
+   "en": "Diocletian"
+  },
+  "aliases": {
+   "vi": [
+    "Diocletian"
+   ],
+   "en": [
+    "Jovius",
+    "Caius Aurelius Valerius Diocletianus",
+    "Marcus Aurelius Gaius Valerius Diocletianus",
+    "Diocletianus",
+    "Gaius Aurelius Valerius Diocletianus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 240,
+    "precision": 8,
+    "rank": "preferred"
+   },
+   {
+    "year": 244,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 245,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 316,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 313,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Istanbul - Museo archeol. - Diocleziano (284-305 d.C.) - Foto G. Dall'Orto 28-5-2006.jpg",
+  "sitelinks": {
+   "viwiki": "Diocletianus",
+   "enwiki": "Diocletian"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q43954": {
+  "id": "Q43954",
+  "labels": {
+   "vi": "Giáo hoàng Lêô I",
+   "en": "Leo I"
+  },
+  "aliases": {
+   "vi": [
+    "Leo Cả",
+    "Giáo hoàng Lêô Cả",
+    "Thánh Lêô I",
+    "Lêô I",
+    "Đức Giáo Hoàng Lêô I",
+    "Giáo hoàng Leo Cả",
+    "Đức Giáo Hoàng Leo I",
+    "Thánh Leo I",
+    "Lêôn Cả",
+    "Lêô Cả"
+   ],
+   "en": [
+    "Pope Leo I",
+    "Leo the Great"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 390,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 400,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 461,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 461,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Herrera mozo San León magno Lienzo. Óvalo. 164 x 105 cm. Museo del Prado.png",
+  "sitelinks": {
+   "viwiki": "Giáo hoàng Lêô I",
+   "enwiki": "Pope Leo I"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q439681": {
+  "id": "Q439681",
+  "labels": {
+   "en": "Ban Gu",
+   "vi": "Ban Cố"
+  },
+  "aliases": {
+   "en": [
+    "Gu Ban"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 32,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 92,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Ban Gu.jpg",
+  "sitelinks": {
+   "viwiki": "Ban Cố",
+   "enwiki": "Ban Gu"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q44024": {
+  "id": "Q44024",
+  "labels": {
+   "en": "Athanasius of Alexandria",
+   "vi": "Athanasiô thành Alexandria"
+  },
+  "aliases": {
+   "en": [
+    "Athanasius",
+    "St. Athanasius",
+    "Athanasius the Apostolic",
+    "Athanasius the Confessor",
+    "St Athanasius the Apostolic",
+    "Saint Athanasius of Alexandria",
+    "Athanasios of Alexandria",
+    "Athanasius Contra Mundum",
+    "Athanasius the Great",
+    "Saint Athanasius the Apostolic",
+    "St Athanasius",
+    "St Athanasius of Alexandria",
+    "Athanasius I of Alexandria",
+    "Saint Athanasius the Confessor",
+    "St. Athanasius the Apostolic",
+    "St Athanasius the Confessor",
+    "Athanasias",
+    "St. Athanasius of Alexandria",
+    "St. Athanasius the Confessor",
+    "Athanasius Alexandrinus",
+    "Saint Athanasius"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 296,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 373,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 373,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Ikone Athanasius von Alexandria.jpg",
+  "sitelinks": {
+   "viwiki": "Athanasiô thành Alexandria",
+   "enwiki": "Athanasius of Alexandria"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q459865": {
+  "id": "Q459865",
+  "labels": {
+   "en": "Wang Bi"
+  },
+  "aliases": {
+   "en": [
+    "Wang Pi"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 226,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 249,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "至聖先賢半身像 冊-107-王弼.jpg",
+  "sitelinks": {
+   "enwiki": "Wang Bi"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q7250": {
+  "id": "Q7250",
+  "labels": {
+   "en": "Wang Mang",
+   "vi": "Vương Mãng"
+  },
+  "aliases": {
+   "en": [
+    "Jujun"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -45,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 23,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Vương Mãng",
+   "enwiki": "Wang Mang"
+  },
+  "fetched": 1793436016
+ },
+ "wd:Q7268": {
+  "id": "Q7268",
+  "labels": {
+   "en": "Emperor Guangwu of Han",
+   "vi": "Hán Quang Vũ Đế"
+  },
+  "aliases": {
+   "en": [
+    "Shi Zu",
+    "Liu Xiu",
+    "Guangwu Di"
+   ],
+   "vi": [
+    "Quang Vũ Đế",
+    "Lưu Tú",
+    "Hán Thế Tổ",
+    "Văn Thúc"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -5,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 57,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Han Guangwu Di (cropped1to1) (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Hán Quang Vũ Đế",
+   "enwiki": "Emperor Guangwu of Han"
+  },
+  "fetched": 1793436018
+ },
+ "wd:Q740373": {
+  "id": "Q740373",
+  "labels": {
+   "vi": "Phạm Diệp",
+   "en": "Fan Ye"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 398,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 445,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Phạm Diệp",
+   "enwiki": "Fan Ye (historian)"
+  },
+  "fetched": 1793436018
+ },
+ "wd:Q8018": {
+  "id": "Q8018",
+  "labels": {
+   "en": "Augustine of Hippo",
+   "vi": "Augustinô thành Hippo"
+  },
+  "aliases": {
+   "en": [
+    "Saint Austin",
+    "St Augustine",
+    "Saint Augustine",
+    "St Augustine of Hippo",
+    "Aurelius Augustinus",
+    "Saint Augustine of Hippo",
+    "Augustinus, Aurelius",
+    "Augustinus",
+    "Aurelius Augustine",
+    "Aurelius Augustinus Hipponensis",
+    "St. Augustine of Hippo",
+    "bishop of Hippo",
+    "St. Augoustinos",
+    "St. Augustine",
+    "Augustine"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 354,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 354,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 430,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 430,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Saint Augustine by Philippe de Champaigne.jpg",
+  "sitelinks": {
+   "viwiki": "Augustinô thành Hippo",
+   "enwiki": "Augustine of Hippo"
+  },
+  "fetched": 1793436018
+ },
+ "wd:Q82778": {
+  "id": "Q82778",
+  "labels": {
+   "en": "Pliny the Elder",
+   "vi": "Gaius Plinius Secundus"
+  },
+  "aliases": {
+   "en": [
+    "Caius Plinius Secundus",
+    "the Elder Pliny",
+    "Caius P. Secundus",
+    "Pliny",
+    "C. Plinius Secundus",
+    "Gaius P. Secundus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 20,
+    "precision": 8,
+    "rank": "preferred"
+   },
+   {
+    "year": 23,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 24,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 79,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 79,
+    "precision": 10,
+    "rank": "normal"
+   },
+   {
+    "year": 79,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 79,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Grande Illustrazione del Lombardo Veneto Vol 3 Plinio Secondo 300dpi.jpg",
+  "sitelinks": {
+   "viwiki": "Gaius Plinius Secundus",
+   "enwiki": "Pliny the Elder"
+  },
+  "fetched": 1793436018
+ },
+ "wd:Q8413": {
+  "id": "Q8413",
+  "labels": {
+   "en": "Constantine the Great",
+   "vi": "Constantinus I"
+  },
+  "aliases": {
+   "en": [
+    "Constantine I",
+    "Lucius Flavius Valerius Constantinus",
+    "Gaius Flavius Valerius Constantinus",
+    "Imperator Caesar Flavius Valerius Aurelius Constantinus Augustus",
+    "Trachala",
+    "Constantinus I",
+    "Saint Constantine",
+    "Marcus Flavius Valerius Constantinus",
+    "Flavius Constantinus",
+    "Flavius Valerius Aurelius Constantinus",
+    "Flavius Valerius Constantinus",
+    "Flavius Valerius Aurelius Constantinus Augustus",
+    "Constantine",
+    "Gaius Flavius Valerius Aurelius Constantinus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 272,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 274,
+    "precision": 9,
+    "rank": "deprecated"
+   },
+   {
+    "year": 274,
+    "precision": 11,
+    "rank": "deprecated"
+   },
+   {
+    "year": 300,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 337,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 337,
+    "precision": 10,
+    "rank": "normal"
+   },
+   {
+    "year": 337,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Rome-Capitole-StatueConstantin.jpg",
+  "sitelinks": {
+   "viwiki": "Constantinus Đại đế",
+   "enwiki": "Constantine the Great"
+  },
+  "fetched": 1793436018
+ },
+ "wd:Q844536": {
+  "id": "Q844536",
+  "labels": {
+   "en": "Chandragupta II",
+   "vi": "Chandragupta II"
+  },
+  "aliases": {
+   "vi": [
+    "Chandra Gupta II",
+    "Chandragupta Vikramaditya"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 400,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 500,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P18": "ChandraguptaIIOnHorse.jpg",
+  "sitelinks": {
+   "viwiki": "Chandragupta II",
+   "enwiki": "Chandragupta II"
+  },
+  "fetched": 1793436018
+ },
+ "wd:Q8778": {
+  "id": "Q8778",
+  "labels": {
+   "en": "Galen",
+   "vi": "Galen"
+  },
+  "aliases": {
+   "en": [
+    "Galen of Pergamon",
+    "Aelius Galenus",
+    "Claudius Galenus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 129,
+    "precision": 10,
+    "rank": "preferred"
+   },
+   {
+    "year": 200,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 300,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Galenus.jpg",
+  "sitelinks": {
+   "viwiki": "Galenus",
+   "enwiki": "Galen"
+  },
+  "fetched": 1793436018
+ },
+ "wd:Q9200": {
+  "id": "Q9200",
+  "labels": {
+   "en": "Paul the Apostle",
+   "vi": "Sứ đồ Phaolô"
+  },
+  "aliases": {
+   "en": [
+    "Paulus of Tarsus",
+    "Šā'ûl",
+    "St. Paul",
+    "Paulos",
+    "Apostle Paul",
+    "The Apostle Paul",
+    "Paul of Tarsus",
+    "Saul",
+    "Paulus the Apostle",
+    "Saul of Tarsus",
+    "Saint Paul",
+    "Paulus Tarsensis",
+    "Saulus Tarsensis",
+    "St Paul",
+    "Sha'ûl",
+    "Paulus",
+    "Saulus",
+    "Saint Paul the Apostle",
+    "Paul",
+    "Saint Paulus"
+   ],
+   "vi": [
+    "Phaolô xứ Tarsus",
+    "Thánh Sao-lộc",
+    "Thánh Phaolô Tông đồ",
+    "Paulus",
+    "Saolô",
+    "Thánh Bảo-lộc",
+    "Thánh Phaolồ"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 5,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 66,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 64,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 65,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Giovanni Francesco Barbieri - Saint Paul.jpg",
+  "sitelinks": {
+   "viwiki": "Sứ đồ Phaolô",
+   "enwiki": "Paul the Apostle"
+  },
+  "fetched": 1793436018
+ },
+ "wd:Q178885": {
+  "id": "Q178885",
+  "labels": {
+   "vi": "thần",
+   "en": "deity"
+  },
+  "aliases": {
+   "en": [
+    "god",
+    "goddess",
+    "God",
+    "deities"
+   ]
+  },
+  "P31": [],
+  "P279": [
+   "Q4271324",
+   "Q28855038"
+  ],
+  "P569": [],
+  "P570": [],
+  "P18": "Maler der Grabkammer der Nefertari 001.jpg",
+  "sitelinks": {
+   "viwiki": "Thần",
+   "enwiki": "Deity"
+  },
+  "fetched": 1793436019
+ },
+ "wd:Q18563360": {
+  "id": "Q18563360",
+  "labels": {
+   "en": "Quranic figure"
+  },
+  "aliases": {
+   "en": [
+    "figure in the Quran",
+    "character in the Quran",
+    "Quranic character",
+    "Qur’anic figure",
+    "Qur’anic character"
+   ]
+  },
+  "P31": [],
+  "P279": [
+   "Q18563354"
+  ],
+  "P569": [],
+  "P570": [],
+  "P18": null,
+  "sitelinks": {},
+  "fetched": 1793436019
+ },
+ "wd:Q4271324": {
+  "id": "Q4271324",
+  "labels": {
+   "en": "mythical character",
+   "vi": "nhân vật huyền thoại"
+  },
+  "aliases": {
+   "en": [
+    "mythical figure",
+    "mythological character",
+    "mythological figure"
+   ],
+   "vi": [
+    "nhân vật huyền sử"
+   ]
+  },
+  "P31": [
+   "Q112265308"
+  ],
+  "P279": [
+   "Q24334685",
+   "Q115537581",
+   "Q21070598",
+   "Q95074"
+  ],
+  "P569": [],
+  "P570": [],
+  "P18": null,
+  "sitelinks": {},
+  "fetched": 1793436019
+ },
+ "wd:Q51625": {
+  "id": "Q51625",
+  "labels": {
+   "en": "Salvator Mundi"
+  },
+  "aliases": {
+   "en": [
+    "Holy Savior",
+    "Christ the Saviour",
+    "Our Saviour",
+    "Saint Saviour",
+    "Saint Salvator",
+    "San Salvador",
+    "the Saviour",
+    "Saviour",
+    "savior"
+   ]
+  },
+  "P31": [
+   "Q1406161",
+   "Q2634521",
+   "Q106355253",
+   "Q21040055",
+   "Q178885",
+   "Q23847174"
+  ],
+  "P279": [
+   "Q51626",
+   "Q12057431"
+  ],
+  "P569": [],
+  "P570": [],
+  "P18": "Leonardo da Vinci, Salvator Mundi, c.1500, oil on walnut, 45.4 × 65.6 cm.jpg",
+  "sitelinks": {
+   "enwiki": "Salvator Mundi"
+  },
+  "fetched": 1793436019
+ },
+ "wd:Q825": {
+  "id": "Q825",
+  "labels": {
+   "en": "God in Christianity"
+  },
+  "aliases": {
+   "en": [
+    "Christian God",
+    "God",
+    "Jehovah",
+    "Godhead",
+    "God the Father",
+    "Trinity",
+    "God of the Christians",
+    "Yahuwah",
+    "Yahawah",
+    "God (Christianity)",
+    "Yahweh",
+    "Creator, Almighty, Alpha and Omega",
+    "God in Catholicism"
+   ]
+  },
+  "P31": [
+   "Q5576009",
+   "Q34394",
+   "Q30149195",
+   "Q595523",
+   "Q82799",
+   "Q190"
+  ],
+  "P279": [
+   "Q190"
+  ],
+  "P569": [],
+  "P570": [],
+  "P18": "By Dore, Gustave; La Sainte Trinite.jpg",
+  "sitelinks": {
+   "enwiki": "God in Christianity"
+  },
+  "fetched": 1793436019
  }
 }

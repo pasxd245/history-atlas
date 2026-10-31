@@ -419,6 +419,161 @@
    ]
   },
   {
+   "no": 4,
+   "title": "Đế chế cổ điển, tôn giáo lan tỏa",
+   "label": "TK 1–5",
+   "files": [
+    "ch04.md"
+   ],
+   "intro": "Năm thế kỷ đầu Công nguyên là lúc các đế chế đã dựng xong bộ khung hành chính quay sang vấn đề khác: cái gì giữ một xã hội lại với nhau khi nó quá lớn để cai trị bằng thân tộc. Câu trả lời xuất hiện gần như đồng thời ở nhiều nơi dưới dạng tôn giáo có giáo lý thành văn và tăng đoàn xuyên biên giới — Kitô giáo, Phật giáo Đại thừa, Manichaeism, Đạo giáo có tổ chức. Cùng lúc, Ptolemy, Galen và Trương Trọng Cảnh để lại những tổng hợp mà hơn một nghìn năm sau vẫn chưa ai vượt.",
+   "editorial": [
+    "**Cách chapter này được soạn**",
+    "Phần văn xuôi của chapter do mô hình AI (Claude) viết theo prompt cố định tại `prompts/atlas-prompt.md`, không qua bình duyệt chuyên môn. Tên, niên đại và định danh được đối chiếu tự động với Wikidata; phần diễn giải, đánh giá ảnh hưởng và lựa chọn nhân vật là tổng hợp của model theo bốn tiêu chí (a)–(d), không phải kết luận của giới nghiên cứu. Mục Nguồn là điểm khởi đầu để tự kiểm tra, chưa được đối chiếu từng câu. Xem mục \"Về dự án\" ở trang Overview để biết giới hạn đầy đủ.",
+    "**Vì sao chapter này nặng về tôn giáo, và chuyện đó có làm lệch không**",
+    "Mười bảy trên năm mươi tám mục lấy Tôn giáo/Tâm linh làm một trong hai lĩnh vực — tỉ lệ cao nhất của atlas tới nay. Đây không phải lựa chọn của người soạn mà là đặc điểm của giai đoạn: đúng năm thế kỷ này là lúc các tôn giáo có kinh điển thành văn, có tăng đoàn và có quy điển hình thành hoặc được thiết chế hoá ở cả bốn vùng — Kitô giáo ở Địa Trung Hải, Phật giáo Đại thừa từ Kushan sang Đông Á, Manichaeism ở Lưỡng Hà, Hoả giáo thành quốc giáo Sasan, Theravāda được hệ thống hoá ở Sri Lanka. Người đọc nên biết là tỉ lệ ấy có thể đọc ngược lại: nếu tiêu chí (b) độ bền được ưu tiên thì các tôn giáo còn sống tới nay tất nhiên chiếm ưu thế, và đó là một thiên lệch có sẵn trong bộ tiêu chí chứ không riêng của chapter này.",
+    "**Một mục bị gỡ liên kết vì lint bắt nghịch niên đại**",
+    "Bản thảo đầu cho Phạm Diệp (CH04-CE05-10) \"ảnh hưởng tới\" Hai Bà Trưng ở phụ lục. Vòng kiểm nghịch niên đại — thêm vào `atlaslib/lint.py` sau đợt bình duyệt Chapter 3 — báo rằng ông sinh năm 398, tức ba trăm năm mươi lăm năm sau khi bà mất. Quan hệ thật là ông **viết về** bà, không phải tác động lên bà; đây đúng loại lỗi đã mắc ở Chapter 3 với cặp Hannibal và Polybius. Tương tự, liên kết Hán Quang Vũ Đế \"phản bác\" Hai Bà Trưng cũng bị gỡ: đàn áp quân sự không phải quan hệ tư tưởng, cùng lý do đã gỡ cặp Hán Vũ Đế và Triệu Đà ở Chapter 3. Cả hai sự kiện vẫn được nêu trong phần văn xuôi của mục tương ứng.",
+    "**Ứng viên Việt Nam đã được cân nhắc và kết quả**",
+    "Giai đoạn 1–500 CN ở Việt Nam là thời Bắc thuộc lần thứ nhất và thứ hai. Ba nhân vật định danh được là **Hai Bà Trưng** (khởi nghĩa 40–43), **Bà Triệu** (248) và **Sĩ Nhiếp** (137–226). Cả ba **không vào atlas chính** vì theo hệ quy chiếu toàn cầu, ảnh hưởng của họ nằm trong phạm vi khu vực; cả ba đã có mục riêng ở phụ lục (`CH90-CE01_09-01`, `-02`, `-03`). Liên hệ giữa hai tầng ở chapter này nằm trong phần văn xuôi chứ không ở dòng liên kết, vì lý do nêu ở khối trên. Vương quốc Lâm Ấp lập năm 192 ở miền trung Việt Nam ngày nay cũng thuộc giai đoạn này nhưng không có nhân vật nào định danh được bằng nguồn đương thời.",
+    "**Ứng viên mạnh đã bị loại và lý do**",
+    "- Hieronymus, Ambrosiô, Basiliô, Cyrillô thành Alexandria, Arius, Marcion, Justin Tử đạo, Clement thành Alexandria, Hippolytus, Cyprianô: các mục Kitô giáo của chapter đã kín và mỗi người đều được nêu đích danh trong mục tương ứng. Hieronymus là ca sát nút nhất — bản Vulgata của ông là văn bản Kinh Thánh chuẩn của phương Tây suốt nghìn năm, nên nếu trần nhóm CE05 được nới thì ông là người đầu tiên nên xét.",
+    "- Epictetus, Musonius Rufus, Libanius, Themistius, Iamblichus, Damascius, Syrianus: xếp sau ở độ bền hoặc không để lại văn bản đủ.",
+    "- Hoa Đà, Mã Quân, Hoàng Phủ Mật, Tào Tháo, Tư Mã Ý, Hà Yến, Quách Tượng, Đạo An, Tông Bính, Tạ Hách, Vương Hiến Chi, Trần Thọ: đều xứng đáng xét tới, nêu đích danh trong mục tương ứng, nhưng xếp sau ở ít nhất một tiêu chí.",
+    "- Samudragupta, Kālidāsa, Āryadeva, Dhammapāla, Varāhamihira, Gautamiputra Satakarni, Huvishka: Kālidāsa là ca đáng tiếc nhất — thơ và kịch Sanskrit của ông là đỉnh của truyền thống ấy — nhưng niên đại của ông trải từ thế kỷ 4 tới thế kỷ 5 mà không mốc nào chắc, và cả hai nhóm tương ứng đều đã kín.",
+    "- Theon xứ Alexandria, Menelaus, Soranus, Aretaeus, Celsus, Crateuas, Bardaisan, Kartir, Odaenathus, Zenobia, Aetius, Geiseric, Pulcheria, Thái hậu Phùng thị: nêu trong mục tương ứng hoặc xếp sau ở phạm vi.",
+    "**Điểm cần kiểm chứng thêm**",
+    "- **Niên đại trị vì của Kanishka (CH04-CE02-03)** là một trong các tranh luận dai dẳng nhất của sử học Nam Á, với đề xuất trải từ 78 tới 144 CN. Mục này dùng khoảng 127–150 theo Falk; nếu lấy mốc 78 thì ông thuộc nhóm CE01.",
+    "- **Niên đại của Nāgārjuna, Asaṅga và Vasubandhu** đều chỉ định được ở mức thế kỷ, và với Vasubandhu còn có giả thuyết Frauwallner rằng đó là hai người khác nhau. Ba mục này đều để độ tin cậy Thấp và lint bỏ qua đối chiếu Wikidata.",
+    "- **Mục Giê-su (CH04-CE01-01)** phân biệt hai tầng: phần được hầu hết sử gia chấp nhận — việc ông chịu phép rửa và bị đóng đinh dưới quyền Pontius Pilatus — và phần nội dung lời giảng, vốn đến qua các sách Phúc Âm soạn bốn tới bảy thập niên sau. Mục không khẳng định điều gì về tuyên bố phục sinh, chỉ ghi rằng môn đệ đã tuyên bố như vậy và hệ quả lịch sử của việc đó. Người đọc theo hoặc không theo tôn giáo này đều nên biết ranh giới ấy được đặt có chủ ý.",
+    "- **Wikidata xếp Giê-su (Q302) vào lớp Q178885 \"thần linh\"** bên cạnh lớp \"nhân vật Kinh Thánh là người\". Lint không cảnh báo vì lớp thứ hai dẫn về Q5, nhưng đây là một ca cho thấy phân loại Wikidata mang theo phán đoán thần học, không chỉ phán đoán lịch sử.",
+    "- **Ba mục có nguồn chỉ còn qua bản dịch hoặc bản mô**: trước tác Origen phần lớn chỉ còn qua bản Latinh của Rufinus, người đã sửa những chỗ bị coi là lạc giáo; không nét bút gốc nào của Vương Hi Chi còn lại; tranh Cố Khải Chi chỉ còn bản mô đời Đường. Các câu trong chapter về ba người này đều đi qua một tầng trung gian.",
+    "- **Tổng số mục là 58 nhưng phân bố không đều**: CE01 và CE04, CE05 đủ 12, còn CE02 và CE03 chỉ 11. Hai nhóm ấy còn chỗ trống chứ không phải đã kín.",
+    "- **Chỉ ba trên năm mươi tám mục là phụ nữ** (Ban Chiêu, Hypatia, và không ai khác — Thái hậu Phùng thị cùng Pulcheria chỉ có trong danh sách bị loại). Cần kiểm lại ở P4.",
+    "**Nhân vật có thể thuộc thế kỷ khác**",
+    "- Galen (CH04-CE02-06): 129–216 CN, phần cuối đời nằm ở thế kỷ 3. Xếp ở CE02 vì phần lớn trước tác hoàn thành trước năm 200.",
+    "- Tertullianô (CH04-CE02-10) và Nāgārjuna (CH04-CE02-08): cả hai sống sang thế kỷ 3. Xếp ở CE02 theo giai đoạn hoạt động chính.",
+    "- Diocletianus (CH04-CE03-07): trị vì 284–305, mất 311. Xếp ở CE03 vì toàn bộ chương trình cải cách nằm trong thế kỷ 3 và đầu thế kỷ 4.",
+    "- Augustinô (CH04-CE05-01): sinh 354, tức phần lớn tuổi trẻ ở thế kỷ 4. Xếp ở CE05 vì Tự thuật và Thành đô Thiên Chúa đều viết sau năm 397.",
+    "- Āryabhaṭa (CH04-CE05-09): sinh 476 và mất khoảng 550, tức phần lớn đời ở thế kỷ 6. Xếp ở CE05 vì Āryabhaṭīya hoàn thành năm 499 — nếu Chapter 5 cần, mục này có thể chuyển.",
+    "- Cưu-ma-la-thập (CH04-CE05-07): sinh 344, nhưng toàn bộ công việc dịch thuật ở Trường An diễn ra từ năm 401 tới khi ông mất năm 413."
+   ],
+   "groups": [
+    {
+     "id": "CE01",
+     "label": "TK 1",
+     "range": [
+      1,
+      100
+     ],
+     "context": "Đế chế La Mã ổn định dưới chế độ nguyên thủ; nhà Hán bị Vương Mãng cắt ngang rồi phục hồi và dời đô về Lạc Dương. Ở Judea, một phong trào trong lòng Do Thái giáo tách ra và bắt đầu truyền sang người ngoại. Giấy, thiên văn và y dược được ghi chép thành sách ở cả hai đầu Á–Âu.",
+     "persons": [
+      "CH04-CE01-01",
+      "CH04-CE01-02",
+      "CH04-CE01-03",
+      "CH04-CE01-04",
+      "CH04-CE01-05",
+      "CH04-CE01-06",
+      "CH04-CE01-07",
+      "CH04-CE01-08",
+      "CH04-CE01-09",
+      "CH04-CE01-10",
+      "CH04-CE01-11",
+      "CH04-CE01-12"
+     ]
+    },
+    {
+     "id": "CE02",
+     "label": "TK 2",
+     "range": [
+      101,
+      200
+     ],
+     "context": "Đế chế La Mã đạt cực điểm rồi gặp dịch Antonine. Đế chế Kushan nối Trung Á với Ấn Độ và bảo trợ Phật giáo Đại thừa đang hình thành. Nhà Đông Hán có giấy, địa động nghi và y thư. Ở Alexandria và Pergamon, thiên văn và y học được tổng hợp thành hệ thống đứng hơn một nghìn năm.",
+     "persons": [
+      "CH04-CE02-01",
+      "CH04-CE02-02",
+      "CH04-CE02-03",
+      "CH04-CE02-04",
+      "CH04-CE02-05",
+      "CH04-CE02-06",
+      "CH04-CE02-07",
+      "CH04-CE02-08",
+      "CH04-CE02-09",
+      "CH04-CE02-10",
+      "CH04-CE02-11"
+     ]
+    },
+    {
+     "id": "CE03",
+     "label": "TK 3",
+     "range": [
+      201,
+      300
+     ],
+     "context": "Đế chế La Mã trải qua khủng hoảng nửa thế kỷ rồi được Diocletianus tổ chức lại. Nhà Sasan thay Parthia và gắn vương quyền với Hoả giáo có tăng lữ. Trung Hoa chia ba. Ở Alexandria, Rome và Lưỡng Hà, các hệ thống tư tưởng mới hình thành quanh câu hỏi cái gì là nền của thực tại.",
+     "persons": [
+      "CH04-CE03-01",
+      "CH04-CE03-02",
+      "CH04-CE03-03",
+      "CH04-CE03-04",
+      "CH04-CE03-05",
+      "CH04-CE03-06",
+      "CH04-CE03-07",
+      "CH04-CE03-08",
+      "CH04-CE03-09",
+      "CH04-CE03-10",
+      "CH04-CE03-11"
+     ]
+    },
+    {
+     "id": "CE04",
+     "label": "TK 4",
+     "range": [
+      301,
+      400
+     ],
+     "context": "Kitô giáo đi từ bị bách hại tới được bảo trợ rồi thành quốc giáo La Mã, và lần đầu hoàng đế can dự vào việc định tín lý. Đế chế Gupta mở thời thịnh ở Nam Á. Trung Hoa chia nam bắc, thư pháp và hội hoạ thành nghệ thuật có lý luận. Phật giáo Duy thức hình thành.",
+     "persons": [
+      "CH04-CE04-01",
+      "CH04-CE04-02",
+      "CH04-CE04-03",
+      "CH04-CE04-04",
+      "CH04-CE04-05",
+      "CH04-CE04-06",
+      "CH04-CE04-07",
+      "CH04-CE04-08",
+      "CH04-CE04-09",
+      "CH04-CE04-10",
+      "CH04-CE04-11",
+      "CH04-CE04-12"
+     ]
+    },
+    {
+     "id": "CE05",
+     "label": "TK 5",
+     "range": [
+      401,
+      500
+     ],
+     "context": "Nửa tây đế chế La Mã tan thành các vương quốc German trong khi nửa đông ổn định quanh Constantinopolis và pháp điển hoá luật. Phật giáo được dịch sang tiếng Hán ở quy mô nhà nước và được hệ thống hoá bằng tiếng Pali ở Sri Lanka. Bắc Nguỵ áp mô hình quân điền lên Hoa Bắc.",
+     "persons": [
+      "CH04-CE05-01",
+      "CH04-CE05-02",
+      "CH04-CE05-03",
+      "CH04-CE05-04",
+      "CH04-CE05-05",
+      "CH04-CE05-06",
+      "CH04-CE05-07",
+      "CH04-CE05-08",
+      "CH04-CE05-09",
+      "CH04-CE05-10",
+      "CH04-CE05-11",
+      "CH04-CE05-12"
+     ]
+    }
+   ]
+  },
+  {
    "no": 90,
    "title": "Phụ lục · Việt Nam qua các thời kỳ",
    "label": "TK 3 TCN – TK 20",
@@ -9835,6 +9990,3370 @@
     "width": 500,
     "how": "thumbnail 500px"
    }
+  },
+  "CH04-CE01-01": {
+   "id": "CH04-CE01-01",
+   "name_vi": "Giê-su thành Nazareth",
+   "name_orig": "Ἰησοῦς Iēsoûs, Yēšûaʿ",
+   "labels": [],
+   "years_raw": "k. 4 TCN – 30 CN",
+   "born": -4,
+   "died": 30,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Galilee và Jerusalem, tỉnh Judea",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q302",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Ông giảng lưu động ở Galilee về một vương quốc của Thiên Chúa đang đến, dùng dụ ngôn làm hình thức chính, và đặt lòng thương xót lên trên việc giữ nghi thức khi hai điều xung đột. Các câu như yêu kẻ thù hay quy toàn bộ lề luật về hai điều răn là chỗ phong trào này rẽ khỏi các nhóm Do Thái đương thời. Ông bị đóng đinh ở Jerusalem dưới quyền tổng trấn Pontius Pilatus. Sự kiện ấy, cùng với việc môn đệ tuyên bố ông sống lại, là điểm khởi của một tôn giáo nay có hơn hai tỉ tín đồ.",
+   "why": "Ứng viên cùng thời cùng vùng là Gioan Tẩy Giả, người Josephus chép độc lập, và Hillel Trưởng lão, đã chọn ở Chapter 3. Giê-su được chọn theo phạm vi (a) và độ bền (b). Phần cốt lõi — việc ông chịu phép rửa và bị đóng đinh — được hầu hết sử gia chấp nhận; nội dung lời giảng thì đến qua các sách Phúc Âm soạn bốn tới bảy thập niên sau, nên niên đại để Trung bình.",
+   "sources": "Tacitus, Biên niên sử, q. XV, 44; E. P. Sanders, The Historical Figure of Jesus (1993).",
+   "inherits": [
+    {
+     "target": "Gioan Tẩy Giả",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Gioan Tẩy Giả · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE01-07",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE01-07 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE01-02",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE01-02 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Kitô giáo và toàn bộ lịch sử tư tưởng phương Tây",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Kitô giáo và toàn bộ lịch sử tư tưởng phương Tây · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Hồi giáo, nơi ông là một vị ngôn sứ",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hồi giáo, nơi ông là một vị ngôn sứ · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE01",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE01-02": {
+   "id": "CH04-CE01-02",
+   "name_vi": "Phaolô thành Tarsus",
+   "name_orig": "Παῦλος Paûlos, Saul",
+   "labels": [],
+   "years_raw": "k. 5–66 CN",
+   "born": 5,
+   "died": 66,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Tarsus, Antioch, Tiểu Á, Hy Lạp và Rome",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Tôn giáo/Tâm linh",
+    "Triết học"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q9200",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Bảy lá thư được giới nghiên cứu nhận là của chính ông là văn bản Kitô giáo sớm nhất còn lại, viết trước các sách Phúc Âm. Quyết định có hệ quả lớn nhất là lập trường ông bảo vệ ở Antioch và trong thư Galat: người ngoại gia nhập không phải chịu cắt bì và giữ luật Moses. Chính điều đó biến một phong trào trong lòng Do Thái giáo thành một tôn giáo có thể nhận bất kỳ ai. Thư Rôma, với lập luận về ân sủng và đức tin, là văn bản mà Augustinô rồi Luther đều đọc lại để tự định vị.",
+   "why": "Ứng viên cùng thế hệ là Phêrô, người lãnh đạo nhóm ở Jerusalem, và Giacôbê, người chủ trương giữ luật. Phaolô được chọn theo counterfactual (d): nếu lập trường của Giacôbê thắng ở công nghị Jerusalem, phong trào nhiều khả năng ở lại trong Do Thái giáo như một phái. Chính quyết định bỏ yêu cầu cắt bì mới mở cửa cho phạm vi về sau.",
+   "sources": "Thư Galat và thư Rôma; E. P. Sanders, Paul: The Apostle's Life, Letters, and Thought (2015).",
+   "inherits": [
+    {
+     "target": "CH04-CE01-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE01-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE05-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Thần học Kitô giáo và Cải cách Tin Lành",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Thần học Kitô giáo và Cải cách Tin Lành · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE01",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE01-03": {
+   "id": "CH04-CE01-03",
+   "name_vi": "Vương Mãng",
+   "name_orig": "王莽 Wáng Mǎng",
+   "labels": [],
+   "years_raw": "45 TCN – 23 CN",
+   "born": -45,
+   "died": 23,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Trường An, nhà Tân, Trung Quốc",
+   "region": "Đông Á",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Kinh tế"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q7250",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Năm 9 CN ông phế nhà Hán và lập nhà Tân, viện dẫn thiên mệnh và các điềm lành — lần đầu học thuyết thiên mệnh được dùng để chính đáng hoá một cuộc soán ngôi không qua chiến tranh. Chương trình cải cách của ông lấy kinh điển làm căn cứ: quốc hữu hoá ruộng đất gọi là vương điền, cấm mua bán nô tì, mở rộng độc quyền nhà nước, đổi tiền nhiều lần. Phần lớn thất bại nhanh, lạm phát và nạn đói dẫn tới khởi nghĩa Xích Mi, và ông bị giết năm 23 CN.",
+   "why": "Ứng viên cùng giai đoạn là Hán Quang Vũ Đế, người lật ông và được chọn riêng ở mục sau, và Lưu Hâm, học giả đã cung cấp nền kinh học cho ông. Vương Mãng được chọn theo counterfactual (d): ông là phép thử duy nhất trong lịch sử Trung Hoa cho câu hỏi liệu có thể cải tạo xã hội theo mô hình kinh điển bằng sắc lệnh, và thất bại của ông định hình thái độ dè dặt của Nho gia đời sau với cải cách triệt để.",
+   "sources": "Hán thư, Vương Mãng truyện; Hans Bielenstein trong The Cambridge History of China, t. 1 (1986).",
+   "inherits": [
+    {
+     "target": "CH03-BCE02-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE02-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE01-10",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH03-BCE01-10 · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE01-04",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE01-04 · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Thái độ của Nho gia đời sau với cải cách triệt để",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "Thái độ của Nho gia đời sau với cải cách triệt để · phản bác · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE01",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE01-04": {
+   "id": "CH04-CE01-04",
+   "name_vi": "Hán Quang Vũ Đế",
+   "name_orig": "漢光武帝, Lưu Tú",
+   "labels": [],
+   "years_raw": "5 TCN – 57 CN",
+   "born": -5,
+   "died": 57,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Lạc Dương, nhà Đông Hán, Trung Quốc",
+   "region": "Đông Á",
+   "fields": [
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q7268",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Ông dẹp các lực lượng cát cứ sau loạn Vương Mãng, khôi phục nhà Hán năm 25 CN và dời đô về Lạc Dương. Điều đáng kể không phải việc giành lại ngôi mà việc dựng ra khuôn phục hưng: ông giữ nguyên quốc hiệu, nối phả hệ về hoàng tộc cũ, giảm thuế và giải phóng nô tì để lấy lại tính chính đáng. Mô hình trung hưng ấy — một triều đại sụp rồi được khôi phục dưới cùng tên gọi — thành tiền lệ mà sử học Đông Á dùng để đọc mọi giai đoạn gián đoạn về sau.",
+   "why": "Ứng viên cùng thời là Công Tôn Thuật và Ngỗi Hiêu, hai thủ lĩnh cát cứ ông đánh bại. Quang Vũ Đế được chọn theo độ bền (b) và counterfactual (d): Đông Hán tồn tại gần hai thế kỷ sau ông, và chính khái niệm trung hưng mà ông tạo ra là thứ các triều đại sau viện tới. Dưới triều ông, năm 43 CN, nhà Hán cũng dập cuộc khởi nghĩa Hai Bà Trưng ở Giao Chỉ.",
+   "sources": "Hậu Hán thư, Quang Vũ đế kỷ; Hans Bielenstein, The Restoration of the Han Dynasty (1953–1979).",
+   "inherits": [
+    {
+     "target": "CH04-CE01-03",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE01-03 · phản bác · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Khuôn trung hưng trong sử học Đông Á",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Khuôn trung hưng trong sử học Đông Á · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE01",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE01-05": {
+   "id": "CH04-CE01-05",
+   "name_vi": "Seneca",
+   "name_orig": "Lucius Annaeus Seneca",
+   "labels": [],
+   "years_raw": "k. 4 TCN – 65 CN",
+   "born": -4,
+   "died": 65,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Corduba, Hispania, và Rome",
+   "region": "Châu Âu",
+   "fields": [
+    "Triết học",
+    "Văn học"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q2054",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Ông đưa triết học Khắc kỷ ra khỏi lớp học, viết dưới dạng thư và tiểu luận gửi một người cụ thể về những việc cụ thể: giận dữ, mất mát, thời gian bị tiêu phí, cái chết sắp tới. Thể văn ấy — triết học như lời khuyên có địa chỉ — là đóng góp riêng của ông và là lý do ông được đọc liên tục trong khi phần lớn Khắc kỷ Hy Lạp thất truyền. Ông làm thầy rồi cố vấn cho Nero, tích luỹ tài sản lớn, và cuối cùng bị chính Nero buộc tự sát năm 65 CN.",
+   "why": "Ứng viên cùng truyền thống là Musonius Rufus, thầy của Epictetus và cũng sống cùng thời, và Epictetus ở thế hệ sau. Seneca được chọn theo độ bền (b): văn bản của ông còn gần trọn trong khi của Musonius chỉ còn mảnh, và văn xuôi Latinh của ông là kênh đưa Khắc kỷ vào châu Âu cận đại qua Montaigne và Lipsius. Khoảng cách giữa lời khuyên và đời sống của chính ông là điểm bị phê phán từ thời cổ.",
+   "sources": "Seneca, Thư gửi Lucilius; Emily Wilson, The Greatest Empire: A Life of Seneca (2014).",
+   "inherits": [
+    {
+     "target": "CH03-BCE03-07",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE03-07 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE01-12",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE01-12 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE02-07",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE02-07 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Montaigne, Lipsius và chủ nghĩa tân Khắc kỷ",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Montaigne, Lipsius và chủ nghĩa tân Khắc kỷ · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE01",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE01-06": {
+   "id": "CH04-CE01-06",
+   "name_vi": "Philo xứ Alexandria",
+   "name_orig": "Φίλων Phílōn",
+   "labels": [],
+   "years_raw": "k. 15 TCN – 50 CN",
+   "born": -15,
+   "died": 50,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Alexandria, Ai Cập",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Triết học",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q189597",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Ông đọc Ngũ thư bằng phương pháp ngụ ý, coi trình thuật là lớp vỏ của chân lý triết học, và dùng khái niệm Hy Lạp để diễn giải: Thiên Chúa siêu việt tuyệt đối, còn Logos là trung gian giữa ngài và thế giới. Đây là nỗ lực có hệ thống sớm nhất còn lại nhằm hoà một truyền thống mặc khải với triết học Hy Lạp. Nghịch lý là ảnh hưởng của ông đi về phía Kitô giáo — Clement, Origen và cả truyền thống chú giải Latinh đều dùng phương pháp của ông — trong khi Do Thái giáo rabbi gần như không giữ ông.",
+   "why": "Ứng viên cùng vùng cùng thời là Aristobulus xứ Paneas trước ông, người cũng đọc ngụ ý nhưng chỉ còn mảnh vụn, và Josephus, chọn riêng ở mục sau. Philo được chọn theo tính nguyên bản (c) và counterfactual (d): bộ phương pháp của ông là cái Origen và Augustinô tiếp quản, nên toàn bộ lối chú giải ngụ ý của Kitô giáo đi qua ông.",
+   "sources": "Philo, De Opificio Mundi và Legum Allegoriae; Maren Niehoff, Philo of Alexandria: An Intellectual Biography (2018).",
+   "inherits": [
+    {
+     "target": "CH03-BCE04-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE04-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE03-07",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE03-07 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE03-02",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE03-02 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống chú giải ngụ ý trong Kitô giáo",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống chú giải ngụ ý trong Kitô giáo · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE01",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE01-07": {
+   "id": "CH04-CE01-07",
+   "name_vi": "Pliny Cả",
+   "name_orig": "Gaius Plinius Secundus",
+   "labels": [],
+   "years_raw": "23–79 CN",
+   "born": 23,
+   "died": 79,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Como, Rome và vịnh Napoli, Italia",
+   "region": "Châu Âu",
+   "fields": [
+    "Khoa học tự nhiên",
+    "Văn học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q82778",
+   "big_questions": [
+    "Vũ trụ"
+   ],
+   "ideas": "Bộ Naturalis Historia ba mươi bảy quyển gom thiên văn, địa lý, nhân chủng, động thực vật, dược liệu, khoáng vật và nghệ thuật vào một công trình duy nhất, và mở đầu bằng một mục lục kèm danh sách tác giả mà ông đã đọc cho từng quyển. Chính việc ghi nguồn ấy khiến tác phẩm thành kho lưu giữ hàng trăm công trình nay đã mất. Ông chết năm 79 CN khi đưa thuyền tới gần Vesuvius đang phun, theo lời cháu ông kể lại — vừa để cứu người vừa để quan sát.",
+   "why": "Ứng viên cùng loại là Celsus, tác giả bộ bách khoa trước đó mà nay chỉ còn phần y học, và Dioscorides, chọn riêng ở mục sau. Pliny được chọn theo độ bền (b) và phạm vi (a): bộ của ông còn nguyên vẹn và là sách tham khảo chuẩn của châu Âu suốt trung cổ tới Phục hưng, với hơn hai trăm bản chép tay còn lại. Mức chính xác thì không đều, và chính ông cũng không phân biệt quan sát với lời đồn.",
+   "sources": "Pliny Cả, Naturalis Historia; Trevor Murphy, Pliny the Elder's Natural History: The Empire in the Encyclopedia (2004).",
+   "inherits": [
+    {
+     "target": "CH03-BCE01-11",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE01-11 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE04-02",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE04-02 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Bách khoa thư châu Âu trung cổ",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Bách khoa thư châu Âu trung cổ · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE01",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE01-08": {
+   "id": "CH04-CE01-08",
+   "name_vi": "Dioscorides",
+   "name_orig": "Πεδάνιος Διοσκουρίδης",
+   "labels": [],
+   "years_raw": "k. 40–90 CN",
+   "born": 40,
+   "died": 90,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Anazarbus xứ Cilicia, đi theo quân đội La Mã",
+   "region": "Châu Âu",
+   "fields": [
+    "Y học"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q297776",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Bộ De materia medica năm quyển mô tả khoảng sáu trăm loài thực vật cùng gần một nghìn vị thuốc, mỗi mục ghi hình thái, nơi mọc, cách bào chế, công dụng và liều. Điểm khiến nó khác các sách dược trước là ông sắp xếp theo tác dụng dược lý chứ không theo thứ tự chữ cái, và nói rõ mình đã tự đi xem cây ở nơi mọc. Tác phẩm được dịch sang Latinh, Arab và nhiều thứ tiếng khác, và giữ vị trí sách dược chuẩn ở cả ba nền văn minh suốt hơn một nghìn năm.",
+   "why": "Ứng viên cùng thời là Pliny Cả, chọn ở mục trước, và Crateuas ở thế kỷ 1 TCN, người vẽ cây thuốc nhưng chỉ còn mảnh. Dioscorides được chọn theo độ bền (b): bản chép Vienna Dioscurides năm 512 là một trong các bản thảo khoa học cổ nhất còn nguyên, và việc tác phẩm được dùng liên tục tới thế kỷ 17 là mức bền không sách dược nào khác đạt.",
+   "sources": "Dioscorides, De materia medica, bản dịch Lily Y. Beck (2005); Vienna Dioscurides, Thư viện Quốc gia Áo, Med. Gr. 1.",
+   "inherits": [
+    {
+     "target": "CH02-BCE05-04",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE05-04 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE02-06",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE02-06 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Dược học Hồi giáo và châu Âu trung cổ",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Dược học Hồi giáo và châu Âu trung cổ · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE01",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE01-09": {
+   "id": "CH04-CE01-09",
+   "name_vi": "Josephus",
+   "name_orig": "Φλάβιος Ἰώσηπος, Yosef ben Matityahu",
+   "labels": [],
+   "years_raw": "37–100 CN",
+   "born": 37,
+   "died": 100,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Jerusalem, Galilee và Rome",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Sử học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q134461",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Là chỉ huy quân nổi dậy Do Thái ở Galilee rồi đầu hàng và sang phía La Mã, ông viết Chiến tranh Do Thái và Cổ sử Do Thái — hai bộ còn lại gần trọn và là nguồn chính cho hầu hết những gì biết được về Judea thế kỷ 1. Vị trí đứng giữa khiến ông vừa phải biện hộ cho dân mình trước độc giả La Mã vừa phải giải thích việc mình đổi phe. Chính sự lấp lửng ấy làm tư liệu của ông vừa quý giá vừa phải đọc có bảo lưu.",
+   "why": "Ứng viên cùng thời là Philo, chọn ở mục trước và viết về cùng cộng đồng, và Justus xứ Tiberias, đối thủ ông bút chiến mà tác phẩm đã mất. Josephus được chọn theo phạm vi (a) của tư liệu: không có ông thì cuộc chiến 66–73 CN, việc Đền thờ bị phá và bối cảnh xã hội của Judea thế kỷ 1 gần như không dựng lại được.",
+   "sources": "Josephus, Chiến tranh Do Thái và Cổ sử Do Thái; Steve Mason, Josephus and the New Testament (2003).",
+   "inherits": [
+    {
+     "target": "CH03-BCE02-04",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE02-04 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Hiểu biết hiện đại về Judea thế kỷ 1",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Hiểu biết hiện đại về Judea thế kỷ 1 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE03-02",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE03-02 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE01",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE01-10": {
+   "id": "CH04-CE01-10",
+   "name_vi": "Vương Sung",
+   "name_orig": "王充 Wáng Chōng",
+   "labels": [],
+   "years_raw": "27–97 CN",
+   "born": 27,
+   "died": 97,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Cối Kê, nay thuộc Chiết Giang, Trung Quốc",
+   "region": "Đông Á",
+   "fields": [
+    "Triết học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q319329",
+   "big_questions": [
+    "Vũ trụ"
+   ],
+   "ideas": "Bộ Luận hành tám mươi lăm thiên là cuộc tấn công có hệ thống vào thuyết thiên nhân cảm ứng đang chi phối học thuật thời Hán. Ông lập luận trời vận hành vô vi, không đáp lại hành vi người, nên thiên tai không phải lời quở trách và điềm lành không chứng minh được điều gì. Ông bác luôn chuyện ma quỷ và chuyện người chết thành thần, với lập luận rằng tinh khí tan khi hình thể tan. Phương pháp ông dùng là đòi bằng chứng và chỉ ra mâu thuẫn nội tại, áp cả cho kinh điển.",
+   "why": "Ứng viên cùng thời là Hoàn Đàm, người cũng phê phán sấm vĩ và bị biếm vì việc đó, và Ban Cố, chọn riêng ở mục sau. Vương Sung được chọn theo tính nguyên bản (c) và độ bền (b): trước tác của Hoàn Đàm gần như mất hết, còn Luận hành còn nguyên và là văn bản hoài nghi có hệ thống sớm nhất của Đông Á, được đọc lại mỗi khi học thuật Trung Hoa cần một tiền lệ phê phán.",
+   "sources": "Vương Sung, Luận hành; Michael Nylan, The Five \"Confucian\" Classics (2001).",
+   "inherits": [
+    {
+     "target": "CH03-BCE03-11",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE03-11 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE02-01",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE02-01 · phản bác · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE03-10",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE03-10 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống khảo chứng và hoài nghi ở Đông Á",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống khảo chứng và hoài nghi ở Đông Á · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE01",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE01-11": {
+   "id": "CH04-CE01-11",
+   "name_vi": "Ban Cố",
+   "name_orig": "班固 Bān Gù",
+   "labels": [],
+   "years_raw": "32–92 CN",
+   "born": 32,
+   "died": 92,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Lạc Dương, nhà Đông Hán, Trung Quốc",
+   "region": "Đông Á",
+   "fields": [
+    "Sử học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q439681",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Hán thư là bộ sử đầu tiên lấy một triều đại làm phạm vi trọn vẹn, khác Sử ký vốn chạy từ thượng cổ tới đương thời. Quyết định ấy định hình thể chính sử: từ đó mỗi triều soạn sử cho triều trước, và hai mươi bốn bộ chính sử Trung Hoa đều theo khuôn một triều một bộ. Thiên Nghệ văn chí trong Hán thư dựa trên công trình thư mục của Lưu Hướng và Lưu Hâm, và là bản mục lục thư viện cổ nhất còn lại của Đông Á. Ông chết trong ngục năm 92 CN.",
+   "why": "Ứng viên trực tiếp là Ban Bưu, cha ông, người khởi thảo, và Ban Chiêu, em gái ông, chọn riêng ở mục sau vì phần bà hoàn thành. Ban Cố được chọn theo tính nguyên bản (c): quyết định giới hạn phạm vi vào một triều là của ông, và chính quyết định hình thức ấy — chứ không phải nội dung — là thứ hai nghìn năm sử học Đông Á kế thừa.",
+   "sources": "Hán thư; Hans van Ess, Politik und Geschichtsschreibung im alten China (2014).",
+   "inherits": [
+    {
+     "target": "CH03-BCE01-06",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH03-BCE01-06 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE01-10",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH03-BCE01-10 · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE01-12",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE01-12 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Thể chính sử một triều ở Đông Á",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Thể chính sử một triều ở Đông Á · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE01",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE01-12": {
+   "id": "CH04-CE01-12",
+   "name_vi": "Ban Chiêu",
+   "name_orig": "班昭 Bān Zhāo, Huệ Ban",
+   "labels": [],
+   "years_raw": "k. 45–116 CN",
+   "born": 45,
+   "died": 116,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Lạc Dương, nhà Đông Hán, Trung Quốc",
+   "region": "Đông Á",
+   "fields": [
+    "Sử học",
+    "Giáo dục"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q177081",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Sau khi anh bà chết trong ngục, bà được triệu vào cung hoàn thành Hán thư, soạn các bảng niên biểu và thiên Thiên văn chí, rồi giảng bộ sử ấy cho các học giả trong triều — người phụ nữ đầu tiên của Trung Hoa được ghi là sử gia có tên. Bà cũng viết Nữ giới bảy thiên, sách dạy nữ công dung ngôn hạnh. Hai việc ấy kéo theo hai di sản trái chiều: bà là tiền lệ cho phụ nữ làm học thuật, đồng thời sách của bà trở thành khuôn ràng buộc nữ giới suốt gần hai nghìn năm ở Trung Hoa, Triều Tiên và Việt Nam.",
+   "why": "Ứng viên cùng thời là Hoàng hậu Đặng Tuy, người bà làm cố vấn, và Ban Cố, anh bà, chọn ở mục trước. Ban Chiêu được chọn theo độ bền (b) và tính nguyên bản (c): không văn bản nào khác do phụ nữ Đông Á viết đạt mức lưu hành như Nữ giới, và vai trò sử gia của bà là tiền lệ được dẫn lại suốt các đời sau.",
+   "sources": "Hán thư; Nancy Lee Swann, Pan Chao: Foremost Woman Scholar of China (1932).",
+   "inherits": [
+    {
+     "target": "CH04-CE01-11",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE01-11 · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Giáo dục nữ giới ở Trung Hoa, Triều Tiên và Việt Nam",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Giáo dục nữ giới ở Trung Hoa, Triều Tiên và Việt Nam · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH90-CE19_20-04",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "CH90-CE19_20-04 · phản bác · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE01",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE02-01": {
+   "id": "CH04-CE02-01",
+   "name_vi": "Thái Luân",
+   "name_orig": "蔡倫 Cài Lún",
+   "labels": [],
+   "years_raw": "k. 50–121 CN",
+   "born": 50,
+   "died": 121,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Lạc Dương, nhà Đông Hán, Trung Quốc",
+   "region": "Đông Á",
+   "fields": [
+    "Kỹ thuật/Công nghệ"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q229235",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Là hoạn quan trông coi xưởng chế tác của triều đình, năm 105 CN ông dâng lên Hán Hoà Đế một quy trình làm giấy từ vỏ cây, sợi gai, giẻ rách và lưới đánh cá cũ. Ông không phải người phát minh ra giấy — đã tìm được mảnh giấy có niên đại sớm hơn hai thế kỷ — nhưng quy trình của ông dùng nguyên liệu rẻ và phế liệu, nên lần đầu giấy đủ rẻ để thay thẻ tre và lụa. Hậu Hán thư chép việc này, và từ đó kỹ thuật lan dần sang Triều Tiên, Nhật Bản rồi thế giới Hồi giáo.",
+   "why": "Không nêu được ứng viên cùng thời: không người thợ hay quan chế tác nào khác của nhà Hán để lại tên gắn với một kỹ thuật cụ thể. Thái Luân được chọn theo counterfactual (d): bước từ giấy có tồn tại sang giấy đủ rẻ để dùng đại trà là chỗ quyết định, và chính bước ấy mới làm thay đổi điều kiện vật chất của việc lưu trữ và truyền bá văn bản.",
+   "sources": "Hậu Hán thư, Hoạn giả liệt truyện; Tsien Tsuen-hsuin, Paper and Printing, trong Science and Civilisation in China, t. 5, ph. 1 (1985).",
+   "inherits": [
+    {
+     "target": "Những người làm giấy vô danh thời Tây Hán",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "Những người làm giấy vô danh thời Tây Hán · kế thừa · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Sự lan truyền của giấy sang thế giới Hồi giáo và châu Âu",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Sự lan truyền của giấy sang thế giới Hồi giáo và châu Âu · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE05-07",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-07 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE02",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE02-02": {
+   "id": "CH04-CE02-02",
+   "name_vi": "Trương Hành",
+   "name_orig": "張衡 Zhāng Héng",
+   "labels": [],
+   "years_raw": "78–139 CN",
+   "born": 78,
+   "died": 139,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Lạc Dương, nhà Đông Hán, Trung Quốc",
+   "region": "Đông Á",
+   "fields": [
+    "Khoa học tự nhiên",
+    "Kỹ thuật/Công nghệ"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q197206",
+   "big_questions": [
+    "Vũ trụ"
+   ],
+   "ideas": "Làm thái sử lệnh, ông chế hỗn thiên nghi chạy bằng sức nước để mô phỏng chuyển động thiên cầu, và năm 132 CN dựng hậu phong địa động nghi — dụng cụ báo động đất sớm nhất được ghi chép, với tám con rồng ngậm bi, con nào nhả bi thì chỉ hướng chấn. Hậu Hán thư chép một lần máy báo động đất mà kinh đô không ai cảm thấy, vài ngày sau có tin từ Lũng Tây. Ông cũng lấy căn bậc hai của mười làm giá trị xấp xỉ cho số pi, và viết phú.",
+   "why": "Ứng viên cùng lĩnh vực là Mã Quân ở thế kỷ sau, chế xe chỉ nam và máy dệt, và Vương Sung, chọn ở nhóm trước. Trương Hành được chọn theo tính nguyên bản (c): địa động nghi không có tiền lệ ở bất kỳ nền văn minh nào và không có hậu duệ trực tiếp, tức nó là một sáng chế đơn độc. Cơ cấu bên trong máy không được chép lại, nên mọi bản phục dựng hiện nay đều là giả thuyết.",
+   "sources": "Hậu Hán thư, Trương Hành liệt truyện; Joseph Needham, Science and Civilisation in China, t. 3 (1959).",
+   "inherits": [
+    {
+     "target": "CH03-BCE02-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE02-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Truyền thống thiên văn và khí tượng của triều đình Đông Á",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống thiên văn và khí tượng của triều đình Đông Á · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE02",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE02-03": {
+   "id": "CH04-CE02-03",
+   "name_vi": "Kanishka",
+   "name_orig": "𐨐𐨞𐨁𐨮𐨿𐨐",
+   "labels": [],
+   "years_raw": "trị vì k. 127–150 CN",
+   "born": 127,
+   "died": 150,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Purushapura, nay là Peshawar, và Mathura",
+   "region": "Nam Á",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q312544",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Đế chế Kushan dưới thời ông trải từ Trung Á tới lưu vực sông Hằng, nắm đúng đoạn nối con đường thương mại giữa Hán và La Mã. Ông bảo trợ Phật giáo ở quy mô nhà nước, và truyền thống Phật giáo gắn ông với một kỳ kết tập kinh điển. Tiền của ông là bằng chứng trực tiếp về chính sách tôn giáo: cùng một triều đúc hình Phật kèm chữ Hy Lạp, hình thần Iran và hình thần Ấn Độ. Nghệ thuật Gandhāra tạc Phật theo lối tượng người, định hình mọi hình tượng Phật về sau, nở rộ trong giai đoạn này.",
+   "why": "Ứng viên cùng giai đoạn là Gautamiputra Satakarni của triều Satavahana ở Deccan, và Huvishka, người kế vị ông. Kanishka được chọn theo counterfactual (d): việc một nhà nước nắm trục thương mại Trung Á bảo trợ Phật giáo là điều kiện vật chất để tôn giáo này đi sang Đông Á. Niên đại trị vì của ông là một trong những tranh luận dai dẳng nhất của sử học Nam Á, với các đề xuất trải từ 78 tới 144 CN.",
+   "sources": "Harry Falk, \"The yuga of Sphujiddhvaja and the era of the Kuṣâṇas\", Silk Road Art and Archaeology 7 (2001); Vincent Lefèvre (chủ biên), L'art du Gandhara (2010).",
+   "inherits": [
+    {
+     "target": "CH03-BCE03-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE03-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE02-04",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE02-04 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Phật giáo truyền sang Trung Á và Đông Á",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phật giáo truyền sang Trung Á và Đông Á · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Nghệ thuật Gandhāra và hình tượng Phật",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Nghệ thuật Gandhāra và hình tượng Phật · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE02",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE02-04": {
+   "id": "CH04-CE02-04",
+   "name_vi": "Aśvaghoṣa",
+   "name_orig": "अश्वघोष, Mã Minh",
+   "labels": [],
+   "years_raw": "k. 80–150 CN",
+   "born": 80,
+   "died": 150,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Saketa và Purushapura, đế chế Kushan",
+   "region": "Nam Á",
+   "fields": [
+    "Văn học",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q312552",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Buddhacarita kể đời Đức Phật bằng thể kāvya, tức thơ Sanskrit trau chuốt theo quy phạm cung đình, và Saundarananda kể chuyện người em họ của Phật bị giằng giữa tình yêu và xuất gia. Đây là những bài kāvya hoàn chỉnh sớm nhất còn lại, nên lịch sử thơ Sanskrit cổ điển bắt đầu từ một tác giả Phật giáo chứ không phải từ truyền thống Bà-la-môn. Việc đưa giáo lý vào hình thức văn chương bậc cao là một chiến lược truyền bá: nó nhắm vào đúng tầng lớp đọc thơ cung đình.",
+   "why": "Ứng viên cùng truyền thống là Mātṛceṭa, cũng viết tán ca Phật giáo bằng Sanskrit, và Kālidāsa, thuộc thế kỷ sau và được chọn ở chapter này theo nhóm khác. Aśvaghoṣa được chọn theo tính nguyên bản (c): ông là người đầu tiên còn lại tác phẩm cho thấy hình thức kāvya đã hoàn chỉnh, nên mọi mô tả về sự hình thành thơ Sanskrit cổ điển đều phải đi qua ông.",
+   "sources": "Aśvaghoṣa, Buddhacarita, bản dịch E. H. Johnston (1936); Patrick Olivelle, Life of the Buddha (2008).",
+   "inherits": [
+    {
+     "target": "CH04-CE02-03",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE02-03 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE02-06",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE02-06 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Truyền thống kāvya Sanskrit",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống kāvya Sanskrit · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE05-07",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-07 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE02",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE02-05": {
+   "id": "CH04-CE02-05",
+   "name_vi": "Claudius Ptolemy",
+   "name_orig": "Κλαύδιος Πτολεμαῖος",
+   "labels": [],
+   "years_raw": "k. 100–170 CN",
+   "born": 100,
+   "died": 170,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Alexandria, Ai Cập",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Khoa học tự nhiên",
+    "Khám phá/Địa lý"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q34943",
+   "big_questions": [
+    "Vũ trụ"
+   ],
+   "ideas": "Almagest gom thiên văn Hy Lạp thành một mô hình địa tâm tính được: Trái Đất đứng yên, hành tinh chạy trên ngoại luân quanh vòng lệch tâm, kèm bảng số cho phép dự đoán vị trí. Mô hình ấy sai về cấu trúc nhưng chính xác đủ dùng, nên nó đứng mười bốn thế kỷ cho tới Copernicus. Bộ Địa lý học liệt kê toạ độ khoảng tám nghìn địa điểm và bàn cách chiếu mặt cầu lên mặt phẳng. Ông cũng viết Tetrabiblos về chiêm tinh, Optics và Harmonics.",
+   "why": "Ứng viên là Hipparchus, chọn ở Chapter 3, người cung cấp phần lớn số liệu quan trắc, và Menelaus xứ Alexandria, người đặt lượng giác cầu. Ptolemy được chọn theo độ bền (b): chính việc ông gộp lý thuyết, bảng số và hướng dẫn tính toán vào một bộ khiến Almagest thành sách giáo khoa của ba nền văn minh. Việc ông ước lượng chu vi Trái Đất quá nhỏ là một trong các cơ sở khiến Columbus tính sai.",
+   "sources": "Ptolemy, Almagest, bản dịch G. J. Toomer (1984); Alexander Jones (chủ biên), Ptolemy in Perspective (2010).",
+   "inherits": [
+    {
+     "target": "CH03-BCE02-03",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH03-BCE02-03 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE02-08",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE02-08 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Thiên văn học Hồi giáo và châu Âu tới Copernicus",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Thiên văn học Hồi giáo và châu Âu tới Copernicus · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Bản đồ học thời Phục hưng",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Bản đồ học thời Phục hưng · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE02",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE02-06": {
+   "id": "CH04-CE02-06",
+   "name_vi": "Galen",
+   "name_orig": "Γαληνός Galēnós",
+   "labels": [],
+   "years_raw": "129–216 CN",
+   "born": 129,
+   "died": 216,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Pergamon, Alexandria và Rome",
+   "region": "Châu Âu",
+   "fields": [
+    "Y học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q8778",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Trước tác của ông chiếm một phần đáng kể toàn bộ văn chương Hy Lạp cổ còn lại. Ông gắn lý thuyết dịch thể của truyền thống Hippocrates với giải phẫu thực nghiệm trên khỉ và lợn, chứng minh bằng thí nghiệm rằng động mạch chứa máu chứ không chứa khí, và rằng cắt tuỷ sống ở các mức khác nhau gây liệt khác nhau. Ông cũng đòi thầy thuốc phải học logic và triết học. Hệ thống ấy trở thành thẩm quyền ở Byzantium, thế giới Hồi giáo và châu Âu cho tới khi Vesalius mổ xác người năm 1543.",
+   "why": "Ứng viên cùng thời là Soranus xứ Ephesus, tác giả bộ sản khoa được dùng lâu dài, và Aretaeus xứ Cappadocia. Galen được chọn theo độ bền (b) và phạm vi (a): hệ thống của ông chi phối y học ba nền văn minh suốt mười bốn thế kỷ, một mức áp đảo không ai trong lĩnh vực này đạt tới. Chính độ bền ấy cũng là vấn đề: sai lầm của ông về giải phẫu người kéo dài đúng bằng ngần ấy thời gian.",
+   "sources": "Vivian Nutton, Ancient Medicine (2013); Galen, On the Natural Faculties, bản dịch A. J. Brock (1916).",
+   "inherits": [
+    {
+     "target": "CH02-BCE05-04",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE05-04 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE01-08",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE01-08 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE04-02",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE04-02 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Y học Byzantine, Hồi giáo và châu Âu tới Vesalius",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Y học Byzantine, Hồi giáo và châu Âu tới Vesalius · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE02",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE02-07": {
+   "id": "CH04-CE02-07",
+   "name_vi": "Marcus Aurelius",
+   "name_orig": "Marcus Aurelius Antoninus",
+   "labels": [],
+   "years_raw": "121–180 CN",
+   "born": 121,
+   "died": 180,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Rome và biên giới Danube",
+   "region": "Châu Âu",
+   "fields": [
+    "Triết học",
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q1430",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Tập ghi chép ông viết bằng tiếng Hy Lạp trong các chiến dịch ở biên giới, nay gọi là Suy tưởng, không nhằm xuất bản mà là bài tập tự nhắc: xem xét cái gì thuộc quyền mình, chấp nhận cái không thuộc, và đối xử với người khác như phần của cùng một cộng đồng lý tính. Vì là văn bản riêng tư của một người nắm quyền lực tuyệt đối, nó là tư liệu hiếm cho thấy một học thuyết đạo đức được dùng ra sao trong áp lực thật. Triều ông cũng là lúc dịch Antonine quét qua đế chế.",
+   "why": "Ứng viên cùng truyền thống là Epictetus, người thầy ông đọc và trích, và Fronto, thầy dạy hùng biện của ông. Marcus Aurelius được chọn theo tính nguyên bản (c) của thể loại: Suy tưởng không có tiền lệ nào cùng dạng trong văn chương cổ đại, và chính tính chất ghi riêng cho mình khiến nó được đọc như sách thực hành cho tới nay. Việc ông truyền ngôi cho con là Commodus thì bị chê từ thời cổ.",
+   "sources": "Marcus Aurelius, Suy tưởng, bản dịch Robin Hard (2011); Pierre Hadot, The Inner Citadel (1998).",
+   "inherits": [
+    {
+     "target": "CH03-BCE03-07",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE03-07 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE01-05",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE01-05 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Truyền thống đọc Khắc kỷ như sách thực hành",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống đọc Khắc kỷ như sách thực hành · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE02",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE02-08": {
+   "id": "CH04-CE02-08",
+   "name_vi": "Nāgārjuna",
+   "name_orig": "नागार्जुन, Long Thọ",
+   "labels": [],
+   "years_raw": "k. 150–250 CN",
+   "born": 150,
+   "died": 250,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Nam Ấn Độ, có thể vùng Andhra",
+   "region": "Nam Á",
+   "fields": [
+    "Triết học",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q171195",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Bộ Trung luận lập luận rằng không sự vật nào có tự tính: mọi thứ chỉ hiện hữu trong quan hệ duyên khởi, nên tính không không có nghĩa là hư vô mà là không có bản chất độc lập. Ông chứng minh bằng cách lấy từng phạm trù — nhân quả, chuyển động, thời gian, chính cả tính không — rồi chỉ ra mâu thuẫn ở cả bốn khả năng có, không, vừa có vừa không, không có không không. Thuyết nhị đế tách chân lý quy ước khỏi chân lý tối hậu giúp giữ lại giá trị của lời nói thường ngày.",
+   "why": "Ứng viên cùng truyền thống là Āryadeva, học trò trực tiếp của ông, và Vasubandhu, chọn riêng ở nhóm sau. Nāgārjuna được chọn theo tính nguyên bản (c) và phạm vi (a): phái Trung quán do ông lập là nền chung của Phật giáo Đại thừa ở Tây Tạng, Trung Hoa, Triều Tiên, Nhật Bản và Việt Nam. Tiểu sử của ông gần như toàn truyền thuyết, và có thể nhiều tác phẩm mang tên ông là của nhiều người.",
+   "sources": "Nāgārjuna, Mūlamadhyamakakārikā, bản dịch Jay L. Garfield (1995); Jan Westerhoff, Nāgārjuna's Madhyamaka (2009).",
+   "inherits": [
+    {
+     "target": "CH02-BCE06-03",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE06-03 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE05-07",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-07 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Phật giáo Đại thừa ở Tây Tạng và Đông Á",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phật giáo Đại thừa ở Tây Tạng và Đông Á · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH90-CE10_14-04",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH90-CE10_14-04 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE02",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE02-09": {
+   "id": "CH04-CE02-09",
+   "name_vi": "Irenaeus thành Lyon",
+   "name_orig": "Εἰρηναῖος Eirēnaîos",
+   "labels": [],
+   "years_raw": "k. 130–202 CN",
+   "born": 130,
+   "died": 202,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Smyrna và Lugdunum, nay là Lyon, Pháp",
+   "region": "Châu Âu",
+   "fields": [
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q182123",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Bộ Chống lạc giáo viết để bác các nhóm Ngộ đạo, và trong khi làm việc đó ông đặt ra ba công cụ mà Kitô giáo dùng mãi về sau: một quy điển gồm đúng bốn sách Phúc Âm, không hơn không kém; nguyên tắc truyền thừa từ các tông đồ để xác định ai có thẩm quyền giải thích; và một bản tóm tắt đức tin làm thước đo. Tác phẩm cũng là nguồn chính để biết nội dung các hệ thống Ngộ đạo, vì phần lớn văn bản của họ đã mất cho tới khi tìm thấy kho Nag Hammadi năm 1945.",
+   "why": "Ứng viên cùng thời là Justin Tử đạo, người sớm hơn và viết biện giáo, và Marcion, người lập quy điển riêng và chính là thứ buộc phía bên kia phải trả lời. Irenaeus được chọn theo counterfactual (d): ông là người đưa ra lời đáp có cấu trúc, và chính ba công cụ ấy quyết định hình dạng của Kitô giáo chính thống thay vì để nó tản thành nhiều nhánh.",
+   "sources": "Irenaeus, Adversus Haereses, bản dịch Dominic J. Unger (1992–2012); Bart D. Ehrman, Lost Christianities (2003).",
+   "inherits": [
+    {
+     "target": "CH04-CE01-02",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE01-02 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE03-02",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE03-02 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Quy điển Tân Ước và khái niệm chính thống",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Quy điển Tân Ước và khái niệm chính thống · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE02",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE02-10": {
+   "id": "CH04-CE02-10",
+   "name_vi": "Tertullian",
+   "name_orig": "Quintus Septimius Florens Tertullianus",
+   "labels": [],
+   "years_raw": "k. 155–220 CN",
+   "born": 155,
+   "died": 220,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Carthage, Bắc Phi",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Tôn giáo/Tâm linh",
+    "Luật"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q174929",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Ông là tác giả Kitô giáo đầu tiên viết bằng tiếng Latinh ở quy mô lớn, và vì ngôn ngữ ấy chưa có từ vựng thần học, ông phải tự tạo: trinitas, persona, substantia, sacramentum đều đi vào tiếng Latinh qua ông rồi từ đó vào các ngôn ngữ châu Âu. Được đào tạo theo lối hùng biện và pháp lý, ông viết Apologeticum dưới dạng bài bào chữa trước toà, lập luận rằng việc xử tội người Kitô hữu vi phạm chính nguyên tắc tố tụng La Mã. Cuối đời ông ngả sang phái Montanus khắt khe.",
+   "why": "Ứng viên cùng vùng cùng thời là Minucius Felix, cũng viết biện giáo Latinh, và Cyprianô thành Carthage ở thế hệ sau. Tertullianô được chọn theo tính nguyên bản (c): bộ từ vựng thần học Latinh là công của ông, và nó là điều kiện ngôn ngữ cho toàn bộ thần học phương Tây về sau. Câu \"tôi tin vì phi lý\" thường bị gán cho ông thực ra không có trong văn bản nào của ông.",
+   "sources": "Tertullianô, Apologeticum; Geoffrey D. Dunn, Tertullian (2004).",
+   "inherits": [
+    {
+     "target": "CH03-BCE01-03",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE01-03 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE02-09",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE02-09 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE05-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Từ vựng thần học Latinh",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Từ vựng thần học Latinh · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "CE02",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE02-11": {
+   "id": "CH04-CE02-11",
+   "name_vi": "Trương Trọng Cảnh",
+   "name_orig": "張仲景 Zhāng Zhòngjǐng, Trương Cơ",
+   "labels": [],
+   "years_raw": "k. 150–219 CN",
+   "born": 150,
+   "died": 219,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Nam Dương, nay thuộc Hà Nam, Trung Quốc",
+   "region": "Đông Á",
+   "fields": [
+    "Y học"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q197350",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Trong lời tựa, ông viết rằng dòng họ hơn hai trăm người của mình chết quá nửa trong mười năm, phần lớn vì bệnh thương hàn, và đó là lý do ông soạn sách. Thương hàn tạp bệnh luận đưa ra lối biện chứng luận trị: không chữa theo tên bệnh mà theo chứng hậu đang biểu hiện, phân thành sáu kinh, mỗi chứng ứng một phương thuốc cụ thể. Cách đặt vấn đề ấy là khung lâm sàng mà y học cổ truyền Trung Hoa, Nhật Bản, Triều Tiên và Việt Nam dùng tới nay.",
+   "why": "Ứng viên cùng thời là Hoa Đà, nổi tiếng về ngoại khoa và thuốc mê nhưng trước tác không còn, và Hoàng Phủ Mật ở thế kỷ sau, người hệ thống hoá châm cứu. Trương Trọng Cảnh được chọn theo độ bền (b): văn bản của ông còn lại và được chú giải liên tục mười tám thế kỷ, còn kỹ thuật của Hoa Đà thì mất theo người. Tiểu sử ông không có trong chính sử, nên niên đại để Thấp.",
+   "sources": "Trương Trọng Cảnh, Thương hàn luận; Paul U. Unschuld, Medicine in China: A History of Ideas (2010).",
+   "inherits": [
+    {
+     "target": "Hoàng Đế nội kinh",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hoàng Đế nội kinh · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Y học cổ truyền Đông Á",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Y học cổ truyền Đông Á · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH90-CE19_20-09",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH90-CE19_20-09 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE02",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE03-01": {
+   "id": "CH04-CE03-01",
+   "name_vi": "Plotinus",
+   "name_orig": "Πλωτῖνος Plōtînos",
+   "labels": [],
+   "years_raw": "205–270 CN",
+   "born": 205,
+   "died": 270,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Lycopolis ở Ai Cập, sau dạy ở Rome",
+   "region": "Châu Âu",
+   "fields": [
+    "Triết học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q134189",
+   "big_questions": [
+    "Thực tại",
+    "Vũ trụ"
+   ],
+   "ideas": "Ông dựng một vũ trụ luận ba tầng: từ cái Một, vượt trên cả hữu thể và tư duy, lưu xuất ra Trí rồi ra Hồn, và thế giới cảm giác là tầng cuối. Lưu xuất không phải sáng tạo có ý chí mà là tràn ra tự nhiên, nên không có khoảnh khắc khởi đầu. Con đường ngược lại — quay về cái Một qua chiêm nghiệm — biến siêu hình học thành một chương trình tu tập. Năm mươi tư luận văn của ông được Porphyry sắp thành sáu bộ chín bài, tức tập Enneads.",
+   "why": "Ứng viên cùng trường là Ammonius Saccas, thầy ông, người không để lại chữ nào, và Porphyry, học trò và cũng là người biên tập, chọn riêng ở mục sau. Plotinus được chọn theo tính nguyên bản (c) và độ bền (b): hệ thống của ông là khung siêu hình mà Augustinô, thần học Byzantine, triết học Hồi giáo và cả huyền học Kitô giáo đều dùng, thường mà không biết nguồn.",
+   "sources": "Plotinus, Enneads, bản dịch A. H. Armstrong (1966–1988); Porphyry, Cuộc đời Plotinus.",
+   "inherits": [
+    {
+     "target": "CH03-BCE04-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE04-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE04-02",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE04-02 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE03-03",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE03-03 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE05-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE05-03",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-03 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE03",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE03-02": {
+   "id": "CH04-CE03-02",
+   "name_vi": "Origen",
+   "name_orig": "Ὠριγένης Ōrigénēs, Origène",
+   "labels": [],
+   "years_raw": "k. 185–254 CN",
+   "born": 185,
+   "died": 254,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Alexandria và Caesarea",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Tôn giáo/Tâm linh",
+    "Ngôn ngữ học"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q170472",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Bộ Hexapla xếp sáu bản Cựu Ước thành sáu cột song song — bản Hebrew, bản phiên âm, và bốn bản dịch Hy Lạp — để đối chiếu từng chỗ khác nhau. Đây là bản phê bình văn bản có hệ thống sớm nhất của lịch sử, làm ra trước khi khái niệm ấy tồn tại. Bộ De Principiis là nỗ lực đầu tiên trình bày toàn bộ giáo lý Kitô giáo thành một hệ thống có trật tự. Ông lấy phương pháp đọc ngụ ý của Philo và áp cho Kinh Thánh ở quy mô chưa từng có. Một số luận điểm của ông bị kết án năm 553.",
+   "why": "Ứng viên cùng trường là Clement thành Alexandria, thầy ông, và Hippolytus thành Rome. Origen được chọn theo tính nguyên bản (c): Hexapla là một bước phương pháp không ai cùng thời nghĩ tới, và De Principiis dựng ra chính thể loại thần học hệ thống. Phần lớn trước tác của ông chỉ còn qua bản dịch Latinh của Rufinus, người đã sửa những chỗ bị coi là lạc giáo.",
+   "sources": "Origen, De Principiis, bản dịch G. W. Butterworth (1936); John Anthony McGuckin (chủ biên), The Westminster Handbook to Origen (2004).",
+   "inherits": [
+    {
+     "target": "CH04-CE01-06",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE01-06 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE02-09",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE02-09 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE01-09",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE01-09 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE04-02",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE04-02 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Phê bình văn bản và thần học hệ thống",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phê bình văn bản và thần học hệ thống · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE03",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE03-03": {
+   "id": "CH04-CE03-03",
+   "name_vi": "Porphyry xứ Tyre",
+   "name_orig": "Πορφύριος Porphýrios",
+   "labels": [],
+   "years_raw": "k. 234–305 CN",
+   "born": 234,
+   "died": 305,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Tyre, Athens và Rome",
+   "region": "Châu Âu",
+   "fields": [
+    "Triết học"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q203445",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Bài Isagoge của ông là một dẫn nhập ngắn vào bộ Phạm trù của Aristotle, giải thích năm khái niệm giống, loài, biệt, thuộc tính và tuỳ thể. Boethius dịch sang Latinh và từ đó nó thành sách vỡ lòng logic bắt buộc ở châu Âu lẫn thế giới Hồi giáo suốt hơn một nghìn năm. Chính một câu Porphyry gác lại — các giống loài tồn tại thật hay chỉ trong tư tưởng — trở thành vấn đề phổ quát, tranh luận trung tâm của kinh viện trung cổ. Ông cũng biên tập Enneads và viết Chống người Kitô giáo, bị đốt sau này.",
+   "why": "Ứng viên cùng trường là Plotinus, thầy ông, chọn ở mục trước, và Iamblichus, học trò ông và là người đưa Tân Plato sang hướng nghi lễ. Porphyry được chọn theo độ bền (b): không văn bản triết học cổ đại nào khác được dùng làm sách giáo khoa liên tục lâu như Isagoge, và câu hỏi ông cố tình để ngỏ lại định hình cả một thời kỳ triết học.",
+   "sources": "Porphyry, Isagoge, bản dịch Jonathan Barnes (2003); Stanford Encyclopedia of Philosophy, \"Porphyry\" (https://plato.stanford.edu/entries/porphyry/).",
+   "inherits": [
+    {
+     "target": "CH04-CE03-01",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE03-01 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE04-02",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE04-02 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Logic kinh viện Latinh và Hồi giáo qua Boethius",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Logic kinh viện Latinh và Hồi giáo qua Boethius · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Tranh luận về vấn đề phổ quát thời trung cổ",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Tranh luận về vấn đề phổ quát thời trung cổ · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE03",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE03-04": {
+   "id": "CH04-CE03-04",
+   "name_vi": "Mani",
+   "name_orig": "𐫖𐫀𐫗𐫏, Ma Ni",
+   "labels": [],
+   "years_raw": "216–274 CN",
+   "born": 216,
+   "died": 274,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Babylonia thuộc đế chế Sasan, nay thuộc Iraq",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q203922",
+   "big_questions": [
+    "Vũ trụ",
+    "Con người"
+   ],
+   "ideas": "Ông dạy một vũ trụ luận nhị nguyên trong đó ánh sáng và bóng tối là hai nguyên lý có từ đầu, và lịch sử là quá trình tách phần ánh sáng bị giam trong vật chất. Điều khác thường về mặt thiết chế là ông tự viết kinh sách lúc còn sống, bằng nhiều thứ tiếng, và nói rõ lý do: các vị trước ông để môn đệ chép lại nên giáo lý bị sai lệch. Ông cũng chủ trương dung nạp, tự xếp mình nối tiếp Zarathustra, Đức Phật và Giê-su. Tôn giáo này lan từ Tây Ban Nha tới Trung Hoa.",
+   "why": "Ứng viên cùng vùng cùng thời là Bardaisan xứ Edessa, cũng dạy một hệ thống vũ trụ luận, và Kartir, tăng lữ Hoả giáo đã góp phần giết ông. Mani được chọn theo tính nguyên bản (c): việc tự viết và tự dịch kinh điển ngay khi lập đạo là một quyết định thiết chế không tiền lệ, và nó giải thích vì sao Manichaeism lan xa và tồn tại ở Trung Hoa tới thế kỷ 14.",
+   "sources": "Iain Gardner và Samuel N. C. Lieu, Manichaean Texts from the Roman Empire (2004); Codex Manichaicus Coloniensis.",
+   "inherits": [
+    {
+     "target": "CH02-BCE06-09",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE06-09 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE01-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE01-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH02-BCE06-03",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE06-03 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE05-01",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE05-01 · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Manichaeism từ Tây Ban Nha tới Trung Hoa",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Manichaeism từ Tây Ban Nha tới Trung Hoa · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "CE03",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE03-05": {
+   "id": "CH04-CE03-05",
+   "name_vi": "Ardashir I",
+   "name_orig": "𐭠𐭥𐭲𐭧𐭱𐭲𐭥",
+   "labels": [],
+   "years_raw": "k. 180–242 CN",
+   "born": 180,
+   "died": 242,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Istakhr và Ctesiphon, đế chế Sasan",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q371319",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Ông lật đổ triều Arsaces năm 224 CN và lập nhà Sasan, thay thể chế phân quyền của Parthia bằng một nhà nước tập quyền có quan lại và thuế khoá đồng nhất. Bước có hệ quả xa nhất là gắn vương quyền với Hoả giáo thành một thiết chế: tăng lữ được tổ chức thành hệ thống có thứ bậc, kinh Avesta bắt đầu được tập hợp, và công thức tôn giáo cùng vương quyền là anh em sinh đôi trở thành lý thuyết chính thống. Đây là mô hình quốc giáo có tổ chức sớm nhất ở Cận Đông.",
+   "why": "Ứng viên cùng thời là Artabanus IV, vua Parthia cuối cùng ông đánh bại, và Shapur I, con ông, chọn riêng ở mục sau. Ardashir được chọn theo counterfactual (d): việc gắn một tôn giáo có tăng lữ vào bộ máy nhà nước là quyết định của ông, và chính mô hình ấy là cái Byzantium rồi các vương triều Hồi giáo về sau đối thoại và cạnh tranh.",
+   "sources": "Touraj Daryaee, Sasanian Persia: The Rise and Fall of an Empire (2009); Kārnāmag ī Ardaxšīr ī Pābagān.",
+   "inherits": [
+    {
+     "target": "CH02-BCE05-10",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE05-10 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH02-BCE06-09",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE06-09 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE03-06",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE03-06 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Mô hình quốc giáo có tổ chức ở Cận Đông",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Mô hình quốc giáo có tổ chức ở Cận Đông · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE03",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE03-06": {
+   "id": "CH04-CE03-06",
+   "name_vi": "Shapur I",
+   "name_orig": "𐭱𐭧𐭯𐭥𐭧𐭥𐭩",
+   "labels": [],
+   "years_raw": "trị vì 240–270 CN",
+   "born": 240,
+   "died": 270,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Ctesiphon và Bishapur, đế chế Sasan",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Quân sự",
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q191455",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Ông đánh bại ba hoàng đế La Mã và bắt sống Valerianus năm 260 CN, sự kiện được tạc vào vách đá ở Naqsh-e Rostam với cảnh hoàng đế La Mã quỳ trước ngựa ông. Bi ký ba thứ tiếng trên Ka'ba-ye Zartosht kể chiến dịch, liệt kê các tỉnh và nêu tên các tôn giáo được ông cho phép — là văn bản Sasan quan trọng nhất còn lại và là nguồn ngoài La Mã hiếm hoi cho giai đoạn khủng hoảng thế kỷ 3. Ông dùng tù binh La Mã để xây đập và thành phố, và một thời bảo trợ Mani.",
+   "why": "Ứng viên cùng thời là Odaenathus xứ Palmyra, người chặn ông sau trận Edessa, và Ardashir I, cha ông, chọn ở mục trước. Shapur được chọn theo phạm vi (a) của tư liệu: bi ký ba thứ tiếng của ông cho phép đọc giai đoạn khủng hoảng thế kỷ 3 từ phía không phải La Mã, điều không nguồn nào khác làm được. Niên đại sinh của ông không rõ nên trường năm ghi theo thời gian trị vì.",
+   "sources": "Bi ký Shapur I tại Ka'ba-ye Zartosht; Touraj Daryaee, Sasanian Persia (2009).",
+   "inherits": [
+    {
+     "target": "CH04-CE03-05",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE03-05 · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE03-04",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE03-04 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE04-05",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE04-05 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE03",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE03-07": {
+   "id": "CH04-CE03-07",
+   "name_vi": "Diocletianus",
+   "name_orig": "Gaius Aurelius Valerius Diocletianus",
+   "labels": [],
+   "years_raw": "k. 244–311 CN",
+   "born": 244,
+   "died": 311,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Nicomedia và Split, đế chế La Mã",
+   "region": "Châu Âu",
+   "fields": [
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q43107",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Ông chấm dứt nửa thế kỷ khủng hoảng bằng cách chia quyền: hai chính đế và hai phó đế cai quản bốn khu vực, gọi là tứ đầu chế, kèm quy tắc kế vị không dựa vào huyết thống. Ông cũng tách quyền dân sự khỏi quyền quân sự ở các tỉnh, chia nhỏ tỉnh để giảm nguy cơ cát cứ, và năm 301 ban sắc lệnh ấn định giá trần cho hàng nghìn mặt hàng — một nỗ lực kiểm soát lạm phát bằng mệnh lệnh, và cũng là nguồn tư liệu kinh tế quý. Năm 303 ông mở cuộc bách hại Kitô giáo lớn nhất.",
+   "why": "Ứng viên cùng thời là Aurelianus, người tái thống nhất đế chế trước ông, và Constantinus I, chọn riêng ở nhóm sau. Diocletianus được chọn theo tính nguyên bản (c): tứ đầu chế và việc tách quyền dân sự khỏi quân sự là thiết kế thể chế của ông, và phần tách quyền ấy tồn tại dù tứ đầu chế sụp ngay sau khi ông thoái vị năm 305 — ông là hoàng đế La Mã duy nhất tự nguyện về hưu.",
+   "sources": "Sắc lệnh về giá tối đa (301); Simon Corcoran, The Empire of the Tetrarchs (1996).",
+   "inherits": [
+    {
+     "target": "CH03-BCE01-02",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE01-02 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE04-01",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE04-01 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Bộ máy hành chính Byzantine",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Bộ máy hành chính Byzantine · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE03",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE03-08": {
+   "id": "CH04-CE03-08",
+   "name_vi": "Diophantus xứ Alexandria",
+   "name_orig": "Διόφαντος Dióphantos",
+   "labels": [],
+   "years_raw": "k. 200–284 CN",
+   "born": 200,
+   "died": 284,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Alexandria, Ai Cập",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Toán học"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q178217",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Bộ Arithmetica giải khoảng một trăm ba mươi bài toán tìm số hữu tỉ thoả các điều kiện cho trước, và điểm mới là cách viết: ông dùng ký hiệu riêng cho ẩn số và các luỹ thừa của nó thay vì diễn đạt bằng lời như toàn bộ toán học Hy Lạp trước đó. Đây là bước trung gian giữa đại số bằng lời và đại số ký hiệu. Việc chỉ nhận nghiệm hữu tỉ dương khiến loại bài toán mang tên ông — phương trình Diophantus — thành một nhánh riêng của lý thuyết số tới nay.",
+   "why": "Ứng viên cùng thành phố là Pappus, chọn ở nhóm sau, và Hero xứ Alexandria ở thế kỷ 1. Diophantus được chọn theo tính nguyên bản (c) và counterfactual (d): chính lề một trang Arithmetica là nơi Fermat ghi định lý cuối cùng của ông năm 1637, và bài toán Diophantus là mạch chạy thẳng từ thế kỷ 3 tới lý thuyết số hiện đại. Niên đại của ông chỉ suy từ một bài thơ đố, nên để Thấp.",
+   "sources": "Diophantus, Arithmetica, bản dịch và chú giải Thomas Heath (1910); Jean Christianidis và Jeffrey Oaks, The Arithmetica of Diophantus (2022).",
+   "inherits": [
+    {
+     "target": "CH03-BCE03-03",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE03-03 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Đại số Hồi giáo và lý thuyết số châu Âu qua Fermat",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Đại số Hồi giáo và lý thuyết số châu Âu qua Fermat · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE03",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE03-09": {
+   "id": "CH04-CE03-09",
+   "name_vi": "Lưu Huy",
+   "name_orig": "劉徽 Liú Huī",
+   "labels": [],
+   "years_raw": "k. 225–295 CN",
+   "born": 225,
+   "died": 295,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "nước Nguỵ, Trung Quốc",
+   "region": "Đông Á",
+   "fields": [
+    "Toán học"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q316304",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Bản chú Cửu chương toán thuật năm 263 CN của ông không chỉ giải thích cách làm mà đưa ra lý do vì sao cách ấy đúng — đây là chỗ sớm nhất của toán học Trung Hoa có thứ gần với chứng minh. Phép cắt vòng tròn của ông chia đa giác nội tiếp tới ba nghìn không trăm bảy mươi hai cạnh, cho giá trị xấp xỉ số pi là ba phẩy một bốn một sáu. Ông cũng nêu nguyên lý rằng hai khối có thiết diện bằng nhau ở mọi độ cao thì thể tích bằng nhau, và thừa nhận mình chưa giải được thể tích hình cầu.",
+   "why": "Ứng viên cùng truyền thống là Tổ Xung Chi ở thế kỷ 5, chọn riêng ở nhóm sau, và Triệu Sảng, người chú Chu bễ toán kinh cùng thời. Lưu Huy được chọn theo tính nguyên bản (c): việc đòi hỏi lý do cho mỗi thuật toán là một bước phương pháp, và chính ông ghi rõ chỗ mình không chứng minh được, điều hiếm trong văn bản toán học cổ ở bất kỳ đâu.",
+   "sources": "Karine Chemla và Guo Shuchun, Les Neuf Chapitres (2004); Cửu chương toán thuật, bản chú của Lưu Huy.",
+   "inherits": [
+    {
+     "target": "Cửu chương toán thuật",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Cửu chương toán thuật · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE05-11",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE05-11 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống toán học Đông Á",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống toán học Đông Á · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE03",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE03-10": {
+   "id": "CH04-CE03-10",
+   "name_vi": "Vương Bật",
+   "name_orig": "王弼 Wáng Bì",
+   "labels": [],
+   "years_raw": "226–249 CN",
+   "born": 226,
+   "died": 249,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Lạc Dương, nước Nguỵ, Trung Quốc",
+   "region": "Đông Á",
+   "fields": [
+    "Triết học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q459865",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Chết năm hai mươi ba tuổi, ông để lại hai bản chú — cho Lão Tử và cho Kinh Dịch — thay thế mọi bản chú trước đó và trở thành văn bản chuẩn được in kèm chính kinh suốt gần hai nghìn năm. Luận điểm trung tâm là vạn vật lấy vô làm gốc: cái không có quy định nào mới là nền cho mọi cái có quy định. Ông cũng tách ý khỏi lời và khỏi tượng trong cách đọc Kinh Dịch, đặt nền cho Huyền học. Chính khung từ vựng ấy là thứ Phật giáo dùng khi lần đầu diễn đạt tính không bằng tiếng Hán.",
+   "why": "Ứng viên cùng phong trào là Hà Yến, người lớn tuổi hơn và cùng khởi Huyền học, và Quách Tượng, người chú Trang Tử ở thế hệ sau. Vương Bật được chọn theo độ bền (b): bản chú của Hà Yến phần lớn mất, còn hai bản của ông thành văn bản chính thức và là cách mà mọi người đọc Lão Tử và Kinh Dịch ở Đông Á tiếp cận hai cuốn ấy.",
+   "sources": "Richard John Lynn, The Classic of the Way and Virtue (1999); Rudolf G. Wagner, The Craft of a Chinese Commentator (2000).",
+   "inherits": [
+    {
+     "target": "CH02-BCE06-02",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH02-BCE06-02 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE01-10",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE01-10 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE05-07",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-07 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Huyền học và cách đọc Kinh Dịch ở Đông Á",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Huyền học và cách đọc Kinh Dịch ở Đông Á · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "CE03",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE03-11": {
+   "id": "CH04-CE03-11",
+   "name_vi": "Gia Cát Lượng",
+   "name_orig": "諸葛亮 Zhūgě Liàng, Khổng Minh",
+   "labels": [],
+   "years_raw": "181–234 CN",
+   "born": 181,
+   "died": 234,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Thành Đô, nước Thục Hán, nay thuộc Tứ Xuyên, Trung Quốc",
+   "region": "Đông Á",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Quân sự"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q198211",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Làm thừa tướng nước Thục, ông tổ chức một chính quyền nhỏ và nghèo thành bộ máy đủ sức mở nhiều chiến dịch bắc phạt chống nước Nguỵ lớn hơn nhiều lần. Tam Quốc chí ghi nhận ông cai trị nghiêm mà dân không oán, nhờ pháp chế rõ ràng và áp dụng không phân biệt. Hai bài Xuất sư biểu dâng lên vua trước khi ra quân trở thành văn bản được học thuộc ở Trung Hoa, Triều Tiên, Nhật Bản và Việt Nam. Ông mất trong quân năm 234 CN khi chiến dịch chưa kết thúc.",
+   "why": "Ứng viên cùng thời là Tào Tháo, người mạnh hơn và cũng là nhà thơ, và Tư Mã Ý, đối thủ trực tiếp. Gia Cát Lượng được chọn theo độ bền (b): ông trở thành hình mẫu văn hoá của bề tôi tận tuỵ ở toàn vùng chữ Hán, một vị trí mà người thắng trận không có. Cần phân biệt nhân vật lịch sử trong Tam Quốc chí với nhân vật tiểu thuyết trong Tam quốc diễn nghĩa thế kỷ 14.",
+   "sources": "Trần Thọ, Tam Quốc chí, Gia Cát Lượng truyện; Rafe de Crespigny, Generals of the South (1990).",
+   "inherits": [
+    {
+     "target": "CH03-BCE04-06",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE04-06 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH02-BCE05-09",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE05-09 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Hình mẫu bề tôi tận tuỵ ở vùng văn hoá chữ Hán",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hình mẫu bề tôi tận tuỵ ở vùng văn hoá chữ Hán · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE03",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE04-01": {
+   "id": "CH04-CE04-01",
+   "name_vi": "Constantinus I",
+   "name_orig": "Flavius Valerius Constantinus",
+   "labels": [],
+   "years_raw": "k. 272–337 CN",
+   "born": 272,
+   "died": 337,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Rome, Nicomedia và Constantinopolis",
+   "region": "Châu Âu",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q8413",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Sau trận cầu Milvius năm 312 CN, ông cùng Licinius ban chiếu Milan cho phép tự do thờ phụng, chấm dứt việc nhà nước bách hại Kitô giáo. Bước có hệ quả xa hơn là năm 325 ông triệu tập và chủ toạ công đồng Nicaea để giải quyết tranh chấp về bản tính của Chúa Con — lần đầu quyền lực đế chế đứng ra phân xử một vấn đề tín lý, và tiền lệ ấy định hình quan hệ giữa nhà nước và giáo hội ở châu Âu suốt mười lăm thế kỷ. Ông cũng dời đô về Byzantium, đổi tên thành Constantinopolis năm 330.",
+   "why": "Ứng viên cùng thời là Licinius, đồng ký chiếu Milan rồi bị ông đánh bại, và Diocletianus, chọn ở nhóm trước. Constantinus được chọn theo counterfactual (d): việc khoan dung tôn giáo có thể đã đến từ người khác, nhưng việc hoàng đế triệu công đồng và áp một công thức tín lý cho toàn đế chế là quyết định riêng của ông, và chính nó tạo ra khái niệm chính thống có nhà nước đứng sau.",
+   "sources": "Eusebius, Vita Constantini; Timothy D. Barnes, Constantine: Dynasty, Religion and Power (2011).",
+   "inherits": [
+    {
+     "target": "CH04-CE03-07",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE03-07 · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE04-02",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE04-02 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE04-04",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE04-04 · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Quan hệ nhà nước và giáo hội ở châu Âu",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Quan hệ nhà nước và giáo hội ở châu Âu · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE04",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE04-02": {
+   "id": "CH04-CE04-02",
+   "name_vi": "Athanasius thành Alexandria",
+   "name_orig": "Ἀθανάσιος Athanásios",
+   "labels": [],
+   "years_raw": "k. 296–373 CN",
+   "born": 296,
+   "died": 373,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Alexandria, Ai Cập",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q44024",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Ông bảo vệ công thức Nicaea rằng Chúa Con đồng bản thể với Chúa Cha, chống lại lập trường Arius vốn chiếm ưu thế trong triều đình nhiều giai đoạn, và bị đày năm lần vì việc đó. Trong thư Phục sinh năm 367, ông liệt kê hai mươi bảy sách Tân Ước — danh sách sớm nhất còn lại trùng khớp hoàn toàn với quy điển hiện nay. Cuốn Đời thánh Antôn của ông, được dịch sang Latinh ngay sau đó, là tác phẩm đưa đời sống tu trì sa mạc vào phương Tây và khởi phát phong trào đan tu.",
+   "why": "Ứng viên trực tiếp là Arius, đối thủ của ông, và Basiliô thành Caesarea ở thế hệ sau, người hoàn thiện công thức ba ngôi. Athanasiô được chọn theo counterfactual (d): lập trường Nicaea nhiều lần ở thế yếu về chính trị, và việc nó sống sót gắn chặt với sự kiên trì của ông qua năm lần lưu đày. Danh sách quy điển năm 367 cũng là của riêng ông.",
+   "sources": "Athanasiô, Thư Phục sinh thứ 39 (367); Khaled Anatolios, Athanasius (2004).",
+   "inherits": [
+    {
+     "target": "CH04-CE04-01",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE04-01 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE03-02",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE03-02 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Quy điển Tân Ước và tín điều Nicaea",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Quy điển Tân Ước và tín điều Nicaea · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Phong trào đan tu phương Tây",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phong trào đan tu phương Tây · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE04",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE04-03": {
+   "id": "CH04-CE04-03",
+   "name_vi": "Wulfila",
+   "name_orig": "𐍅𐌿𐌻𐍆𐌹𐌻𐌰, Ulfilas",
+   "labels": [],
+   "years_raw": "k. 311–383 CN",
+   "born": 311,
+   "died": 383,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "vùng Danube, lãnh thổ người Goth",
+   "region": "Châu Âu",
+   "fields": [
+    "Ngôn ngữ học",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q107317",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Để dịch Kinh Thánh sang tiếng Goth, ông phải tạo trước một bộ chữ cái, ghép từ chữ Hy Lạp, chữ Latinh và chữ rune. Bản dịch của ông là văn bản dài đầu tiên của bất kỳ ngôn ngữ German nào, nên toàn bộ hiểu biết về giai đoạn sớm của nhánh ngôn ngữ này — mà tiếng Anh, Đức, Hà Lan và các tiếng Bắc Âu đều thuộc về — dựa vào nó. Bản chép đẹp nhất còn lại là Codex Argenteus, viết bằng mực bạc trên da tím. Ông theo lập trường Arius, nên các vương quốc German về sau cũng vậy.",
+   "why": "Không nêu được ứng viên cùng thời: không ai khác trong thế giới German thế kỷ 4 để lại văn bản. Wulfila được chọn theo tính nguyên bản (c) và phạm vi (a) của tư liệu: ông vừa tạo chữ viết vừa tạo văn bản, và sự trống vắng xung quanh ông chính là lý do bản dịch ấy không thay thế được trong ngôn ngữ học lịch sử German.",
+   "sources": "Codex Argenteus, Đại học Uppsala; Carla Falluomini, The Gothic Version of the Gospels and Pauline Epistles (2015).",
+   "inherits": [
+    {
+     "target": "CH04-CE04-02",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE04-02 · phản bác · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Ngôn ngữ học lịch sử các ngôn ngữ German",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Ngôn ngữ học lịch sử các ngôn ngữ German · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Kitô giáo Arius ở các vương quốc German",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Kitô giáo Arius ở các vương quốc German · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "CE04",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE04-04": {
+   "id": "CH04-CE04-04",
+   "name_vi": "Julianus",
+   "name_orig": "Flavius Claudius Julianus, Julianus Bội giáo",
+   "labels": [],
+   "years_raw": "331–363 CN",
+   "born": 331,
+   "died": 363,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Constantinopolis, Gallia và Ba Tư",
+   "region": "Châu Âu",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Triết học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q33941",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Là hoàng đế không theo Kitô giáo cuối cùng, ông thử một việc chưa ai làm: tổ chức lại tôn giáo cổ truyền theo đúng những gì khiến đối thủ mạnh. Ông lập hệ tăng lữ có thứ bậc, buộc họ giữ đời sống đạo đức, và mở cơ sở từ thiện cho người nghèo — ông viết thẳng rằng người Galilee nuôi cả người nghèo của họ lẫn của ta, nên ta thua. Ông cũng cấm người Kitô giáo dạy văn chương cổ điển. Chương trình này chấm dứt khi ông tử trận ở Ba Tư sau hai năm trị vì.",
+   "why": "Ứng viên cùng thời là Libanius, thầy dạy hùng biện và người bảo vệ văn hoá cổ truyền, và Themistius. Julianus được chọn theo counterfactual (d): ông là phép thử duy nhất trong lịch sử cho câu hỏi liệu quyền lực đế chế có đảo ngược được quá trình Kitô giáo hoá, và việc chương trình sụp ngay khi ông chết là một dữ kiện về giới hạn của quyền lực nhà nước trước thay đổi xã hội.",
+   "sources": "Julianus, Chống người Galilee và các thư; Glen Bowersock, Julian the Apostate (1978).",
+   "inherits": [
+    {
+     "target": "CH04-CE03-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE03-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE04-01",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE04-01 · phản bác · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Tranh luận cận đại về Kitô giáo hoá và khoan dung",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Tranh luận cận đại về Kitô giáo hoá và khoan dung · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE04",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE04-05": {
+   "id": "CH04-CE04-05",
+   "name_vi": "Shapur II",
+   "name_orig": "𐭱𐭧𐭯𐭥𐭧𐭥𐭩",
+   "labels": [],
+   "years_raw": "309–379 CN",
+   "born": 309,
+   "died": 379,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Ctesiphon, đế chế Sasan",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Quân sự"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q234860",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Bảy mươi năm trị vì của ông là triều dài nhất lịch sử Iran, và truyền thống chép ông được tôn làm vua từ khi còn trong bụng mẹ. Ông lấy lại các tỉnh phía đông Lưỡng Hà sau khi Julianus tử trận, và hiệp ước năm 363 CN định lại biên giới theo hướng có lợi cho Ba Tư trong nhiều thế hệ. Về bên trong, ông đẩy việc tập hợp và chuẩn hoá kinh Avesta dưới sự chủ trì của tăng lữ, và vì Kitô giáo vừa thành tôn giáo của đối thủ La Mã, ông mở cuộc bách hại kéo dài với cộng đồng Kitô hữu Ba Tư.",
+   "why": "Ứng viên cùng thời là Julianus, đối thủ của ông, chọn ở mục trước, và Jovianus, người ký hiệp ước 363. Shapur II được chọn theo độ bền (b): đường biên giới và thế cân bằng Rome–Ba Tư do ông định hình đứng tới khi Hồi giáo nổi lên, và việc chuẩn hoá Avesta dưới triều ông là bước quyết định cho hình dạng Hoả giáo về sau.",
+   "sources": "Ammianus Marcellinus, Res Gestae, q. XVII–XXV; Touraj Daryaee, Sasanian Persia (2009).",
+   "inherits": [
+    {
+     "target": "CH04-CE03-06",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE03-06 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Chuẩn hoá kinh Avesta và Hoả giáo hậu kỳ",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Chuẩn hoá kinh Avesta và Hoả giáo hậu kỳ · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Thế cân bằng Rome–Ba Tư tới thế kỷ 7",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Thế cân bằng Rome–Ba Tư tới thế kỷ 7 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE04",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE04-06": {
+   "id": "CH04-CE04-06",
+   "name_vi": "Pappus xứ Alexandria",
+   "name_orig": "Πάππος Páppos",
+   "labels": [],
+   "years_raw": "k. 290–350 CN",
+   "born": 290,
+   "died": 350,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Alexandria, Ai Cập",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Toán học"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q211783",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Bộ Tuyển tập tám quyển vừa trình bày lại vừa mở rộng hình học Hy Lạp, và vì ông mô tả kỹ nội dung những công trình nay đã mất, tác phẩm này là nguồn chính để biết toán học Hy Lạp từng có những gì. Ông nêu bài toán về quỹ tích ứng với bốn đường thẳng — bài toán mà Descartes lấy làm ví dụ mở đầu cho hình học giải tích năm 1637, nói rõ rằng phương pháp cũ không giải nổi. Định lý mang tên ông về sáu điểm trên hai đường thẳng là một kết quả nền của hình học xạ ảnh.",
+   "why": "Ứng viên cùng thành phố là Theon xứ Alexandria ở thế hệ sau, người hiệu đính Euclid, và Diophantus, chọn ở nhóm trước. Pappus được chọn theo counterfactual (d): bài toán quỹ tích của ông là chỗ cụ thể mà Descartes dùng để chứng minh rằng cần một phương pháp mới, nên mạch từ ông tới hình học giải tích là ngắn và có thể chỉ ra bằng văn bản.",
+   "sources": "Pappus, Collectio, q. VII, bản dịch Alexander Jones (1986); Thomas Heath, A History of Greek Mathematics (1921), t. II.",
+   "inherits": [
+    {
+     "target": "CH03-BCE02-08",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE02-08 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE03-03",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE03-03 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Hình học giải tích của Descartes",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hình học giải tích của Descartes · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Hình học xạ ảnh",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hình học xạ ảnh · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE04",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE04-07": {
+   "id": "CH04-CE04-07",
+   "name_vi": "Vương Hi Chi",
+   "name_orig": "王羲之 Wáng Xīzhī",
+   "labels": [],
+   "years_raw": "303–361 CN",
+   "born": 303,
+   "died": 361,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Cối Kê, nay thuộc Chiết Giang, Trung Quốc",
+   "region": "Đông Á",
+   "fields": [
+    "Nghệ thuật/Kiến trúc"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q378564",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Ông định hình hành thư và thảo thư thành hình thức nghệ thuật có quy phạm riêng, tách khỏi chức năng ghi chép. Bài tựa Lan Đình, viết năm 353 CN trong một buổi họp mặt bên suối, được coi là tác phẩm thư pháp mẫu mực của toàn bộ truyền thống Đông Á. Nghịch lý là không một nét bút gốc nào của ông còn lại: mọi thứ hiện có đều là bản mô, bản khắc đá hoặc bản chép, và chính việc các triều đại sau liên tục mô lại đã biến phong cách ông thành chuẩn mực được dạy ở Trung Hoa, Nhật Bản, Triều Tiên và Việt Nam.",
+   "why": "Ứng viên cùng thời là Vương Hiến Chi, con ông, cũng được xếp hàng đầu, và Chung Diêu ở thế hệ trước, người định hình khải thư. Vương Hi Chi được chọn theo độ bền (b): ông là chuẩn mực mà mọi người học thư pháp Đông Á phải đi qua, một vị trí mà không ai khác trong lĩnh vực này giữ được suốt mười bảy thế kỷ.",
+   "sources": "Lan Đình tự, các bản mô đời Đường; Lothar Ledderose, Mi Fu and the Classical Tradition of Chinese Calligraphy (1979).",
+   "inherits": [
+    {
+     "target": "Chung Diêu và truyền thống khải thư",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Chung Diêu và truyền thống khải thư · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Thư pháp ở Trung Hoa, Nhật Bản, Triều Tiên và Việt Nam",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Thư pháp ở Trung Hoa, Nhật Bản, Triều Tiên và Việt Nam · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE04",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE04-08": {
+   "id": "CH04-CE04-08",
+   "name_vi": "Cố Khải Chi",
+   "name_orig": "顧愷之 Gù Kǎizhī",
+   "labels": [],
+   "years_raw": "k. 345–406 CN",
+   "born": 345,
+   "died": 406,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Kiến Khang, nay là Nam Kinh, Trung Quốc",
+   "region": "Đông Á",
+   "fields": [
+    "Nghệ thuật/Kiến trúc"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q378555",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Ông là hoạ gia Trung Hoa sớm nhất vừa có tác phẩm truyền lại qua bản mô vừa có trước tác lý luận. Luận điểm của ông là truyền thần tả chiếu: cái phải vẽ cho được là thần thái, không phải hình dáng, và ông nói rõ rằng chỗ quyết định nằm ở con mắt. Cách đặt vấn đề ấy khiến hội hoạ Đông Á từ đầu đã lấy tiêu chí tinh thần làm chuẩn thay vì độ giống. Bức Nữ sử châm đồ, qua bản mô đời Đường nay ở Bảo tàng Anh, là hiện vật gần nhất với hội hoạ nhân vật giai đoạn này.",
+   "why": "Ứng viên là Tông Bính, người viết luận sớm nhất về tranh sơn thuỷ cùng giai đoạn, và Tạ Hách ở thế kỷ 6, người đặt ra lục pháp. Cố Khải Chi được chọn theo tính nguyên bản (c): tiêu chí truyền thần là của ông và có trước lục pháp của Tạ Hách, nên ông là chỗ bắt đầu của lý luận hội hoạ Đông Á chứ không phải người hệ thống hoá nó.",
+   "sources": "Nữ sử châm đồ, bản mô, Bảo tàng Anh; Wen C. Fong, Art as History: Calligraphy and Painting as One (2014).",
+   "inherits": [
+    {
+     "target": "CH04-CE03-10",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE03-10 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Lý luận hội hoạ Đông Á và lục pháp của Tạ Hách",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Lý luận hội hoạ Đông Á và lục pháp của Tạ Hách · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE04",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE04-09": {
+   "id": "CH04-CE04-09",
+   "name_vi": "Chandragupta II",
+   "name_orig": "चन्द्रगुप्त द्वितीय, Vikramāditya",
+   "labels": [],
+   "years_raw": "trị vì k. 375–415 CN",
+   "born": 375,
+   "died": 415,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Pataliputra và Ujjain, đế chế Gupta",
+   "region": "Nam Á",
+   "fields": [
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q844536",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Ông đánh bại các Kshatrapa phía tây, đưa đế chế Gupta ra tới biển Arab và mở đường thương mại đường biển. Giai đoạn trị vì của ông thường được lấy làm đỉnh của thời Gupta: tiền bạc theo chuẩn mới, thơ Sanskrit cổ điển nở rộ, và điêu khắc Mathura cùng Sarnath định hình hình tượng Phật và thần Ấn giáo cho nhiều thế kỷ. Nhà sư Trung Hoa Pháp Hiển đi qua vùng này dưới triều ông và để lại mô tả từ bên ngoài, nguồn hiếm cho thấy đời sống thường dân chứ không chỉ bi ký ca tụng.",
+   "why": "Ứng viên cùng triều là Samudragupta, cha ông, người mở rộng lãnh thổ và để lại bi ký trụ Allahabad, và Kumaragupta I, con ông. Chandragupta II được chọn theo độ bền (b): chính giai đoạn ông trị vì là cái mà truyền thống Ấn Độ gọi là thời hoàng kim và lấy làm điểm quy chiếu, và danh hiệu Vikramāditya gắn với ông thành khuôn mẫu vua lý tưởng trong văn chương về sau.",
+   "sources": "Upinder Singh, A History of Ancient and Early Medieval India (2008); bi ký trụ sắt Delhi.",
+   "inherits": [
+    {
+     "target": "Samudragupta",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Samudragupta · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE04-12",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE04-12 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Nghệ thuật và thơ ca Sanskrit thời Gupta",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Nghệ thuật và thơ ca Sanskrit thời Gupta · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE04",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE04-10": {
+   "id": "CH04-CE04-10",
+   "name_vi": "Asaṅga",
+   "name_orig": "असङ्ग, Vô Trước",
+   "labels": [],
+   "years_raw": "k. 300–370 CN",
+   "born": 300,
+   "died": 370,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Purushapura và Ayodhya, bắc Ấn Độ",
+   "region": "Nam Á",
+   "fields": [
+    "Triết học",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q379905",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Ông lập phái Du-già hành, nhánh Đại thừa thứ hai bên cạnh Trung quán. Luận điểm trung tâm là mọi thứ ta nắm bắt đều là biểu hiện của thức, nên thế giới như ta biết không tách rời quá trình nhận thức. Ông đưa ra khái niệm a-lại-da thức, một tầng chứa giữ chủng tử của mọi hành vi và làm nền cho sự liên tục của cá nhân qua các đời — một mô hình tâm lý học có cấu trúc mà Phật giáo trước đó chưa có. Bộ Nhiếp đại thừa luận và Du-già sư địa luận gắn với tên ông.",
+   "why": "Ứng viên trong cùng phái là Vasubandhu, em ông, chọn riêng ở mục sau, và Maitreyanātha, nhân vật mà truyền thống coi là nguồn mặc khải của ông và giới nghiên cứu còn tranh luận có thật hay không. Asaṅga được chọn theo tính nguyên bản (c): khung a-lại-da thức là của ông, và nó là nền cho toàn bộ tâm lý học Phật giáo về sau.",
+   "sources": "Asaṅga, Mahāyānasaṃgraha, bản dịch Étienne Lamotte (1938–1939); Dan Lusthaus, Buddhist Phenomenology (2002).",
+   "inherits": [
+    {
+     "target": "CH04-CE02-08",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE02-08 · phản bác · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH02-BCE06-03",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE06-03 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE04-11",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE04-11 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Phật giáo Duy thức ở Đông Á và Tây Tạng",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phật giáo Duy thức ở Đông Á và Tây Tạng · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE04",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE04-11": {
+   "id": "CH04-CE04-11",
+   "name_vi": "Vasubandhu",
+   "name_orig": "वसुबन्धु, Thế Thân",
+   "labels": [],
+   "years_raw": "k. 320–400 CN",
+   "born": 320,
+   "died": 400,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Purushapura và Ayodhya, bắc Ấn Độ",
+   "region": "Nam Á",
+   "fields": [
+    "Triết học",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q316343",
+   "big_questions": [
+    "Thực tại",
+    "Con người"
+   ],
+   "ideas": "Bộ A-tì-đạt-ma câu-xá luận của ông tóm lược và phê phán toàn bộ hệ thống phân tích tâm pháp của Phật giáo bộ phái, và trở thành sách giáo khoa chuẩn ở mọi truyền thống Phật giáo, kể cả những phái mà nó phê phán. Sau đó ông theo anh sang Du-già hành và viết Nhị thập tụng cùng Tam thập tụng, hai bản văn ngắn trình bày thuyết duy thức ở dạng cô đọng nhất. Việc một người viết cả bộ tổng luận của truyền thống cũ lẫn bản tuyên ngôn của truyền thống mới là chỗ khiến ông đặc biệt.",
+   "why": "Ứng viên là Asaṅga, anh ông, chọn ở mục trước, và Saṃghabhadra, người viết cả một bộ để bác lại Câu-xá luận. Vasubandhu được chọn theo phạm vi (a): Câu-xá luận được dùng làm giáo trình ở Ấn Độ, Tây Tạng, Trung Hoa, Nhật Bản và Việt Nam suốt hơn một nghìn năm. Frauwallner từng cho rằng có hai Vasubandhu khác nhau; tranh luận này chưa khép lại.",
+   "sources": "Vasubandhu, Abhidharmakośabhāṣya, bản dịch Leo M. Pruden (1988–1990); Jonathan C. Gold, Paving the Great Way: Vasubandhu's Unifying Buddhist Philosophy (2015).",
+   "inherits": [
+    {
+     "target": "CH04-CE04-10",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE04-10 · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE05-07",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-07 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Giáo trình A-tì-đạt-ma ở toàn vùng Phật giáo",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Giáo trình A-tì-đạt-ma ở toàn vùng Phật giáo · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE04",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE04-12": {
+   "id": "CH04-CE04-12",
+   "name_vi": "Pháp Hiển",
+   "name_orig": "法顯 Fǎxiǎn",
+   "labels": [],
+   "years_raw": "k. 337–422 CN",
+   "born": 337,
+   "died": 422,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Trường An, Ấn Độ, Sri Lanka và Kiến Khang",
+   "region": "Đông Á",
+   "fields": [
+    "Khám phá/Địa lý",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q312978",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Khoảng sáu mươi tuổi, ông rời Trường An năm 399 CN đi bộ qua sa mạc Taklamakan và dãy Hindu Kush để tìm bản giới luật đầy đủ, ở Ấn Độ và Sri Lanka hơn mười năm, rồi về bằng đường biển qua Java năm 412. Phật quốc ký ghi lại hành trình ấy là ký sự đầu tiên của một người Đông Á về Nam Á, và vì ông quan tâm tới việc tăng đoàn sinh hoạt ra sao, văn bản cho biết nhiều chi tiết đời sống mà bi ký Gupta không chép. Ông cũng mang về và dịch các bộ luật tạng.",
+   "why": "Ứng viên cùng loại là Huyền Trang ở thế kỷ 7, người đi xa hơn và để lại ký sự chi tiết hơn, và Nghĩa Tịnh. Pháp Hiển được chọn theo tính nguyên bản (c) và counterfactual (d): ông đi trước Huyền Trang hơn hai thế kỷ, và ghi chép của ông là nguồn ngoài hiếm hoi cho Ấn Độ thời Gupta, giai đoạn mà tư liệu bản địa gần như toàn bi ký ca tụng.",
+   "sources": "Pháp Hiển, Phật quốc ký, bản dịch James Legge (1886); Max Deeg, Das Gaoseng-Faxian-Zhuan (2005).",
+   "inherits": [
+    {
+     "target": "CH04-CE04-09",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE04-09 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE02-03",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE02-03 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH04-CE05-07",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-07 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Hiểu biết hiện đại về Ấn Độ thời Gupta",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Hiểu biết hiện đại về Ấn Độ thời Gupta · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "CE04",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE05-01": {
+   "id": "CH04-CE05-01",
+   "name_vi": "Augustinô thành Hippo",
+   "name_orig": "Aurelius Augustinus",
+   "labels": [],
+   "years_raw": "354–430 CN",
+   "born": 354,
+   "died": 430,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Thagaste, Milano và Hippo Regius, Bắc Phi",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Triết học",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q8018",
+   "big_questions": [
+    "Con người",
+    "Thực tại"
+   ],
+   "ideas": "Tự thuật là tác phẩm phương Tây đầu tiên lấy đời sống nội tâm của chính tác giả làm đối tượng khảo sát, kể cả những chỗ ông không hiểu nổi mình. Thành đô Thiên Chúa, viết sau khi Rome bị cướp phá năm 410, tách số phận của đức tin khỏi số phận của một đế chế bằng hình ảnh hai thành đô đan xen trong lịch sử. Học thuyết nguyên tội và ân sủng, hình thành qua cuộc tranh luận với Pelagius, là khung mà cả Công giáo lẫn Cải cách về sau đều làm việc bên trong.",
+   "why": "Ứng viên cùng thời là Hieronymus, người dịch bộ Vulgata được dùng ở phương Tây suốt nghìn năm, và Ambrosiô thành Milano, người rửa tội cho ông. Augustinô được chọn theo phạm vi (a) và độ bền (b): không tác giả Kitô giáo nào khác được cả Thomas Aquinas lẫn Luther và Calvin cùng viện dẫn làm thẩm quyền. Ông theo Manichaeism chín năm trước khi bác lại nó, và đọc Plotinus trước khi trở lại đạo.",
+   "sources": "Augustinô, Confessiones và De Civitate Dei; Peter Brown, Augustine of Hippo: A Biography (2000).",
+   "inherits": [
+    {
+     "target": "CH04-CE03-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE03-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE01-02",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE01-02 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE02-10",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE02-10 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Thần học Latinh từ kinh viện tới Cải cách",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Thần học Latinh từ kinh viện tới Cải cách · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Thể loại tự thuật nội tâm ở phương Tây",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Thể loại tự thuật nội tâm ở phương Tây · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "CE05",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE05-02": {
+   "id": "CH04-CE05-02",
+   "name_vi": "Giáo hoàng Lêô I",
+   "name_orig": "Leo Magnus",
+   "labels": [],
+   "years_raw": "k. 400–461 CN",
+   "born": 400,
+   "died": 461,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Rome",
+   "region": "Châu Âu",
+   "fields": [
+    "Tôn giáo/Tâm linh",
+    "Luật"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q43954",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Bức thư ông gửi công đồng Chalcedon năm 451, quen gọi là Tomus, trình bày công thức một ngôi vị trong hai bản tính và được công đồng chấp nhận làm chuẩn — công thức ấy vẫn là ranh giới phân chia giữa các giáo hội Chalcedon và phi Chalcedon tới nay. Ông cũng là người đầu tiên lập luận có hệ thống rằng giám mục Rome kế thừa quyền của Phêrô theo nghĩa pháp lý, không chỉ danh dự. Năm 452 ông đi gặp Attila ở bắc Italia, và quân Hung rút.",
+   "why": "Ứng viên cùng thời là Cyrillô thành Alexandria ở thế hệ trước, người định hình tranh luận Kitô học, và Flavianus thành Constantinopolis. Lêô được chọn theo độ bền (b): công thức Chalcedon và lập luận pháp lý về quyền tối thượng của toà Rome là hai thứ có hệ quả thiết chế dài nhất, và cả hai đều do ông phát biểu dưới dạng văn bản chính thức.",
+   "sources": "Lêô I, Tomus ad Flavianum (449); Susan Wessel, Leo the Great and the Spiritual Rebuilding of a Universal Rome (2008).",
+   "inherits": [
+    {
+     "target": "CH04-CE02-09",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE02-09 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Phân ly giữa các giáo hội Chalcedon và phi Chalcedon",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Phân ly giữa các giáo hội Chalcedon và phi Chalcedon · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Học thuyết quyền tối thượng của giáo hoàng",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Học thuyết quyền tối thượng của giáo hoàng · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "CE05",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE05-03": {
+   "id": "CH04-CE05-03",
+   "name_vi": "Proclus",
+   "name_orig": "Πρόκλος Próklos",
+   "labels": [],
+   "years_raw": "412–485 CN",
+   "born": 412,
+   "died": 485,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Athens, Hy Lạp",
+   "region": "Châu Âu",
+   "fields": [
+    "Triết học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q271809",
+   "big_questions": [
+    "Thực tại",
+    "Vũ trụ"
+   ],
+   "ideas": "Bộ Yếu lược thần học trình bày toàn bộ siêu hình học Tân Plato theo lối hình học: hai trăm mười mệnh đề, mỗi mệnh đề kèm chứng minh dựa vào các mệnh đề trước. Đây là nỗ lực sớm nhất biến siêu hình học thành một hệ diễn dịch có cấu trúc như Euclid. Nghịch lý là ảnh hưởng của ông đi qua ngả không ai định trước: một tuyển tập Arab rút từ tác phẩm này, dịch sang Latinh thành Liber de Causis, được châu Âu trung cổ đọc như của Aristotle cho tới khi Aquinas phát hiện nguồn thật.",
+   "why": "Ứng viên cùng trường là Syrianus, thầy ông và người đứng đầu Academy trước đó, và Damascius, người đứng đầu cuối cùng trước khi trường bị đóng năm 529. Proclus được chọn theo độ bền (b) và tính nguyên bản (c): lối trình bày diễn dịch là của ông, và qua Liber de Causis cùng Pseudo-Dionysius, siêu hình học của ông vào cả kinh viện Latinh lẫn triết học Hồi giáo.",
+   "sources": "Proclus, Elements of Theology, bản dịch E. R. Dodds (1963); Stanford Encyclopedia of Philosophy, \"Proclus\" (https://plato.stanford.edu/entries/proclus/).",
+   "inherits": [
+    {
+     "target": "CH04-CE03-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE03-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE04-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE04-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Liber de Causis và siêu hình học kinh viện",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Liber de Causis và siêu hình học kinh viện · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Huyền học Kitô giáo qua Pseudo-Dionysius",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Huyền học Kitô giáo qua Pseudo-Dionysius · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE05",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE05-04": {
+   "id": "CH04-CE05-04",
+   "name_vi": "Attila",
+   "name_orig": "Attila, vua người Hung",
+   "labels": [],
+   "years_raw": "k. 406–453 CN",
+   "born": 406,
+   "died": 453,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "đồng bằng Pannonia, Gallia và bắc Italia",
+   "region": "Châu Âu",
+   "fields": [
+    "Quân sự"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q36724",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Ông gộp các nhóm Hung và các dân phụ thuộc thành một liên minh duy nhất kéo dài từ sông Rhine tới thảo nguyên Pontus, và biến việc đe doạ Constantinopolis thành nguồn thu cống phẩm đều đặn bằng vàng. Chiến dịch Gallia năm 451 và Italia năm 452 không chiếm được đất, nhưng áp lực của liên minh ấy đẩy hàng loạt dân German vào trong biên giới La Mã, và chính dòng di cư đó chứ không phải trận đánh nào là cái làm nửa tây đế chế tan rã. Liên minh sụp ngay sau khi ông chết năm 453.",
+   "why": "Ứng viên cùng thời là Aetius, tướng La Mã chặn ông ở Gallia, và Geiseric của người Vandal, người chiếm Carthage và cướp phá Rome. Attila được chọn theo counterfactual (d): áp lực do liên minh của ông tạo ra là động lực đẩy làn sóng di cư German, và chính cấu trúc liên minh ấy phụ thuộc vào cá nhân ông tới mức tan ngay khi ông chết — một ca hiếm mà counterfactual kiểm chứng được bằng chính sự sụp đổ.",
+   "sources": "Priscus, các mảnh còn lại qua Jordanes; Christopher Kelly, The End of Empire: Attila the Hun and the Fall of Rome (2009).",
+   "inherits": [
+    {
+     "target": "Rugila",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Rugila · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Làn sóng di cư German và sự tan rã của Tây La Mã",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Làn sóng di cư German và sự tan rã của Tây La Mã · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Hình tượng Etzel trong sử thi German",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hình tượng Etzel trong sử thi German · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE05",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE05-05": {
+   "id": "CH04-CE05-05",
+   "name_vi": "Theodosius II",
+   "name_orig": "Flavius Theodosius",
+   "labels": [],
+   "years_raw": "401–450 CN",
+   "born": 401,
+   "died": 450,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Constantinopolis",
+   "region": "Châu Âu",
+   "fields": [
+    "Luật",
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q160353",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Bộ Codex Theodosianus ban hành năm 438 tập hợp các sắc lệnh hoàng đế từ thời Constantinus trở đi, sắp theo chủ đề và loại bỏ phần mâu thuẫn — lần đầu luật đế chế được pháp điển hoá chính thức, và là khuôn mẫu trực tiếp cho bộ luật Justinianus một thế kỷ sau. Vì nhiều sắc lệnh gốc đã mất, bộ này là nguồn chính cho hành chính, thuế khoá và chính sách tôn giáo của La Mã hậu kỳ. Tường thành Constantinopolis dựng dưới triều ông giữ được thành phố gần một nghìn năm.",
+   "why": "Ứng viên cùng thời là Pulcheria, chị ông và là người nắm phần lớn quyền điều hành, và Anthemius, quan trấn thủ chủ trì việc xây tường thành. Theodosius II được chọn theo độ bền (b): pháp điển mang tên ông là mắt xích giữa luật La Mã cổ điển và bộ Justinianus, tức giữa luật cổ đại và truyền thống dân luật châu Âu.",
+   "sources": "Codex Theodosianus, bản dịch Clyde Pharr (1952); Fergus Millar, A Greek Roman Empire (2006).",
+   "inherits": [
+    {
+     "target": "CH03-BCE01-03",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE01-03 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE04-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE04-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Corpus Iuris Civilis của Justinianus",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Corpus Iuris Civilis của Justinianus · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống dân luật châu Âu",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống dân luật châu Âu · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE05",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE05-06": {
+   "id": "CH04-CE05-06",
+   "name_vi": "Hypatia",
+   "name_orig": "Ὑπατία Hypatía",
+   "labels": [],
+   "years_raw": "k. 360–415 CN",
+   "born": 360,
+   "died": 415,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Alexandria, Ai Cập",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Toán học",
+    "Triết học"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q11903",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Bà dạy toán học và triết học Tân Plato ở Alexandria, và theo các nguồn đương thời thì học trò gồm cả người theo Kitô giáo lẫn người không. Công việc chính được ghi lại là hiệu đính và chú giải: Almagest của Ptolemy, Conics của Apollonius và Arithmetica của Diophantus — tức bà thuộc mạch người giữ cho các văn bản toán học Hy Lạp còn đọc được. Năm 415 bà bị một đám đông giết giữa phố. Các nguồn gần thời nhất quy việc đó cho xung đột chính trị giữa tổng trấn Orestes và giám mục Cyrillô.",
+   "why": "Ứng viên cùng thành phố là Theon, cha bà và cũng là người hiệu đính Euclid, và Synesius thành Cyrene, học trò bà. Hypatia được chọn theo chất lượng chứng thực và phạm vi (a): bà là nhà toán học nữ sớm nhất mà công việc cụ thể được ghi lại bằng nguồn đương thời, trong khi hình tượng về bà ở thế kỷ 18–19 phần lớn là kiến tạo phục vụ tranh luận khác.",
+   "sources": "Socrates Scholasticus, Historia Ecclesiastica, q. VII; Edward J. Watts, Hypatia: The Life and Legend of an Ancient Philosopher (2017).",
+   "inherits": [
+    {
+     "target": "Theon xứ Alexandria",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Theon xứ Alexandria · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE03-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE03-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Việc bảo tồn văn bản toán học Hy Lạp",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Việc bảo tồn văn bản toán học Hy Lạp · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE05",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE05-07": {
+   "id": "CH04-CE05-07",
+   "name_vi": "Cưu-ma-la-thập",
+   "name_orig": "鳩摩羅什, Kumārajīva",
+   "labels": [],
+   "years_raw": "344–413 CN",
+   "born": 344,
+   "died": 413,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Kucha, Lương Châu và Trường An",
+   "region": "Đông Á",
+   "fields": [
+    "Ngôn ngữ học",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q335293",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Bị bắt giữ mười sáu năm ở Lương Châu rồi được đưa về Trường An năm 401 CN, ông được giao một ban dịch thuật do nhà nước cấp kinh phí với hàng trăm người. Cách làm của ông thay đổi hẳn chất lượng: dịch theo nghĩa chứ không theo chữ, và bỏ lối cách nghĩa vốn mượn từ ngữ Đạo gia để diễn Phật lý. Các bản ông dịch — Pháp hoa, Kim cương, Duy-ma-cật, cùng Trung luận của Nāgārjuna — tới nay vẫn là bản tụng niệm chuẩn ở Trung Hoa, Nhật Bản, Triều Tiên và Việt Nam.",
+   "why": "Ứng viên cùng lĩnh vực là Đạo An, người tổ chức việc dịch thuật trước ông và lập mục lục kinh, và Huyền Trang ở thế kỷ 7, dịch chính xác hơn về thuật ngữ. Cưu-ma-la-thập được chọn theo độ bền (b): dù bản Huyền Trang sát nguyên văn hơn, chính bản của ông mới là bản được tụng suốt mười sáu thế kỷ, nên ảnh hưởng thực tế lớn hơn hẳn.",
+   "sources": "Cao tăng truyện, Cưu-ma-la-thập truyện; Erik Zürcher, The Buddhist Conquest of China (1959).",
+   "inherits": [
+    {
+     "target": "CH04-CE02-08",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE02-08 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE04-11",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE04-11 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE03-10",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE03-10 · phản bác · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Phật giáo Đông Á và kinh tụng tiếng Hán",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Phật giáo Đông Á và kinh tụng tiếng Hán · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH90-CE01_09-04",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH90-CE01_09-04 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE05",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE05-08": {
+   "id": "CH04-CE05-08",
+   "name_vi": "Buddhaghosa",
+   "name_orig": "बुद्धघोस, Phật Âm",
+   "labels": [],
+   "years_raw": "hoạt động k. 410–450 CN",
+   "born": 410,
+   "died": 450,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Anuradhapura, Sri Lanka",
+   "region": "Nam Á",
+   "fields": [
+    "Tôn giáo/Tâm linh",
+    "Triết học"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q335247",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Bộ Thanh tịnh đạo luận sắp toàn bộ con đường tu tập Theravāda theo ba phần giới, định và tuệ, và mô tả từng bậc thiền cùng từng đề mục quán niệm ở mức chi tiết của một sách hướng dẫn thực hành. Công việc còn lại cũng quan trọng không kém: ông dịch các bộ chú giải tiếng Sinhala sang tiếng Pali. Bản Sinhala về sau mất hết, nên nếu không có việc dịch ấy thì cả tầng chú giải cổ của Theravāda cũng mất theo. Hai việc đó khiến ông thành thẩm quyền chuẩn của Theravāda tới nay.",
+   "why": "Ứng viên cùng truyền thống là Dhammapāla ở thế kỷ sau, người chú giải tiếp phần còn lại của tạng kinh, và Buddhadatta, cũng cùng thời ở Sri Lanka. Buddhaghosa được chọn theo phạm vi (a) và độ bền (b): Thanh tịnh đạo luận là sách chuẩn của Theravāda ở Sri Lanka, Miến Điện, Thái Lan, Lào và Campuchia suốt mười lăm thế kỷ. Tiểu sử của ông gần như toàn truyền thuyết muộn.",
+   "sources": "Buddhaghosa, Visuddhimagga, bản dịch Bhikkhu Ñāṇamoli (1956); Kate Crosby, Theravada Buddhism: A New History (2013).",
+   "inherits": [
+    {
+     "target": "CH03-BCE03-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE03-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH02-BCE06-03",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE06-03 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Theravāda ở Sri Lanka và Đông Nam Á lục địa",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Theravāda ở Sri Lanka và Đông Nam Á lục địa · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "CE05",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE05-09": {
+   "id": "CH04-CE05-09",
+   "name_vi": "Āryabhaṭa",
+   "name_orig": "आर्यभट",
+   "labels": [],
+   "years_raw": "476–550 CN",
+   "born": 476,
+   "died": 550,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Kusumapura, nay là vùng Patna, Ấn Độ",
+   "region": "Nam Á",
+   "fields": [
+    "Toán học",
+    "Khoa học tự nhiên"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q11359",
+   "big_questions": [
+    "Vũ trụ"
+   ],
+   "ideas": "Bộ Āryabhaṭīya, soạn xong năm 499 CN khi ông hai mươi ba tuổi, gồm một trăm hai mươi mốt câu kệ cô đọng về toán học và thiên văn. Ông lập bảng sin đầu tiên của lịch sử, đưa ra giá trị xấp xỉ cho số pi là ba phẩy một bốn một sáu và nói thẳng đó chỉ là gần đúng — một nhận định về bản chất con số mà toán học cổ hiếm khi phát biểu. Ông giải thích nhật thực và nguyệt thực bằng bóng che chứ không bằng quỷ nuốt, và cho rằng chính Trái Đất tự quay khiến bầu trời có vẻ chuyển động.",
+   "why": "Ứng viên là Varāhamihira ở thế hệ sau, người tổng hợp năm hệ thiên văn, và Brahmagupta ở thế kỷ 7. Āryabhaṭa được chọn theo tính nguyên bản (c): bảng sin và lập trường Trái Đất tự quay đều không có tiền lệ ở Nam Á, và bảng sin của ông qua các bản dịch Arab là nguồn của lượng giác Hồi giáo rồi châu Âu. Trường năm vắt sang thế kỷ 6, nhưng tác phẩm hoàn thành năm 499.",
+   "sources": "Āryabhaṭīya, bản dịch và chú giải Kripa Shankar Shukla và K. V. Sarma (1976); Kim Plofker, Mathematics in India (2009).",
+   "inherits": [
+    {
+     "target": "Truyền thống Siddhānta thiên văn Ấn Độ",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống Siddhānta thiên văn Ấn Độ · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Lượng giác Hồi giáo và châu Âu",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Lượng giác Hồi giáo và châu Âu · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Thiên văn học Ấn Độ tới Brahmagupta và Bhāskara",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Thiên văn học Ấn Độ tới Brahmagupta và Bhāskara · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "CE05",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE05-10": {
+   "id": "CH04-CE05-10",
+   "name_vi": "Phạm Diệp",
+   "name_orig": "范曄 Fàn Yè",
+   "labels": [],
+   "years_raw": "398–445 CN",
+   "born": 398,
+   "died": 445,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Kiến Khang, nhà Lưu Tống, nay là Nam Kinh, Trung Quốc",
+   "region": "Đông Á",
+   "fields": [
+    "Sử học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q740373",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Ông soạn Hậu Hán thư bằng cách chọn lọc từ hơn mười bộ sử về Đông Hán đã có, và chính bản của ông sống sót trong khi các bản kia mất gần hết. Đóng góp về thể loại là ông thêm thiên Liệt nữ truyện vào chính sử, tức lần đầu phụ nữ được chép thành một mục có hệ thống chứ không chỉ xuất hiện kèm chồng con. Các thiên về Tây Vực và Nam Man cũng là nguồn chữ Hán sớm nhất còn lại về nhiều vùng, trong đó có Giao Chỉ. Ông bị xử tử năm 445 vì dính vào một vụ mưu phản.",
+   "why": "Ứng viên cùng loại là Trần Thọ, tác giả Tam Quốc chí ở thế kỷ trước, và Tư Mã Bưu, một trong các tác giả Đông Hán sử mà ông dựa vào. Phạm Diệp được chọn theo tính nguyên bản (c) và phạm vi (a) của tư liệu: việc lập thiên Liệt nữ là một thay đổi thể loại kéo dài, và bộ của ông là nguồn chính cho cả giai đoạn Đông Hán lẫn cho lịch sử Việt Nam thời Bắc thuộc sớm.",
+   "sources": "Phạm Diệp, Hậu Hán thư; Rafe de Crespigny, Fire over Luoyang: A History of the Later Han Dynasty (2016).",
+   "inherits": [
+    {
+     "target": "CH04-CE01-11",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE01-11 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE01-06",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE01-06 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Thiên Liệt nữ trong chính sử Đông Á",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Thiên Liệt nữ trong chính sử Đông Á · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Hiểu biết hiện đại về Giao Chỉ thời Bắc thuộc sớm",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Hiểu biết hiện đại về Giao Chỉ thời Bắc thuộc sớm · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "CE05",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE05-11": {
+   "id": "CH04-CE05-11",
+   "name_vi": "Tổ Xung Chi",
+   "name_orig": "祖沖之 Zǔ Chōngzhī",
+   "labels": [],
+   "years_raw": "429–500 CN",
+   "born": 429,
+   "died": 500,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Kiến Khang, nhà Lưu Tống và Nam Tề, Trung Quốc",
+   "region": "Đông Á",
+   "fields": [
+    "Toán học",
+    "Khoa học tự nhiên"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q227444",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Ông chặn số pi giữa ba phẩy một bốn một năm chín hai sáu và ba phẩy một bốn một năm chín hai bảy, tức đúng tới bảy chữ số thập phân — mức mà không nơi nào trên thế giới vượt qua trong khoảng chín trăm năm sau đó. Ông cũng đưa ra phân số mật suất ba trăm năm mươi lăm trên một trăm mười ba, xấp xỉ tốt nhất với mẫu số nhỏ. Cùng con trai, ông giải được thể tích hình cầu, đúng bài toán mà Lưu Huy thừa nhận bỏ dở, bằng nguyên lý hai khối có thiết diện bằng nhau thì thể tích bằng nhau.",
+   "why": "Ứng viên là Lưu Huy, chọn ở nhóm trước và là người đặt phương pháp ông dùng, và Hà Thừa Thiên, nhà lịch pháp cùng thời. Tổ Xung Chi được chọn theo tính nguyên bản (c): nguyên lý thiết diện mà ông và con dùng chính là điều Cavalieri phát biểu lại ở châu Âu mười một thế kỷ sau, và kết quả về số pi của ông giữ kỷ lục lâu hơn bất kỳ kết quả tính toán nào khác thời cổ.",
+   "sources": "Tống thư, Luật lịch chí; Jean-Claude Martzloff, A History of Chinese Mathematics (1997).",
+   "inherits": [
+    {
+     "target": "CH04-CE03-09",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE03-09 · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Toán học và lịch pháp Đông Á",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Toán học và lịch pháp Đông Á · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE05",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
+  },
+  "CH04-CE05-12": {
+   "id": "CH04-CE05-12",
+   "name_vi": "Bắc Nguỵ Hiếu Văn Đế",
+   "name_orig": "北魏孝文帝, Thác Bạt Hoằng",
+   "labels": [],
+   "years_raw": "467–499 CN",
+   "born": 467,
+   "died": 499,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Bình Thành và Lạc Dương, nhà Bắc Nguỵ, Trung Quốc",
+   "region": "Đông Á",
+   "fields": [
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q1327614",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Là hoàng đế của một triều do người Tiên Ti lập, ông dời đô về Lạc Dương năm 494 CN rồi cấm dùng tiếng Tiên Ti, y phục và họ Tiên Ti ở triều đình, đổi họ hoàng tộc thành họ Hán, và khuyến khích hôn nhân giữa hai nhóm. Nhưng thiết chế có hệ quả dài nhất là chế độ quân điền đặt từ năm 485: nhà nước chia ruộng theo nhân khẩu và thu lại khi người chết. Nhà Tuỳ và nhà Đường kế thừa nguyên chế độ này, và Nhật Bản cùng Việt Nam về sau đều phỏng theo.",
+   "why": "Ứng viên cùng triều là Thái hậu Phùng thị, người nhiếp chính và thực sự ban chế độ quân điền năm 485, và Thác Bạt Khuê, người lập triều. Hiếu Văn Đế được chọn theo counterfactual (d): chương trình Hán hoá có hệ thống là quyết định của riêng ông và vấp phản đối mạnh từ quý tộc Tiên Ti, và chính nó mở đường cho việc hợp nhất bắc nam dưới nhà Tuỳ một thế kỷ sau.",
+   "sources": "Nguỵ thư, Cao Tổ kỷ; Scott Pearce, Audrey Spiro và Patricia Ebrey (chủ biên), Culture and Power in the Reconstitution of the Chinese Realm (2001).",
+   "inherits": [
+    {
+     "target": "CH03-BCE02-02",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE02-02 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Chế độ quân điền ở nhà Tuỳ, Đường, Nhật Bản và Việt Nam",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Chế độ quân điền ở nhà Tuỳ, Đường, Nhật Bản và Việt Nam · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Sự hợp nhất bắc nam Trung Hoa dưới nhà Tuỳ",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Sự hợp nhất bắc nam Trung Hoa dưới nhà Tuỳ · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE05",
+   "chapter": 4,
+   "file": "ch04.md",
+   "image": null
   },
   "CH90-BCE03_01-01": {
    "id": "CH90-BCE03_01-01",

@@ -274,6 +274,13 @@ def lint_wikidata(all_persons: dict[str, dict], rep: Report, http: C.Http | None
             for it in wd:
                 if it["year"] is None:
                     continue
+                # Với mức chính xác thế kỷ hoặc thiên niên kỷ, giá trị Wikidata là một
+                # KHOẢNG chứ không phải một điểm: +0300/p7 nghĩa là "thế kỷ 3", tức
+                # 201–300. So bằng khoảng cách tới điểm sẽ báo sai đúng ở đầu khoảng
+                # (Galen mất k. 216 bị kêu lệch 84 năm so với "thế kỷ 3" chứa nó).
+                if it["precision"] <= 7 and C.year_in_bucket(mine_y, it["year"], it["precision"]):
+                    best = (0, it["year"], tol, it["precision"])
+                    break
                 t = tol
                 if it["precision"] <= 7:
                     t = max(t, 60)
