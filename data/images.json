@@ -3684,5 +3684,30 @@
   "file": "CH04-CE05-12.jpg",
   "width": 500,
   "how": "thumbnail 500px"
+ },
+ "CH02-BCE07-09": {
+  "status": "embedded",
+  "title": "File:Taharqa portrait, Kerma Museum.jpg",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Taharqa_portrait,_Kerma_Museum.jpg",
+  "note": "",
+  "via": "api",
+  "author": "Matthias Gehricke",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "artwork_date": "2020-06-14",
+  "object_name": "Taharqa portrait, Kerma Museum",
+  "attribution_required": true,
+  "caption": "Chân dung Taharqa (tưởng tượng). Ảnh: Wikimedia Commons, CC BY-SA 4.0.",
+  "imaginary": true,
+  "file": "CH02-BCE07-09.jpg",
+  "width": 500,
+  "how": "thumbnail 500px"
+ },
+ "CH03-BCE02-12": {
+  "status": "no-image",
+  "title": null,
+  "source_url": null,
+  "note": "Wikidata không có P18",
+  "via": null
  }
 }
