@@ -670,7 +670,39 @@
     "**Bốn nguồn phải đọc kèm cảnh báo (quy tắc 7)**",
     "Madelung 1997 là chuyên khảo nghiêng về phía Alid rõ nhất trong giới hiện đại, nên nó không đỡ được câu \"mục này cố ý không chọn phía\" — mục đã ghi thẳng điều đó. Wechsler 1974 là chuyên khảo về Ngụy Trưng, dùng được cho chế độ gián quan nhưng **không** dùng được cho mệnh đề bộ luật; mục đã bổ sung Wallace Johnson cho vế ấy. McRae tuy nhận phần sử liệu của Hồ Thích vẫn **phản đối** lối quy giản Thiền tông thành tranh quyền, nên không được dẫn như người đồng tình. Plofker là người phản đối niên đại Bakhshali công bố năm 2017 — liên quan vì tháng 10/2024 Bodleian đã lùi niên đại bản thảo ấy về 799–1102, tức mệnh đề \"văn bản sớm nhất còn lại\" của mục Brahmagupta vững hơn trước, nhưng vẫn rào vì kết luận vừa mới đảo chiều.",
     "**Ứng viên Việt Nam trong nhóm CE07 (yêu cầu D5)**",
-    "Thế kỷ 7 ở Việt Nam nằm trong thời Bắc thuộc, dưới An Nam đô hộ phủ của nhà Đường từ năm 679. Các nhân vật được định danh trong giai đoạn này — Lý Tự Tiên và Đinh Kiến (khởi nghĩa 687), Mai Thúc Loan (722, thuộc thế kỷ 8) — đều đã có chỗ trong phụ lục `ch90` và được đo bằng hệ quy chiếu của phụ lục. Không ai trong số họ vượt được bốn tiêu chí ở thang toàn nhân loại, nên không có mục nào ở atlas chính cho nhóm này. Tì-ni-đa-lưu-chi, người lập dòng thiền đầu tiên ở Việt Nam, mất năm 594 nên thuộc nhóm CE06; việc có nên đưa ông từ phụ lục lên atlas chính hay không vẫn để P4 quyết."
+    "Thế kỷ 7 ở Việt Nam nằm trong thời Bắc thuộc, dưới An Nam đô hộ phủ của nhà Đường từ năm 679. Các nhân vật được định danh trong giai đoạn này — Lý Tự Tiên và Đinh Kiến (khởi nghĩa 687), Mai Thúc Loan (722, thuộc thế kỷ 8) — đều đã có chỗ trong phụ lục `ch90` và được đo bằng hệ quy chiếu của phụ lục. Không ai trong số họ vượt được bốn tiêu chí ở thang toàn nhân loại, nên không có mục nào ở atlas chính cho nhóm này. Tì-ni-đa-lưu-chi, người lập dòng thiền đầu tiên ở Việt Nam, mất năm 594 nên thuộc nhóm CE06; việc có nên đưa ông từ phụ lục lên atlas chính hay không vẫn để P4 quyết.",
+    "**Charlemagne ở nhóm thế kỷ 8, và vòng duyệt đã bác tiền đề của người ra đề**",
+    "Bản nháp giao cho vòng duyệt ghi rằng Charlemagne hợp với nhóm CE09 hơn. Vòng duyệt không đồng ý, và lập luận của nó đúng. `group_range('CE08')` trả về `(701, 800)`, tức nhóm này **bao gồm cả năm 800**, nên lễ đăng quang ngày 25-12-800 rơi vào sáu ngày cuối của chính nhóm ấy chứ không nằm ngoài. Đếm theo giai đoạn ảnh hưởng: 33 trong 46 năm trị vì, việc diệt vương quốc Lombard, thu phục Bavaria, các chiến dịch Avar, việc Alcuin tới triều đình và cả sứ bộ với Harun al-Rashid đều thuộc thế kỷ 8; thế kỷ 9 chỉ chứa phần ông **giữ** tước hiệu đã có. Xếp ông vào CE09 là xếp theo **năm mất**, đúng cái lỗi mà quy tắc §3 sinh ra để chặn và mà ghi chú Āryabhaṭa ở trên đã ghi một lần rồi. Lint im lặng ở cả hai phương án (đời 748–814 giao với cả hai khoảng nhóm), nên đây thuần tuý là quyết định nội dung, không có sức ép kỹ thuật nào.",
+    "**Khung 788–820 của Shankara không đến từ truyền thống Ấn Độ**",
+    "Bản nháp mô tả 788–820 là \"truyền thống Śṛṅgeri\". Sai, và sai theo hướng ngược hẳn. Khung ấy do giới Đông phương học châu Âu cuối thế kỷ 19 đề xuất, theo sau K.P. Tiele, rồi được Max Müller, Macdonell, Deussen và Radhakrishnan chấp nhận theo lệ. Truyền thống của chính các maṭha đặt ông ở **thế kỷ 5 trước Công nguyên** (Śṛṅgeri 483 TCN, Kanchipuram 509 TCN, Dvārakā 491 TCN). Bản ghi Śṛṅgeri thật sự chỉ nói ông sinh vào năm thứ mười bốn đời một vua tên Vikramāditya mà **không cho biết là Vikramāditya nào**; cách đọc được chấp nhận hiện nay quy về Vikramāditya II của triều Cālukya (733–746), tức ủng hộ khung **sớm**. Học giới hiện nay chặn hai đầu bằng văn bản — Śaṅkara trích nguyên văn Pháp Xứng, và Vācaspati Miśra sớ cho ông ở nửa đầu thế kỷ 9 — nên mục ghi `k. 700 – k. 750 CN` với độ tin cậy `Thấp`. Đó là mô tả đúng chứ không phải mẹo né lint: không có bi ký, không có tiền đúc, không có văn bản đương thời nào định danh ông, và các *Śaṅkaravijaya* đều được soạn nhiều thế kỷ sau.",
+    "**Hai chữ \"Nhất Hạnh\", và một va chạm cách nhau 1.200 năm**",
+    "Nhãn tiếng Việt của `Q710705` trên Wikidata đúng là **\"Nhất Hạnh\"** trần, không có description tiếng Việt kèm theo. Nhãn ấy không sai: 一行 đọc Hán–Việt đúng là Nhất Hạnh. Nhưng atlas này **đã có** `CH90-CE19_20-10 · Thích Nhất Hạnh (釋一行)` ở phụ lục, tức hai người trùng đúng hai chữ ấy, cách nhau mười hai thế kỷ. Vì vậy mục ghi tên là **Tăng Nhất Hạnh (僧一行 Yi Xing, tục danh Trương Toại 張遂)**: `僧一行` là alias có thật trong trường zh của chính Q710705, không phải tên atlas tự đặt. Ghi lại đây vì cơ chế rủi ro giống quy tắc 8 nhưng chạy ngược chiều: một vòng biên tập sau mở Wikidata ra, thấy nhãn trần, và \"sửa\" lại cho khớp. Đừng sửa.",
+    "**Wikidata khai độ chính xác, nó không khai độ tin cậy**",
+    "Bốn ca trong nhóm này có cùng hình dạng, và chúng nói chung một điều. Shankara: 788–820, nguồn thật là học thuật cuối thế kỷ 19. Jabir ibn Hayyan: 721–815, con số 721 truy ngược về giả thuyết Holmyard 1927 mà Delva 2017 đã tháo rời. Padmasambhava: 717–762, tham chiếu duy nhất là **P214 VIAF**, một hồ sơ thư mục thư viện chứ không phải một mệnh đề sử học. Charles Martel: ngày sinh và ngày mất khai tới `precision 11` mà cả `P31` lẫn `P570` đều **không có tham chiếu nào**. Nói cách khác: trong nhóm CE08, bốn niên đại được khai ở độ chính xác cao nhất lại là bốn niên đại yếu nhất. Trường `độ tin cậy niên đại:` của atlas phải chấm theo **biên độ giữa các giá trị cạnh tranh trong học thuật**, không theo trường `precision`. Theo thước ấy, Sibawayh nhận `Thấp` dù Wikidata cho một con số gọn (các nguồn cổ điển cho hai khung chết loại trừ nhau, lệch mười chín năm và khác cả nơi chết), còn Bêđa nhận `Cao` vì niên đại của ông đến từ lời tự khai ở chương cuối bộ sử của chính ông.",
+    "**Jabir ibn Hayyan: một ứng viên mà câu hỏi không phải \"ông làm gì\" mà \"ông có ở thế kỷ 8 không\"**",
+    "Jabir **không được nhắc trong bất kỳ nguồn sử nào trước khoảng năm 900**; người đầu tiên viết tiểu sử về ông là Ibn al-Nadīm trong *Fihrist* năm **987**, và ngay thời Ibn al-Nadīm đã có người khẳng định ông chưa từng tồn tại. Lập luận từ im lặng ở đây rất mạnh: các nhà viết tiểu sử Shiʿa sớm — al-Barqī, al-Kashshī, al-Najāshī, al-Ṭūsī — soạn những bộ dày về **môn đồ của Jaʿfar al-Sadiq** mà không ai nhắc tới Jabir. Niên đại văn bản của khối *Jābirian* (thuật ngữ triết học giữa thế kỷ 9, các bản dịch Hy Lạp cuối thế kỷ 9, triết học Shiʿa sơ kỳ của nguồn cuối thế kỷ 9 – đầu thế kỷ 10) đặt nó ở **k. 850–950**. Fuat Sezgin 1971 bác Kraus và quy toàn khối cho một nhân vật thế kỷ 8, và điều đó được ghi lại ở đây cho công bằng — nhưng không có công trình sau 2010 nào đứng về phía ông. Quy tắc §3 tự nó đã loại: dù một Jabir lịch sử thế kỷ 8 có thật, **giai đoạn ảnh hưởng** của khối văn bản mang tên ông là thế kỷ 9–10. Nếu atlas muốn khối ấy có mặt, chỗ đúng là CE09 hoặc CE10 kèm nhãn `[Tranh cãi lịch sử]`, và đó là quyết định của nhóm sau. Hai URL phải đánh dấu: `doi.org/10.1163/22142371-12340030` trả **HTTP 202 với 0 byte**, và `doi.org/10.1017/S0041977X20000014` trả **HTTP 429** với trang chặn bot của Varnish — cùng loại bẫy mà ghi chú CE06 đã ghi. Thư mục hai bài được xác minh qua Crossref, không qua hai URL ấy.",
+    "**Padmasambhava bị loại bằng đúng cái thước vừa dùng cho Jabir**",
+    "Tiểu sử đầu tiên của Liên Hoa Sinh, *Zangling-ma* của Nyangral Nyima Özer (1124–1192), ra đời khoảng **bốn thế kỷ** sau đời ông; khối \"tám hoá thân\", hệ terma và guru yoga đều hình thành từ khoảng thế kỷ 12. Các bản chép Đôn Hoàng có nhắc một đạo sư kīlaya cùng tên **nhưng không gắn ông với Trisong Detsen** — tức bằng chứng sớm nhất không chống đỡ cho chính mệnh đề mà một mục CE08 sẽ cần. Đây là vị trí y hệt Tì-ni-đa-lưu-chi, người atlas giữ ở phụ lục vì tiểu sử phụ thuộc một bộ soạn sau bảy thế kỷ; mà thanh chắn của atlas chính phải **cao hơn** phụ lục, không thấp hơn. Suất Tây Tạng vì vậy là một, không phải hai.",
+    "**Nhóm chật nhất Chapter 5: bốn người bị loại vì trần, không vì chất lượng**",
+    "Trần 12 người là **trần**, không phải định mức — nhóm nghèo tư liệu được phép ít hơn. CE08 là trường hợp ngược lại: thế kỷ 8 dồn vào một chỗ cách mạng Abbasid và việc dời đô về Baghdad, sự kết tinh của bốn trường phái luật và của ngữ pháp Ả Rập, loạn An Lộc Sơn, Thổ Phồn ở đỉnh cao, đế quốc Carolingian, Advaita Vedānta, và Tikal cuối Cổ điển. Mười lăm ứng viên bị loại, trong đó bốn người sẽ chắc chắn vào atlas nếu trần là 16: **Harun al-Rashid** (trị vì 786–809; danh tiếng ông lại đến từ hai thứ không thuộc về ông — *Nghìn lẻ một đêm* lấy ông làm nhân vật chứ không phải tư liệu về ông, và Bayt al-Ḥikma với tư cách trung tâm dịch thuật có tổ chức gắn với al-Maʾmun thế kỷ 9; **vòng CE09 phải nhặt ông lại**), **Malik ibn Anas** (*al-Muwaṭṭaʾ*, bộ luật thành văn sớm nhất còn lại của Hồi giáo), **Ibn Ishaq** (*Sīra*, tiểu sử Muhammad đầu tiên, nguồn mà mọi tiểu sử sau phải đi qua), và **An Lộc Sơn**. Trần không được nới cho riêng một nhóm: chính các bảng phân bố vùng và lĩnh vực là thứ atlas dùng để tự phê bình, và chúng chỉ đọc được khi các nhóm so sánh được với nhau.",
+    "**An Lộc Sơn: bốn tiêu chí đo con người, không đo biến cố**",
+    "Loạn An Lộc Sơn (755–763) có lẽ là biến cố đơn lẻ có hệ quả lớn nhất thế kỷ 8 ở lục địa Á–Âu. Nhưng theo tiêu chí (c) tính nguyên bản và (d) counterfactual, An Lộc Sơn là **triệu chứng** của chế độ tiết độ sứ biên trấn tích luỹ binh quyền chứ không phải người tạo ra nó; nếu không có ông, một tiết độ sứ khác rất có thể đã làm điều tương tự. Biến cố vẫn vào atlas qua hai góc: mục Đỗ Phủ (người chứng) và mục Trisong Detsen (người hưởng lợi, vì chính nó mở đường cho quân Tây Tạng vào Trường An năm 763).",
+    "**Divashtich: bằng chứng hạng nhất vẫn không phải ảnh hưởng hạng nhất**",
+    "Văn khố núi Mugh — khoảng 80 văn kiện Sogdian từ kho riêng của Ḏēwaštīč, UNESCO ghi danh *Memory of the World* năm 2025 — là khối tư liệu Sogdian đầy đủ nhất từng tìm được trong chính Sogdiana, gồm sổ sách buôn bán, thư từ, khế ước, trao đổi ngoại giao và báo cáo do thám. Về **bằng chứng**, ông đứng cao hơn gần như mọi người trong nhóm. Ông vẫn bị loại, vì bốn tiêu chí đo **ảnh hưởng**: ông thua trận năm 722, bị đóng đinh trên một tháp im lặng Hoả giáo, triều đại ông chấm dứt, và Transoxiana Hồi giáo hoá đúng như khi ông không tồn tại. Câu phải giữ lại cho các vòng sau: **nếu lẫn \"được ghi chép nhiều\" với \"có ảnh hưởng lớn\", atlas sẽ dần thành bản đồ các văn khố còn sót chứ không phải bản đồ ảnh hưởng.**",
+    "**Ô \"Trung Á\" của atlas đo một từ vựng chín ô, không đo lịch sử Nội Á**",
+    "Abu Muslim ghi `Trung Á` vì nơi hoạt động chính của ông là Merv và Khurasan, đúng quy ước 1 và đúng phần nghĩa còn lại của \"Trung Á\" sau khi `REGIONS` không có ô nào cho Nội Á. Phép thử tự kiểm, và nó có một cặp đối xứng ngay trong nhóm: Abu Muslim **sinh ở Kufa mà hoạt động ở Merv** → Trung Á; Abu Hanifa **có thể sinh ở Trung Á mà hoạt động ở Kufa** → Trung Đông/Bắc Phi. Cùng một quy tắc, áp cùng một chiều, đẩy hai người về hai phía ngược nhau — đó là bằng chứng nội tại rằng đây là lập luận địa lý chứ không phải thao tác thống kê. Khuyết tật của từ vựng thì phải ghi: Tây Tạng và cao nguyên Mông Cổ đều bị dồn vào Đông Á, và người \"Trung Á\" duy nhất của atlas trước nhóm này là Zarathustra `CH02-BCE06-09`, mà trường `nơi:` của chính mục ấy ghi \"đông Iran **hoặc** Trung Á\". Nghĩa là con số *Trung Á = 0,5%* đang đứng trên một người mà vị trí địa lý còn là câu hỏi mở. Sau Chapter 5, \"Trung Á\" trong atlas thực tế chỉ còn nghĩa Transoxiana–Iran đông. Mọi so sánh tỷ lệ vùng phải đọc kèm giới hạn này.",
+    "**Đông Nam Á ở lại 0,5%, và lý do không phải là không tìm**",
+    "Hai ứng viên Java có bi ký đương thời với niên đại tuyệt đối: **Sanjaya** qua bia Canggal năm 732, và **Panangkaran** qua bia Kalasan năm 778 — bi ký đầu tiên ở Indonesia nêu tên dòng họ Śailendra, ghi việc dựng đền Tārā và cúng một làng cho Tăng-già. Cả hai bị loại theo tiêu chí (c) và (d): họ là **người bảo trợ** chứ không phải người khởi tạo, chương trình đền tháp Śailendra là hiện tượng của cả một triều đại, và không bi ký nào cho biết điều gì thuộc về quyết định riêng của họ. Hai điều phải nói kèm. Thứ nhất, `Q42798` **Borobudur là một công trình, không phải người** — `P31` của nó không phải `Q5`, nên nó không có đường nào vào atlas dù cái tên nổi hơn mọi cá nhân liên quan. Thứ hai, `ch90.md` là phụ lục **Việt Nam**, không phải phụ lục Đông Nam Á, nên Sanjaya và Panangkaran không thể \"đẩy xuống phụ lục\": nếu không vào track chính thì họ không vào đâu cả. Con số 1 người Đông Nam Á trong thống kê là con số thật, không phải con số thiếu sót kỹ thuật.",
+    "**Châu Phi hạ Sahara thế kỷ 8: ba hệ chữ viết, không hệ nào phục vụ được**",
+    "Vùng này có đúng một cá nhân có tên và có niên đại — **Kyriakos xứ Makuria**, `fl. k. 748`, người đem quân vào Ai Cập Umayyad tới tận Fustat để buộc thả giáo hoàng Alexandria Michael I, vi phạm hiệp ước Baqt. Ông vẫn bị loại, vì nguồn duy nhất là *History of the Patriarchs of Alexandria*, một biên niên soạn muộn, và các hệ sử liệu **không thống nhất nổi ông đứng ở đâu trong danh sách vua Makuria** — bản này xếp triều ông sau Markos, bản khác đặt giữa Merkurios và Zacharias I. Khung `k. 748` vì thế là niên đại dựng ngược từ triều giáo hoàng Michael I (743–767), không phải từ bi ký Nubia. Nhìn rộng hơn: Aksum **ngừng đúc tiền vào đầu thế kỷ 8** — mà tiền đúc chính là nguồn đương thời atlas đã dùng cho Ezana `CH04-CE04-09` và Kaleb `CH05-CE06-09`; nguồn viết sớm nhất về Kanem là al-Yaʿqūbī **năm 872**, tức thế kỷ 9 và là nguồn ngoại lai; bi ký Hồi giáo cổ nhất bờ Đông Phi là bia Kufic ở Kizimkazi Dimbani, Zanzibar, **năm 1107**. Bốn mục Châu Phi hạ Sahara hiện có của atlas đều rơi vào các thế kỷ mà tiền đúc hoặc bi ký còn hoạt động. Đó không phải trùng hợp: con số 1,9% đo hình dạng của tư liệu.",
+    "**Châu Đại Dương 0,0%: ô trống duy nhất còn lại, và nó có lý do**",
+    "Ba tầng, tầng nào cũng đủ một mình. (1) Ở thế kỷ 8, phần lớn Đông Polynesia **chưa có cư dân**: Wilmshurst, Hunt, Lipo & Anderson, *PNAS* 108(5): 1815–1820 (2010), phân tích lại 1.434 niên đại carbon phóng xạ và đặt việc định cư quần đảo Society ở k. 1200–1290, với toàn Đông Polynesia lan toả trong thế kỷ 13. (2) Không có hệ chữ viết nào ở Châu Đại Dương trước tiếp xúc châu Âu — ứng viên duy nhất, rongorongo ở Rapa Nui, chưa ai giải mã được và ngay **tư cách chữ viết** của nó vẫn còn là giả thiết. (3) Tây Polynesia, Melanesia và Micronesia **đã có người ở** từ lâu, nhưng tên người ở đó truyền qua gia phả truyền khẩu, chỉ được chép thành văn từ thế kỷ 19 — khoảng cách hơn một nghìn năm, xa hơn cả hai ca atlas đã từ chối (*Thiền uyển tập anh* cách Tì-ni-đa-lưu-chi bảy thế kỷ, *Zangling-ma* cách Padmasambhava bốn thế kỷ). Theo quy tắc 7, phải ghi rằng niên đại rút ngắn của Wilmshurst **bị phản biện** ngay trên cùng tạp chí; vòng duyệt không đọc được nội dung các bài phản biện nên đánh dấu chúng là không kiểm được. Điều đó không đổi kết luận: phe phản biện đòi niên đại **sớm hơn**, mà tầng (2) và (3) độc lập hoàn toàn với tranh luận ấy. Ô này sẽ chỉ được lấp ở các chapter sau, và cũng phải lấp bằng nguồn chứ không bằng thiện chí.",
+    "**Ứng viên Việt Nam trong nhóm CE08 (yêu cầu D5)**",
+    "Ba nhân vật Việt Nam thế kỷ 8 **đều đã có mục riêng** trong phụ lục: **Mai Hắc Đế** `CH90-CE01_09-06` (hoạt động k. 713–722), **Phùng Hưng** `CH90-CE01_09-07` (hoạt động k. 766–791), và **Khương Công Phụ** `CH90-CE01_09-08` (731–805). Vì cả ba đã được chọn ở chỗ khác trong atlas, quy tắc 6 **cấm** nêu tên họ như ứng viên bị loại của nhóm này: không có đánh đổi nào xảy ra. Lý do họ ở phụ lục chứ không ở track chính thì vẫn phải nói: hai cuộc khởi nghĩa đầu đến qua *Đại Việt sử ký toàn thư* (thế kỷ 15) và các bộ sử Đường, đều sau sự kiện nhiều thế kỷ, và cả hai đều bị dập mà không đổi cấu trúc đô hộ. Khương Công Phụ có hồ sơ tốt nhất trong ba người — ông đỗ đầu kỳ thi nhà Đường năm 780 và thăng tới Đồng trung thư môn hạ bình chương sự dưới Đường Đức Tông, tức xuất hiện trong bộ máy quan chức chứ không chỉ trong truyền thuyết khởi nghĩa — nhưng ông thành công **bên trong** một hệ thống do người khác dựng. Hai cảnh báo nguồn cho vòng nào viết lại mục ấy: chi tiết gia thế của ông đến từ tộc phả họ Khương ở Thạch Thất, tức nguồn muộn, không được viết như sự kiện; và chữ \"trạng nguyên\" là thuật ngữ khoa cử Việt Nam đời sau áp ngược lên kỳ thi năm 780, nên phải viết là \"đỗ đầu kỳ thi\" kèm chú.",
+    "**Hình dạng của thế kỷ, không phải thiên lệch của người chọn**",
+    "Nhóm CE08 có 5/12 mục mang lĩnh vực Chính trị/Nhà nước và 5/12 mang Tôn giáo/Tâm linh — cao hơn mức nền của atlas. Điều này không cần sửa, nhưng cần ghi: thế kỷ 8 đúng là thế kỷ của nhà nước mới (Abbasid, Carolingian, Thổ Phồn) và của tôn giáo được thể chế hoá (bốn trường phái luật Sunni, quốc giáo Tây Tạng, Advaita). Về vùng, bốn suất cho Trung Đông/Bắc Phi giữ tỷ lệ atlas đứng nguyên ở 33,2% — tức cắt từ tám ứng viên xuống bốn không phải trừng phạt vùng ấy mà là giữ nguyên trạng; và tính cả Abu Muslim ở ô Trung Á thì thế giới Hồi giáo vẫn chiếm 5/12 số mục của nhóm. Trung Á và Châu Mỹ lần đầu nhúc nhích, từ 1 lên 2 người mỗi ô, và nhúc nhích bằng hai người có nguồn đương thời — văn khố Mugh đứng sau một bên và bi ký Long Count đứng sau bên kia — chứ không bằng việc hạ thanh chắn.",
+    "**Alcuin: người lẽ ra phải ở nhóm này**",
+    "Alcuin xứ York mất năm 804, nhưng hoạt động ở triều Aachen 782–796 và ở Tours 796–804, tức chủ yếu thế kỷ 8 — theo đúng lập luận vừa dùng cho Charlemagne, ông thuộc CE08, và nếu được viết thì hai mục **phải cùng nhóm**, không được tách một cặp thầy–trò của cùng một chương trình cải cách ra hai chapter. Ông bị loại không vì niên đại mà vì trùng vai với Charlemagne ở ô `Giáo dục`: cải cách học thuật Carolingian được kể trọn trong một mục. Ghi lại hai điều cho vòng sau. Nếu atlas quyết đưa Alcuin vào, `P569` của `Q154332` có **ba giá trị lệch nhau mười sáu năm** (740 preferred / 735 / 724) nên mục ấy phải ghi `độ tin cậy niên đại: Thấp`. Và nếu cần một suất, người được đề nghị nhường là Sibawayh — một đánh đổi thật, không phải câu nói cho đủ."
    ],
    "groups": [
     {
@@ -717,6 +749,29 @@
       "CH05-CE07-10",
       "CH05-CE07-11",
       "CH05-CE07-12"
+     ]
+    },
+    {
+     "id": "CE08",
+     "label": "TK 8",
+     "range": [
+      701,
+      800
+     ],
+     "context": "Một cuộc nổi dậy khởi từ Khurasan lật nhà Umayyad và dời trọng tâm thế giới Hồi giáo về Baghdad. Bốn trường phái luật Sunni và ngữ pháp Ả Rập thành hình. Loạn An Lộc Sơn chặt đôi nhà Đường, Thổ Phồn lên đỉnh, và ở Tây Âu người Frank dựng lại một ngôi hoàng đế.",
+     "persons": [
+      "CH05-CE08-01",
+      "CH05-CE08-02",
+      "CH05-CE08-03",
+      "CH05-CE08-04",
+      "CH05-CE08-05",
+      "CH05-CE08-06",
+      "CH05-CE08-07",
+      "CH05-CE08-08",
+      "CH05-CE08-09",
+      "CH05-CE08-10",
+      "CH05-CE08-11",
+      "CH05-CE08-12"
      ]
     }
    ]
@@ -16220,6 +16275,810 @@
     }
    ],
    "group": "CE07",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE08-01": {
+   "id": "CH05-CE08-01",
+   "name_vi": "Abu Muslim al-Khurasani",
+   "name_orig": "أبو مسلم الخراساني",
+   "labels": [],
+   "years_raw": "k. 718–755 CN",
+   "born": 718,
+   "died": 755,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Merv và Khurasan, nay thuộc Turkmenistan và đông bắc Iran",
+   "region": "Trung Á",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Quân sự"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q335210",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Năm 745 ông được phái từ Iraq về Khurasan để tổ chức cuộc vận động ngầm cho dòng Abbas. Năm 747 ông giương cờ đen công khai, và cuối năm ấy chiếm Merv, đánh bật tổng đốc Umayyad Nasr ibn Sayyar. Cái ông khai thác là một tỉnh biên giới nơi người Ả Rập định cư và người Iran bản địa đã trộn vào nhau qua mấy thế hệ, và cùng oán Damascus. Trong ba năm, một cuộc nổi dậy ở rìa đông lật được triều đình ở trung tâm — và trọng tâm chính trị của thế giới Hồi giáo dịch vĩnh viễn từ Syria về Iraq.",
+   "why": "Ứng viên bị loại là Divashtich xứ Panjikant, người để lại văn khố núi Mugh, khối văn kiện Sogdian đầy đủ nhất từng tìm được. Abu Muslim được chọn theo tiêu chí phạm vi: Divashtich thua trận năm 722 và Transoxiana vẫn Hồi giáo hoá y như khi ông không tồn tại, còn cuộc nổi dậy của Abu Muslim đổi được triều đại. Bốn tiêu chí đo ảnh hưởng, không đo mức được ghi chép.",
+   "sources": "Moshe Sharon, Black Banners from the East: The Establishment of the ʿAbbāsid State (Magnes Press, 1983); Elton L. Daniel, The Political and Social History of Khurasan under Abbasid Rule, 747–820 (Bibliotheca Islamica, 1979).",
+   "inherits": [
+    {
+     "target": "Cuộc vận động ngầm Hāshimiyya của dòng Abbas ở Kufa",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Cuộc vận động ngầm Hāshimiyya của dòng Abbas ở Kufa · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Nasr ibn Sayyar và bộ máy Umayyad ở Khurasan",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "Nasr ibn Sayyar và bộ máy Umayyad ở Khurasan · phản bác · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH05-CE08-02",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH05-CE08-02 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Chuỗi khởi nghĩa mang tên ông ở Iran thế kỷ 8–9",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Chuỗi khởi nghĩa mang tên ông ở Iran thế kỷ 8–9 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE08",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE08-02": {
+   "id": "CH05-CE08-02",
+   "name_vi": "Al-Mansur",
+   "name_orig": "أبو جعفر المنصور",
+   "labels": [],
+   "years_raw": "k. 714–775 CN",
+   "born": 714,
+   "died": 775,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Humayma, Kufa và Baghdad, nay thuộc Jordan và Iraq",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q31066",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Al-Saffah lên ngôi trước, nhưng người biến một cuộc đảo chính thành một nhà nước là al-Mansur. Hai mươi mốt năm cầm quyền, và một quyết định năm 762: dựng kinh đô mới Madinat al-Salam ở khúc sông Tigris gần Euphrates nhất — không phải một cung điện thêm vào thành cũ mà một thành tròn xây từ đất trống, đặt lỵ sở ở nơi đường thuỷ Lưỡng Hà, Iran và vịnh Ba Tư gặp nhau. Baghdad lớn lên từ đó và giữ vai trung tâm của thế giới Hồi giáo suốt năm thế kỷ.",
+   "why": "Ba mục trong nhóm này nối với nhau bằng một người: Abu Muslim bị ông xử tử năm 755, Abu Hanifa chết trong ngục Baghdad năm 767. Ông được chọn theo tiêu chí phạm vi và tính quyết định: nếu cách mạng Abbasid dừng ở al-Saffah, nó có thể chỉ là một lần thay nhà cầm quyền. Niên đại ghi Trung bình vì các nguồn cho ba ngày mất khác nhau.",
+   "sources": "Hugh Kennedy, The Early Abbasid Caliphate: A Political History (Croom Helm, 1981); Tayeb El-Hibri, Reinterpreting Islamic Historiography (Cambridge University Press, 1999).",
+   "inherits": [
+    {
+     "target": "CH05-CE08-01",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH05-CE08-01 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Bộ máy hành chính Sasanian qua giới thư lại Iran",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Bộ máy hành chính Sasanian qua giới thư lại Iran · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Harun al-Rashid và triều đình Baghdad thế kỷ 9",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Harun al-Rashid và triều đình Baghdad thế kỷ 9 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Phong trào dịch thuật Hy Lạp–Ả Rập",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phong trào dịch thuật Hy Lạp–Ả Rập · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE08",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE08-03": {
+   "id": "CH05-CE08-03",
+   "name_vi": "Jaʿfar al-Sadiq",
+   "name_orig": "جعفر الصادق",
+   "labels": [],
+   "years_raw": "k. 702–765 CN",
+   "born": 702,
+   "died": 765,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Medina, bán đảo Ả Rập",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Tôn giáo/Tâm linh",
+    "Luật"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q170046",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Ông là điểm mà hai nhánh lớn của Hồi giáo còn chung nhau: người Shiʿa Twelver và Ismaʿili coi ông là Imam thứ sáu, giới Sunni coi ông là người truyền hadith đáng tin, và cả Abu Hanifa lẫn Malik ibn Anas đều được ghi là học trò ông. Điều định hình nhất ông làm lại là một việc không làm: giữa một thế kỷ đầy khởi nghĩa nhân danh dòng dõi Muhammad, ông đứng ngoài tất cả. Chính lựa chọn ấy biến Shiʿa giáo thành một truyền thống học thuật sống được dưới các triều đại thù địch, thay vì một chuỗi nổi dậy bị dập.",
+   "why": "Mục này nói về vị trí của ông, không về nội dung gán cho ông. Số truyền ngôn quy cho Jaʿfar nhiều hơn tổng các Imam khác cộng lại, nhưng chính việc quy ấy đang bị giới nghiên cứu đặt dấu hỏi, nên không viết \"Jaʿfar dạy rằng X\" từ các tuyển tập hadith. Truyền thống cũng gắn Jabir ibn Hayyan làm môn đồ ông; các nhà viết tiểu sử Shiʿa sớm không ai nhắc tới Jabir.",
+   "sources": "Robert Gleave, \"Jaʿfar al-Ṣādiq\", Encyclopaedia of Islam THREE (Brill); Mohammad Ali Amir-Moezzi, The Divine Guide in Early Shiʿism (State University of New York Press, 1994).",
+   "inherits": [
+    {
+     "target": "CH05-CE07-03",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH05-CE07-03 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Muhammad al-Baqir, cha ông",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Muhammad al-Baqir, cha ông · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH05-CE08-04",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH05-CE08-04 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Luật học Twelver (phái Jaʿfarī)",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Luật học Twelver (phái Jaʿfarī) · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Malik ibn Anas và trường phái Medina",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Malik ibn Anas và trường phái Medina · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "CE08",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE08-04": {
+   "id": "CH05-CE08-04",
+   "name_vi": "Abu Hanifa",
+   "name_orig": "أبو حنيفة النعمان",
+   "labels": [],
+   "years_raw": "k. 699–767 CN",
+   "born": 699,
+   "died": 767,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Kufa và Baghdad, Iraq",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Luật",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q190896",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Ông chưa bao giờ làm quan toà: ông bị tù dưới cả Umayyad lẫn Abbasid vì từ chối chức qāḍī, và chết trong ngục Baghdad. Nhưng cách làm luật ông để lại — dựa nặng vào suy lý loại tỷ (qiyās), vào việc chọn giải pháp hợp lý hơn khi loại tỷ cho kết quả cứng nhắc (istiḥsān), và vào phán đoán có kỷ luật của người học luật (raʾy) — cho phép một hệ luật sinh ra ở Ả Rập làm việc được trong những xã hội không Ả Rập. Trường phái Hanafī vì thế trải từ Trung Á và Nam Á tới Anatolia, Balkan và châu Phi.",
+   "why": "Đây là ca mẫu cho thấy ảnh hưởng lâu dài và quyền lực đương thời là hai thứ khác nhau: người chết trong ngục của caliph lại định khuôn luật cho phần lớn thần dân của các caliph về sau. Vùng ghi Trung Đông/Bắc Phi dù nguồn nói ông gốc Trung Á, vì quy ước của atlas lấy nơi hoạt động chính, và nơi ấy là Kufa. Niên đại Trung bình vì các nguồn cổ điển cho bốn năm sinh.",
+   "sources": "Christopher Melchert, The Formation of the Sunni Schools of Law, 9th–10th Centuries C.E. (Brill, 1997); Wael B. Hallaq, The Origins and Evolution of Islamic Law (Cambridge University Press, 2005).",
+   "inherits": [
+    {
+     "target": "CH05-CE08-03",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH05-CE08-03 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Trường phái luật Kufa và Ibrahim al-Nakhaʿi",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Trường phái luật Kufa và Ibrahim al-Nakhaʿi · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Abu Yusuf, Muhammad al-Shaybani và bộ luật Hanafī",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Abu Yusuf, Muhammad al-Shaybani và bộ luật Hanafī · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Hệ toà án Ottoman và Mughal",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hệ toà án Ottoman và Mughal · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE08",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE08-05": {
+   "id": "CH05-CE08-05",
+   "name_vi": "Sibawayh",
+   "name_orig": "سيبويه, Amr ibn Uthman",
+   "labels": [],
+   "years_raw": "k. 760 – k. 796 CN",
+   "born": 760,
+   "died": 796,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Basra và Baghdad, Iraq; gốc vùng Shiraz, Iran",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Ngôn ngữ học"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q983355",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Al-Kitāb của ông mô tả tiếng Ả Rập một cách hệ thống — âm, hình thái, cú pháp, và cả biến thể vùng miền — vào đúng lúc thứ tiếng ấy đang thành ngôn ngữ hành chính và học thuật của một đế quốc trải từ Iberia tới Sindh. Sách không mang tên do chính ông đặt; đời sau gọi nó là \"Quyển sách\", như thể chỉ có một. Nó vẫn là mốc quy chiếu của ngữ pháp Ả Rập sau mười hai thế kỷ, và là bộ mô tả ngôn ngữ còn nguyên vẹn cổ nhất ngoài truyền thống Ấn Độ của Pāṇini.",
+   "why": "Nghịch lý đáng ghi: quyển sách sống sót gần như nguyên vẹn, con người thì hầu như không. Nguồn tiểu sử sớm nhất còn lại chỉ viết được chừng này: ông tên Amr ibn Uthman, chủ yếu là nhà ngữ pháp, tới Baghdad, cãi nhau với các nhà ngữ pháp ở đó, bị làm nhục, về lại một thị trấn Ba Tư và chết khi còn trẻ. Niên đại ghi Thấp vì nguồn cho hai khung chết loại trừ nhau, khác cả nơi chết.",
+   "sources": "M.G. Carter, Sībawayhi (I.B. Tauris, 2004); Kees Versteegh, The Arabic Linguistic Tradition (Routledge, 1997).",
+   "inherits": [
+    {
+     "target": "Al-Khalil ibn Ahmad al-Farahidi",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Al-Khalil ibn Ahmad al-Farahidi · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Yunus ibn Habib và trường phái ngữ pháp Basra",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Yunus ibn Habib và trường phái ngữ pháp Basra · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH02-BCE05-08",
+     "relation": "tương đồng độc lập",
+     "evidence": "suy đoán học giả",
+     "raw": "CH02-BCE05-08 · tương đồng độc lập · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Al-Mubarrad và toàn bộ ngữ pháp Ả Rập về sau",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Al-Mubarrad và toàn bộ ngữ pháp Ả Rập về sau · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Ngữ pháp học Hebrew thời trung đại ở Andalusia",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Ngữ pháp học Hebrew thời trung đại ở Andalusia · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE08",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE08-06": {
+   "id": "CH05-CE08-06",
+   "name_vi": "Charlemagne",
+   "name_orig": "Carolus Magnus, Karl der Große",
+   "labels": [],
+   "years_raw": "k. 748–814 CN",
+   "born": 748,
+   "died": 814,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Aachen và vương quốc Frank, nay thuộc Pháp, Đức và các nước Benelux",
+   "region": "Châu Âu",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Giáo dục"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q3044",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Vua người Frank từ năm 768, ông diệt vương quốc Lombard năm 774, thu phục Bavaria năm 788 và phá liên minh Avar trong các chiến dịch 791–796, gộp phần lớn Tây Âu Latin vào một quyền cai trị lần đầu kể từ khi Tây La Mã tan. Việc còn lại lâu hơn biên giới là chương trình học: ông triệu học giả từ khắp châu Âu về triều, cho chép lại văn bản cổ, và bảo trợ một lối chữ mới dễ đọc đến mức phần lớn tác phẩm Latin cổ điển còn tới nay là còn qua các bản chép thời ông. Ngày 25 tháng 12 năm 800, giáo hoàng Lêô III phong ông làm hoàng đế.",
+   "why": "Ông được xếp vào nhóm thế kỷ 8 chứ không phải thế kỷ 9 dù mất năm 814, vì atlas xếp người theo giai đoạn ảnh hưởng: 33 trong 46 năm trị vì, toàn bộ việc dựng đế quốc, và cả lễ đăng quang đều nằm trước năm 801. Ứng viên bị loại là Charles Martel, ông nội ông: trận Tours năm 732 nổi tiếng hơn nhưng không để lại thiết chế nào.",
+   "sources": "Rosamond McKitterick, Charlemagne: The Formation of a European Identity (Cambridge University Press, 2008); Einhard, Vita Karoli Magni, k. 830.",
+   "inherits": [
+    {
+     "target": "CH04-CE05-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE04-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE04-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Pepin Lùn và liên minh Frank–giáo hoàng",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Pepin Lùn và liên minh Frank–giáo hoàng · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Alcuin xứ York và cải cách học thuật Carolingian",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Alcuin xứ York và cải cách học thuật Carolingian · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Đế quốc La Mã Thần thánh",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Đế quốc La Mã Thần thánh · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Chữ nhỏ Caroline và mẫu chữ in thời Phục hưng",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Chữ nhỏ Caroline và mẫu chữ in thời Phục hưng · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE08",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE08-07": {
+   "id": "CH05-CE08-07",
+   "name_vi": "Bêđa",
+   "name_orig": "Beda Venerabilis, Bede",
+   "labels": [],
+   "years_raw": "k. 672–735 CN",
+   "born": 672,
+   "died": 735,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "tu viện Wearmouth–Jarrow, Northumbria, nay thuộc Anh",
+   "region": "Châu Âu",
+   "fields": [
+    "Sử học",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q154938",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Historia ecclesiastica gentis Anglorum, hoàn tất khoảng năm 731, là bộ sử đầu tiên coi \"người Anh\" là một dân tộc chứ không phải một tập hợp vương quốc tranh nhau — và nó làm thế bằng cách viết lịch sử của một giáo hội. Cái đi xa hơn nội dung là cách đếm năm: Dionysius Exiguus nghĩ ra niên lịch Anno Domini từ thế kỷ 6, nhưng chính Bêđa, bằng việc dùng nó xuyên suốt một bộ sử được đọc khắp châu Âu Latin, biến nó thành mặc định. Thói quen ghi \"năm 2026\" bắt đầu ở một tu viện Northumbria.",
+   "why": "Đây là mục hiếm trong nhóm mà mọi niên đại đều kiểm được, vì phần lớn những gì ta biết về đời ông do chính ông viết ở chương cuối bộ sử ấy. Ứng viên bị loại cùng vùng là Alcuin xứ York: ông thuộc đúng truyền thống trường học Northumbria này và lẽ ra cũng vào nhóm, nhưng chương trình Carolingian của ông đã được tính trong mục Charlemagne.",
+   "sources": "Judith McClure và Roger Collins (chủ biên), Bede: The Ecclesiastical History of the English People (Oxford University Press, 1994); George Hardin Brown, A Companion to Bede (Boydell Press, 2009).",
+   "inherits": [
+    {
+     "target": "CH05-CE07-09",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH05-CE07-09 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE05-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Trường học Canterbury của Theodore xứ Tarsus",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Trường học Canterbury của Theodore xứ Tarsus · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Alcuin xứ York và trường học York",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Alcuin xứ York và trường học York · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Niên lịch Anno Domini trong văn kiện châu Âu",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Niên lịch Anno Domini trong văn kiện châu Âu · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Sử học Anh thời trung đại",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Sử học Anh thời trung đại · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE08",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE08-08": {
+   "id": "CH05-CE08-08",
+   "name_vi": "Tăng Nhất Hạnh",
+   "name_orig": "僧一行 Yi Xing, tục danh Trương Toại 張遂",
+   "labels": [],
+   "years_raw": "683–727 CN",
+   "born": 683,
+   "died": 727,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Trường An và chuỗi trạm khảo trắc trải bắc–nam của nhà Đường",
+   "region": "Đông Á",
+   "fields": [
+    "Toán học",
+    "Khoa học tự nhiên"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q710705",
+   "big_questions": [
+    "Vũ trụ"
+   ],
+   "ideas": "Năm 724–725 triều Đường cho đo bóng nắng giữa trưa và độ cao sao Bắc Cực ở một chuỗi trạm trải bắc–nam hàng nghìn dặm, rồi lấy chênh lệch giữa các trạm để tính độ dài một độ cung trên mặt đất. Người chủ trì là một tăng sĩ Mật tông. Cùng khoảng ấy, ông và Lương Lệnh Toản lắp vào thiên cầu chạy bằng nước một cơ cấu hồi — bộ phận buộc bánh răng nhích từng nấc thay vì quay trơn, tổ tiên của mọi đồng hồ cơ. Lịch Đại Diễn do ông soạn được dùng suốt phần còn lại của nhà Đường.",
+   "why": "Phải tách hai tầng. Phép đo là có thật; gọi nó là \"phép đo cung kinh tuyến đầu tiên\" là diễn giải của học giới hiện đại đặt lên trên nó, và chính nguồn ghi rằng Nhất Hạnh không cho rằng Trái Đất hình cầu, nên không được viết ông \"đo chu vi Trái Đất\". Ông không liên quan gì tới Thích Nhất Hạnh (1926–2022), người có mục riêng ở phụ lục.",
+   "sources": "Joseph Needham, Science and Civilisation in China, tập 3 (Cambridge University Press, 1959); Joseph Needham, Wang Ling và Derek J. de Solla Price, Heavenly Clockwork: The Great Astronomical Clocks of Medieval China (Cambridge University Press, 1960).",
+   "inherits": [
+    {
+     "target": "Thiện Vô Uý (Śubhakarasiṃha) và Mật tông đời Đường",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Thiện Vô Uý (Śubhakarasiṃha) và Mật tông đời Đường · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống lịch pháp và khảo trắc Trung Hoa",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống lịch pháp và khảo trắc Trung Hoa · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Lịch pháp Đông Á sau nhà Đường",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Lịch pháp Đông Á sau nhà Đường · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Tô Tụng và đồng hồ thiên văn thế kỷ 11",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Tô Tụng và đồng hồ thiên văn thế kỷ 11 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE08",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE08-09": {
+   "id": "CH05-CE08-09",
+   "name_vi": "Đỗ Phủ",
+   "name_orig": "杜甫 Dù Fǔ, Tử Mỹ",
+   "labels": [],
+   "years_raw": "712–770 CN",
+   "born": 712,
+   "died": 770,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Trường An, Thành Đô và vùng Trường Giang, nhà Đường",
+   "region": "Đông Á",
+   "fields": [
+    "Văn học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q33772",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Gần 1.500 bài thơ của ông còn lại, và chúng làm hai việc cùng lúc. Về hình thức, ông đẩy thể luật thi tới chỗ chặt nhất mà nó đạt được, rồi dùng chính sự chặt ấy để chở những thứ thơ cung đình không chở: nạn đói, lính bị bắt, một đứa con chết vì thiếu ăn. Về nội dung, loạn An Lộc Sơn từ năm 755 — biến cố lớn nhất thế kỷ 8 ở Đông Á — đến với hậu thế một phần qua mắt một viên quan nhỏ bị nó đẩy đi lưu lạc. Đời sau gọi ông là Thi sử và Thi thánh.",
+   "why": "Danh hiệu Thi sử đúng cả theo nghĩa tư liệu: gần như tất cả những gì ta biết về đời ông đều rút từ chính thơ ông. Ứng viên bị loại cùng nhóm là Lý Bạch, người nổi tiếng hơn lúc sinh thời. Đỗ Phủ được chọn theo tiêu chí phạm vi, vì ông thành khuôn mẫu mà thơ chữ Hán đời sau đo theo, kể cả ở Việt Nam, Nhật Bản và Triều Tiên.",
+   "sources": "Stephen Owen (dịch), The Poetry of Du Fu, 6 tập (De Gruyter, 2016); William Hung, Tu Fu: China's Greatest Poet (Harvard University Press, 1952).",
+   "inherits": [
+    {
+     "target": "Thơ nhạc phủ đời Hán và truyền thống thơ biên tái",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Thơ nhạc phủ đời Hán và truyền thống thơ biên tái · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Lý Bạch, bạn và người cùng thời",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Lý Bạch, bạn và người cùng thời · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Hoàng Đình Kiên và phái thơ Giang Tây đời Tống",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hoàng Đình Kiên và phái thơ Giang Tây đời Tống · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH90-CE19_20-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH90-CE19_20-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Thơ chữ Hán ở Nhật Bản và Triều Tiên",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Thơ chữ Hán ở Nhật Bản và Triều Tiên · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE08",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE08-10": {
+   "id": "CH05-CE08-10",
+   "name_vi": "Trisong Detsen",
+   "name_orig": "ཁྲི་སྲོང་ལྡེ་བཙན་",
+   "labels": [],
+   "years_raw": "trị vì 755–797 CN",
+   "born": 755,
+   "died": 797,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Lhasa và Samye, cao nguyên Tây Tạng",
+   "region": "Đông Á",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q366661",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Dưới triều ông, Thổ Phồn đạt tầm xa nhất: năm 763 quân Tây Tạng vào Trường An và lập một hoàng đế của riêng họ, năm 783 buộc nhà Đường ký lại đường biên. Cùng người ấy ra sắc chỉ năm 791 lấy Phật giáo làm quốc giáo, cho dựng Samye — tu viện đầu tiên của Tây Tạng — và tổ chức cuộc tranh biện Samye khoảng 792–794 để chọn giữa đường tu tiệm ngộ của Ấn Độ và đường tu đốn ngộ của Thiền Trung Hoa. Phía Ấn Độ thắng, và lựa chọn ấy định hình Phật giáo Tây Tạng tới hôm nay.",
+   "why": "Đây không phải truyền thống muộn: trụ đá Kar-cun do chính người kế vị ông dựng xác nhận việc lập chùa Samye, và Biên niên Tây Tạng cổ ở Đôn Hoàng cho khung sự kiện. Ứng viên bị loại là Liên Hoa Sinh (Padmasambhava): các bản Đôn Hoàng có nhắc một đạo sư kīlaya cùng tên nhưng không gắn ông với Trisong Detsen, còn tiểu sử đầu tiên ra đời khoảng bốn thế kỷ sau.",
+   "sources": "Matthew T. Kapstein, The Tibetan Assimilation of Buddhism (Oxford University Press, 2000); Brandon Dotson, The Old Tibetan Annals (Verlag der Österreichischen Akademie der Wissenschaften, 2009).",
+   "inherits": [
+    {
+     "target": "CH05-CE07-11",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH05-CE07-11 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Śāntarakṣita và Phật giáo kinh viện Nālandā",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Śāntarakṣita và Phật giáo kinh viện Nālandā · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Phái Nyingma và hệ tu viện Tây Tạng",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phái Nyingma và hệ tu viện Tây Tạng · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Chương trình dịch kinh điển Phật giáo sang tiếng Tạng",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Chương trình dịch kinh điển Phật giáo sang tiếng Tạng · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "CE08",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE08-11": {
+   "id": "CH05-CE08-11",
+   "name_vi": "Ādi Shankara",
+   "name_orig": "आदि शङ्कर",
+   "labels": [],
+   "years_raw": "k. 700 – k. 750 CN",
+   "born": 700,
+   "died": 750,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Kerala, và các trung tâm học thuật khắp tiểu lục địa Ấn Độ",
+   "region": "Nam Á",
+   "fields": [
+    "Triết học",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q180967",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Các bản sớ của ông cho Brahma-sūtra, các Upaniṣad chính và Bhagavad-gītā dựng Advaita Vedānta thành một hệ thống: chỉ có một thực tại duy nhất là brahman; cái tôi cá nhân không phải một phần của nó mà chính là nó; và thế giới nhiều vẻ ta thấy không phải ảo giác mà là một cách nhìn sai do vô minh. Ông làm việc này bằng cách đọc lại kinh văn chứ không bằng cách bác bỏ kinh văn, nên Advaita vừa là triết học vừa là chú giải — và vì thế thành khung mà mọi trường phái Vedānta về sau phải định vị theo.",
+   "why": "Niên đại của ông là tranh luận mở, và khung 788–820 hay được chép lại không phải truyền thống của các maṭha mà là đề xuất của Đông phương học châu Âu cuối thế kỷ 19; các maṭha đặt ông ở thế kỷ 5 trước Công nguyên. Học giới hiện nay chặn hai đầu bằng văn bản: ông trích Pháp Xứng, nên sau giữa thế kỷ 7; Vācaspati Miśra sớ cho ông ở nửa đầu thế kỷ 9.",
+   "sources": "Hajime Nakamura, A History of Early Vedānta Philosophy, Part One (Motilal Banarsidass, 1983); \"Śaṅkara\", Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/entries/shankara/",
+   "inherits": [
+    {
+     "target": "CH05-CE07-10",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH05-CE07-10 · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Gauḍapāda và Māṇḍūkya-kārikā",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Gauḍapāda và Māṇḍūkya-kārikā · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống Mīmāṃsā về chú giải kinh văn",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống Mīmāṃsā về chú giải kinh văn · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Rāmānuja và Vedānta hữu thần",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "Rāmānuja và Vedānta hữu thần · phản bác · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Bốn maṭha và hệ tu sĩ Daśanāmī",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Bốn maṭha và hệ tu sĩ Daśanāmī · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Tân Vedānta thế kỷ 19–20",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Tân Vedānta thế kỷ 19–20 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE08",
+   "chapter": 5,
+   "file": "ch05.md",
+   "image": null
+  },
+  "CH05-CE08-12": {
+   "id": "CH05-CE08-12",
+   "name_vi": "Yikʼin Chan Kʼawiil",
+   "name_orig": "\"Ruler B\" của Tikal",
+   "labels": [],
+   "years_raw": "trị vì 734–766 CN",
+   "born": 734,
+   "died": 766,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Tikal, nay thuộc Petén, Guatemala",
+   "region": "Châu Mỹ",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Nghệ thuật/Kiến trúc"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q2620151",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Trong hai thế kỷ, chính trị Maya Cổ điển xoay quanh thế đối đầu giữa Tikal và Calakmul. Ông là người phá vỡ nó: lên ngôi ngày 8 tháng 12 năm 734, ông đánh bại Calakmul năm 736, rồi hai đồng minh của Calakmul là El Perú năm 743 và Naranjo năm 744, và chuyển chiến thắng thành đá — Đền IV, kim tự tháp cao nhất thế giới Maya, với các rầm gỗ chạm ghi chính những chiến dịch ấy. Tikal từ một thành từng thất thế trở lại thành thế lực mạnh nhất vùng đất thấp.",
+   "why": "Niên đại của toàn chuỗi không do người đời sau dựng lại: nó được chính triều đình ông khắc bằng Long Count, hệ đếm ngày tuyệt đối, nên ngày lên ngôi xác định tới từng ngày trong khi năm sinh của Charlemagne cùng thế kỷ vẫn còn bốn phương án. Ghi Trung bình chứ không phải Cao vì năm mất còn để ngỏ. Kʼinich Janaabʼ Pakal có mục riêng ở nhóm CE07.",
+   "sources": "Simon Martin và Nikolai Grube, Chronicle of the Maya Kings and Queens, tái bản lần 2 (Thames & Hudson, 2008); Peter D. Harrison, The Lords of Tikal: Rulers of an Ancient Maya City (Thames & Hudson, 1999).",
+   "inherits": [
+    {
+     "target": "Jasaw Chan Kʼawiil I, cha ông, người dựng lại Tikal",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Jasaw Chan Kʼawiil I, cha ông, người dựng lại Tikal · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Calakmul, qua thế đối đầu kéo dài",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "Calakmul, qua thế đối đầu kéo dài · phản bác · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Yaxʼ Nuun Ahiin II và Tikal hậu kỳ Cổ điển",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Yaxʼ Nuun Ahiin II và Tikal hậu kỳ Cổ điển · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Ngành giải mã bi ký Maya thế kỷ 20",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Ngành giải mã bi ký Maya thế kỷ 20 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE08",
    "chapter": 5,
    "file": "ch05.md",
    "image": null
