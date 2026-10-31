@@ -436,7 +436,7 @@
     "**Một mục bị gỡ liên kết vì lint bắt nghịch niên đại**",
     "Bản thảo đầu cho Phạm Diệp (CH04-CE05-10) \"ảnh hưởng tới\" Hai Bà Trưng ở phụ lục. Vòng kiểm nghịch niên đại — thêm vào `atlaslib/lint.py` sau đợt bình duyệt Chapter 3 — báo rằng ông sinh năm 398, tức ba trăm năm mươi lăm năm sau khi bà mất. Quan hệ thật là ông **viết về** bà, không phải tác động lên bà; đây đúng loại lỗi đã mắc ở Chapter 3 với cặp Hannibal và Polybius. Tương tự, liên kết Hán Quang Vũ Đế \"phản bác\" Hai Bà Trưng cũng bị gỡ: đàn áp quân sự không phải quan hệ tư tưởng, cùng lý do đã gỡ cặp Hán Vũ Đế và Triệu Đà ở Chapter 3. Cả hai sự kiện vẫn được nêu trong phần văn xuôi của mục tương ứng.",
     "**Ứng viên Việt Nam đã được cân nhắc và kết quả**",
-    "Giai đoạn 1–500 CN ở Việt Nam là thời Bắc thuộc lần thứ nhất và thứ hai. Ba nhân vật định danh được là **Hai Bà Trưng** (khởi nghĩa 40–43), **Bà Triệu** (248) và **Sĩ Nhiếp** (137–226). Cả ba **không vào atlas chính** vì theo hệ quy chiếu toàn cầu, ảnh hưởng của họ nằm trong phạm vi khu vực; cả ba đã có mục riêng ở phụ lục (`CH90-CE01_09-01`, `-02`, `-03`). Liên hệ giữa hai tầng ở chapter này nằm trong phần văn xuôi chứ không ở dòng liên kết, vì lý do nêu ở khối trên. Vương quốc Lâm Ấp lập năm 192 ở miền trung Việt Nam ngày nay cũng thuộc giai đoạn này nhưng không có nhân vật nào định danh được bằng nguồn đương thời.",
+    "Giai đoạn 1–500 CN ở Việt Nam là thời Bắc thuộc lần thứ nhất và thứ hai. Ba nhân vật định danh được là **Hai Bà Trưng** (khởi nghĩa 40–43), **Bà Triệu** (248) và **Sĩ Nhiếp** (137–226). Cả ba **không vào atlas chính** vì theo hệ quy chiếu toàn cầu, ảnh hưởng của họ nằm trong phạm vi khu vực; cả ba đã có mục riêng ở phụ lục (`CH90-CE01_09-01`, `-02`, `-03`). Liên hệ giữa hai tầng ở chapter này nằm trong phần văn xuôi chứ không ở dòng liên kết, vì lý do nêu ở khối trên. Vương quốc Lâm Ấp lập năm 192 ở miền trung Việt Nam ngày nay cũng thuộc giai đoạn này. Câu trước đây ở chỗ này — rằng Lâm Ấp \"không có nhân vật nào định danh được bằng nguồn đương thời\" — **đã được rút**: bình duyệt chỉ ra nó không đứng được trước trường hợp **Bhadravarman I**, người có bi ký định danh và gắn với Mỹ Sơn. Chưa đủ xác minh để viết mục, nhưng cũng không được dùng một câu sai để tự chặn lối đi ấy.",
     "**Ứng viên mạnh đã bị loại và lý do**",
     "- Hieronymus, Ambrosiô, Basiliô, Cyrillô thành Alexandria, Arius, Marcion, Justin Tử đạo, Clement thành Alexandria, Hippolytus, Cyprianô: các mục Kitô giáo của chapter đã kín và mỗi người đều được nêu đích danh trong mục tương ứng. Hieronymus là ca sát nút nhất — bản Vulgata của ông là văn bản Kinh Thánh chuẩn của phương Tây suốt nghìn năm, nên nếu trần nhóm CE05 được nới thì ông là người đầu tiên nên xét.",
     "- Epictetus, Musonius Rufus, Libanius, Themistius, Iamblichus, Damascius, Syrianus: xếp sau ở độ bền hoặc không để lại văn bản đủ.",
@@ -444,7 +444,7 @@
     "- Samudragupta, Kālidāsa, Āryadeva, Dhammapāla, Varāhamihira, Gautamiputra Satakarni, Huvishka: Kālidāsa là ca đáng tiếc nhất — thơ và kịch Sanskrit của ông là đỉnh của truyền thống ấy — nhưng niên đại của ông trải từ thế kỷ 4 tới thế kỷ 5 mà không mốc nào chắc, và cả hai nhóm tương ứng đều đã kín.",
     "- Theon xứ Alexandria, Menelaus, Soranus, Aretaeus, Celsus, Crateuas, Bardaisan, Kartir, Odaenathus, Zenobia, Aetius, Geiseric, Pulcheria, Thái hậu Phùng thị: nêu trong mục tương ứng hoặc xếp sau ở phạm vi.",
     "- **Cố Khải Chi** (k. 345–406): bản thảo đầu **có** mục riêng cho ông ở nhóm CE04, rồi bị thay sau bình duyệt khi phát hiện Theodosius I vắng mặt hoàn toàn khỏi atlas dù dòng Bối cảnh của chính nhóm nêu việc Kitô giáo thành quốc giáo La Mã. Lý do loại ông chứ không loại người khác: `CH04-CE04-07` Vương Hi Chi đã gánh cùng luận điểm, cùng vùng, cùng lĩnh vực và cùng giai đoạn; và công thức truyền thần tả chiếu của ông đến qua giai thoại trong Thế thuyết tân ngữ chứ không qua trước tác còn lại. Giá phải trả là thế cân bằng bốn vùng ba mục mỗi vùng của nhóm bị phá. Nếu trần nhóm được nới ở P4, ông là người đầu tiên nên xét lại.",
-    "- **Ezana xứ Aksum** (TK 4) và **Charaka**: hai ca mà bình duyệt chỉ ra là chưa từng được nhắc ở bất kỳ đâu. Ezana là vua đầu tiên của Aksum theo Kitô giáo và cho đúc tiền mang thánh giá; toàn atlas hiện chỉ có **một** mục thuộc vùng Châu Phi hạ Sahara. Charaka là tên gắn với bộ Charaka Saṃhitā, một trong hai nền của y học Ayurveda, và nhóm CE01 không có mục Nam Á nào.",
+    "- **Charaka**: ca mà bình duyệt chỉ ra là chưa từng được nhắc ở bất kỳ đâu. Charaka là tên gắn với bộ Charaka Saṃhitā, một trong hai nền của y học Ayurveda, và nhóm CE01 không có mục Nam Á nào. (**Ezana xứ Aksum**, nêu cùng chỗ ở vòng bình duyệt ấy, nay **có mục riêng** ở `CH04-CE04-09` nên không còn là ứng viên bị bỏ sót — xem khối dưới.)",
     "**Điểm cần kiểm chứng thêm**",
     "- **Niên đại trị vì của Kanishka (CH04-CE02-03)** là một trong các tranh luận dai dẳng nhất của sử học Nam Á, với đề xuất trải từ 78 tới 144 CN. Mục này dùng khoảng 127–150 theo Falk; nếu lấy mốc 78 thì ông thuộc nhóm CE01.",
     "- **Niên đại của Nāgārjuna, Asaṅga và Vasubandhu** đều chỉ định được ở mức thế kỷ, và với Vasubandhu còn có giả thuyết Frauwallner rằng đó là hai người khác nhau. Ba mục này đều để độ tin cậy Thấp và lint bỏ qua đối chiếu Wikidata.",
@@ -467,6 +467,15 @@
     "- Hypatia: \"nhà toán học nữ sớm nhất có công việc cụ thể ghi bằng nguồn đương thời\" — bị **Pandrosion** bác, người được chép trong quyển III bộ Tuyển tập của Pappus, mà Pappus là `CH04-CE04-06`, **mục ngay trên trong cùng chapter**.",
     "- Phạm Diệp: \"lần đầu phụ nữ được chép thành một mục có hệ thống\" — bị bộ Liệt nữ truyện của Lưu Hướng bác, mà mục `CH03-BCE01-10` nói thẳng ra điều đó.",
     "Năm lỗi còn lại: mục Nāgārjuna nêu Āryadeva làm ứng viên bị loại dù Āryadeva giữ `CH04-CE03-12` — vi phạm quy tắc 6 duy nhất của chapter, và đúng là hệ quả của việc thêm mục sau vòng đầu mà không sửa câu viết trước đó; cạnh Trương Đạo Lăng → Vương Bật không có bằng chứng và chỉ tồn tại một chiều, đã xoá; mục Constantinus tự mâu thuẫn giữa thân mục (\"triệu tập và chủ toạ\") và phần Vì sao chọn cách đó bốn dòng (\"việc chủ toạ thì các nguồn không thống nhất\"); dòng Nguồn của Attila ghi các mảnh Priscus truyền \"qua Jordanes\" trong khi chính đoạn đi sứ tận trại Attila năm 449 nằm ở *Excerpta de legationibus*; và Cưu-ma-la-thập gắn nhãn độ tin cậy `Cao` cho hệ niên đại 344–413 trong khi trích *Cao tăng truyện*, vốn chép 409 — nay hạ xuống `Trung bình` và nêu cả hai hệ.",
+    "**Hoán đổi sau vòng bình duyệt: Chandragupta II ra, Ezana vào (CE04)**",
+    "Nhóm CE04 đã kín 12 chỗ, nên thêm Ezana buộc phải bỏ một mục. Bình duyệt chấm Chandragupta II 10 điểm, mọi mục còn lại ≥ 13: đóng góp của ông là **một triều đại hưng thịnh** chứ không phải một quyết định định danh được, và hai dữ kiện cụ thể trong mục cũ (tượng Sarnath, ký sự Pháp Hiển) đều không phải của ông. Hai phương án khác — bỏ Julianus hoặc Shapur II để lấy một mục Châu Mỹ — **bị từ chối**: cả hai đều mạnh hơn ứng viên thay thế, và bỏ Julianus thì mất phép thử phản chứng duy nhất về việc quyền lực nhà nước có đảo ngược được Kitô giáo hoá hay không.",
+    "Cái mất có thật và nên ghi: CE04 không còn mục **Chính trị/Nhà nước thuộc Nam Á**; Asaṅga và Vasubandhu giữ vùng Nam Á nhưng cả hai đều là Triết học/Tôn giáo. Nhãn \"thời hoàng kim Gupta\" nay vào chapter qua Pháp Hiển — từ bên ngoài, và theo bình duyệt thì đáng tin hơn bi ký ca tụng. Liên kết `Kế thừa từ` của Pháp Hiển trỏ tới mục cũ đã được đổi thành liên kết bối cảnh.",
+    "**Ba mệnh đề về Ezana đã bị vòng kiểm bác, và không được viết vào mục**",
+    "Vòng kiểm độc lập (`reports/rebalance-facts.md`) bác ba điều mà tài liệu phổ thông hay nói, trong đó có **chính mệnh đề từng là lý do đề cử ông**:",
+    "1. *\"Tiền Ezana là đồng tiền đầu tiên trên thế giới mang thánh giá\"* — **sai** như một mệnh đề tuyệt đối: chữ lồng Chi-Rho đã lên tiền La Mã từ thời Constantinus (k. 327) và nổi bật trên tiền Magnentius năm 352/353. Chỉ **thánh giá trơn** mới đúng là Ezana sớm hơn, chừng bảy thập niên so với tiền Theodosius II k. 420–423. Mục viết theo dạng \"nằm trong số những đồng sớm nhất\", không viết \"đầu tiên\".",
+    "2. *\"Aksum là nhà nước thứ hai nhận Kitô giáo làm quốc giáo\"* — chỉ đúng nếu **bỏ qua Gruzia/Iberia**. Thứ tự hợp lý là Armenia, Gruzia, rồi Aksum — và trước La Mã, nếu \"quốc giáo\" hiểu theo Sắc chỉ Thessalonica năm 380. Mục không dùng con số thứ tự nào.",
+    "3. *\"Ezana tiêu diệt Meroë, chấm dứt vương quốc Kush\"* — giới nghiên cứu nay nghiêng về việc Meroë đã suy sụp từ khoảng năm 300, trước chiến dịch. Hatke — nguồn mục này dẫn — lập luận rằng chiến dịch nhắm vào người **Noba** và là chuyện an ninh biên giới phía tây, **không** phải cuộc chinh phục làm sụp đổ Kush. Dẫn Hatke để chống lưng cho câu \"Ezana diệt Kush\" sẽ đúng là lỗi **quy tắc 7** (dẫn một nguồn ngược lại luận điểm của chính nó).",
+    "Chi tiết Frumentius làm gia sư và cải đạo cho Ezana chỉ có ở **Rufinus**, người tự nói là nghe lại từ Aedesius — nên mục viết \"theo Rufinus\", không viết như sự kiện.",
     "**Vì sao Châu Mỹ bằng 0 ở chapter này, và vì sao đó không phải lỗi lựa chọn**",
     "Teotihuacan khoảng năm 400 CN có 100.000–200.000 dân, lớn nhất châu Mỹ tiền Columbus, mà **không một người cai trị nào được biết tên**; chữ Maya và lịch Trường kỷ ở giai đoạn này cũng không gắn với tên người. Ứng viên mạnh nhất là Siyaj K'ak', một cá nhân có thật — bi ký Tikal Stela 31 gắn tước hiệu *Ochk'in Kaloomte'* vào tên ông, và hành trình của ông được chép theo ngày (El Perú 8/1/378, Tikal 14/1/378) — nhưng phạm vi (a) của ông khoảng 10 so với trung vị chapter khoảng 15. Tức **đơn vị phân tích của atlas, cá nhân có tên, loại châu Mỹ ra về mặt cấu trúc**, chứ không phải chapter quên xét. Ghi ra thay vì lấp bằng một mục yếu.",
     "Một đính chính để các vòng sau không vấp lại: đồng vị stronti cho thấy **K'inich Yax K'uk' Mo' lớn lên ở vùng Tikal/Petén**, tức nó *bác* cách đọc Teotihuacan vốn là lý do khiến ông hấp dẫn. Dùng Teotihuacan làm điểm mạnh cho ông sẽ rơi đúng vào lỗi \"nguồn dùng ngược\" mà quy tắc 7 mô tả.",
@@ -12994,6 +13003,13 @@
      "evidence": "qua trường phái",
      "raw": "Phong trào đan tu phương Tây · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH04-CE04-09",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH04-CE04-09 · kế thừa · trực tiếp",
+     "undetermined": false
     }
    ],
    "group": "CE04",
@@ -13453,50 +13469,58 @@
   },
   "CH04-CE04-09": {
    "id": "CH04-CE04-09",
-   "name_vi": "Chandragupta II",
-   "name_orig": "चन्द्रगुप्त द्वितीय, Vikramāditya",
+   "name_vi": "Ezana xứ Aksum",
+   "name_orig": "ʿĒzānā, ዔዛና",
    "labels": [],
-   "years_raw": "trị vì k. 375–415 CN",
-   "born": 375,
-   "died": 415,
+   "years_raw": "trị vì k. 320 – k. 360 CN",
+   "born": 320,
+   "died": 360,
    "approx": true,
    "alive": false,
    "years_ok": true,
-   "place": "Pataliputra và Ujjain, đế chế Gupta",
-   "region": "Nam Á",
+   "place": "Aksum, nay thuộc vùng Tigray, Ethiopia",
+   "region": "Châu Phi hạ Sahara",
    "fields": [
-    "Chính trị/Nhà nước"
+    "Chính trị/Nhà nước",
+    "Tôn giáo/Tâm linh"
    ],
-   "confidence": "Thấp",
-   "wikidata": "Q844536",
+   "confidence": "Trung bình",
+   "wikidata": "Q379898",
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Ông đánh bại các Kshatrapa phía tây, đưa đế chế Gupta ra tới biển Arab và mở đường thương mại đường biển. Giai đoạn trị vì của ông thường được lấy làm đỉnh của thời Gupta: tiền bạc theo chuẩn mới, thơ Sanskrit cổ điển nở rộ, và điêu khắc Mathura định hình hình tượng Phật cùng thần Ấn giáo cho nhiều thế kỷ — loạt tượng Sarnath thường gắn với thời Gupta thì có bia ghi niên đại 474 CN, tức sau ông sáu mươi năm. Nhà sư Trung Hoa Pháp Hiển đi qua vùng này dưới triều ông và để lại mô tả từ bên ngoài, nguồn hiếm cho thấy đời sống thường dân chứ không chỉ bi ký ca tụng.",
-   "why": "Ứng viên cùng triều là Samudragupta, cha ông, người mở rộng lãnh thổ và để lại bi ký trụ Allahabad, và Kumaragupta I, con ông. Chandragupta II được chọn theo độ bền (b): chính giai đoạn ông trị vì là cái mà truyền thống Ấn Độ gọi là thời hoàng kim và lấy làm điểm quy chiếu, và danh hiệu Vikramāditya gắn với ông thành khuôn mẫu vua lý tưởng trong văn chương về sau.",
-   "sources": "Upinder Singh, A History of Ancient and Early Medieval India (2008); bi ký trụ sắt Delhi.",
+   "ideas": "Ông để lại thứ hiếm có ở châu Phi hạ Sahara cổ đại: bia ký của chính mình. Bia Ezana ở Aksum khắc ba hệ văn tự — Hy Lạp, Ge'ez và Sabaic — còn RIE 189 dài năm mươi hai dòng. Đọc theo thứ tự, các bia cho thấy một chuyển biến tôn giáo diễn ra ngay trên văn bản của đương sự: từ thần Maḥrem sang \"Chúa tể của Trời\", rồi tới Ba Ngôi. Tiền đúc hậu kỳ của ông nằm trong số những đồng sớm nhất thế giới mang thánh giá trơn, trước thánh giá trên tiền La Mã chừng bảy thập niên. Theo Rufinus, Frumentius được Athanasius tấn phong làm giám mục Aksum.",
+   "why": "Ông thay Chandragupta II, mục bình duyệt chấm yếu nhất nhóm. Ứng viên cùng chỗ là Frumentius, nhưng Frumentius là nhà truyền giáo, còn quyết định biến Kitô giáo thành việc của nhà nước thì đọc được trên tiền và bia của chính Ezana. Chọn theo độ bền (b): giáo hội Ethiopia mà quyết định ấy mở ra vẫn còn. Yêu cầu đa dạng vùng ở §5 khiến nhóm đi tìm ông; bốn tiêu chí là thứ giữ ông lại. Niên đại để Trung bình vì mốc tuyệt đối duy nhất là thư Constantius II.",
+   "sources": "George Hatke, Aksum and Nubia (ISAW/NYU Press, 2013), https://dlib.nyu.edu/awdl/isaw/hatke2013-aksum-and-nubia/ ; Stuart Munro-Hay, Aksum: An African Civilisation of Late Antiquity (Edinburgh University Press, 1991).",
    "inherits": [
     {
-     "target": "Samudragupta",
+     "target": "CH04-CE04-02",
      "relation": "kế thừa",
      "evidence": "trực tiếp",
-     "raw": "Samudragupta · kế thừa · trực tiếp",
+     "raw": "CH04-CE04-02 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Vương quyền Aksum và thần Maḥrem",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "Vương quyền Aksum và thần Maḥrem · phản bác · trực tiếp",
      "undetermined": false
     }
    ],
    "influences": [
     {
-     "target": "CH04-CE04-12",
+     "target": "Giáo hội Chính thống Ethiopia",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH04-CE04-12 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Giáo hội Chính thống Ethiopia · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
-     "target": "Nghệ thuật và thơ ca Sanskrit thời Gupta",
+     "target": "Chữ Ge'ez có nguyên âm hoá",
      "relation": "kế thừa",
-     "evidence": "qua trường phái",
-     "raw": "Nghệ thuật và thơ ca Sanskrit thời Gupta · kế thừa · qua trường phái",
+     "evidence": "trực tiếp",
+     "raw": "Chữ Ge'ez có nguyên âm hoá · kế thừa · trực tiếp",
      "undetermined": false
     }
    ],
@@ -13701,10 +13725,10 @@
    "sources": "Pháp Hiển, Phật quốc ký, bản dịch James Legge (1886); Max Deeg, Das Gaoseng-Faxian-Zhuan (2005).",
    "inherits": [
     {
-     "target": "CH04-CE04-09",
+     "target": "Bối cảnh Ấn Độ thời Gupta",
      "relation": "kế thừa",
      "evidence": "trực tiếp",
-     "raw": "CH04-CE04-09 · kế thừa · trực tiếp",
+     "raw": "Bối cảnh Ấn Độ thời Gupta · kế thừa · trực tiếp",
      "undetermined": false
     },
     {
