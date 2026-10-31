@@ -33,8 +33,23 @@
     "- Kamose, Ahhotep, Senenmut, Puduhepa, Tushratta, Mursili II, Hazael, Ahab, Elisha, Y Doãn, Bàn Canh, Chu Văn Vương, Thiệu Công Thích, Bharadvāja, Gritsamada: đều xứng đáng xét tới và đều được nêu tên trong mục tương ứng, nhưng xếp sau ở ít nhất một tiêu chí.",
     "- Tutankhamun: nổi tiếng vì ngôi mộ còn nguyên, không vì điều gì ông làm. Đây là ca rõ nhất của chapter về khoảng cách giữa mức nổi tiếng và mức ảnh hưởng.",
     "- Hạ Vũ: niên đại truyền thống đặt ông trước năm 2000 TCN nên ngoài phạm vi, và bản thân nhà Hạ vẫn chưa có chứng cứ văn tự đương thời.",
+    "- Amenhotep con của Hapu: bản thảo đầu **có** mục riêng cho ông ở nhóm BCE14_12, rồi bị thay sau bình duyệt. Lý do: ông là người Ai Cập thứ năm của một nhóm chỉ có mười hai chỗ, trong khi Lưỡng Hà trống suốt ba trăm năm đúng ở nhóm ấy dù dòng Bối cảnh của nhóm có nêu Assyria và Babylon. Điểm mạnh của ông — một người không thuộc hoàng tộc được thờ như thần suốt hơn một thiên niên kỷ — vẫn là lý do để xét lại ở P4 nếu trần nhóm được nới.",
+    "- **Nhóm sau đây chưa từng được cân nhắc ở bản thảo đầu**, do bình duyệt độc lập chỉ ra; ghi vào đây thay vì lặng lẽ bỏ qua:",
+    "- **Ammi-ṣaduqa** (trị vì k. 1646–1626 TCN) — Phiến Kim Tinh ghi hai mươi mốt năm quan sát, và **chính bốn cách đọc phiến ấy là bốn niên biểu cao, trung, thấp và cực thấp** mà Ghi chú biên tập này viện ra ở mục ngay dưới. Chapter phụ thuộc vào ông ở nhiều mục mà không nhắc tên. Tiền lệ chọn một người vì cái họ để lại chứ không vì cái họ làm đã có sẵn ở mục Zimri-Lim.",
+    "- **Lipit-Ishtar xứ Isin** (k. 1934–1924 TCN) — **nằm trong phạm vi chapter**, có bộ luật còn lại, và được mục Hammurabi dẫn làm tiền lệ; nhưng không có trong nhóm nào, cũng không có trong danh sách \"mốc 2000 TCN cắt mất ai\". Rơi qua kẽ cả hai danh sách.",
+    "- **Anitta xứ Kussara** (k. 1740–1725 TCN) — văn bản Ấn–Âu cổ nhất còn lại.",
+    "- **Lamassi và Ahaha** ở Assur và Kaneš — nữ thương nhân có tên, để lại thư từ đương thời. Ghi chú này ở mục dưới tự hỏi còn ứng viên nữ nào bị bỏ qua không; **câu trả lời nằm đúng ở đây**, và danh sách bị loại hiện chỉ toàn hoàng hậu.",
+    "- **Sammu-ramat** (TK 9 TCN) — ứng viên nữ duy nhất kiểm được của nhóm BCE11_9, có bia Ashur và bi ký Kalhu, là gốc của truyền thuyết Semiramis. Kèm cảnh báo: giới nghiên cứu nay phần lớn bác việc bà thực sự nhiếp chính.",
+    "- **Idrimi xứ Alalakh** (TK 15 TCN), **Heqanakht** (k. 1950 TCN, thư và sổ sách cá nhân, mang lại lĩnh vực Kinh tế), **Dadusha xứ Eshnunna**, **Chu Mục Vương** (thiên Lữ hình), **Parikṣit và Janamejaya** của vương quốc Kuru.",
+    "- **Mốc 841 TCN** — năm có niên đại tuyệt đối sớm nhất của sử Trung Hoa — không được nhắc ở đâu, trong khi chapter khen ba mốc neo niên đại tương đương ở Cận Đông. Bất đối xứng này nên sửa ở P4.",
     "**Ứng viên Việt Nam đã được cân nhắc và kết quả**",
     "Giai đoạn 2000–801 TCN ở Việt Nam tương ứng các văn hoá Phùng Nguyên, Đồng Đậu, Gò Mun và giai đoạn sớm của Đông Sơn. Không có ứng viên nào: các văn hoá này **không để lại chữ viết**, nên không một cá nhân nào định danh được. Hùng Vương là một chuỗi hiệu trong thư tịch soạn rất muộn, không phải một nhân vật có thể đặt vào một thế kỷ cụ thể, nên không đủ ngay cả theo chuẩn [Truyền thuyết] mà chapter này áp cho Abraham hay Lycurgus. Phụ lục Việt Nam (Chapter 90) cũng chỉ bắt đầu từ thế kỷ 3 TCN vì lý do tương tự.",
+    "**Một phụ thuộc chưa được nói ra: Zarathustra**",
+    "Khối trên khẳng định Trung Á trống vì tư liệu. Điều đó **chỉ đúng vì Zarathustra đang nằm ở Chapter 2**. Niên đại theo ngôn ngữ học Avesta cổ — Boyce, Skjærvø, Hintze — đặt ông vào khoảng 1500–1000 TCN, tức trong chính chapter này, và `content/ch02.md` đã ghi đây là câu hỏi để P4 quyết. Nếu ông được chuyển sang đây thì Trung Á không còn trống, và một trong các lập luận của khối trên phải viết lại. Ghi ra để hai chapter không mô tả cùng một sự việc theo hai cách.",
+    "**Một chỗ từ vựng §5 không diễn đạt được**",
+    "Mục Vasiṣṭha và mục Zarathustra ở Chapter 2 có quan hệ **thừa kế chung** từ tôn giáo Ấn–Iran tiền sử. Bốn loại quan hệ hiện có — kế thừa, tổng hợp, phản bác, tương đồng độc lập — không cái nào diễn đạt được điều đó: \"tương đồng độc lập\" khẳng định **không** có tiếp xúc, còn \"kế thừa\" thì hàm ý người này nhận từ người kia. Bản thảo đầu dùng \"tương đồng độc lập\" và sai. Cách xử lý hiện tại là cho cả hai cùng trỏ về tổ tiên chung bằng tên, không nối trực tiếp với nhau. Nếu còn gặp lại ở các chapter sau thì nên bổ sung một loại quan hệ mới vào `atlaslib/common.py`.",
+    "**Chapter này đã qua bình duyệt độc lập một vòng**",
+    "Bốn bản rà soát, mỗi nhóm một bản, chạy sau khi viết xong và trước khi commit bản đã sửa. Hình dạng lỗi nổi bật nhất của chapter là **mệnh đề tối cao**, và điều đáng ghi là **nhiều phản ví dụ nằm ngay trong chính file**: \"Shamshi-Adad là người đầu tiên thống nhất bắc Lưỡng Hà\" bị Sargon bác, mà Sargon có tên trong chính Ghi chú biên tập này; \"Biên niên Karnak là nguồn quân sự chi tiết sớm nhất\" tranh ngôi với văn khố Mari ở cùng chapter; \"phù điêu Ashurnasirpal là tự sự bằng hình đầu tiên\" bị hai mục Ramesses bác; \"không văn bản kỹ thuật nào khác kèm tên người soạn\" bị chính mục Ahmes bác. Các lỗi khác đã sửa: tiền đề chịu lực của mục Amenemhat I (chế độ đồng trị) bị Obsomer (1995) bác bỏ; mục Hiram I trộn tên với Ahiram xứ Byblos, một người khác ở một thành khác; mục Solomon quy việc tập trung phụng tự cho ông trong khi atlas đã quy cho Hezekiah ở Chapter 2; thiên Thiệu cáo bị dẫn làm lời Chu Công trong khi đó là lời Thiệu Công Thích; bốn số chương sai hoặc không kiểm được đã bị bỏ; một nguồn Grayson sai tập. Ghi ra vì tỉ lệ lỗi của một chapter mới là thông tin người đọc cần để định mức tin cậy.",
     "**Điểm cần kiểm chứng thêm**",
     "- **Niên đại tuyệt đối của cả nửa đầu chapter phụ thuộc vào tranh luận niên biểu cao–thấp.** Mốc Babylon sụp dưới tay Mursili I có thể là 1595, 1531 hoặc 1499 TCN tuỳ niên biểu được chọn, chênh gần một thế kỷ. Mọi con số trước năm 1400 TCN trong chapter này nên đọc như vị trí tương đối, không như năm xác định.",
     "- **Năm 1046 TCN cho trận Mục Dã** là kết quả của Dự án niên biểu Hạ–Thương–Chu (1996–2000), và kết quả ấy bị nhiều nhà nghiên cứu ngoài Trung Quốc phản đối về phương pháp. Các đề xuất khác trải từ 1122 tới 1027 TCN.",
@@ -46,7 +61,6 @@
     "- Thành Thang (CH01-BCE17_15-01): niên đại truyền thống k. 1675–1646 TCN đặt ông ở đầu nhóm, nhưng niên biểu Thương hiện đại đẩy việc lập triều về khoảng 1600 TCN, vẫn trong nhóm. Nếu theo niên biểu dài hơn thì ông thuộc nhóm trước.",
     "- Khyan (CH01-BCE17_15-02): khai quật Tell Edfu đẩy triều ông sớm hơn niên biểu cũ; nếu niên đại mới được chấp nhận rộng thì ông gần ranh 1700 TCN.",
     "- Mursili I (CH01-BCE17_15-06): xem ghi chú niên biểu cao–thấp ở trên; theo niên biểu thấp, ông và cả việc Babylon sụp thuộc nhóm BCE14_12.",
-    "- Ramesses III (CH01-BCE14_12-09): sinh k. 1217 và mất k. 1155 TCN, vắt qua ranh 1101/1100 chỉ ở phần cuối; xếp ở BCE14_12 vì toàn bộ sự nghiệp nằm trong nhóm.",
     "- Viśvāmitra và Vasiṣṭha: biên hoạt động k. 1500–1200 TCN trải qua hai nhóm. Việc tách mỗi người một nhóm là lựa chọn biên tập để Nam Á có mặt ở cả hai, không phải kết luận về niên đại tương đối giữa Mandala 3 và Mandala 7.",
     "- Lycurgus (CH01-BCE11_9-12): niên đại truyền thống trải từ thế kỷ 9 tới thế kỷ 7 TCN tuỳ nguồn cổ. Nếu lấy đầu muộn thì ông thuộc Chapter 2, cùng nhóm với Dracon và Solon."
    ],
@@ -58,7 +72,7 @@
       -2000,
       -1701
      ],
-     "context": "Ai Cập Trung vương quốc tái lập nhà nước tập quyền sau thời phân liệt. Ở Lưỡng Hà, các thành bang Amorite tranh nhau, Babylon và Mari nổi lên rồi Hammurabi thu về một mối. Văn minh Indus bước vào giai đoạn suy tàn. Chữ viết chỉ có ở hai vùng này.",
+     "context": "Ai Cập Trung vương quốc tái lập nhà nước tập quyền sau thời phân liệt. Ở Lưỡng Hà, các thành bang Amorite tranh nhau, Babylon và Mari nổi lên rồi Hammurabi thu về một mối. Văn minh Indus bước vào giai đoạn suy tàn. Chữ viết đọc được có nêu tên người chỉ có ở hai vùng này.",
      "persons": [
       "CH01-BCE20_18-01",
       "CH01-BCE20_18-02",
@@ -566,8 +580,8 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Bộ luật khắc trên bia đá cao hơn hai mét, gồm phần mở đầu, khoảng hai trăm tám mươi hai điều và phần kết, là văn bản pháp luật cổ đại được bảo tồn đầy đủ nhất. Điểm đáng kể không nằm ở việc có luật thành văn — Ur-Nammu và Lipit-Ishtar đã làm trước đó hai, ba thế kỷ — mà ở việc công bố: bia dựng nơi công cộng, tuyên bố mục đích là để người bị ức hiếp đọc được phần của mình. Nguyên tắc tương xứng hình phạt và việc phân biệt mức phạt theo thân phận đều hiện rõ trong văn bản.",
-   "why": "Ứng viên cùng thời là Shamshi-Adad I, người thống nhất bắc Lưỡng Hà trước ông, và Rim-Sin I của Larsa, đối thủ ông đánh bại. Hammurabi được chọn theo độ bền (b): bia luật của ông được chép lại suốt một nghìn năm sau ở các trường thư lại Lưỡng Hà, nên nó là văn bản được dùng làm mẫu chứ không chỉ là một bộ luật từng có hiệu lực.",
+   "ideas": "Bộ luật khắc trên bia đá cao hơn hai mét, gồm phần mở đầu, phần điều khoản và phần kết. Cách đánh số quy ước cho hai trăm tám mươi hai điều, nhưng một vua Elam đã đục mất mấy cột nên con số ấy gồm cả phần phục dựng từ bản sao. Điểm đáng kể không nằm ở việc có luật thành văn — Ur-Nammu làm trước ông khoảng ba thế kỷ và Lipit-Ishtar khoảng một thế kỷ rưỡi — mà ở việc công bố: bia dựng nơi công cộng, tuyên bố mục đích là để người bị ức hiếp đọc được phần của mình. Nguyên tắc tương xứng hình phạt và việc phân biệt mức phạt theo thân phận đều hiện rõ.",
+   "why": "Ứng viên cùng thời bị loại là Rim-Sin I của Larsa, đối thủ ông đánh bại sau sáu mươi năm trị vì, và Dadusha của Eshnunna, người ban bộ luật Eshnunna ngay trước đó. Shamshi-Adad I có mục riêng trong nhóm nên không phải ứng viên bị loại. Hammurabi được chọn theo độ bền (b): bia luật của ông được chép lại suốt một nghìn năm sau ở các trường thư lại Lưỡng Hà, nên nó là văn bản được dùng làm mẫu chứ không chỉ là một bộ luật từng có hiệu lực.",
    "sources": "Martha T. Roth, Law Collections from Mesopotamia and Asia Minor (1997); bia luật Hammurabi, Bảo tàng Louvre, Sb 8.",
    "inherits": [
     {
@@ -620,8 +634,8 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Ông lập vương triều XII và dời kinh đô về Itj-tawy, điểm nối giữa Thượng và Hạ Ai Cập, để kiểm soát cả hai miền. Giải pháp thiết chế quan trọng nhất của ông là đồng trị: cho con lên ngôi cùng mình khi còn sống, biến việc kế vị từ một thời điểm rủi ro thành một quá trình có chuẩn bị. Bản Lời răn của Amenemhat, viết sau khi ông bị ám sát và mượn giọng chính ông nói với con, là văn bản chính trị hoá văn chương sớm nhất của Ai Cập.",
-   "why": "Ứng viên cùng giai đoạn là Mentuhotep II, người tái thống nhất Ai Cập trước đó, và Senusret I, con ông. Amenemhat I được chọn theo tính nguyên bản (c): chế độ đồng trị là của ông, và nó giải quyết đúng vấn đề đã làm sụp đổ Cổ vương quốc. Niên đại Ai Cập giai đoạn này chỉ xác định được theo niên biểu tương đối, nên mọi con số đều có biên vài chục năm.",
+   "ideas": "Ông lập vương triều XII và dời kinh đô về Itj-tawy, điểm nối giữa Thượng và Hạ Ai Cập, để kiểm soát cả hai miền. Truyền thống nghiên cứu lâu nay gán cho ông chế độ đồng trị — cho con lên ngôi cùng mình khi còn sống để việc kế vị thành một quá trình có chuẩn bị — nhưng Obsomer (1995) bác bỏ hẳn việc có đồng trị giữa ông và Senusret I, nên điểm này đang tranh luận. Bản Lời răn của Amenemhat, viết sau khi ông bị ám sát và mượn giọng chính ông nói với con, là văn bản dùng văn chương để xử lý một vụ chuyển quyền bạo lực.",
+   "why": "Ứng viên cùng giai đoạn là Mentuhotep II, người tái thống nhất Ai Cập trước đó, và Senusret I, con ông. Amenemhat I được chọn theo counterfactual (d): dời đô về Itj-tawy và lập một vương triều đứng được hai thế kỷ là chỗ rẽ sau thời phân liệt. Không lấy chế độ đồng trị làm lý do, vì việc đó đang tranh luận. Niên đại Ai Cập giai đoạn này chỉ xác định được theo niên biểu tương đối, nên mọi con số đều có biên vài chục năm.",
    "sources": "Ian Shaw (chủ biên), The Oxford History of Ancient Egypt (2000), ch. 7; Lời răn của Amenemhat, bản dịch trong Miriam Lichtheim, Ancient Egyptian Literature (1973), t. I.",
    "inherits": [
     {
@@ -676,8 +690,8 @@
     "Không áp dụng"
    ],
    "ideas": "Ông đẩy biên giới phía nam tới Semna và xây một chuỗi pháo đài gạch bùn kiểm soát dòng sông, kèm bia ranh giới ghi rõ ai được qua và với điều kiện nào — tức một chế độ biên giới có văn bản, không chỉ là chiếm đóng. Ông cũng cho đào lại kênh vượt thác thứ nhất để thuyền đi được. Điều khác thường nhất là chân dung: tượng ông có nếp nhăn, mí trĩu, miệng nghiêm, phá hẳn lối tạc vua trẻ mãi không già mà Ai Cập dùng suốt trước đó.",
-   "why": "Ứng viên cùng vương triều là Amenemhat III, con ông, người khai thác Fayum, và chính Amenemhat I. Senusret III được chọn theo tính nguyên bản (c) ở hai việc: chế độ biên giới có văn bản ở Semna, và lối tạc chân dung già đi. Việc ông cắt quyền các nomarch thì nghiên cứu gần đây, nhất là Franke, cho rằng đã bị phóng đại.",
-   "sources": "Ian Shaw (chủ biên), The Oxford History of Ancient Egypt (2000), ch. 7; Josef Wegner, The Mortuary Temple of Senwosret III at Abydos (2007).",
+   "why": "Ứng viên cùng vương triều bị loại là Amenemhat III, con ông, người khai thác Fayum, và Khnumhotep II, nomarch ở Beni Hasan. Amenemhat I có mục riêng trong nhóm nên không phải ứng viên bị loại. Senusret III được chọn theo tính nguyên bản (c) ở hai việc: chế độ biên giới có văn bản ở Semna, và lối tạc chân dung già đi. Việc ông cắt quyền các nomarch thì Franke (1991) cho rằng đã bị phóng đại.",
+   "sources": "Ian Shaw (chủ biên), The Oxford History of Ancient Egypt (2000), ch. 7; Detlef Franke, \"The Career of Khnumhotep III of Beni Hasan and the so-called 'Decline of the Nomarchs'\", trong Stephen Quirke (chủ biên), Middle Kingdom Studies (1991), tr. 51–67.",
    "inherits": [
     {
      "target": "CH01-BCE20_18-02",
@@ -730,8 +744,8 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Ông là người đầu tiên đặt toàn bộ bắc Lưỡng Hà, từ Ekallatum qua Ashur tới Mari, dưới một quyền lực duy nhất. Cách ông giữ vùng đó là đặt hai con trai làm vua chư hầu ở Mari và Ekallatum rồi điều khiển bằng thư — hàng trăm lá thư ấy còn trong văn khố Mari, trong đó ông quở trách người con ở Mari là nhu nhược so với người anh. Đây là một trong rất ít trường hợp của thiên niên kỷ 2 TCN mà quan hệ trong một gia đình cầm quyền đọc được trực tiếp.",
-   "why": "Ứng viên cùng thời là Zimri-Lim, người giành lại Mari sau khi ông chết, và Hammurabi, kẻ thừa hưởng khoảng trống ông để lại. Shamshi-Adad được chọn theo counterfactual (d): mô hình đặt con làm phó vương ở các trung tâm rồi điều khiển bằng thư từ là của ông, và chính nó cho thấy một nhà nước lãnh thổ có thể vận hành mà không cần vua đích thân có mặt.",
+   "ideas": "Ông đặt toàn bộ bắc Lưỡng Hà, từ Ekallatum qua Ashur tới Mari, dưới một quyền lực duy nhất — không phải lần đầu, vì Sargon xứ Akkad đã kiểm soát cả Mari lẫn Ashur khoảng năm trăm năm trước, nhưng là lần đầu sau khi trật tự Akkad tan rã. Cách ông giữ vùng đó là đặt hai con trai làm vua chư hầu ở Mari và Ekallatum rồi điều khiển bằng thư — hàng trăm lá thư ấy còn trong văn khố Mari, trong đó ông quở trách người con ở Mari là nhu nhược so với người anh. Đây là một trong rất ít trường hợp của thiên niên kỷ 2 TCN mà quan hệ trong một gia đình cầm quyền đọc được trực tiếp.",
+   "why": "Ứng viên cùng thời bị loại là Yarim-Lim I của Yamhad, đối trọng phía tây của ông, và Dadusha của Eshnunna. Zimri-Lim và Hammurabi đều có mục riêng trong nhóm nên không phải ứng viên bị loại. Shamshi-Adad được chọn theo counterfactual (d): mô hình đặt con làm phó vương ở các trung tâm rồi điều khiển bằng thư từ là của ông, và chính nó cho thấy một nhà nước lãnh thổ có thể vận hành mà không cần vua đích thân có mặt.",
    "sources": "Jack M. Sasson, From the Mari Archives: An Anthology of Old Babylonian Letters (2015); Danh sách vua Assyria.",
    "inherits": [
     {
@@ -784,8 +798,8 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Giá trị của ông với lịch sử không nằm ở việc ông cai trị thế nào mà ở cái cung điện bị Hammurabi phá năm 1761 TCN rồi vùi lại: khoảng hai mươi nghìn phiến đất sét còn nguyên tại chỗ. Văn khố Mari ghi thư ngoại giao, danh sách khẩu phần, hợp đồng, báo cáo của sứ giả và cả lời của các nhà tiên tri — nên nó cho thấy một triều đình thiên niên kỷ 2 TCN vận hành hằng ngày ra sao, điều không nguồn nào khác cùng thời làm được ở quy mô ấy.",
-   "why": "Ứng viên cùng thời là Yasmah-Addu, người cai trị Mari trước ông, và Yarim-Lim I của Yamhad. Zimri-Lim được chọn theo phạm vi (a) của tư liệu: văn khố lập dưới thời ông là nguồn đơn lẻ lớn nhất về Cận Đông thiên niên kỷ 2 TCN, và phần lớn hiểu biết hiện nay về chính Hammurabi cũng đi qua đó. Đây là mục được chọn vì cái ông để lại, không vì cái ông làm.",
+   "ideas": "Giá trị của ông với lịch sử không nằm ở việc ông cai trị thế nào mà ở cái cung điện bị Hammurabi phá năm 1761 TCN rồi vùi lại: khoảng hai mươi nghìn phiến đất sét còn nguyên tại chỗ, tích lại qua cả thời Yasmah-Addu trước đó lẫn thời ông. Văn khố Mari ghi thư ngoại giao, danh sách khẩu phần, hợp đồng, báo cáo của sứ giả và cả lời của các nhà tiên tri — nên nó cho thấy một triều đình thiên niên kỷ 2 TCN vận hành hằng ngày ra sao, điều không nguồn nào khác cùng thời làm được ở quy mô ấy.",
+   "why": "Ứng viên cùng thời là Yasmah-Addu, người cai trị Mari trước ông, và Yarim-Lim I của Yamhad. Zimri-Lim được chọn theo phạm vi (a) của tư liệu: văn khố đóng lại dưới thời ông là nguồn đơn lẻ lớn nhất về nửa đầu thiên niên kỷ 2 TCN — văn khố Hattusa lớn hơn nhưng thuộc giai đoạn sau — và phần lớn hiểu biết hiện nay về chính Hammurabi cũng đi qua đó. Đây là mục được chọn vì cái ông để lại, không vì cái ông làm.",
    "sources": "Jack M. Sasson, From the Mari Archives (2015); Dominique Charpin, Hammurabi of Babylon (2012).",
    "inherits": [
     {
@@ -833,8 +847,8 @@
    "big_questions": [
     "Con người"
    ],
-   "ideas": "Trình thuật về ông trong sách Sáng thế đặt ra khuôn giao ước: một quan hệ có điều kiện giữa một vị thần và một dòng dõi, trong đó lời hứa đi kèm nghĩa vụ. Khuôn đó là bộ khung mà Do Thái giáo, Kitô giáo và Hồi giáo đều dựng trên, và cả ba đều truy nguồn gốc về ông, nên ông là nhân vật được nhiều người trên thế giới nhận làm tổ phụ hơn bất kỳ ai khác. Cảnh hiến tế Isaac trở thành điểm quy chiếu cho mọi tranh luận về đức tin và mệnh lệnh đạo đức.",
-   "why": "Không có ứng viên cùng thời để so vì không có nhân vật nào khác của giai đoạn này đứng ở vị trí tương đương trong ba truyền thống. Ông được chọn theo phạm vi (a) và độ bền (b). Nhãn [Truyền thuyết] và độ tin cậy Thấp là bắt buộc: không có một nguồn đương thời nào nhắc tới ông, và niên đại trên đây suy từ phả hệ Sáng thế chứ không từ chứng cứ.",
+   "ideas": "Trình thuật về ông trong sách Sáng thế đặt ra khuôn giao ước: một quan hệ có điều kiện giữa một vị thần và một dòng dõi, trong đó lời hứa đi kèm nghĩa vụ. Khuôn đó là bộ khung mà Do Thái giáo, Kitô giáo và Hồi giáo đều dựng trên, và cả ba đều truy dòng dõi giao ước của mình về ông, nên ông là điểm phân nhánh chung mà ba truyền thống cùng nhận. Cảnh hiến tế Isaac trở thành điểm quy chiếu cho mọi tranh luận về đức tin và mệnh lệnh đạo đức.",
+   "why": "Không có ứng viên cùng thời để so vì không có nhân vật nào khác của giai đoạn này đứng ở vị trí tương đương trong ba truyền thống. Ông được chọn theo phạm vi (a) và độ bền (b). Nhãn [Truyền thuyết] và độ tin cậy Thấp là bắt buộc: không có một nguồn đương thời nào nhắc tới ông, niên đại trên đây suy từ phả hệ Sáng thế chứ không từ chứng cứ, và Van Seters (1975) còn đi xa hơn — ông lập luận các trình thuật Abraham là sáng tác muộn, quãng thời lưu đày.",
    "sources": "Sách Sáng thế 11–25; John Van Seters, Abraham in History and Tradition (1975).",
    "inherits": [
     {
@@ -889,8 +903,8 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Truyền thống chép ông đánh bại vua Kiệt nhà Hạ ở Minh Điều và lập nhà Thương. Điều khiến mục này khác các vua truyền thuyết khác là có một mạch chứng cứ độc lập: tên Đại Ất xuất hiện trong danh sách tổ tiên được tế trên giáp cốt thời Thương, tức chính triều đình ấy coi ông là người lập nghiệp. Trình thuật về việc ông nhận lỗi thay dân khi hạn hán, dù chỉ có ở văn bản đời sau, là hạt giống sớm nhất của ý niệm vua chịu trách nhiệm trước trời.",
-   "why": "Ứng viên thay thế là Y Doãn, tể tướng được truyền thống gắn với ông và cũng có tên trong tế tự giáp cốt, và Hạ Vũ. Thành Thang được chọn theo chất lượng chứng thực: ông là nhân vật sớm nhất của Đông Á vừa có trình thuật truyền thống vừa có tên trong tư liệu đương thời. Nhãn [Tranh cãi lịch sử] vì mọi chi tiết tiểu sử đều đến từ văn bản soạn hơn một nghìn năm sau.",
+   "ideas": "Truyền thống chép ông đánh bại vua Kiệt nhà Hạ ở Minh Điều và lập nhà Thương. Điều khiến mục này khác các vua truyền thuyết khác là có một mạch chứng cứ độc lập: tên Đại Ất xuất hiện trong danh sách tổ tiên được tế trên giáp cốt, tức chính triều đình Thương coi ông là người lập nghiệp. Giáp cốt chỉ bắt đầu từ thời Vũ Đinh, khoảng ba thế kỷ rưỡi sau ông, nên đây là ký ức được triều đình ghi lại chứ không phải tư liệu đương thời. Trình thuật về việc ông nhận lỗi thay dân khi hạn hán, dù chỉ có ở văn bản đời sau, là hạt giống sớm nhất của ý niệm vua chịu trách nhiệm trước trời.",
+   "why": "Ứng viên thay thế là Y Doãn, tể tướng được truyền thống gắn với ông và cũng có tên trong tế tự giáp cốt, và Hạ Vũ. Thành Thang được chọn theo counterfactual (d): việc Thương thay Hạ là chỗ rẽ mà toàn bộ trình thuật đổi triều về sau của Đông Á lấy làm tiền lệ. Ông không phải người sớm nhất vừa có trình thuật vừa có tên trên giáp cốt — Vương Hợi, tổ tiên xa hơn, cũng vậy. Nhãn [Tranh cãi lịch sử] vì mọi chi tiết tiểu sử đều đến từ văn bản soạn hơn một nghìn năm sau.",
    "sources": "Tư Mã Thiên, Sử ký, Ân bản kỷ; David N. Keightley, Sources of Shang History (1978).",
    "inherits": [
     {
@@ -927,9 +941,9 @@
    "name_vi": "Khyan",
    "name_orig": "𓐍𓇋𓄿𓈖, Seuserenre",
    "labels": [],
-   "years_raw": "trị vì k. 1700–1600 TCN",
-   "born": -1700,
-   "died": -1600,
+   "years_raw": "trị vì k. 1650–1620 TCN (niên đại đang tranh luận; Tell Edfu đẩy sớm hơn tới k. 1700)",
+   "born": -1650,
+   "died": -1620,
    "approx": true,
    "alive": false,
    "years_ok": true,
@@ -943,9 +957,9 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Là một trong các vua Hyksos cai trị miền bắc Ai Cập, ông để lại dấu vết vật chất trải rộng khác thường: ấn và vật khắc tên ông được tìm thấy ở Knossos trên đảo Crete và ở Baghdad, tức Avaris dưới thời ông nằm trong một mạng trao đổi nối Aegean với Lưỡng Hà. Giai đoạn Hyksos cũng là lúc xe ngựa chiến, cung phức hợp và kỹ thuật luyện đồng mới vào Ai Cập — những thứ mà chính các vua đánh đuổi họ về sau dùng để dựng đế chế.",
+   "ideas": "Là một trong các vua Hyksos cai trị miền bắc Ai Cập, ông để lại dấu vết vật chất trải rộng khác thường: nắp bình alabaster khắc tên ông tìm thấy ở Knossos trên đảo Crete, và một mảnh ở Hattusa. Pho sư tử đá granite mang tên ông mua được ở Baghdad thì không rõ xuất xứ khai quật nên không dùng làm bằng chứng tiếp xúc trực tiếp với Lưỡng Hà. Giai đoạn Hyksos cũng là lúc xe ngựa chiến, cung phức hợp và kỹ thuật luyện đồng mới vào Ai Cập — những thứ mà chính các vua đánh đuổi họ về sau dùng để dựng đế chế.",
    "why": "Ứng viên cùng giai đoạn là Apophis, vua Hyksos cuối cùng, và Nehesy. Khyan được chọn theo phạm vi (a): các hiện vật mang tên ông là bằng chứng vật chất trực tiếp cho tầm liên hệ của Avaris, trong khi Apophis chủ yếu được biết qua trình thuật của bên thắng trận. Khai quật ở Tell Edfu đã đẩy niên đại trị vì của ông sớm hơn so với niên biểu cũ, nên biên niên đại còn rộng.",
-   "sources": "Ian Shaw (chủ biên), The Oxford History of Ancient Egypt (2000), ch. 8; Nadine Moeller và Gregory Marouard, \"Discussion of Late Middle Kingdom and Early Second Intermediate Period History\", Ägypten und Levante 21 (2011).",
+   "sources": "Ian Shaw (chủ biên), The Oxford History of Ancient Egypt (2000), ch. 8; Nadine Moeller và Gregory Marouard, \"Discussion of Late Middle Kingdom and Early Second Intermediate Period History: An Essay Based on the Recent Khayan Sealings from Tell Edfu\", Ägypten und Levante 21 (2011), tr. 87–121.",
    "inherits": [
     {
      "target": "Không xác định",
@@ -957,10 +971,10 @@
    ],
    "influences": [
     {
-     "target": "CH01-BCE17_15-03",
-     "relation": "phản bác",
+     "target": "Apophis và giai đoạn Hyksos muộn",
+     "relation": "kế thừa",
      "evidence": "trực tiếp",
-     "raw": "CH01-BCE17_15-03 · phản bác · trực tiếp",
+     "raw": "Apophis và giai đoạn Hyksos muộn · kế thừa · trực tiếp",
      "undetermined": false
     },
     {
@@ -1003,10 +1017,10 @@
    "sources": "Ian Shaw (chủ biên), The Oxford History of Ancient Egypt (2000), ch. 9; tiểu sử Ahmose con bà Ibana, mộ ở El-Kab.",
    "inherits": [
     {
-     "target": "CH01-BCE17_15-02",
+     "target": "Apophis và Khamudi, hai vua Hyksos cuối",
      "relation": "phản bác",
      "evidence": "trực tiếp",
-     "raw": "CH01-BCE17_15-02 · phản bác · trực tiếp",
+     "raw": "Apophis và Khamudi, hai vua Hyksos cuối · phản bác · trực tiếp",
      "undetermined": false
     },
     {
@@ -1061,7 +1075,7 @@
     "Không áp dụng"
    ],
    "ideas": "Bà nhiếp chính cho con chồng rồi lên ngôi với đầy đủ danh hiệu vua, và giải quyết vấn đề chính danh bằng hình ảnh: tự cho tạc mình với râu giả và trang phục vua, đồng thời khắc trình thuật thần Amun là cha ruột. Đền tang ở Deir el-Bahari với ba tầng hiên cột là một trong những công trình gây ảnh hưởng nhất của kiến trúc Ai Cập. Phù điêu ở đó ghi chuyến đi Punt: cây hương, khỉ, người và nhà sàn được vẽ chi tiết, nên nó vừa là tuyên truyền vừa là tư liệu dân tộc chí.",
-   "why": "Ứng viên cùng thời là Senenmut, quan quản lý và có thể là kiến trúc sư của đền Deir el-Bahari, và Thutmose III, người cùng mang danh hiệu vua với bà. Hatshepsut được chọn theo tính nguyên bản (c): bà là trường hợp được ghi chép đầy đủ nhất về một phụ nữ nắm trọn vương quyền ở Cận Đông cổ, và bộ công cụ chính danh bà dựng là sáng tạo riêng cho tình huống ấy.",
+   "why": "Ứng viên cùng thời bị loại là Senenmut, quan quản lý và có thể là kiến trúc sư của đền Deir el-Bahari, và Ahmose-Nefertari ở thế hệ trước. Thutmose III có mục riêng trong nhóm nên không phải ứng viên bị loại. Hatshepsut được chọn theo tính nguyên bản (c): bà là trường hợp được ghi chép đầy đủ nhất về một phụ nữ nắm trọn vương quyền ở Cận Đông cổ, và bộ công cụ chính danh bà dựng là sáng tạo riêng cho tình huống ấy.",
    "sources": "Kara Cooney, The Woman Who Would Be King (2014); phù điêu Punt, đền Deir el-Bahari.",
    "inherits": [
     {
@@ -1115,8 +1129,8 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Mười bảy chiến dịch của ông đưa quyền kiểm soát Ai Cập tới Euphrates và biến Levant thành hệ chư hầu nộp cống. Chiến dịch đầu, trận Megiddo năm 1457 TCN, được khắc chi tiết trong Biên niên ở Karnak: đường hành quân, cuộc họp bàn chọn lối đi hẹp, thế trận và chiến lợi phẩm đều có — đây là trận đánh sớm nhất còn lại một tường thuật đủ để dựng lại diễn biến. Ông cũng giữ con cái vua chư hầu ở Thebes làm con tin kiêm người được nuôi dạy theo lối Ai Cập.",
-   "why": "Ứng viên cùng thời là Hatshepsut, người cùng mang danh hiệu vua trong hai mươi năm đầu, và Amenhotep II, con ông. Thutmose III được chọn theo tính nguyên bản (c) và phạm vi (a): hệ chư hầu kèm nuôi con tin là mô hình cai trị gián tiếp ông dựng và Ai Cập dùng suốt Tân vương quốc, còn Biên niên Karnak là nguồn quân sự chi tiết sớm nhất của nhân loại.",
+   "ideas": "Mười bảy chiến dịch của ông đưa quyền kiểm soát Ai Cập tới Euphrates và biến Levant thành hệ chư hầu nộp cống. Chiến dịch đầu, trận Megiddo năm 1457 TCN, được khắc chi tiết trong Biên niên ở Karnak: đường hành quân, cuộc họp bàn chọn lối đi hẹp, thế trận và chiến lợi phẩm đều có — đây là trận đánh sớm nhất còn lại một tường thuật đủ để dựng lại diễn biến, dù bia Kamose chép một chiến dịch sớm hơn ở mức khái quát hơn. Ông cũng giữ con cái vua chư hầu ở Thebes làm con tin kiêm người được nuôi dạy theo lối Ai Cập.",
+   "why": "Ứng viên cùng thời bị loại là Amenhotep II, con ông, và Thutmose I, ông nội, người đã đưa quân tới Euphrates trước đó. Hatshepsut có mục riêng trong nhóm nên không phải ứng viên bị loại. Thutmose III được chọn theo tính nguyên bản (c): hệ chư hầu kèm nuôi con tin là mô hình cai trị gián tiếp ông dựng và Ai Cập dùng suốt Tân vương quốc.",
    "sources": "Donald B. Redford, The Wars in Syria and Palestine of Thutmose III (2003); Biên niên Thutmose III, đền Karnak.",
    "inherits": [
     {
@@ -1178,7 +1192,7 @@
    ],
    "ideas": "Ông đưa quân Hatti xuống chiếm Aleppo rồi đi tiếp hơn tám trăm cây số dọc Euphrates đánh vào Babylon khoảng năm 1595 TCN, chấm dứt vương triều của Hammurabi. Cuộc hành quân này không nhằm chiếm đóng — ông rút ngay — nên giá trị của nó là chứng minh một đội quân Anatolia có thể vươn tới trung tâm Lưỡng Hà. Khoảng trống quyền lực để lại mở đường cho người Kassite cai trị Babylon hơn bốn thế kỷ. Ông bị em rể ám sát khi trở về.",
    "why": "Ứng viên cùng nhà là Hattusili I, cha nuôi ông, người khởi cuộc nam tiến, và Telipinu, người về sau ban sắc lệnh kế vị. Mursili I được chọn theo counterfactual (d): việc Babylon sụp năm 1595 TCN là bước ngoặt của cả Lưỡng Hà, và nó đến từ một quyết định hành quân xa bất thường của riêng ông. Niên đại tuyệt đối của giai đoạn này vẫn tuỳ thuộc tranh luận về niên biểu cao hay thấp.",
-   "sources": "Trevor Bryce, The Kingdom of the Hittites (2005), ch. 4; Sắc lệnh Telipinu.",
+   "sources": "Trevor Bryce, The Kingdom of the Hittites (2005); Sắc lệnh Telipinu.",
    "inherits": [
     {
      "target": "Hattusili I",
@@ -1214,9 +1228,9 @@
    "name_vi": "Ahmes",
    "name_orig": "𓇋𓂝𓎛𓄟𓋴, Ahmose người chép",
    "labels": [],
-   "years_raw": "hoạt động k. 1650–1550 TCN",
-   "born": -1650,
-   "died": -1550,
+   "years_raw": "hoạt động k. 1560–1540 TCN",
+   "born": -1560,
+   "died": -1540,
    "approx": true,
    "alive": false,
    "years_ok": true,
@@ -1230,7 +1244,7 @@
    "big_questions": [
     "Thực tại"
    ],
-   "ideas": "Ông chép lại bộ giấy cói nay mang tên Rhind, và tự ghi rằng mình chép từ một bản có từ thời Trung vương quốc — nên ông là người sớm nhất trong lịch sử ký tên vào một văn bản toán học. Tập này gồm tám mươi tư bài toán có lời giải: chia bánh, tính thể tích kho thóc, độ dốc kim tự tháp, và hệ phân số đơn vị đặc trưng của Ai Cập. Cách tính diện tích hình tròn ở bài 50, lấy bình phương của tám phần chín đường kính, tương đương một giá trị xấp xỉ cho số pi quanh 3,16.",
+   "ideas": "Ông chép lại bộ giấy cói nay mang tên Rhind, và tự ghi rằng mình chép từ một bản có từ thời Trung vương quốc — nên ông là người sớm nhất trong lịch sử để lại tên gắn với một văn bản toán học, dù ông tự xưng là người chép chứ không phải tác giả. Tập này gồm tám mươi tư bài toán có lời giải: chia bánh, tính thể tích kho thóc, độ dốc kim tự tháp, và hệ phân số đơn vị đặc trưng của Ai Cập. Cách tính diện tích hình tròn ở bài 50, lấy bình phương của tám phần chín đường kính, tương đương một giá trị xấp xỉ cho số pi quanh 3,16.",
    "why": "Không nêu được ứng viên cùng thời: không người chép Ai Cập nào khác của giai đoạn này để lại tên gắn với một văn bản toán học. Giấy cói Moskva, nguồn toán học Ai Cập quan trọng thứ hai, hoàn toàn khuyết danh. Ahmes được chọn đúng vì điểm đó theo tính nguyên bản (c): ông là chỗ sớm nhất mà tri thức kỹ thuật gắn được với một cái tên.",
    "sources": "Giấy cói toán học Rhind, Bảo tàng Anh EA10057–10058; Annette Imhausen, Mathematics in Ancient Egypt: A Contextual History (2016).",
    "inherits": [
@@ -1287,7 +1301,7 @@
    "big_questions": [
     "Vũ trụ"
    ],
-   "ideas": "Truyền thống gán cho ông Mandala 3 của Rigveda, trong đó có câu 3.62.10 về sau gọi là Gāyatrī — lời cầu xin ánh sáng soi trí tuệ, và là câu được đọc lại nhiều lần nhất trong lịch sử Ấn Độ, vẫn dùng hằng ngày tới nay. Trình thuật về ông còn mang một luận điểm xã hội: ông vốn thuộc hàng chiến binh mà đạt được địa vị hiền giả, tức một trường hợp phá rào trong hệ thân phận, được kể đi kể lại suốt ba nghìn năm như một ngoại lệ có thẩm quyền.",
+   "ideas": "Truyền thống gán cho ông Mandala 3 của Rigveda, trong đó có câu 3.62.10 về sau gọi là Gāyatrī — lời cầu xin ánh sáng soi trí tuệ, và là câu được đưa vào nghi thức tụng niệm hằng ngày của truyền thống Bà-la-môn, vẫn dùng tới nay. Trình thuật về ông còn mang một luận điểm xã hội: ông vốn thuộc hàng chiến binh mà đạt được địa vị hiền giả, tức một trường hợp phá rào trong hệ thân phận, được kể đi kể lại suốt ba nghìn năm như một ngoại lệ có thẩm quyền.",
    "why": "Ứng viên trong cùng tập là Vasiṣṭha, chủ Mandala 7 và cũng được chọn riêng ở nhóm sau, và Gritsamada. Viśvāmitra được chọn theo độ bền (b): không câu nào khác của Rigveda có mức hiện diện liên tục như Gāyatrī. Nhãn [Truyền thuyết] là bắt buộc: các mandala là sáng tác tập thể của những dòng tư tế, và việc quy về một cá nhân là quy ước của truyền thống chứ không phải kết luận của nghiên cứu.",
    "sources": "Rigveda, Mandala 3; Stephanie W. Jamison và Joel P. Brereton, The Rigveda: The Earliest Religious Poetry of India (2014).",
    "inherits": [
@@ -1342,9 +1356,9 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Ông biến Hatti từ một vương quốc Anatolia thành một trong các cường quốc ngang hàng Ai Cập, bằng cách đánh gục Mitanni rồi dựng lại nó thành nước đệm chư hầu thay vì sáp nhập. Hệ hiệp ước chư hầu ông ký, với cấu trúc cố định gồm phần sử dẫn nhập, điều khoản, danh sách thần chứng giám và lời chúc dữ, là khuôn văn bản ngoại giao được dùng suốt Cận Đông về sau. Vụ một hoàng hậu Ai Cập xin ông gửi một hoàng tử sang làm chồng cho thấy vị thế Hatti đã đổi tới đâu.",
-   "why": "Ứng viên cùng thời là Tushratta của Mitanni, đối thủ ông đánh bại, và Mursili II, con ông. Suppiluliuma được chọn theo tính nguyên bản (c): khuôn hiệp ước chư hầu có phần sử dẫn nhập là đóng góp thiết chế của ông, và các nhà nghiên cứu Kinh Thánh từ Mendenhall trở đi đã chỉ ra chính khuôn ấy là mẫu hình thức của các bản giao ước trong Cựu Ước.",
-   "sources": "Trevor Bryce, The Kingdom of the Hittites (2005), ch. 7–8; Gary Beckman, Hittite Diplomatic Texts (1999).",
+   "ideas": "Ông biến Hatti từ một vương quốc Anatolia thành một trong các cường quốc ngang hàng Ai Cập, bằng cách đánh gục Mitanni rồi dựng lại nó thành nước đệm chư hầu thay vì sáp nhập. Hệ hiệp ước chư hầu ông ký có cấu trúc cố định gồm phần sử dẫn nhập, điều khoản, danh sách thần chứng giám và lời chúc dữ. Khuôn ấy đã manh nha từ đời Tudhaliya trước ông, nhưng loạt hiệp ước của ông mới làm nó thành chuẩn mực dùng suốt Cận Đông về sau. Vụ một hoàng hậu Ai Cập xin ông gửi một hoàng tử sang làm chồng cho thấy vị thế Hatti đã đổi tới đâu.",
+   "why": "Ứng viên cùng thời là Tushratta của Mitanni, đối thủ ông đánh bại, và Mursili II, con ông. Suppiluliuma được chọn theo tính nguyên bản (c): loạt hiệp ước của ông biến khuôn ấy thành quy phạm. Mendenhall (1954) lập luận đây là mẫu hình thức của giao ước Cựu Ước; luận điểm này chưa ngã ngũ vì một phe khác quy mẫu ấy cho hiệp ước Tân Assyria muộn hơn.",
+   "sources": "Trevor Bryce, The Kingdom of the Hittites (2005); Gary Beckman, Hittite Diplomatic Texts (1999).",
    "inherits": [
     {
      "target": "CH01-BCE17_15-06",
@@ -1398,7 +1412,7 @@
     "Vũ trụ"
    ],
    "ideas": "Ông dồn toàn bộ phụng tự nhà nước về một thần duy nhất là Aten, đĩa mặt trời, đóng cửa đền Amun, xoá tên thần ấy khỏi các bia khắc và dời kinh đô ra một chỗ hoang chưa từng thờ thần nào. Bài Đại tụng ca Aten mô tả một vị thần tạo tác và nuôi sống mọi dân tộc, kể cả người ngoài Ai Cập — điều hiếm trong văn chương tôn giáo đương thời. Nghệ thuật thời ông đổi hẳn quy phạm: thân hình kéo dài, bụng xệ, và cảnh vua ôm con gái trước mặt thần dân.",
-   "why": "Ứng viên cùng giai đoạn là Amenhotep III, cha ông, người đã nâng Aten lên trước đó, và Nefertiti, được chọn riêng ở mục sau. Akhenaten được chọn theo tính nguyên bản (c): việc dùng quyền lực nhà nước để dẹp các phụng tự khác là bước không có tiền lệ Ai Cập. Gọi đây là độc thần giáo thì quá mạnh — chính xác hơn là độc tôn một thần, vì vua vẫn giữ vai trò trung gian bắt buộc.",
+   "why": "Ứng viên cùng giai đoạn là Amenhotep III, cha ông, người đã nâng Aten lên trước đó, và Nefertiti, được chọn riêng ở mục sau. Akhenaten được chọn theo tính nguyên bản (c): việc dùng quyền lực nhà nước để dẹp các phụng tự khác là bước không có tiền lệ Ai Cập. Gọi đây là độc thần giáo hay chỉ độc tôn một thần vẫn đang tranh luận: Assmann nhận là độc thần vì cả chữ thần số nhiều cũng bị đục, Redford thì nhấn rằng không nối thẳng sang độc thần giáo Kinh Thánh được.",
    "sources": "Barry Kemp, The City of Akhenaten and Nefertiti: Amarna and Its People (2012); Đại tụng ca Aten, mộ Ay ở Amarna.",
    "inherits": [
     {
@@ -1419,9 +1433,9 @@
     },
     {
      "target": "CH01-BCE14_12-08",
-     "relation": "tương đồng độc lập",
+     "relation": "kế thừa",
      "evidence": "suy đoán học giả",
-     "raw": "CH01-BCE14_12-08 · tương đồng độc lập · suy đoán học giả",
+     "raw": "CH01-BCE14_12-08 · kế thừa · suy đoán học giả",
      "undetermined": false
     }
    ],
@@ -1480,43 +1494,51 @@
   },
   "CH01-BCE14_12-04": {
    "id": "CH01-BCE14_12-04",
-   "name_vi": "Amenhotep con của Hapu",
-   "name_orig": "𓇋𓏠𓈖𓊵𓏏𓊪",
+   "name_vi": "Tukulti-Ninurta I",
+   "name_orig": "𒆪𒋾𒀭𒊩𒌆𒅘",
    "labels": [],
-   "years_raw": "k. 1440–1350 TCN",
-   "born": -1440,
-   "died": -1350,
+   "years_raw": "trị vì k. 1243–1207 TCN",
+   "born": -1243,
+   "died": -1207,
    "approx": true,
    "alive": false,
    "years_ok": true,
-   "place": "Athribis và Thebes, Ai Cập",
+   "place": "Ashur và Kar-Tukulti-Ninurta, nay thuộc Iraq",
    "region": "Trung Đông/Bắc Phi",
    "fields": [
-    "Nghệ thuật/Kiến trúc"
+    "Quân sự",
+    "Chính trị/Nhà nước"
    ],
    "confidence": "Thấp",
-   "wikidata": "Q383259",
+   "wikidata": "Q299013",
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Là quan phụ trách công trình dưới triều Amenhotep III, ông chỉ huy việc dựng đền tang với cặp tượng khổng lồ về sau gọi là Colossi of Memnon, và vận chuyển những khối đá vài trăm tấn qua quãng đường dài. Điều đặc biệt không phải công trình mà là hậu vận: ông được ban đền tang riêng, điều gần như chỉ dành cho vua, rồi hơn một nghìn năm sau được thờ như một vị thần chữa bệnh ở Deir el-Bahari, nơi người ốm tới ngủ lại để xin mộng báo thuốc.",
-   "why": "Ứng viên cùng loại là Imhotep, kiến trúc sư thời Cổ vương quốc cũng được phong thần — nhưng ông sống trước mốc 2000 TCN của atlas này nên không thuộc phạm vi — và Senenmut. Amenhotep con của Hapu được chọn theo độ bền (b): phụng tự dành cho ông kéo dài tới thời Ptolemy, tức một người không thuộc hoàng tộc giữ được vị trí tôn giáo suốt hơn một thiên niên kỷ.",
-   "sources": "Dietrich Wildung, Egyptian Saints: Deification in Pharaonic Egypt (1977); Ian Shaw (chủ biên), The Oxford History of Ancient Egypt (2000), ch. 10.",
+   "ideas": "Ông đánh bại Kashtiliash IV, chiếm Babylon khoảng năm 1225 TCN và đưa cả vua lẫn tượng thần Marduk về Ashur — lần đầu một vua Lưỡng Hà phía bắc cai trị trực tiếp phía nam, và là tiền lệ mà các vua Assyria về sau viện dẫn. Ông cũng dựng một kinh đô mới mang tên mình ở bờ đối diện Ashur. Sử thi Tukulti-Ninurta kể chiến dịch ấy dưới dạng trường ca, là tác phẩm hiếm hoi của Lưỡng Hà lấy một vua đương thời làm nhân vật chính.",
+   "why": "Ứng viên cùng thời là Kashtiliash IV của Babylon, đối thủ ông bắt sống, và Shalmaneser I, cha ông, người đã mở rộng về phía tây. Tukulti-Ninurta được chọn theo counterfactual (d): việc Assyria lần đầu nắm Babylon là chỗ rẽ mở ra mô hình đế quốc mà Tiglath-Pileser I rồi các vua thế kỷ 9 TCN kế thừa. Ông bị chính con mình giết, mở đầu một giai đoạn suy yếu.",
+   "sources": "A. Kirk Grayson, Assyrian Rulers of the Third and Second Millennia BC (to 1115 BC) (1987); Sử thi Tukulti-Ninurta, bản dịch trong Benjamin R. Foster, Before the Muses (2005).",
    "inherits": [
     {
-     "target": "Imhotep",
+     "target": "Shalmaneser I",
      "relation": "kế thừa",
-     "evidence": "qua trường phái",
-     "raw": "Imhotep · kế thừa · qua trường phái",
+     "evidence": "trực tiếp",
+     "raw": "Shalmaneser I · kế thừa · trực tiếp",
      "undetermined": false
     }
    ],
    "influences": [
     {
-     "target": "Phụng tự chữa bệnh ở Deir el-Bahari thời Ptolemy",
+     "target": "CH01-BCE11_9-01",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Phụng tự chữa bệnh ở Deir el-Bahari thời Ptolemy · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH01-BCE11_9-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Mô hình đế quốc Assyria",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Mô hình đế quốc Assyria · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -1547,7 +1569,7 @@
     "Không áp dụng"
    ],
    "ideas": "Bộ bốn phiến đất sét mang tên ông ghi một giáo trình huấn luyện ngựa kéo xe chiến kéo dài gần bảy tháng, chia theo ngày, với cự ly, nhịp đi, số lần cho ăn, tắm và cả các đợt nghỉ xen kẽ. Về nguyên tắc, đây là huấn luyện ngắt quãng và tăng tải dần — cách làm mà thể thao hiện đại mô tả lại bằng ngôn ngữ sinh lý học. Đây là giáo trình huấn luyện động vật có hệ thống sớm nhất còn lại, và ông tự xưng là người Mitanni chuyên nghề này.",
-   "why": "Không nêu được ứng viên cùng thời: không văn bản kỹ thuật nào khác của thiên niên kỷ 2 TCN còn lại kèm tên người soạn. Kikkuli được chọn theo tính nguyên bản (c) và theo chất lượng chứng thực: văn bản còn gần trọn, có cấu trúc giáo trình rõ, và gắn với một cái tên cùng một nghề — chỗ hiếm hoi mà một người lao động chuyên môn, không phải vua hay tư tế, để lại dấu vết trực tiếp.",
+   "why": "Ứng viên cùng văn khố là Maštigga và Tunnawiya, hai nữ pháp sư có nghi thức quy danh ở Hattusa. Kikkuli được chọn theo tính nguyên bản (c): văn bản của ông là giáo trình kỹ thuật có tiến trình theo ngày, khác hẳn thể loại nghi thức. Cùng với Ahmes ở nhóm trước, đây là một trong hai chỗ mà một người lao động chuyên môn, không phải vua hay tư tế, để lại dấu vết trực tiếp.",
    "sources": "Annelies Kammenhuber, Hippologia hethitica (1961); phiến Kikkuli, văn khố Hattusa, CTH 284.",
    "inherits": [
     {
@@ -1658,7 +1680,7 @@
    ],
    "ideas": "Khoảng năm 1259 TCN, ông và Ramesses II ký bản hiệp ước mà cả hai phía đều giữ được văn bản: bản Akkad trên đất sét ở Hattusa và bản chữ tượng hình ở Karnak. Nội dung gồm chấm dứt chiến tranh, phân định ảnh hưởng, cam kết tương trợ nếu bên kia bị tấn công và điều khoản dẫn độ người chạy trốn. Đây là hiệp ước hoà bình quốc tế sớm nhất còn lại cả hai bản của hai bên — một bản phóng của nó được treo ở trụ sở Liên Hợp Quốc.",
    "why": "Ứng viên cùng thời là Muwatalli II, anh ông và là người chỉ huy ở Kadesh, và Puduhepa, vợ ông, người đồng ký nhiều văn bản ngoại giao. Hattusili III được chọn theo tính nguyên bản (c): giá trị nằm ở việc ông chọn kết thúc tranh chấp bằng một văn bản đối xứng với một cường quốc ngang hàng, thay vì bằng hiệp ước chư hầu như tiền lệ Hatti.",
-   "sources": "Gary Beckman, Hittite Diplomatic Texts (1999), văn bản 15; Trevor Bryce, The Kingdom of the Hittites (2005), ch. 10.",
+   "sources": "Gary Beckman, Hittite Diplomatic Texts (1999); Trevor Bryce, The Kingdom of the Hittites (2005).",
    "inherits": [
     {
      "target": "CH01-BCE14_12-01",
@@ -1715,7 +1737,7 @@
    ],
    "ideas": "Trình thuật Ngũ thư gắn với ông hai thứ có sức sống riêng rẽ. Thứ nhất là mô hình giải phóng: một dân nô lệ ra khỏi đế chế theo lời gọi của thần, khuôn chuyện được dùng lại trong phong trào bãi nô Mỹ, thần học giải phóng Mỹ Latinh và diễn văn dân quyền. Thứ hai là luật được trao như điều khoản của một giao ước giữa thần và cả cộng đồng, chứ không ban từ vua xuống — nên nguồn chính đáng của luật nằm ngoài quyền lực chính trị.",
    "why": "Không có ứng viên cùng thời để so: không nhân vật nào khác của giai đoạn đứng ở vị trí tương đương trong ba truyền thống. Ông được chọn theo phạm vi (a) và độ bền (b). Nhãn [Truyền thuyết] bắt buộc: không có nguồn Ai Cập hay Levant đương thời nào nhắc tới ông hay cuộc xuất hành, và niên đại trên đây là của truyền thống rabbi, không phải của khảo cổ.",
-   "sources": "Sách Xuất hành và Đệ nhị luật; Jan Assmann, Moses the Egyptian (1997).",
+   "sources": "Sách Xuất hành và Đệ nhị luật; Michael Walzer, Exodus and Revolution (1985); Jan Assmann, Moses the Egyptian (1997).",
    "inherits": [
     {
      "target": "CH01-BCE20_18-06",
@@ -1726,9 +1748,9 @@
     },
     {
      "target": "CH01-BCE14_12-02",
-     "relation": "tương đồng độc lập",
+     "relation": "kế thừa",
      "evidence": "suy đoán học giả",
-     "raw": "CH01-BCE14_12-02 · tương đồng độc lập · suy đoán học giả",
+     "raw": "CH01-BCE14_12-02 · kế thừa · suy đoán học giả",
      "undetermined": false
     }
    ],
@@ -1823,7 +1845,7 @@
     "Không áp dụng"
    ],
    "ideas": "Triều ông là chỗ chữ viết Trung Hoa lần đầu xuất hiện với khối lượng lớn: hàng chục nghìn mảnh giáp cốt ghi câu hỏi bói về mùa màng, chiến trận, bệnh tật, sinh nở và mộng, kèm phán đoán của vua và đôi khi kết quả thực tế. Vì câu hỏi được khắc theo công thức cố định và có ghi ngày, đây vừa là tư liệu tôn giáo vừa là tư liệu hành chính. Phần lớn hiểu biết hiện nay về nhà Thương — địa danh, chức quan, lịch pháp, quan hệ với các phương quốc — đi qua kho này.",
-   "why": "Ứng viên cùng triều là Phụ Hảo, vợ ông, được chọn riêng ở mục sau, và Bàn Canh, người dời đô về Ân. Vũ Đinh được chọn theo chất lượng chứng thực và phạm vi (a): ông là vị vua Đông Á sớm nhất mà tên, việc làm và cả cách suy nghĩ đọc được từ tư liệu do chính triều đình ông tạo ra, không qua trung gian của sử sách đời sau.",
+   "why": "Ứng viên bị loại là Bàn Canh, người dời đô về Ân ba đời trước ông, và Tổ Giáp, con ông. Phụ Hảo có mục riêng trong nhóm nên không phải ứng viên bị loại. Vũ Đinh được chọn theo chất lượng chứng thực và phạm vi (a): ông là vị vua Đông Á sớm nhất mà tên, việc làm và cả cách suy nghĩ đọc được từ tư liệu do chính triều đình ông tạo ra, không qua trung gian của sử sách đời sau.",
    "sources": "David N. Keightley, Sources of Shang History: The Oracle-Bone Inscriptions of Bronze Age China (1978); Robert Bagley trong The Cambridge History of Ancient China (1999).",
    "inherits": [
     {
@@ -1877,7 +1899,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Giáp cốt ghi bà cầm quân đánh các phương quốc, có lần huy động tới hơn một vạn người, và chủ trì tế lễ — hai việc mà tư liệu Thương hiếm khi giao cho phụ nữ. Mộ bà, khai quật năm 1976 ở Ân Khư, là ngôi mộ hoàng gia Thương duy nhất tìm thấy còn nguyên chưa bị trộm: hơn bốn trăm sáu mươi đồ đồng, bảy trăm năm mươi đồ ngọc, cùng người và chó tuẫn táng. Nhờ nhiều đồ đồng khắc tên bà, đây cũng là mốc định niên chắc chắn hiếm có cho khảo cổ học Thương.",
+   "ideas": "Giáp cốt ghi bà cầm quân đánh các phương quốc, có lần huy động tới hơn một vạn người, và chủ trì tế lễ — hai việc mà tư liệu Thương hiếm khi giao cho phụ nữ. Mộ bà, khai quật năm 1976 ở Ân Khư, là ngôi mộ hoàng gia Thương duy nhất tìm thấy còn nguyên chưa bị trộm: hơn bốn trăm sáu mươi đồ đồng, hơn bảy trăm năm mươi đồ ngọc, cùng người và chó tuẫn táng. Nhờ nhiều đồ đồng khắc tên bà, đây cũng là mốc định niên chắc chắn hiếm có cho khảo cổ học Thương.",
    "why": "Ứng viên là Vũ Đinh, chồng bà, được chọn riêng ở mục trước, và Phụ Tỉnh, một hậu phi khác cũng có tên trong giáp cốt. Phụ Hảo được chọn theo chất lượng chứng thực: bà là người phụ nữ sớm nhất của Đông Á mà cả vai trò xã hội lẫn di vật vật chất đều kiểm chứng được, và hai mạch chứng cứ ấy — văn bản đương thời và mộ nguyên vẹn — xác nhận lẫn nhau.",
    "sources": "Báo cáo khai quật mộ Phụ Hảo, Viện Khảo cổ học Trung Quốc (1980); Robert Bagley trong The Cambridge History of Ancient China (1999).",
    "inherits": [
@@ -1932,11 +1954,11 @@
    "sources": "Rigveda, Mandala 7; Stephanie W. Jamison và Joel P. Brereton, The Rigveda (2014).",
    "inherits": [
     {
-     "target": "Không xác định",
-     "relation": "",
-     "evidence": "",
-     "raw": "Không xác định",
-     "undetermined": true
+     "target": "Tôn giáo Ấn–Iran tiền sử",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "Tôn giáo Ấn–Iran tiền sử · kế thừa · suy đoán học giả",
+     "undetermined": false
     }
    ],
    "influences": [
@@ -1945,13 +1967,6 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "Truyền thống Vedanta và tế tự Vệ-đà · kế thừa · qua trường phái",
-     "undetermined": false
-    },
-    {
-     "target": "CH02-BCE06-09",
-     "relation": "tương đồng độc lập",
-     "evidence": "suy đoán học giả",
-     "raw": "CH02-BCE06-09 · tương đồng độc lập · suy đoán học giả",
      "undetermined": false
     }
    ],
@@ -1987,11 +2002,11 @@
    "sources": "A. Kirk Grayson, Assyrian Rulers of the Early First Millennium BC (1991); biên niên Tiglath-Pileser I, lăng trụ Ashur.",
    "inherits": [
     {
-     "target": "Không xác định",
-     "relation": "",
-     "evidence": "",
-     "raw": "Không xác định",
-     "undetermined": true
+     "target": "CH01-BCE14_12-04",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH01-BCE14_12-04 · kế thừa · qua trường phái",
+     "undetermined": false
     }
    ],
    "influences": [
@@ -2085,9 +2100,9 @@
    "big_questions": [
     "Con người"
    ],
-   "ideas": "Làm nhiếp chính cho cháu còn nhỏ, ông dẹp loạn Tam giám rồi trả quyền thay vì giữ — hành động mà Nho gia về sau lấy làm mẫu mực tối cao của bề tôi. Đóng góp tư tưởng là biến thiên mệnh thành một học thuyết có điều kiện: trời trao quyền cho người có đức và thu lại khi người ấy mất đức, nên không dòng họ nào giữ quyền vĩnh viễn. Các bài cáo trong Thượng thư dùng chính sự diệt vong của Thương làm chứng cứ cho lập luận ấy, và nói thẳng rằng Chu cũng có thể mất mệnh.",
-   "why": "Ứng viên cùng thời là Chu Vũ Vương, anh ông, được chọn ở mục trước, và Thiệu Công Thích, người cùng phụ chính. Chu Công Đán được chọn theo độ bền (b) và tính nguyên bản (c): thiên mệnh có điều kiện là chỗ dựa để mọi cuộc đổi triều ở Đông Á tự biện minh suốt ba nghìn năm, và Khổng Tử lấy chính ông, không phải vị vua nào, làm hình mẫu.",
-   "sources": "Thượng thư, các thiên Khang cáo, Thiệu cáo, Đa sĩ; Edward L. Shaughnessy, Sources of Western Zhou History (1991).",
+   "ideas": "Làm nhiếp chính cho cháu còn nhỏ, ông dẹp loạn Tam giám rồi trả quyền thay vì giữ — hành động mà Nho gia về sau lấy làm mẫu mực tối cao của bề tôi. Đóng góp tư tưởng là biến thiên mệnh thành một học thuyết có điều kiện: trời trao quyền cho người có đức và thu lại khi người ấy mất đức, nên không dòng họ nào giữ quyền vĩnh viễn. Thiên Khang cáo và Đa sĩ trong Thượng thư dùng chính sự diệt vong của Thương làm chứng cứ cho lập luận ấy, và nói thẳng rằng Chu cũng có thể mất mệnh.",
+   "why": "Ứng viên cùng thời là Chu Vũ Vương, anh ông, được chọn ở mục trước, và Thiệu Công Thích, người cùng phụ chính. Chu Công Đán được chọn theo độ bền (b) và tính nguyên bản (c): thiên mệnh có điều kiện là chỗ dựa để mọi cuộc đổi triều ở Đông Á tự biện minh suốt ba nghìn năm, và Luận ngữ 7.5 chép Khổng Tử than đã lâu không còn mơ thấy ông.",
+   "sources": "Thượng thư, các thiên Khang cáo và Đa sĩ; Edward L. Shaughnessy, Sources of Western Zhou History (1991).",
    "inherits": [
     {
      "target": "CH01-BCE11_9-02",
@@ -2150,7 +2165,7 @@
     "Con người"
    ],
    "ideas": "Trình thuật về ông trong sách Samuel là chân dung quyền lực sắc nét bậc nhất của văn chương cổ: một người vừa được chọn vừa phạm tội nặng, và cả hai mặt đều được chép. Chính cấu trúc đó — vua bị tiên tri lên án mà không bị xoá khỏi sử — đặt ra mô hình quyền lực chịu phán xét từ bên ngoài. Về sau, lời hứa về một dòng dõi David bền vững trở thành gốc của ý niệm messiah trong Do Thái giáo và Kitô giáo. Truyền thống cũng gắn phần lớn Thánh vịnh với tên ông.",
-   "why": "Ứng viên cùng trình thuật là Saul, vua trước ông, và Solomon, con ông, được chọn riêng ở mục sau. David được chọn theo độ bền (b). Nhãn [Tranh cãi lịch sử] vì bằng chứng ngoài Kinh Thánh chỉ có một dòng trên bia Tel Dan khoảng năm 840 TCN nhắc tới nhà David; quy mô vương quốc như sách Samuel mô tả thì khảo cổ học hiện nay, nhất là Finkelstein, cho là phóng đại.",
+   "why": "Ứng viên cùng trình thuật là Saul, vua trước ông, và Solomon, con ông, được chọn riêng ở mục sau. David được chọn theo độ bền (b). Nhãn [Tranh cãi lịch sử] vì bằng chứng ngoài Kinh Thánh chỉ gồm một dòng trên bia Tel Dan khoảng năm 840 TCN nhắc tới nhà David, cộng một cách đọc dòng 31 bia Mesha mà Lemaire đề xuất nhưng chưa được chấp nhận chung; quy mô vương quốc như sách Samuel mô tả thì khảo cổ học hiện nay, nhất là Finkelstein, cho là phóng đại.",
    "sources": "Sách Samuel quyển I và II; Israel Finkelstein và Neil Asher Silberman, David and Solomon (2006).",
    "inherits": [
     {
@@ -2206,8 +2221,8 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Việc gắn với tên ông có hệ quả dài nhất là ngôi đền ở Jerusalem: nó biến việc thờ phụng từ nhiều nơi thành một trung tâm duy nhất, và chính nguyên tắc tập trung ấy định hình Do Thái giáo cả sau khi đền bị phá hai lần. Truyền thống cũng dựng quanh ông hình tượng vua khôn ngoan, kéo theo việc quy cho ông các sách Châm ngôn, Giảng viên và Diễm ca — nên ông trở thành cái tên bảo trợ cho cả dòng văn chương minh triết Cận Đông.",
-   "why": "Ứng viên là David, cha ông, chọn ở mục trước, và Hiram I của Tyre, người cung cấp gỗ và thợ, chọn ở mục sau. Solomon được chọn theo độ bền (b) của ngôi đền và của hình tượng minh triết. Nhãn [Tranh cãi lịch sử]: không có bằng chứng đương thời nào về ông, và niên đại các cổng thành từng gọi là cổng Solomon ở Hazor, Megiddo, Gezer hiện vẫn đang tranh luận.",
+   "ideas": "Việc gắn với tên ông có hệ quả dài nhất là ngôi đền ở Jerusalem. Đền ấy chưa phải nơi thờ duy nhất — chính sách Các Vua lặp lại rằng các nơi cao vẫn còn suốt mấy thế kỷ sau, và bước dẹp chúng thuộc về Hezekiah rồi Josiah — nhưng nó là điểm quy chiếu mà việc tập trung phụng tự về sau dựa vào, và chính mất rồi dựng lại ngôi đền đó mới định hình Do Thái giáo. Truyền thống cũng dựng quanh ông hình tượng vua khôn ngoan, kéo theo việc quy cho ông các sách Châm ngôn, Giảng viên và Diễm ca — nên ông trở thành cái tên bảo trợ cho cả dòng văn chương minh triết Cận Đông.",
+   "why": "Ứng viên là David, cha ông, chọn ở mục trước, và Hiram I của Tyre, người cung cấp gỗ và thợ, chọn ở mục sau. Solomon được chọn theo độ bền (b) của ngôi đền và của hình tượng minh triết; mạch tập trung phụng tự thì đã có Hezekiah (CH02-BCE08-07) đại diện. Nhãn [Tranh cãi lịch sử]: không có bằng chứng đương thời nào về ông, và niên đại các cổng thành từng gọi là cổng Solomon ở Hazor, Megiddo, Gezer hiện vẫn đang tranh luận.",
    "sources": "Sách Các Vua quyển I; Israel Finkelstein và Neil Asher Silberman, David and Solomon (2006).",
    "inherits": [
     {
@@ -2249,7 +2264,7 @@
   "CH01-BCE11_9-06": {
    "id": "CH01-BCE11_9-06",
    "name_vi": "Hiram I",
-   "name_orig": "𐤇𐤓𐤌, Ahiram xứ Tyre",
+   "name_orig": "𐤇𐤓𐤌 Ḥīrām, Hiram of Tyre",
    "labels": [],
    "years_raw": "trị vì k. 980–947 TCN",
    "born": -980,
@@ -2269,7 +2284,7 @@
     "Không áp dụng"
    ],
    "ideas": "Dưới thời ông, Tyre chuyển từ một thành cảng thành đầu mối của mạng thương mại chạy khắp Địa Trung Hải. Sách Các Vua chép ông cấp gỗ bá hương và thợ cho công trình ở Jerusalem, rồi cùng Solomon tổ chức những chuyến tàu đi Ophir — tức một liên doanh giữa hai nhà nước để đi buôn đường xa. Đợt bành trướng Phoenicia bắt đầu từ giai đoạn này mang theo bảng chữ cái của họ sang Aegean, nơi người Hy Lạp mượn lại và thêm nguyên âm.",
-   "why": "Ứng viên cùng vùng là Ithobaal I của Tyre, người đẩy việc lập thuộc địa đi xa hơn, và Solomon, đối tác của ông, chọn ở mục trước. Hiram được chọn theo counterfactual (d): giai đoạn ông cai trị là lúc mô hình thành bang thương mại Phoenicia định hình, và chính mô hình đó đưa bảng chữ cái đi theo tàu buôn — con đường mà mọi hệ chữ cái châu Âu truy về.",
+   "why": "Không nêu được ứng viên cùng thời: các vua Phoenicia khác thế kỷ 10 TCN không để lại đủ tư liệu để so. Ithobaal I sống sau ông gần một thế kỷ; Solomon là đối tác và có mục riêng, không phải ứng viên bị loại. Hiram được chọn theo counterfactual (d): giai đoạn ông cai trị là lúc mô hình thành bang thương mại Phoenicia định hình, và chính mô hình đó đưa bảng chữ cái đi theo tàu buôn — con đường mà mọi hệ chữ cái châu Âu truy về.",
    "sources": "Sách Các Vua quyển I, chương 5 và 9; Maria Eugenia Aubet, The Phoenicians and the West (2001).",
    "inherits": [
     {
@@ -2324,7 +2339,7 @@
     "Không áp dụng"
    ],
    "ideas": "Xuất thân từ dòng dõi thủ lĩnh Libya định cư ở đồng bằng châu thổ, ông lập vương triều XXII và tạm chấm dứt tình trạng Ai Cập bị chia đôi giữa Tanis và Thebes. Chiến dịch của ông vào Levant được khắc ở Cổng Bubastite tại Karnak dưới dạng danh sách khoảng một trăm năm mươi địa danh bị chiếm. Danh sách ấy là một trong rất ít điểm mà niên biểu Ai Cập và trình thuật Kinh Thánh chạm vào nhau trực tiếp, nên nó được dùng làm mốc neo cho cả hai.",
-   "why": "Ứng viên cùng giai đoạn là Psusennes I, vua Tanis có ngôi mộ còn nguyên vẹn, và Osorkon II. Shoshenq I được chọn theo phạm vi (a) của giá trị tư liệu: danh sách Karnak của ông là mốc đồng bộ hiếm hoi giữa hai hệ niên biểu độc lập. Việc đồng nhất ông với nhân vật Shishak trong sách Các Vua được chấp nhận rộng nhưng không phải không ai phản đối.",
+   "why": "Hai ứng viên gần nhất đều không cùng thời: Psusennes I ở nửa thế kỷ trước và Osorkon II ở nửa thế kỷ sau, người đầu có ngôi mộ còn nguyên vẹn, người sau dự trận Qarqar. Shoshenq I được chọn theo phạm vi (a) của giá trị tư liệu: danh sách Karnak của ông là mốc đồng bộ hiếm hoi giữa hai hệ niên biểu độc lập. Việc đồng nhất ông với nhân vật Shishak trong sách Các Vua được chấp nhận rộng nhưng không phải không ai phản đối.",
    "sources": "Kenneth A. Kitchen, The Third Intermediate Period in Egypt (1996); danh sách địa danh, Cổng Bubastite, đền Karnak.",
    "inherits": [
     {
@@ -2371,8 +2386,8 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Ông dời đô về Kalhu và dựng ở đó một cung điện mà tường được ốp phiến đá chạm cảnh săn, chiến trận và nghi lễ — khởi đầu của phù điêu tự sự Assyria, dòng nghệ thuật kể chuyện bằng hình liên tục đầu tiên ở quy mô kiến trúc. Bia khánh thành ghi bữa tiệc mười ngày đãi sáu vạn chín nghìn năm trăm bảy mươi tư người, kèm danh sách thực phẩm, nên nó vừa khoe của vừa là tư liệu kinh tế. Biên niên của ông mô tả các hành vi tàn bạo một cách công khai, như công cụ răn đe có chủ ý.",
-   "why": "Ứng viên cùng dòng là Shalmaneser III, con ông, chọn riêng ở mục sau, và Adad-nirari II, ông nội. Ashurnasirpal được chọn theo tính nguyên bản (c): phù điêu tự sự ốp tường cung điện là thể loại bắt đầu từ công trình của ông, và nó là nguồn hình ảnh chính cho mọi hình dung hiện nay về Assyria.",
+   "ideas": "Ông dời đô về Kalhu và dựng ở đó một cung điện mà tường được ốp phiến đá chạm cảnh săn, chiến trận và nghi lễ — khởi đầu của phù điêu tự sự Assyria. Đây không phải lối kể chuyện bằng hình đầu tiên — phù điêu Ramesses II và Ramesses III đi trước, orthostat chạm đã có ở Carchemish — nhưng là lần đầu nó phủ kín một cung điện. Bia khánh thành ghi bữa tiệc mười ngày đãi sáu vạn chín nghìn năm trăm bảy mươi tư người kèm danh sách thực phẩm, nên vừa khoe của vừa là tư liệu kinh tế. Biên niên của ông mô tả các hành vi tàn bạo một cách công khai, như công cụ răn đe có chủ ý.",
+   "why": "Ứng viên cùng dòng là Shalmaneser III, con ông, chọn riêng ở mục sau, và Adad-nirari II, ông nội. Ashurnasirpal được chọn theo phạm vi (a): chương trình phù điêu phủ kín cung điện của ông là nguồn hình ảnh chính cho mọi hình dung hiện nay về Assyria, và nó được các vua sau chép lại thành quy phạm.",
    "sources": "A. Kirk Grayson, Assyrian Rulers of the Early First Millennium BC (1991); phù điêu cung điện Tây Bắc ở Nimrud, Bảo tàng Anh.",
    "inherits": [
     {
@@ -2427,7 +2442,7 @@
    ],
    "ideas": "Ba mươi lăm năm trị vì của ông gần như năm nào cũng có chiến dịch, và biên niên ghi chúng theo năm nên tạo ra một chuỗi niên đại chặt. Trận Qarqar năm 853 TCN, nơi ông đối đầu một liên minh Levant, là chỗ sử liệu Assyria lần đầu nhắc tới một vị vua cũng xuất hiện trong Kinh Thánh. Tháp bia đen của ông, do Austen Henry Layard tìm thấy năm 1846, có cảnh vua Jehu của Israel quỳ dâng cống — hình ảnh sớm nhất còn lại của một người Israel được định danh.",
    "why": "Ứng viên là Ashurnasirpal II, cha ông, chọn ở mục trước, và Shamshi-Adad V, con ông. Shalmaneser III được chọn theo phạm vi (a) của giá trị tư liệu: biên niên và tháp bia của ông là cầu nối đầu tiên giữa niên biểu Assyria và trình thuật Levant, nên chúng neo được niên đại cho hàng loạt nhân vật mà bản thân các nguồn Levant không định niên nổi.",
-   "sources": "A. Kirk Grayson, Assyrian Rulers of the Early First Millennium BC (1991); Tháp bia đen Shalmaneser III, Bảo tàng Anh WA 118885.",
+   "sources": "A. Kirk Grayson, Assyrian Rulers of the Early First Millennium BC II (858–745 BC) (1996); Tháp bia đen Shalmaneser III, Bảo tàng Anh WA 118885.",
    "inherits": [
     {
      "target": "CH01-BCE11_9-08",
@@ -2482,7 +2497,7 @@
     "Con người"
    ],
    "ideas": "Trình thuật về ông dựng mẫu nhân vật tiên tri đối đầu trực diện với ngai vàng: ông buộc tội vua Ahab chiếm vườn nho và giết chủ, tức đem một chuẩn mực công lý áp lên chính người nắm quyền. Cuộc thách đấu trên núi Carmel đặt vấn đề chọn một thần hay nhiều thần thành một lựa chọn công khai của cả dân. Vì ông được chép là không chết mà được cất lên, truyền thống về sau chờ ông trở lại — ý niệm đi vào cả lễ Vượt qua của Do Thái giáo lẫn Tân Ước.",
-   "why": "Ứng viên cùng mạch là Elisha, học trò kế tục ông, và Nathan ở thế hệ trước. Elijah được chọn theo tính nguyên bản (c): mẫu tiên tri chất vấn vua nhân danh một chuẩn mực cao hơn bắt đầu rõ nét ở ông, và chính mẫu ấy là cái Amos và Isaiah ở Chapter 2 làm việc bên trong. Nhãn [Tranh cãi lịch sử] vì không có nguồn đương thời nào ngoài trình thuật Các Vua.",
+   "why": "Ứng viên cùng mạch là Elisha, học trò kế tục ông, và Micaiah con Imlah, người cũng đối đầu Ahab. Nathan thường được nêu làm tiền lệ nhưng sống trước ông hơn một thế kỷ. Elijah được chọn theo tính nguyên bản (c): mẫu tiên tri chất vấn vua nhân danh một chuẩn mực cao hơn bắt đầu rõ nét ở ông, và chính mẫu ấy là cái Amos và Isaiah ở Chapter 2 làm việc bên trong. Nhãn [Tranh cãi lịch sử] vì không có nguồn đương thời nào ngoài trình thuật Các Vua.",
    "sources": "Sách Các Vua quyển I, chương 17–19 và 21; Marvin A. Sweeney, I & II Kings: A Commentary (2007).",
    "inherits": [
     {

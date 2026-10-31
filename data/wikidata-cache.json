@@ -7589,5 +7589,35 @@
   "P18": "Júpiter y Tetis, por Dominique Ingres.jpg",
   "sitelinks": {},
   "fetched": 1793427894
+ },
+ "wd:Q299013": {
+  "id": "Q299013",
+  "labels": {
+   "en": "Tukulti-Ninurta I"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": -1300,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": -1300,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Assyrian painting.JPG",
+  "sitelinks": {
+   "enwiki": "Tukulti-Ninurta I"
+  },
+  "fetched": 1793429348
  }
 }
