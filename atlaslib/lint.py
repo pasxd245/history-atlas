@@ -204,6 +204,18 @@ def lint_wikidata(all_persons: dict[str, dict], rep: Report, http: C.Http | None
     cache = C.JsonCache(C.WD_CACHE)
     http = http or C.Http(min_interval=1.0)
     ents = C.wd_fetch(http, cache, qids)
+    # Wikidata xếp nhiều người thật vào lớp con của Q5 (vd Q20643955 "human biblical
+    # figure"). Giải một tầng P279 để chỉ cảnh báo khi lớp đó thật sự không phải người.
+    classes = sorted({c for e in ents.values() if e and "error" not in e
+                      for c in e.get("P31", []) if c != "Q5"})
+    cls_info = C.wd_fetch(http, cache, classes) if classes else {}
+    human_cls = {c for c in classes
+                 if "Q5" in (cls_info.get(c) or {}).get("P279", [])}
+
+    def cls_label(c):
+        e = cls_info.get(c) or {}
+        return (e.get("labels", {}).get("vi") or e.get("labels", {}).get("en") or c)
+
     for p in all_persons.values():
         q = p["wikidata"]
         if not q or not C.QID_RE.match(q):
@@ -220,8 +232,10 @@ def lint_wikidata(all_persons: dict[str, dict], rep: Report, http: C.Http | None
         if not (names & mine) and not any(m in n or n in m for m in mine for n in names if len(m) > 3):
             lbl = info["labels"].get("vi") or info["labels"].get("en") or "?"
             rep.warn(pw, f"nhãn Wikidata {q} = '{lbl}' không khớp tên '{p['name_vi']}' — kiểm tra Q-ID")
-        if info["P31"] and "Q5" not in info["P31"] and not p["labels"]:
-            rep.warn(pw, f"Wikidata {q} không phải người (P31={info['P31'][:3]}) — cần nhãn [Truyền thuyết]?")
+        p31 = info.get("P31") or []
+        if p31 and not ({"Q5"} & set(p31)) and not (human_cls & set(p31)) and not p["labels"]:
+            lbls = ", ".join(f"{cls_label(c)} ({c})" for c in p31[:3])
+            rep.warn(pw, f"Wikidata {q} không được xếp là người: P31 = {lbls} — cần nhãn [Tranh cãi lịch sử]?")
         tol = C.DATE_TOLERANCE.get(p["confidence"])
         if tol is None:
             rep.info(pw, "độ tin cậy Thấp — bỏ qua đối chiếu niên đại")

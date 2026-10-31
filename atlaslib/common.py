@@ -300,7 +300,7 @@ def _extract(entity: dict) -> dict:
         "id": entity.get("id"),
         "labels": {k: v["value"] for k, v in entity.get("labels", {}).items()},
         "aliases": {k: [a["value"] for a in v] for k, v in entity.get("aliases", {}).items()},
-        "P31": items("P31"), "P569": times("P569"), "P570": times("P570"), "P18": string("P18"),
+        "P31": items("P31"), "P279": items("P279"), "P569": times("P569"), "P570": times("P570"), "P18": string("P18"),
         "sitelinks": {k: sl[k]["title"] for k in ("viwiki", "enwiki") if k in sl},
         "fetched": int(time.time()),
     }
