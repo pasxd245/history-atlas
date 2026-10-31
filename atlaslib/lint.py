@@ -189,6 +189,35 @@ def lint_global(chapters: list[dict], all_persons: dict[str, dict], rep: Report)
                 rep.info(ids[0], f"cùng Wikidata {q} ở cả atlas chính và phụ lục — có chủ ý: {', '.join(ids)}")
             else:
                 rep.warn(ids[0], f"cùng Wikidata {q} ở nhiều mục: {', '.join(ids)}")
+    # Độ phủ vùng. Kiểm theo nhóm (≥3 vùng, lint_chapter) là chưa đủ: một chapter
+    # có thể đạt 4 vùng ở MỌI nhóm mà vẫn là cùng 4 vùng ấy, để 5/9 vùng trống suốt.
+    # Ch4 từng qua cổng lint sạch trong khi Châu Mỹ, Đông Nam Á và Châu Đại Dương
+    # bằng 0 trên toàn atlas. Hai vòng dưới đây làm khe hở đó hiện ra — ở mức INFO,
+    # vì vùng trống có thể là khoảng trống tư liệu thật chứ không phải lỗi chọn người.
+    for ch in chapters:
+        no = ch["no"]
+        if no is None or not C.is_main(no):
+            continue
+        ps = [p for g in ch["groups"] for p in g["persons"] if p["region"]]
+        if not ps:
+            continue
+        cnt = Counter(p["region"] for p in ps)
+        tag = f"ch{no:02d}"
+        missing = [r for r in C.REGIONS if r not in cnt]
+        if missing:
+            rep.info(tag, f"phủ {len(cnt)}/{len(C.REGIONS)} vùng — vắng: {', '.join(missing)}")
+        top, n = cnt.most_common(1)[0]
+        if n / len(ps) >= 0.6:
+            rep.warn(tag, f"{top} chiếm {n}/{len(ps)} ({n / len(ps):.0%}) cả chapter — thiên lệch vùng")
+    main_ps = [p for p in all_persons.values()
+               if C.ID_RE.match(p["id"]) and C.is_main(int(p["id"][2:4])) and p["region"]]
+    if main_ps:
+        total = Counter(p["region"] for p in main_ps)
+        thin = [r for r in C.REGIONS if total.get(r, 0) <= 1]
+        if thin:
+            rep.info("atlas", f"vùng ≤1 nhân vật trên {len(main_ps)} mục của atlas chính: "
+                              + "; ".join(f"{r} ({total.get(r, 0)})" for r in thin))
+
     # liên kết một chiều — kiểm cả hai hướng. Lint chỉ quét 'Kế thừa từ' cho tới P2,
     # nên mọi 'Ảnh hưởng tới' trỏ sai đích đều lọt miễn ID có tồn tại; hai vòng đánh
     # giá độc lập đều tìm ra lỗi loại đó. Vòng đối xứng dưới đây đóng khe hở ấy.
@@ -309,6 +338,15 @@ def write_reports(chapters: list[dict], rep: Report, reports_dir: Path):
                 if l == level:
                     lines.append(f"[{l}] {w}: {m}")
         (reports_dir / f"lint-{tag}.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    # Mục phạm vi toàn atlas ("atlas", "lint") không khớp tag chapter nào nên
+    # trước đây rơi vào khoảng không — không in ra console, không vào report.
+    tags = tuple(f"ch{ch['no']:02d}" for ch in chapters if ch["no"] is not None)
+    tags += tuple(f"CH{ch['no']:02d}-" for ch in chapters if ch["no"] is not None)
+    rest = [(l, w, m) for l, w, m in rep.items if not w.startswith(tags)]
+    if rest:
+        lines = ["LINT toàn atlas — mục không thuộc chapter riêng nào", ""]
+        lines += [f"[{l}] {w}: {m}" for level in ("ERROR", "WARN", "INFO") for l, w, m in rest if l == level]
+        (reports_dir / "lint-atlas.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 def run(chapters: list[dict], images: dict | None, online: bool, reports_dir: Path, http: C.Http | None = None) -> Report:

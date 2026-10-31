@@ -366,10 +366,15 @@ def _sidebar_chapter(no: int, title: str, label: str, groups: list[str], ch: dic
 # ============================================================ overview (P5 — bản khung) & credits
 
 def stats(chapters: list[dict], persons: dict) -> dict:
-    def dist(items: list[str]) -> dict:
+    def dist(items: list[str], universe: list[str] | None = None) -> dict:
+        """universe: liệt kê cả giá trị đếm 0. Một vùng không ai thuộc về sẽ biến mất
+        khỏi bảng nếu chỉ đếm cái có mặt — mà đó đúng là con số cần nhìn thấy nhất."""
         c = Counter(items)
         tot = sum(c.values()) or 1
-        return {k: {"n": v, "pct": round(100 * v / tot, 1)} for k, v in c.most_common()}
+        keys = [k for k, _ in c.most_common()]
+        if universe:
+            keys += [k for k in universe if k not in c]
+        return {k: {"n": c.get(k, 0), "pct": round(100 * c.get(k, 0) / tot, 1)} for k in keys}
     main_persons = {pid: p for pid, p in persons.items() if C.is_main(p["chapter"])}
     out = {"total_persons": len(main_persons), "appendix_persons": len(persons) - len(main_persons), "chapters": {}}
     all_regions, all_fields, all_rel, all_ev, all_bq = [], [], [], [], []
@@ -384,7 +389,7 @@ def stats(chapters: list[dict], persons: dict) -> dict:
         if not C.is_main(ch["no"]):
             continue  # phụ lục: thống kê riêng theo chapter, không dồn vào "Toàn bộ"
         all_regions += regions; all_fields += fields; all_rel += rels; all_ev += evs; all_bq += bqs
-    out["all"] = {"regions": dist(all_regions), "fields": dist(all_fields), "relations": dist(all_rel), "evidence": dist(all_ev), "big_questions": dist(all_bq)}
+    out["all"] = {"regions": dist(all_regions, C.REGIONS), "fields": dist(all_fields, C.FIELDS), "relations": dist(all_rel), "evidence": dist(all_ev), "big_questions": dist(all_bq)}
     # bậc vào/ra
     deg = {pid: {"in": 0, "out": 0} for pid, p in persons.items() if C.is_main(p["chapter"])}
     for p in persons.values():
