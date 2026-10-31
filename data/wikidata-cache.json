@@ -10468,5 +10468,127 @@
    "enwiki": "God in Christianity"
   },
   "fetched": 1793436019
+ },
+ "wd:Q197172": {
+  "id": "Q197172",
+  "labels": {
+   "en": "Zhang Daoling",
+   "vi": "Trương Lăng"
+  },
+  "aliases": {
+   "en": [
+    "Zhang Ling",
+    "Fuhan",
+    "Chang Ling",
+    "Chang Tao-ling"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 34,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 156,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Zhang Daoling.jpg",
+  "sitelinks": {
+   "viwiki": "Trương Lăng",
+   "enwiki": "Zhang Daoling"
+  },
+  "fetched": 1793437701
+ },
+ "wd:Q46696": {
+  "id": "Q46696",
+  "labels": {
+   "vi": "Theodosius I",
+   "en": "Theodosius I"
+  },
+  "aliases": {
+   "vi": [
+    "Theodosius Vĩ đại"
+   ],
+   "en": [
+    "Theodosios I the Great",
+    "Emperor of Rome Theodosius I",
+    "Flavius Theodosius Augustus",
+    "Theodosios I",
+    "Theodosius I, the Great",
+    "Dominus Noster Flavius Theodosius Augustus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 347,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 395,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Theodosius1cng11100822obverse.jpg",
+  "sitelinks": {
+   "viwiki": "Theodosius I",
+   "enwiki": "Theodosius I"
+  },
+  "fetched": 1793437701
+ },
+ "wd:Q558275": {
+  "id": "Q558275",
+  "labels": {
+   "en": "Aryadeva",
+   "vi": "Aryadeva"
+  },
+  "aliases": {
+   "en": [
+    "Āryadevapāda"
+   ],
+   "vi": [
+    "Thánh Thiên"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 200,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 250,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Arjadeva.jpg",
+  "sitelinks": {
+   "viwiki": "Thánh Thiên (luận sư Phật giáo)",
+   "enwiki": "Aryadeva"
+  },
+  "fetched": 1793437701
  }
 }
