@@ -128,6 +128,11 @@ def year_label(y: int | None) -> str:
 _APPROX_RE = re.compile(r"\b(k\.|kh\.|khoảng|c\.|ca\.|circa|fl\.|~|≈)", re.I)
 
 
+# 'năm:' ghi theo thời gian trị vì hoặc theo floruit — các số trong đó không phải
+# năm sinh–mất, nên không đối chiếu được với P569/P570 của Wikidata.
+NON_BIO_YEARS_RE = re.compile(r"^(trị vì|hoạt động)\b", re.I)
+
+
 def parse_years(s: str) -> dict:
     """Phân tích chuỗi `năm:` tự do → {born, died, approx, alive, ok}.
 

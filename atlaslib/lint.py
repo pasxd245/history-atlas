@@ -261,6 +261,12 @@ def lint_wikidata(all_persons: dict[str, dict], rep: Report, http: C.Http | None
         if tol is None:
             rep.info(pw, "độ tin cậy Thấp — bỏ qua đối chiếu niên đại")
             continue
+        # 'trị vì X–Y' và 'hoạt động X–Y' KHÔNG phải năm sinh–mất, nên đem so với
+        # P569/P570 là so nhầm loại. Quy ước này có trong CONTRIBUTING cho các vua
+        # không rõ năm sinh; ch4–11 sẽ có nhiều mục như vậy.
+        if C.NON_BIO_YEARS_RE.match(p["years_raw"].strip()):
+            rep.info(pw, f"'năm' ghi theo {p['years_raw'].strip().split()[0]} chứ không phải sinh–mất — bỏ qua đối chiếu niên đại Wikidata")
+            continue
         for label, mine_y, wd in (("năm sinh", p["born"], info["P569"]), ("năm mất", p["died"], info["P570"])):
             if mine_y is None or not wd:
                 continue
