@@ -15149,7 +15149,7 @@
     "Vũ trụ"
    ],
    "ideas": "Pañcasiddhāntikā tóm lược năm hệ thiên văn đang lưu hành ở Ấn Độ thời ông — Paitāmaha, Vāsiṣṭha, Romaka, Pauliśa và Sūrya. Vì các bộ gốc nay đã mất, bản tóm của ông là nguồn chính để biết chúng nói gì; riêng hai cái tên Romaka và Pauliśa cho thấy thiên văn Hy Lạp đã vào Ấn Độ và được tính lại theo hệ bản địa. Bộ Bṛhat Saṃhitā thì gom thiên văn, điềm triệu, kiến trúc, nông học và cả cách dò mạch nước ngầm vào một trăm linh sáu chương — một bách khoa về những gì giới học thuật Ujjain thế kỷ 6 coi là đáng biết.",
-   "why": "Āryabhaṭa **có mục riêng** ở `CH04-CE05-09` nên không phải ứng viên bị loại. Ứng viên bị loại thật sự là Lāṭadeva và các nhà biên soạn siddhānta khuyết danh. Varāhamihira được chọn theo tính nguyên bản (c) hiểu theo nghĩa tư liệu: giá trị của ông không ở phát kiến mà ở chỗ không thay thế được — bỏ ông thì phần lớn thiên văn Ấn Độ trước thế kỷ 5 biến mất khỏi tầm với. Đây đúng là tiêu chuẩn atlas đã dùng cho Pappus và Wulfila.",
+   "why": "Āryabhaṭa **có mục riêng** ở `CH04-CE05-09` nên không phải ứng viên bị loại. Ứng viên bị loại thật sự là Lāṭadeva và các nhà biên soạn siddhānta khuyết danh. Varāhamihira được chọn theo tính nguyên bản (c) hiểu theo nghĩa tư liệu: giá trị của ông không ở phát kiến mà ở chỗ không thay thế được — bỏ ông thì phần lớn thiên văn Ấn Độ trước thế kỷ 5 biến mất khỏi tầm với. Đây đúng là tiêu chuẩn atlas đã dùng cho Wulfila ở `CH04-CE04-03`.",
    "sources": "Varāhamihira, Pañcasiddhāntikā, bản hiệu đính O. Neugebauer và D. Pingree (Det Kongelige Danske Videnskabernes Selskab, 1970–71); David Pingree, Jyotiḥśāstra: Astral and Mathematical Literature (Otto Harrassowitz, 1981).",
    "inherits": [
     {
@@ -15683,7 +15683,7 @@
    "big_questions": [
     "Con người"
    ],
-   "ideas": "Từ khoảng năm 610 ông bắt đầu đọc ra những lời mà tín đồ coi là mặc khải, về sau tập hợp thành Qur'an. Nội dung cốt lõi là độc thần tuyệt đối, phán xét sau cái chết, và nghĩa vụ với người nghèo, cô nhi và nô lệ — tức một trật tự đạo đức thay cho hệ bộ lạc Mecca. Năm 622 ông rời Mecca ra Yathrib, mốc khởi đầu lịch Hồi giáo; ở đó ông không chỉ giảng mà còn cầm quyền, xử kiện và chỉ huy quân. Việc tôn giáo và nhà nước khởi sinh cùng lúc trong một đời người là điều phân biệt trường hợp này.",
+   "ideas": "Từ khoảng năm 610 ông bắt đầu đọc ra những lời mà tín đồ coi là mặc khải, về sau tập hợp thành Qur'an. Nội dung cốt lõi là độc thần tuyệt đối, phán xét sau cái chết, và nghĩa vụ với người nghèo, cô nhi và nô lệ — tức một trật tự đạo đức thay cho hệ bộ lạc Mecca. Năm 622 ông rời Mecca ra Yathrib, mốc khởi đầu lịch Hồi giáo; ở đó ông không chỉ giảng mà còn cầm quyền, xử kiện và chỉ huy quân. Việc một cộng đồng tín ngưỡng và bộ máy cai trị cùng khởi sinh trong một đời người là điều phân biệt ca này; theo Donner, cộng đồng ấy chỉ tách thành tôn giáo riêng muộn hơn nhiều.",
    "why": "Không có ứng viên cùng chỗ: không nhân vật nào khác trong vùng ở thế kỷ 7 có phạm vi gần tương đương. Chọn theo cả bốn tiêu chí. Niên đại để Trung bình vì tiểu sử đầy đủ sớm nhất là của Ibn Ishaq, soạn hơn một thế kỷ sau và nay chỉ còn qua bản hiệu đính của Ibn Hisham; các mốc năm sinh do truyền thống dựng ngược. Bản thân văn bản Qur'an thì được chứng thực sớm hơn nhiều.",
    "sources": "Ibn Ishaq và Ibn Hisham, Sīrat Rasūl Allāh, bản dịch A. Guillaume (Oxford University Press, 1955); Fred M. Donner, Muhammad and the Believers (Harvard University Press, 2010).",
    "inherits": [
@@ -15775,8 +15775,8 @@
     {
      "target": "Lịch Hijri",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Lịch Hijri · kế thừa · trực tiếp",
+     "evidence": "suy đoán học giả",
+     "raw": "Lịch Hijri · kế thừa · suy đoán học giả",
      "undetermined": false
     }
    ],
@@ -15863,7 +15863,7 @@
     "Không áp dụng"
    ],
    "ideas": "Ông lên ngôi năm 626 sau khi giết hai anh em ở cửa Huyền Vũ rồi ép cha thoái vị — một sự kiện mà chính sử triều ông phải xử lý, và có dấu hiệu đã được sửa. Thời Trinh Quán sau đó thành hình mẫu cho mọi triều sau: ông duy trì ban gián quan có quyền phản bác hoàng đế, cho biên Trinh Quán luật năm 637 — bộ Đường luật sớ nghị quen thuộc hơn thì phải tới năm 653, dưới triều con ông, mới ban — mở rộng khoa cử, và sau khi đánh bại Đông Đột Quyết năm 630 thì nhận hiệu Thiên Khả Hãn — vừa là hoàng đế Trung Hoa vừa là hãn của thảo nguyên.",
-   "why": "Ứng viên cùng thời là Đường Cao Tổ, cha ông, và Ngụy Trưng, gián quan nổi tiếng nhất. Thái Tông được chọn theo phạm vi (a): khuôn triều đình, bộ luật và chế độ khảo hạch thời ông được Nhật Bản, Triều Tiên và Việt Nam mô phỏng trực tiếp, nên ảnh hưởng vượt hẳn ra ngoài Trung Hoa. Nguồn chính về ông là sử do chính triều ông soạn, và việc ông can thiệp vào khởi cư chú được chép lại.",
+   "why": "Ứng viên cùng thời là Đường Cao Tổ, cha ông, và Ngụy Trưng, gián quan nổi tiếng nhất. Thái Tông được chọn theo phạm vi (a): khuôn triều đình và chế độ khảo hạch định hình ở thời ông, rồi bộ Đường luật hoàn chỉnh ngay sau đó, thành mẫu mà Nhật Bản và Triều Tiên dựng lại thể chế theo, nên ảnh hưởng vượt hẳn ra ngoài Trung Hoa. Nguồn chính về ông là sử do chính triều ông soạn, và việc ông can thiệp vào khởi cư chú được chép lại.",
    "sources": "Lưu Hú và nhóm biên soạn, Cựu Đường thư (945); Ngô Căng, Trinh Quán chính yếu; Howard J. Wechsler, Mirror to the Son of Heaven (Yale University Press, 1974) — lưu ý đây là chuyên khảo về Ngụy Trưng và chế độ gián quan, dùng cho vế ấy chứ không dùng cho vế bộ luật; về luật xem Wallace Johnson, The T’ang Code (Princeton University Press, 1979).",
    "inherits": [
     {
@@ -15917,7 +15917,7 @@
     "Không áp dụng"
    ],
    "ideas": "Bà là người phụ nữ duy nhất trong lịch sử Trung Hoa xưng hoàng đế theo đúng nghĩa, lập triều Chu năm 690 sau nhiều năm cầm quyền thực tế qua chồng rồi qua con. Để biện minh cho điều mà hệ tư tưởng Nho giáo không có chỗ chứa, bà dựa vào Phật giáo: năm 690 một bản sớ, Đại Vân kinh Thần Hoàng thụ ký nghĩa sớ, được lưu hành khắp các châu, đọc một kinh Ấn Độ có thật thành lời sấm báo trước chính bà; và bà bảo trợ việc tạc tượng ở Long Môn. Bà mở rộng khoa cử và lấy người từ tầng lớp thấp hơn, làm suy yếu các dòng họ quý tộc tây bắc.",
-   "why": "Ứng viên cùng thời là Đường Cao Tông, chồng bà, và Địch Nhân Kiệt, tể tướng của bà. Võ Tắc Thiên được chọn theo tính nguyên bản (c) và counterfactual (d): chiếm ngôi hoàng đế buộc bà phải dựng một cơ sở chính danh hoàn toàn mới, và bà dựng nó từ Phật giáo. Hình ảnh tàn bạo gắn với bà phần lớn do sử gia Nho giáo đời sau xây, nên mục này tách nguồn đương thời khỏi lớp đánh giá về sau.",
+   "why": "Ứng viên cùng thời là Đường Cao Tông, chồng bà, và Địch Nhân Kiệt, tể tướng của bà. Võ Tắc Thiên được chọn theo tính nguyên bản (c) và counterfactual (d): chiếm ngôi hoàng đế buộc bà phải dựng một cơ sở chính danh hoàn toàn mới, và bà dựng nó từ Phật giáo. Hình ảnh tàn bạo gắn với bà phần lớn do sử gia Nho giáo đời sau xây, nên mục này chỉ lấy ở chính sử phần sự kiện có mốc, và để phần đánh giá cho chuyên khảo hiện đại.",
    "sources": "Lưu Hú và nhóm biên soạn, Cựu Đường thư (945); R.W.L. Guisso, Wu Tse-T'ien and the Politics of Legitimation in T'ang China (Western Washington University, 1978).",
    "inherits": [
     {
@@ -16151,7 +16151,7 @@
     "Không áp dụng"
    ],
    "ideas": "Etymologiae gom những gì ông còn với tới được của học thuật cổ điển thành một bộ sắp xếp theo lối truy nguyên từ — việc chia thành hai mươi quyển là do Braulio, học trò ông, làm sau: ông tin rằng biết gốc một từ là biết bản chất của vật mà từ ấy gọi tên. Phương pháp đó sai, nhưng kết quả là một bộ bách khoa duy nhất bao trùm ngữ pháp, y học, luật, địa lý và nông nghiệp — và với phần lớn Tây Âu trong năm thế kỷ sau, nó là chỗ gần nhất với một thư viện. Gần một nghìn bản chép tay còn lại, con số rất lớn với một văn bản trung cổ sớm.",
-   "why": "Ứng viên cùng thời là Gregorius thành Tours, người viết sử người Frank. Isiđôrô được chọn theo tính nguyên bản (c) hiểu theo nghĩa tư liệu — cùng tiêu chuẩn atlas đã dùng cho Pappus và Wulfila: nhiều đoạn của tác giả cổ điển ngày nay còn lại chỉ vì ông chép. Giá trị nằm ở chỗ không thay thế được chứ không ở phát kiến, và mục này nói rõ như vậy thay vì khen quá lời.",
+   "why": "Ứng viên cùng thời là Gregorius thành Tours, người viết sử người Frank. Isiđôrô được chọn theo tính nguyên bản (c) hiểu theo nghĩa tư liệu — cùng tiêu chuẩn atlas đã dùng cho Wulfila: nhiều đoạn của tác giả cổ điển ngày nay còn lại chỉ vì ông chép. Giá trị nằm ở chỗ không thay thế được chứ không ở phát kiến, và mục này nói rõ như vậy thay vì khen quá lời.",
    "sources": "Isidore of Seville, The Etymologies, bản dịch Stephen A. Barney và nhóm (Cambridge University Press, 2006); Jacques Fontaine, Isidore de Séville (Brepols, 2000).",
    "inherits": [
     {
@@ -16211,7 +16211,7 @@
    "big_questions": [
     "Thực tại"
    ],
-   "ideas": "Ông nhận hệ nhận thức luận của Trần-na rồi siết thành một hệ thống chặt hơn nhiều. Pramāṇavārttika chỉ thừa nhận hai nguồn tri thức đúng — tri giác trực tiếp và suy luận — và đòi suy luận chỉ có giá trị khi dựa trên một quan hệ tất yếu: hoặc đồng nhất bản chất, hoặc nhân quả. Từ đó ông dựng lý thuyết apoha: từ ngữ không chỉ ra cái phổ quát có thật, chúng chỉ loại trừ cái khác, nên \"bò\" có nghĩa là \"không phải cái không-bò\". Lập trường ấy cho phép Phật giáo nói về khái niệm mà không phải thừa nhận phổ quát tồn tại thật.",
+   "ideas": "Ông nhận hệ nhận thức luận của Trần-na rồi siết thành một hệ thống chặt hơn nhiều. Pramāṇavārttika chỉ thừa nhận hai nguồn tri thức đúng — tri giác trực tiếp và suy luận — và đòi suy luận chỉ có giá trị khi dựa trên một quan hệ tất yếu: hoặc đồng nhất bản chất, hoặc nhân quả. Trên nền đó ông đọc lại lý thuyết apoha của Trần-na theo quan hệ nhân quả: từ ngữ không chỉ ra cái phổ quát có thật, chúng chỉ loại trừ cái khác. Lập trường ấy cho phép Phật giáo nói về khái niệm mà không phải thừa nhận phổ quát tồn tại thật.",
    "why": "Ứng viên bị loại là Kumārila Bhaṭṭa, người bảo vệ thẩm quyền Veda chống lại chính ông. Pháp Xứng được chọn theo độ bền (b): cuộc tranh luận ông mở ra chi phối triết học Ấn Độ suốt tám thế kỷ, và khi Phật giáo gần như biến mất khỏi Ấn Độ thì hệ của ông vẫn sống ở Tây Tạng như một môn học bắt buộc tới tận nay. Trần-na **có mục riêng** ở `CH05-CE06-05` nên không phải ứng viên bị loại.",
    "sources": "Tom J.F. Tillemans, \"Dharmakīrti\", Stanford Encyclopedia of Philosophy; John Dunne, Foundations of Dharmakīrti's Philosophy (Wisdom Publications, 2004).",
    "inherits": [
@@ -16273,15 +16273,15 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Ông hợp nhất các thế lực trên cao nguyên thành một đế quốc đủ mạnh để buộc cả nhà Đường lẫn Nepal gả công chúa, và chỉ hơn một thế kỷ sau quân Tây Tạng có lúc chiếm được Trường An. Việc bền hơn cả là chữ viết: dưới triều ông một hệ chữ Tây Tạng được tạo theo mẫu Brāhmī của Ấn Độ — truyền thống quy cho Thönmi Sambhoṭa — biến một ngôn ngữ chưa có văn tự thành thứ về sau chuyển tải được gần như toàn bộ tạng kinh Phật giáo Ấn Độ. Bộ luật và khung hành chính đầu tiên của Tây Tạng cũng được quy cho thời ông.",
+   "ideas": "Ông hợp nhất các thế lực trên cao nguyên thành một đế quốc đủ mạnh để nhà Đường gả công chúa Văn Thành về Lhasa, và chỉ hơn một thế kỷ sau quân Tây Tạng có lúc chiếm được Trường An. Việc bền hơn cả là chữ viết: dưới triều ông một hệ chữ Tây Tạng được tạo theo mẫu Brāhmī của Ấn Độ — truyền thống quy cho Thönmi Sambhoṭa — biến một ngôn ngữ chưa có văn tự thành thứ về sau chuyển tải được gần như toàn bộ tạng kinh Phật giáo Ấn Độ. Bộ luật và khung hành chính đầu tiên của Tây Tạng cũng được quy cho thời ông.",
    "why": "Ứng viên bị loại là Gar Tongtsen, đại thần điều hành phần lớn việc triều chính; Trisong Detsen có mục riêng ở `CH05-CE08-10` nên không phải ứng viên bị loại. Ông được chọn theo counterfactual (d): nếu không có bước tạo văn tự thời này thì khối dịch thuật làm nên Phật giáo Tây Tạng không có phương tiện để tồn tại. Phần tiểu sử tôn giáo — hai công chúa cảm hoá ông — đến từ biên niên Phật giáo soạn muộn hơn nhiều, nên mục này không dùng.",
-   "sources": "Old Tibetan Annals, bản chép Đôn Hoàng, trong Brandon Dotson, The Old Tibetan Annals (Verlag der Österreichischen Akademie der Wissenschaften, 2009); Christopher I. Beckwith, The Tibetan Empire in Central Asia (Princeton University Press, 1987).",
+   "sources": "Old Tibetan Annals, bản chép Đôn Hoàng, trong Brandon Dotson, The Old Tibetan Annals (Verlag der Österreichischen Akademie der Wissenschaften, 2009) — lưu ý bản chép này bắt đầu ở năm 650, tức năm ông mất, nên nó đỡ cho khung triều đại kế tiếp chứ không đỡ cho các mệnh đề về chính thời ông; Christopher I. Beckwith, The Tibetan Empire in Central Asia (Princeton University Press, 1987).",
    "inherits": [
     {
      "target": "CH05-CE07-04",
      "relation": "tương đồng độc lập",
-     "evidence": "suy đoán học giả",
-     "raw": "CH05-CE07-04 · tương đồng độc lập · suy đoán học giả",
+     "evidence": "trực tiếp",
+     "raw": "CH05-CE07-04 · tương đồng độc lập · trực tiếp",
      "undetermined": false
     },
     {
