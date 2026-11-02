@@ -861,7 +861,7 @@
       901,
       1000
      ],
-     "context": "Thế giới Hồi giáo lần đầu có ba người cùng xưng caliph. Nhà Đường đổ năm 907, và trên chỗ đổ ấy mọc ra nhà Liêu trên thảo nguyên, Cao Ly trên bán đảo, quyền tự chủ đầu tiên ở Giao Châu. Trung tâm Java dời sang lưu vực Brantas. Ở Tây Âu, trường nhà thờ bắt đầu dạy lại số học bằng dụng cụ.",
+     "context": "Thế giới Hồi giáo lần đầu có ba người cùng xưng caliph. Nhà Đường đổ năm 907, sau khi Giao Châu đã tự chủ từ 905; trên chỗ đổ ấy mọc ra nhà nước Khiết Đan trên thảo nguyên và Cao Ly trên bán đảo. Trung tâm Java dời sang lưu vực Brantas. Ở Tây Âu, trường nhà thờ bắt đầu dạy lại số học bằng dụng cụ.",
      "persons": [
       "CH05-CE10-01",
       "CH05-CE10-02",
@@ -18076,8 +18076,8 @@
    "name_vi": "Abu Bakr al-Rāzī",
    "name_orig": "أبو بكر محمد بن زكريا الرازي",
    "labels": [],
-   "years_raw": "k. 854–925 CN",
-   "born": 854,
+   "years_raw": "k. 865–925 CN",
+   "born": 865,
    "died": 925,
    "approx": true,
    "alive": false,
@@ -18094,7 +18094,7 @@
     "Con người"
    ],
    "ideas": "*Kitāb al-jadarī wa-l-ḥaṣba* tách đậu mùa khỏi sởi bằng dấu hiệu lâm sàng — mô tả phân biệt hai bệnh sớm nhất còn giữ được. *al-Ḥāwī*, do học trò gom lại sau khi ông mất, phần lớn là trích lục y văn Hy Lạp và Ả Rập; những ca chính ông chữa được xen vào để **bác hoặc chỉnh** cái sách đã viết. Nhưng chỗ đáng chép nhất là *al-Shukūk ʿalā Jālīnūs*: ông nói thẳng rằng mình mang ơn Galen và chính vì thế phải bác Galen ở những chỗ quan sát không chịu. Lập luận của ông là một mệnh đề về **cách tri thức tích luỹ** — người sau nhìn thấy nhiều hơn người trước — chứ không phải một phát hiện lẻ.",
-   "why": "Tiêu chí (c). Ô `Y học` của atlas mỏng nhất, 1,5%, nhưng ông không vào vì ô mỏng: ông vào vì *Shukūk* là một trong rất ít chỗ trước thời cận đại phát biểu rõ rằng thẩm quyền có thể sai vì lý do kinh nghiệm. Niên đại ghi Trung bình, không được ghi Cao: `Q169234` khai năm năm sinh khác nhau — 854 hai lần, 864, 865, 866 — biên độ mười hai năm.",
+   "why": "Tiêu chí (c). Ô `Y học` của atlas mỏng nhất, 1,5%, nhưng ông không vào vì ô mỏng: ông vào vì *Shukūk* là một trong rất ít chỗ trước thời cận đại phát biểu rõ rằng thẩm quyền có thể sai vì lý do kinh nghiệm. Niên đại ghi Trung bình, không được ghi Cao: `Q169234` khai năm năm sinh khác nhau — 854 hai lần, 864, 865, 866 — biên độ mười hai năm. Hồ sơ cổng đề xuất lấy đầu thấp, 854; mục chọn **865** cho khớp nguồn SEP mà chính nó dẫn và khớp giá trị `preferred` của Wikidata.",
    "sources": "*Abu Bakr al-Razi*, Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/entries/abu-bakr-al-razi/ ; *A Treatise on the Small-pox and Measles*, bản dịch tiếng Anh năm 1848 của William A. Greenhill cho Sydenham Society, https://archive.org/details/10249838bsb — bản số hoá khai tác giả là al-Rāzī và năm 1848, nhưng không khai tên người dịch.",
    "inherits": [
     {
@@ -18155,9 +18155,9 @@
    "big_questions": [
     "Con người"
    ],
-   "ideas": "Ông ghép hai thứ chưa ai ghép: vũ trụ luận phát xuất kiểu Tân Platon và triết học chính trị của Plato. Trong *Mabādiʾ ārāʾ ahl al-madīna al-fāḍila*, thành phố tốt là nơi người đứng đầu nhận đúng cái chân lý mà nhà triết học đạt tới bằng lý trí, chỉ khác ở chỗ ông nhận nó qua **tưởng tượng**. Nhờ bước ấy, tiên tri và triết học thành hai cách diễn đạt một nội dung chứ không phải hai thẩm quyền tranh nhau. *Iḥṣāʾ al-ʿulūm* xếp các ngành học thành một bản đồ, và bản đồ ấy định hình chương trình học ở cả hai bờ Địa Trung Hải.",
+   "ideas": "Ông ghép hai thứ chưa ai ghép: vũ trụ luận phát xuất kiểu Tân Platon và triết học chính trị của Plato. Trong *Mabādiʾ ārāʾ ahl al-madīna al-fāḍila*, thành phố tốt là nơi người đứng đầu nắm đúng cái chân lý mà nhà triết học đạt tới bằng lý trí, rồi **diễn nó ra thành hình ảnh và ẩn dụ** cho số đông. Nhờ bước ấy, tiên tri và triết học thành hai cách diễn đạt một nội dung chứ không phải hai thẩm quyền tranh nhau. *Iḥṣāʾ al-ʿulūm* xếp các ngành học thành một bản đồ, và bản đồ ấy định hình chương trình học ở cả hai bờ Địa Trung Hải.",
    "why": "Tiêu chí (c) và (d). Ibn Sīnā kể trong tự truyện rằng ông đọc Siêu hình học của Aristotle bốn mươi lần không hiểu, tới khi mua được cuốn *Aghrāḍ* của al-Fārābī thì mới vỡ. Truyền thống Ả Rập gọi ông là al-muʿallim al-thānī, \"thầy thứ hai\" sau Aristotle — người Latin thì gọi ông là Alpharabius — và cách ông đặt quan hệ tiên tri–triết học là khuôn mà cả Ibn Rushd lẫn Maimonides làm việc bên trong. Niên đại Trung bình: `Q160460` khai ba năm sinh, 870 và 872 hai lần.",
-   "sources": "*Al-Farabi*, Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/entries/al-farabi/ ; *Al-Farabi's Philosophy of Society and Religion*, cùng bộ, https://plato.stanford.edu/entries/al-farabi-soc-rel/ .",
+   "sources": "*Al-Farabi*, Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/entries/al-farabi/ ; *Al-Farabi's Philosophy of Society and Religion*, cùng bộ, https://plato.stanford.edu/entries/al-farabi-soc-rel/ . Giai thoại Ibn Sīnā đọc Siêu hình học bốn mươi lần: tự truyện do al-Jūzjānī chép, bản phê bình và dịch của William E. Gohlman, *The Life of Ibn Sina* (SUNY Press, 1974) — hai nguồn SEP trên không chép giai thoại này.",
    "inherits": [
     {
      "target": "CH03-BCE04-01",
@@ -18304,10 +18304,10 @@
      "undetermined": false
     },
     {
-     "target": "Các cuộc nổi dậy Giao Châu thế kỷ 8–9, từ Phùng Hưng tới Dương Thanh",
+     "target": "CH90-CE01_09-07",
      "relation": "kế thừa",
      "evidence": "suy đoán học giả",
-     "raw": "Các cuộc nổi dậy Giao Châu thế kỷ 8–9, từ Phùng Hưng tới Dương Thanh · kế thừa · suy đoán học giả",
+     "raw": "CH90-CE01_09-07 · kế thừa · suy đoán học giả",
      "undetermined": false
     }
    ],
@@ -18320,10 +18320,17 @@
      "undetermined": false
     },
     {
-     "target": "Dương Đình Nghệ, rồi Ngô Quyền và trận Bạch Đằng 938",
+     "target": "Dương Đình Nghệ, người khôi phục quyền tự chủ năm 931",
      "relation": "kế thừa",
      "evidence": "qua trường phái",
-     "raw": "Dương Đình Nghệ, rồi Ngô Quyền và trận Bạch Đằng 938 · kế thừa · qua trường phái",
+     "raw": "Dương Đình Nghệ, người khôi phục quyền tự chủ năm 931 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH90-CE10_14-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH90-CE10_14-01 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -18355,7 +18362,7 @@
     "Không áp dụng"
    ],
    "ideas": "Khoảng năm 929, trung tâm chính trị của Java rời miền trung Java — nơi đã dựng Borobudur và Prambanan — sang lưu vực Brantas ở miền đông, và Sindok là người đứng ở chỗ rẽ. Khoảng hai mươi bi ký mang niên hiệu ông, phần lớn là **sắc lập sima**: cắt thuế một làng để nuôi một công trình tôn giáo, tức một cách gắn làng vào nhà nước bằng nghĩa vụ chứ không phải bằng quân. Vì sao dời thì chưa ai chứng minh được: núi lửa, dịch bệnh, hay sức ép Srivijaya đều mới là giả thuyết.",
-   "why": "Tiêu chí (b). Trung tâm ông dời tới chính là chỗ mọi vương quốc Java về sau mọc lên — Kadiri, Singhasari, Majapahit — nên bỏ ông thì mất chỗ rẽ của cả nghìn năm sau. Niên đại ghi Thấp và dạng trị vì vì `Q47684` không có `P569` nào, chỉ có `P570 = 947`; mốc 929 lấy từ bi ký sớm nhất mang niên hiệu ông, tức một mốc văn bản chứ không phải mốc lên ngôi.",
+   "why": "Tiêu chí (b). Trung tâm ông dời tới là chỗ mọi vương quốc Java về sau mọc lên — Kadiri, Singhasari, Majapahit — nên bỏ ông là mất chỗ rẽ của nghìn năm sau. Niên đại Thấp, dạng trị vì: `Q47684` không có `P569`, chỉ `P570 = 947`; mốc 929 lấy từ bi ký sớm nhất mang niên hiệu ông — mốc văn bản, không phải mốc lên ngôi. Hồ sơ cổng không có ứng viên Đông Nam Á nào khác nên suất này không có người bị cắt để nêu; đáng lẽ phải xét Rajendravarman II của Angkor (944–968) — ghi cho CE11.",
    "sources": "F.H. van Naerssen và R.C. de Iongh, *The Economic and Administrative History of Early Indonesia* (Handbuch der Orientalistik III/7, Brill, 1977), về thể chế sima và hành chính Java thế kỷ 5–15. Bản nháp dẫn thêm J.G. de Casparis, *Prasasti Indonesia*, nhưng đã bỏ: hai tập ấy tự khai phạm vi tới thế kỷ 9 (tập I thời Sailendra, Nix 1950; tập II bi ký thế kỷ 7–9, Masa Baru 1956), nên không phủ được triều Sindok. Nhóm bi ký niên hiệu Sindok chưa được kiểm trực tiếp ở vòng viết này, nên mọi mệnh đề về số lượng và nội dung bi ký trong mục là mệnh đề gián tiếp.",
    "inherits": [
     {
@@ -18416,8 +18423,8 @@
     "Thực tại"
    ],
    "ideas": "Ông viết bình chú cho năm hệ thống đối nghịch nhau — Nyāya, Sāṃkhya, Yoga, Mīmāṃsā, Vedānta — và viết mỗi bộ **từ bên trong** hệ thống ấy, như một người theo nó, chứ không phải như người ngoài chấm điểm; truyền thống Ấn Độ gọi ông là *sarvatantrasvatantra*, người tự chủ trong mọi hệ thống. *Bhāmatī* chú Śaṅkara, *Nyāyavārttikatātparyaṭīkā* chú Nyāya, *Tattvavaiśāradī* chú Yoga. Hệ quả là phần lớn cái mà triết học Ấn Độ về sau gọi là \"lập trường của phái X\" đã đi qua tay ông một lần. Riêng với Advaita, cách đọc của ông tách thành một trong hai dòng chú giải lớn, dòng Bhāmatī.",
-   "why": "Tiêu chí (c): việc viết nội tại cho năm hệ thống chống nhau là một thao tác hiếm, và nó đặt ra chuẩn cho thể bình chú Ấn Độ. Niên đại **buộc** phải ghi Thấp. `Q1292812` khai 900–980 ở độ chính xác năm, nhưng đó là độ chính xác giả: niên hiệu trong *Nyāyasūcīnibandha* đọc theo lịch Vikrama ra 841, đọc theo lịch Śaka ra 976, và học giới chưa quyết. Nếu bản đọc 841 đúng thì ông thuộc CE09.",
-   "sources": "Karl H. Potter (ch.b.), *Encyclopedia of Indian Philosophies*, tập II (Motilal Banarsidass) — nguồn cho cả danh mục tác phẩm lẫn hai cách đọc niên hiệu. Hồ sơ cổng CE10 ghi biên độ học thuật khoảng 841–976, tức ~135 năm; mục này chọn khung 950–1000 theo cách đọc Śaka và nói rõ rằng cách đọc kia chưa bị bác.",
+   "why": "Tiêu chí (c): viết nội tại cho năm hệ thống chống nhau là thao tác hiếm, và nó đặt chuẩn cho thể bình chú Ấn Độ. Niên đại **buộc** phải ghi Thấp. `Q1292812` khai 900–980 ở độ chính xác năm, nhưng đó là độ chính xác giả: niên hiệu trong *Nyāyasūcīnibandha* đọc theo lịch Vikrama ra 841, theo lịch Śaka ra 976, và học giới chưa quyết. Nếu bản đọc 841 đúng thì ông thuộc CE09. Và cách đọc Śaka chỉ cho **một** con số — 976, niên đại soạn sách — nên khung 950–1000 là suy ra, không phải đọc thẳng.",
+   "sources": "Karl H. Potter (ch.b.), *Encyclopedia of Indian Philosophies* — tập I (*Bibliography*) cho danh mục tác phẩm, tập II (*Indian Metaphysics and Epistemology: The Tradition of Nyāya-Vaiśeṣika up to Gaṅgeśa*, Princeton University Press, 1977) cho phần Nyāya. *Bhāmatī* và *Tattvavaiśāradī* nằm ở các tập khác của bộ, chưa được kiểm ở vòng viết này. Hồ sơ cổng CE10 ghi biên độ học thuật khoảng 841–976, tức ~135 năm; mục này chọn khung 950–1000 theo cách đọc Śaka và nói rõ rằng cách đọc kia chưa bị bác.",
    "inherits": [
     {
      "target": "CH05-CE08-11",
@@ -18478,7 +18485,7 @@
     "Không áp dụng"
    ],
    "ideas": "Ông làm hai việc mà thủ lĩnh thảo nguyên trước ông không làm. Một, bỏ lệ bầu lại thủ lĩnh ba năm một kỳ của liên minh Khiết Đan và lập ngôi vua cha truyền con nối năm 916. Hai, cho đặt chữ viết: *Liêu sử* quyển 2 chép năm Thần Sách thứ năm (920) tháng giêng \"bắt đầu chế chữ Khiết Đan lớn\", tháng chín \"chữ lớn xong, xuống chiếu ban hành\". Nhà nước ông dựng cai trị dân du mục và dân nông nghiệp bằng **hai hệ quan chế tách rời**, bắc và nam — một lời giải cho bài toán mà mọi đế quốc thảo nguyên trước đó đều vấp.",
-   "why": "Tiêu chí (c) và (d). Hệ nhị nguyên bắc–nam là khuôn mà nhà Kim rồi nhà Nguyên dùng lại, nên nó không chết cùng nhà Liêu năm 1125. Và chữ Khiết Đan lớn nối tiếp chuỗi mà atlas đã mở ở bi ký Orkhon (`CH05-CE06-10`): một ngôn ngữ thảo nguyên phía đông lại có hệ chữ riêng, lần này do triều đình đặt ra bằng sắc lệnh. Ứng viên Đông Á bị cắt cùng ô là Tống Thái Tổ, người lập nhà Tống năm 960 nhưng thuộc cùng loại việc đã có người giữ.",
+   "why": "Tiêu chí (c) và (d). Hệ nhị nguyên bắc–nam là khuôn mà nhà Kim rồi nhà Nguyên dùng lại, nên nó không chết cùng nhà Liêu năm 1125. Và chữ Khiết Đan lớn nối tiếp chuỗi mà atlas đã mở ở bi ký Orkhon (`CH05-CE06-10`): một ngôn ngữ thảo nguyên phía đông lại có hệ chữ riêng, lần này do triều đình đặt ra bằng sắc lệnh. Ứng viên Đông Á bị cắt là Tống Thái Tổ, lập nhà Tống năm 960, nhưng ảnh hưởng chính của nhà Tống rơi sang thế kỷ 11 nên ông xếp sau theo (b) trong khung này.",
    "sources": "*Liêu sử* quyển 2, bản kỷ Thái Tổ hạ, https://zh.wikisource.org/wiki/遼史/卷2 — hai câu \"始製契丹大字\" và \"大字成，詔頒行之\" nằm trong mục Thần Sách năm thứ năm. *Liêu sử* do Thoát Thoát soạn đời Nguyên, tức sau ba trăm năm; đây là nguồn chính thức muộn, không phải văn bản đương thời.",
    "inherits": [
     {
@@ -18539,8 +18546,8 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Ông thống nhất bán đảo lần thứ hai năm 936, nhưng cách thống nhất mới là cái đáng chép. Thay vì diệt giới quý tộc Silla, ông cưới con gái các dòng họ lớn — hơn hai chục cuộc hôn nhân — và nhận vua Silla cuối cùng vào hàng tông thất. Thống nhất thành một **hợp đồng giữa các dòng họ** chứ không phải một cuộc chinh phục, và nhờ thế triều đại kéo 474 năm với tầng quý tộc địa phương còn nguyên. Tên nước lấy lại từ Cao Câu Ly, tức một tuyên bố về đất phía bắc.",
-   "why": "Tiêu chí (b) và (d): mô hình dung hợp ấy định hình cấu trúc xã hội Triều Tiên tới tận thời Chosŏn. Một điều phải nói rõ: *Huấn yếu thập điều* gán cho ông năm 943 — trộn Phật giáo, phong thuỷ và quy tắc kế vị — chỉ xuất hiện trong *Cao Ly sử* soạn thế kỷ 15, và tính xác thực của nó còn tranh cãi, nên mục này **không** dựa vào nó để lập luận.",
+   "ideas": "Ông thống nhất bán đảo lần thứ hai năm 936, nhưng cách thống nhất mới là cái đáng chép. Thay vì diệt giới quý tộc Silla, ông cưới con gái các dòng họ lớn — hơn hai chục cuộc hôn nhân — và nhận vua Silla cuối cùng vào hàng tông thất. Thống nhất thành một **hợp đồng giữa các dòng họ** chứ không phải một cuộc chinh phục, và nhờ thế triều đại kéo 474 năm với tầng quý tộc địa phương còn nguyên. Tên nước lấy lại từ Cao Câu Ly, tức một tuyên bố về đất phía bắc. Ông đặt Phật giáo làm quốc giáo, và dựng bộ máy triều đình theo khuôn Tùy–Đường mà Silla đã nhận trước đó.",
+   "why": "Tiêu chí (b) và (d): mô hình dung hợp ấy định hình cấu trúc xã hội Triều Tiên tới tận thời Chosŏn. Một điều phải nói rõ: *Huấn yếu thập điều* gán cho ông năm 943 — trộn Phật giáo, phong thuỷ và quy tắc kế vị — chỉ xuất hiện trong *Cao Ly sử* soạn thế kỷ 15, tính xác thực còn tranh cãi, nên mục **không** dựa vào nó. Hai đối thủ trực tiếp của ông, Cung Duệ và Chân Huyên, đều lập được nhà nước nhưng không để lại mô hình nào kế thừa được.",
    "sources": "*Cao Ly sử* (高麗史), bản kỷ Thái Tổ, qua CSDL sử liệu thời Cao Ly của Quốc sử biên toản uỷ viên hội Hàn Quốc, https://db.history.go.kr/goryeo/main.do — giao diện tra cứu chạy bằng JavaScript nên không trích được URL cố định cho từng tiết ở vòng viết này. Về *Huấn yếu thập điều* và tranh luận xác thực: Remco E. Breuker, *Establishing a Pluralist Society in Medieval Korea* (Brill, 2010).",
    "inherits": [
     {
@@ -18553,8 +18560,8 @@
     {
      "target": "CH05-CE06-06",
      "relation": "kế thừa",
-     "evidence": "qua trường phái",
-     "raw": "CH05-CE06-06 · kế thừa · qua trường phái",
+     "evidence": "suy đoán học giả",
+     "raw": "CH05-CE06-06 · kế thừa · suy đoán học giả",
      "undetermined": false
     }
    ],
@@ -18603,7 +18610,7 @@
    ],
    "ideas": "Bài tựa kana ông viết cho *Cổ kim hoà ca tập* (905) là văn bản phê bình văn học đầu tiên bằng tiếng Nhật, và nó mở bằng một định nghĩa: thơ Nhật lấy lòng người làm hạt giống, nảy thành muôn vàn lá lời. Viết bài tựa ấy **bằng kana** thay vì chữ Hán là một quyết định về địa vị — nó tuyên bố tiếng bản địa đủ tư cách làm ngôn ngữ phê bình, trong một triều đình mà chữ Hán là văn tự chính thức. Ba mươi năm sau, *Thổ Tá nhật ký* (935) ông viết dưới giọng một người đàn bà, vì nhật ký kana khi ấy là việc của đàn bà.",
    "why": "Tiêu chí (c) và (d). Hai việc ấy mở đường cho dòng văn xuôi kana thời Heian — *Chẩm thảo tử* và *Nguyên thị vật ngữ* đều viết trong khuôn ông dựng. Và bài tựa kana là chỗ một nền văn học tự tuyên bố nó có tiêu chuẩn riêng, không phải phiên bản tỉnh lẻ của văn học Hán. Niên đại Trung bình: `Q468288` khai hai năm sinh, 866 và 872, biên độ sáu năm.",
-   "sources": "*Cổ kim hoà ca tập · tựa kana* (古今和歌集仮名序), https://ja.wikisource.org/wiki/古今和歌集仮名序 — nguyên văn. Niên đại 905 là năm dâng sắc soạn; bản tuyển còn được sửa sau đó, nên 905 là mốc của việc soạn chứ không phải của bản văn cuối.",
+   "sources": "*Cổ kim hoà ca tập · tựa kana* (古今和歌集仮名序), https://ja.wikisource.org/wiki/古今和歌集仮名序 — nguyên văn. Niên đại 905 là năm dâng sắc soạn; bản tuyển còn được sửa sau đó, nên 905 là mốc của việc soạn chứ không phải của bản văn cuối. Cho các mệnh đề đánh giá — bài tựa là phê bình văn học đầu tiên bằng tiếng Nhật, và mạch ảnh hưởng tới văn xuôi kana — xem Helen Craig McCullough, *Brocade by Night: 'Kokin Wakashū' and the Court Style in Japanese Classical Poetry* (Stanford University Press, 1985).",
    "inherits": [
     {
      "target": "Đại tự (大序) của *Mao thi* và truyền thống thi luận Trung Hoa",
@@ -18629,10 +18636,10 @@
      "undetermined": false
     },
     {
-     "target": "Hai mươi mốt tuyển tập thơ sắc soạn về sau của Nhật Bản",
+     "target": "Hai mươi tuyển tập thơ sắc soạn tiếp sau *Cổ kim tập*, tới *Tân tục cổ kim tập* (1439)",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Hai mươi mốt tuyển tập thơ sắc soạn về sau của Nhật Bản · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Hai mươi tuyển tập thơ sắc soạn tiếp sau *Cổ kim tập*, tới *Tân tục cổ kim tập* (1439) · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -18663,7 +18670,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Tháng giêng năm 929 ông bỏ tước amir và xưng caliph, hiệu al-Nāṣir li-dīn Allāh. Đó là một nước đi thần học chứ không chỉ chính trị: nhà Fatimid vừa xưng caliph ở Ifrīqiya năm 909, và một nhà nước Umayyad lưu vong ở rìa tây không thể vừa chống Fatimid vừa nhìn nhận thẩm quyền Abbasid. Từ đó thế giới Hồi giáo có **ba caliph cùng lúc**, và cái độc quyền danh hiệu kéo dài từ năm 632 đứt hẳn. Ông dựng Madīnat al-Zahrāʾ làm kinh đô nghi lễ và giao việc ngoại giao cho một người Do Thái, Ḥasdai ibn Shaprut.",
+   "ideas": "Tháng giêng năm 929 ông bỏ tước amir và xưng caliph, hiệu al-Nāṣir li-dīn Allāh. Đó là một nước đi thần học chứ không chỉ chính trị: nhà Fatimid vừa xưng caliph ở Ifrīqiya năm 909, và một nhà nước Umayyad lưu vong ở rìa tây không thể vừa chống Fatimid vừa nhìn nhận thẩm quyền Abbasid. Từ đó thế giới Hồi giáo có **ba caliph cùng lúc** — không còn ngôi nào tự nhận được là duy nhất. Ông dựng Madīnat al-Zahrāʾ làm kinh đô nghi lễ và giao việc ngoại giao cho một người Do Thái, Ḥasdai ibn Shaprut.",
    "why": "Tiêu chí (d). Sau 929, \"caliph\" thôi là một ngôi duy nhất và thành một danh hiệu có thể tranh — tiền lệ ấy còn được dùng tới tận thời Ottoman. Mục này cũng là một suất Châu Âu, vùng mà vòng CE09 cố ý cắt xuống một người; theo quy ước nơi hoạt động chính, al-Andalus là Châu Âu, đúng *Quy ước trường `vùng:`* điểm 1 của `CONTRIBUTING.md`.",
    "sources": "Hugh Kennedy, *Muslim Spain and Portugal: A Political History of al-Andalus* (Longman, 1996); Maribel Fierro, *ʿAbd al-Rahman III: The First Cordoban Caliph* (Oneworld, 2005). Ngày tháng khớp `Q190418`: sinh 07-01-891, mất 15-10-961.",
    "inherits": [
@@ -18734,7 +18741,7 @@
    ],
    "ideas": "Ông học ở Catalonia, nơi trường nhà thờ Latin tiếp giáp al-Andalus, rồi mang về Reims những thứ Tây Âu đã mất cách dùng: bàn tính có quân khắc **chín dạng chữ số** thay cho các viên đếm không phân biệt, đàn một dây để dạy tỉ lệ nhạc, thiên cầu để dạy vị trí sao. Phải nói rõ giới hạn: không có số không và không có phép tính vị trí, nên đó chưa phải hệ thập phân. Việc ông làm là **đổi cách dạy** — quadrivium từ một danh mục tên môn thành thứ dạy được bằng dụng cụ. Năm 999 ông lên ngôi giáo hoàng.",
    "why": "Tiêu chí (d). Ông không phải mắt nối đầu tiên — thư viện Ripoll và Vic đã có văn bản astrolabe gốc Ả Rập trước khi ông tới năm 967, và chính ông viết thư xin Lupitus xứ Barcelona một bản dịch — nhưng là người đưa chúng vào chương trình dạy của trường nhà thờ Latin, trước làn dịch thuật thế kỷ 12 cả trăm năm. Niên đại Trung bình: `Q172383` ghi năm sinh 938 ở độ chính xác năm, mạnh hơn mức nguồn cho phép — học giới để k. 945–950, mục ghi k. 945.",
-   "sources": "Richer xứ Reims, *Historiae*, quyển III — nguồn đương thời duy nhất mô tả cách ông dạy, do chính học trò ông chép; Marco Zuccato, \"Gerbert of Aurillac and a Tenth-Century Jewish Channel for the Transmission of Arabic Science to the West\", *Speculum* 80 (2005), tr. 742–763.",
+   "sources": "Richer xứ Reims, *Historiae*, quyển III — nguồn đương thời duy nhất mô tả cách ông dạy, do chính học trò ông chép; Marco Zuccato, \"Gerbert of Aurillac and a Tenth-Century Jewish Channel for the Transmission of Arabic Science to the West\", *Speculum* 80 (2005), tr. 742–763; và chính thư từ của ông, *The Letters of Gerbert, with his Papal Privileges as Sylvester II*, Harriet Pratt Lattin dịch (Columbia University Press, 1961) — nhóm thư năm 984 là bằng chứng trực tiếp, do chính ông viết, cho mạch tiếp xúc với văn bản Ả Rập.",
    "inherits": [
     {
      "target": "Toán học và thiên văn Ả Rập ở al-Andalus, qua các tu viện Catalonia",
