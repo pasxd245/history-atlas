@@ -730,7 +730,7 @@
     "**Một khoảng trống trong chính phụ lục Việt Nam, ghi lại cho P4**",
     "Kiểm quy tắc 6 cho khối trên làm lộ ra một việc khác: `content/ch90.md` nhảy từ `CH90-CE01_09-08 · Khương Công Phụ` (731–805) thẳng tới `CH90-CE10_14-01 · Ngô Quyền` (938). **Thế kỷ 9 là một khoảng trống trong chính phụ lục Việt Nam** — và không phải vì khung nhóm chặn: tiêu đề nhóm ghi `## Nhóm CE01_09 · TK 1–9 (1 – 900)`, tức cả thế kỷ 9 nằm trong khung; nhóm mới dùng 8/12 chỗ; và mục cuối nhóm, Khương Công Phụ, mất năm 805, tức đã trong thế kỷ ấy. Khoảng trống là một **lựa chọn đã ghi**: mục `CH90-CE01_09-07 · Phùng Hưng` nêu Dương Thanh làm ứng viên cùng giai đoạn rồi chọn Phùng Hưng, nên điểm vào của P4 là chính dòng ấy. Nếu P4 muốn lấp, ứng viên số một là Dương Thanh, và phải xử trước lỗi `Q6771941` hoặc chấp nhận để trường `wikidata:` trống kèm chú. Việc này **không** thuộc vòng CE09 và không được làm lẫn vào đây.",
     "**Một liên kết tự do được nâng thành ID, và vì sao điều đó đáng ghi**",
-    "Mục `CH05-CE07-08 · Brahmagupta` trước đây có đích ảnh hưởng ghi dưới dạng văn bản tự do: \"al-Khwārizmī và toán học Ả Rập\". Khi `CH05-CE09-04` ra đời, dòng ấy được đổi thành ID. Đây là một thao tác bảo trì mà **lint không nhắc được**, vì lint không biết một chuỗi văn bản tự do nào đó vừa trở thành một mục có thật; nó chỉ kiểm ID trỏ tới chỗ tồn tại. Hệ quả cho các vòng sau: mỗi khi thêm một nhóm mới, phải `grep` tên những người vừa thêm trong toàn bộ `content/` để tìm các đích tự do cần nâng cấp. Các đích tự do **vẫn vào thống kê** — `reports/stats.txt` đếm đủ, ở ch05 là 206 dòng quan hệ trong khi chỉ 65 dòng trỏ ID. Cái mất không phải con số mà là **cạnh**: một đích tự do không giải được về mục nào, nên không sinh quan hệ hai chiều và nằm ngoài tầm phép kiểm ID của lint.",
+    "Mục `CH05-CE07-08 · Brahmagupta` trước đây có đích ảnh hưởng ghi dưới dạng văn bản tự do: \"al-Khwārizmī và toán học Ả Rập\". Khi `CH05-CE09-04` ra đời, dòng ấy được đổi thành ID. Đây là một thao tác bảo trì mà lint chỉ nhắc được **một nửa**: vòng đối xứng (`atlaslib/lint.py:224-232`) in INFO khi đầu kia đã dùng ID, nhưng khi **cả hai** đầu còn là văn bản tự do thì không có dòng nào — lint không biết một chuỗi văn bản tự do nào đó vừa trở thành một mục có thật. Hệ quả cho các vòng sau: mỗi khi thêm một nhóm mới, phải `grep` tên những người vừa thêm trong toàn bộ `content/` để tìm các đích tự do cần nâng cấp. Các đích tự do **vẫn vào thống kê** — `reports/stats.txt` đếm đủ, ở ch05 là 258 dòng quan hệ trong khi chỉ 77 dòng trỏ ID, **đo trên `content/ch05.md` sau vòng CE10**. Cái mất không phải con số mà là **cạnh**: một đích tự do không giải được về mục nào, nên không sinh quan hệ hai chiều và nằm ngoài tầm phép kiểm ID của lint.",
     "**Sáu người cai trị trong mười hai, và vì sao nguyên tắc của nhóm CE09 không áp được ở đây**",
     "Nhóm CE09 áp nguyên tắc \"loại người bảo trợ, giữ người làm ra tri thức\" và kết quả là `Chính trị/Nhà nước` chỉ chiếm 3/24 ô. Nhóm này đi ngược: 7 trong 22 ô, tức 31,8% — so với 23,8% của toàn atlas **đo trên 245 mục sau khi dựng nhóm này**. Phải khai lý do thay vì để người đọc tự đoán. Nguyên tắc ấy chưa bao giờ là \"không nhận vua\"; nó là \"đừng chỉ mục một người bảo trợ cho công trình người khác làm\". **Bốn** trong sáu mục vua được chỉ mục vì **thể chế chính họ lập**: ngôi vua cha truyền con nối và hai hệ quan chế bắc–nam (`CH05-CE10-08`), lối thống nhất bằng hôn nhân giữa các dòng họ (`CH05-CE10-09`), danh hiệu caliph thứ ba (`CH05-CE10-11`), và sắc lập sima gắn làng vào nhà nước bằng nghĩa vụ (`CH05-CE10-06`). Hai mục còn lại vào vì lý do khác, và phải gọi đúng tên nó: `CH05-CE10-05` không lập ra chức tiết độ sứ — đó là thể chế nhà Đường — mà là người bản địa đầu tiên giữ nó; còn `CH05-CE10-04` giữ được một triều đình Transoxiana vận hành bằng bộ máy riêng trong khi vẫn nhận sắc phong Baghdad. Nhưng còn một nửa lý do nữa, và nó không dễ chịu: ở Trung Á, Đông Nam Á và vùng Đông Á ngoài Trung Hoa, người thế kỷ 10 để lại đủ tư liệu để chấm theo bốn tiêu chí **gần như chỉ có người lập nhà nước**. Đó là cùng một hiện tượng văn khố mà khối ứng viên Việt Nam của nhóm CE09 đã mô tả, chỉ hiện ra ở chiều khác.",
     "**Mục sát ranh giới nhất của nhóm, và nó tự khai: Ismāʿīl Samānī**",
@@ -815,7 +815,7 @@
       701,
       800
      ],
-     "context": "Một cuộc nổi dậy khởi từ Khurasan lật nhà Umayyad và dời trọng tâm thế giới Hồi giáo về Baghdad. Hai trường phái luật Sunni đầu tiên và ngữ pháp Ả Rập thành hình. Loạn An Lộc Sơn chặt đôi nhà Đường, Thổ Phồn lên đỉnh, và ở Tây Âu người Frank dựng lại một ngôi hoàng đế.",
+     "context": "Một cuộc nổi dậy khởi từ Khurasan lật nhà Umayyad và dời trọng tâm thế giới Hồi giáo về Baghdad. Những người về sau được lấy tên đặt cho hai trường phái luật Sunni đầu tiên đang dạy ở Kufa và Medina; ngữ pháp Ả Rập thì thành hình trong thế kỷ này. Loạn An Lộc Sơn chặt đôi nhà Đường, Thổ Phồn lên đỉnh, và ở Tây Âu người Frank dựng lại một ngôi hoàng đế.",
      "persons": [
       "CH05-CE08-01",
       "CH05-CE08-02",
@@ -14962,7 +14962,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Năm 528, một năm sau khi lên ngôi, ông lập hội đồng do Tribonianus đứng đầu để rà toàn bộ luật La Mã tích tụ gần một nghìn năm. Kết quả gồm bốn phần — Codex, Digesta, Institutiones và các Novellae ban về sau — mà hậu thế gọi chung là Corpus Juris Civilis. Riêng phần Digesta nén khoảng hai nghìn cuốn của các luật gia cổ điển xuống một bộ, và chính nó giữ gần như toàn bộ những gì ngày nay còn biết về họ. Bộ ấy được đọc lại ở Bologna thế kỷ 11 và thành nền của truyền thống dân luật lục địa châu Âu.",
+   "ideas": "Năm 528, một năm sau khi lên ngôi, ông lập một hội đồng mười người rà toàn bộ luật La Mã tích tụ gần một nghìn năm; Tribonianus khi ấy là một ủy viên, và từ năm 530 mới đứng đầu hội đồng soạn *Digesta*. Kết quả gồm bốn phần — Codex, Digesta, Institutiones và các Novellae ban về sau — mà hậu thế gọi chung là Corpus Juris Civilis. Riêng phần Digesta nén khoảng hai nghìn cuốn của các luật gia cổ điển xuống một bộ, và chính nó giữ gần như toàn bộ những gì ngày nay còn biết về họ. Bộ ấy được đọc lại ở Bologna thế kỷ 11 và thành nền của truyền thống dân luật lục địa châu Âu.",
    "why": "Ứng viên cùng thời là Tribonianus, người thật sự chủ trì việc biên soạn, và Theodora. Tribonianus bị loại vì luận điểm trùng hoàn toàn với mục này. Justinianus được chọn theo độ bền (b) và counterfactual (d): rà luật là một quyết định chính trị, và không có quyền lực tập trung ấy thì khối luật rời rạc khó được đóng thành một bộ dùng lại được. Phần tái chiếm Ý và Bắc Phi thì ngắn hạn và rất đắt, nên không phải lý do chọn.",
    "sources": "Corpus Juris Civilis; Procopius, Lịch sử các cuộc chiến và Dật sử; Caroline Humfress, trong The Cambridge Companion to the Age of Justinian (Cambridge University Press, 2005).",
    "inherits": [
@@ -15230,10 +15230,10 @@
    ],
    "influences": [
     {
-     "target": "Pháp Xứng (Dharmakīrti)",
+     "target": "CH05-CE07-10",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Pháp Xứng (Dharmakīrti) · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE07-10 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -15408,10 +15408,10 @@
    ],
    "influences": [
     {
-     "target": "Huệ Năng và Thiền tông Trung Hoa",
+     "target": "CH05-CE07-07",
      "relation": "kế thừa",
      "evidence": "qua trường phái",
-     "raw": "Huệ Năng và Thiền tông Trung Hoa · kế thừa · qua trường phái",
+     "raw": "CH05-CE07-07 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -15450,8 +15450,8 @@
     "Không áp dụng"
    ],
    "ideas": "Bi ký RIÉth 191 nêu đích danh ông — Kālēb con của Tāzēnā, cũng gọi ʾƎlla ʾAṣbəḥā — kèm một vương hiệu dài phỏng theo lối xưng của vua Ḥimyar, chỉ thêm tên các chư hầu châu Phi. Bi ký Geʿez ở Maʾrib và Ẓafār, cùng hai văn bản Sabaic gọi thẳng \"các chúa của chúng tôi, những vua Aksum\", là bằng chứng tại chỗ rằng quân Aksum có mặt thật ở Nam Arabia — phần Sabaic do chính người bản địa khắc, nên độc lập với hagiography Hy Lạp và Syriac. Thập niên 520 ông vượt Biển Đỏ, lật vua Ḥimyar Yūsuf ʾAsʾar Yathʾar, rồi dựng vua bù nhìn. Hệ thống ấy sụp ngay trong đời ông: Abraha lật Sumūyafaʿ Ashwaʿ và đánh bại hai chiến dịch trừng phạt.",
-   "why": "Đây là lần cuối một thế lực châu Phi hạ Sahara cai trị đất Arabia, và cái thất bại của nó mới là phần có hệ quả dài: nó dẫn thẳng tới Abraha, tới truyền thống \"Năm Con Voi\", rồi tới việc Ba Tư nhảy vào Yemen. Mục để Trung bình chứ không Cao vì chính chiến dịch nổi tiếng nhất chưa chốt được năm: Robin đặt sau Lễ Ngũ Tuần 525 \"hoặc một trong những năm tiếp theo\", Hatke đặt ở mùa xuân 529.",
-   "sources": "Bi ký RIÉth 191 (Aksum, chữ musnad); George Hatke, mục \"Aksum\", trong *A Thematic Dictionary of Ancient Arabia*; Christian Julien Robin, \"Joseph, dernier roi de Ḥimyar (de 522 à 525, ou une des années suivantes)\", *Jerusalem Studies in Arabic and Islam* 34 (2008), tr. 1–124.",
+   "why": "Đây là lần cuối một thế lực châu Phi hạ Sahara cai trị đất Arabia, và cái thất bại của nó mới là phần có hệ quả dài: nó dẫn thẳng tới Abraha, tới truyền thống \"Năm Con Voi\", rồi tới việc Ba Tư nhảy vào Yemen. Mục để Trung bình chứ không Cao vì chính chiến dịch nổi tiếng nhất chưa chốt được năm: Robin đặt nó sau Lễ Ngũ Tuần 525 \"hoặc một trong những năm tiếp theo\".",
+   "sources": "Bi ký RIÉth 191 (Aksum, chữ musnad); George Hatke, mục \"Aksum\", trong *A Thematic Dictionary of Ancient Arabia* — **dòng trích này chưa giải được**: không tìm thấy bản ghi nào ở OpenLibrary lẫn Crossref, và dòng không có NXB, năm, trang hay URL, nên không được dùng để đỡ mệnh đề nào cho tới khi có bản trích đầy đủ; Christian Julien Robin, \"Joseph, dernier roi de Ḥimyar (de 522 à 525, ou une des années suivantes)\", *Jerusalem Studies in Arabic and Islam* 34 (2008), tr. 1–124.",
    "inherits": [
     {
      "target": "CH04-CE04-09",
@@ -15520,13 +15520,6 @@
      "relation": "tương đồng độc lập",
      "evidence": "suy đoán học giả",
      "raw": "CH03-BCE02-12 · tương đồng độc lập · suy đoán học giả",
-     "undetermined": false
-    },
-    {
-     "target": "Nhu Nhiên hãn quốc",
-     "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "Nhu Nhiên hãn quốc · phản bác · trực tiếp",
      "undetermined": false
     }
    ],
@@ -15628,7 +15621,7 @@
    "big_questions": [
     "Thực tại"
    ],
-   "ideas": "Ông chọn không viết triết học riêng mà đổ gần cả đời vào việc dịch và chú giải bộ Organon của Aristotle sang Latinh. Lựa chọn ấy quyết định Tây Âu nghĩ bằng cái gì trong hơn sáu thế kỷ sau: tới thế kỷ 11, chương trình logic Latinh — logica vetus — chỉ gồm hai tác phẩm Aristotle, Porphyry và chính ông; phần Organon còn lại phải tới đầu thế kỷ 13 mới lưu hành rộng, vẫn qua bản dịch Latinh của ông được tìm lại. Kế hoạch dịch trọn Plato lẫn Aristotle thì không xong, bản Phân tích hậu đã mất. Viết trong tù chờ án tử, De consolatione philosophiae dựng cuộc đối thoại với Triết học nhân cách hoá mà không viện một giáo lý Kitô nào.",
+   "ideas": "Ông chọn không viết triết học riêng mà đổ gần cả đời vào việc dịch và chú giải bộ Organon của Aristotle sang Latinh. Lựa chọn ấy quyết định Tây Âu nghĩ bằng cái gì trong hơn sáu thế kỷ sau: tới thế kỷ 11, chương trình logic Latinh — logica vetus — chỉ gồm hai tác phẩm Aristotle, Porphyry và chính ông; phần Organon còn lại phải tới cuối thế kỷ 12 mới lưu hành rộng, vẫn qua bản dịch Latinh của ông được tìm lại. Kế hoạch dịch trọn Plato lẫn Aristotle thì không xong, bản Phân tích hậu đã mất. Viết trong tù chờ án tử, De consolatione philosophiae dựng cuộc đối thoại với Triết học nhân cách hoá mà không viện một giáo lý Kitô nào.",
    "why": "Phần lớn mười một mục còn lại của nhóm CE06 phải rào niên đại hoặc rào quy thuộc; Boethius thì tác phẩm còn nguyên vẹn. Chọn ông cũng là sửa một lỗi nội tại: tên ông đã hai lần xuất hiện trong atlas như cơ chế truyền cho Porphyry ở `CH04-CE03-03`, một lần ngay trong dòng quan hệ, mà chưa bao giờ có mục riêng. Niên đại để Trung bình vì nguồn ghi sinh khoảng 475–477 và đặt dấu hỏi sau năm mất 526.",
    "sources": "Boethius, *De consolatione philosophiae*; hai bình luận *Isagoge* và các bình luận *Organon*; Stanford Encyclopedia of Philosophy, \"Anicius Manlius Severinus Boethius\" (John Marenbon), <https://plato.stanford.edu/entries/boethius/>; Stanford Encyclopedia of Philosophy, \"Literary Forms of Medieval Philosophy\", <https://plato.stanford.edu/entries/medieval-literary/>.",
    "inherits": [
@@ -16225,8 +16218,8 @@
     {
      "target": "CH05-CE06-05",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH05-CE06-05 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE06-05 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -16466,7 +16459,7 @@
     "Không áp dụng"
    ],
    "ideas": "Al-Saffah lên ngôi trước, nhưng người biến một cuộc đảo chính thành một nhà nước là al-Mansur. Hai mươi mốt năm cầm quyền, và một quyết định năm 762: dựng kinh đô mới Madinat al-Salam ở khúc sông Tigris gần Euphrates nhất — không phải một cung điện thêm vào thành cũ mà một thành tròn xây từ đất trống, đặt lỵ sở ở nơi đường thuỷ Lưỡng Hà, Iran và vịnh Ba Tư gặp nhau. Baghdad lớn lên từ đó và giữ vai trung tâm của thế giới Hồi giáo suốt năm thế kỷ.",
-   "why": "Ba mục trong nhóm này nối với nhau bằng một người: Abu Muslim bị ông xử tử năm 755, Abu Hanifa chết năm 767 khi đang bị ông giam. Ông được chọn theo tiêu chí phạm vi và tính quyết định: nếu cách mạng Abbasid dừng ở al-Saffah, nó có thể chỉ là một lần thay nhà cầm quyền. Niên đại ghi Trung bình vì các nguồn cho ba năm sinh khác nhau: 709, 713 và 714.",
+   "why": "Ba mục trong nhóm này nối với nhau bằng một người: Abu Muslim bị ông xử tử năm 755, Abu Hanifa chết ở Baghdad năm 767, theo truyền thống là trong ngục của ông. Ông được chọn theo tiêu chí phạm vi và tính quyết định: nếu cách mạng Abbasid dừng ở al-Saffah, nó có thể chỉ là một lần thay nhà cầm quyền. Niên đại ghi Trung bình vì năm sinh 95 AH được quy đổi khi thì 713, khi thì 714.",
    "sources": "Hugh Kennedy, The Early Abbasid Caliphate: A Political History (Croom Helm, 1981); Tayeb El-Hibri, Reinterpreting Islamic Historiography (Cambridge University Press, 1999).",
    "inherits": [
     {
@@ -17071,7 +17064,7 @@
     "Thực tại"
    ],
    "ideas": "Các bản sớ của ông cho Brahma-sūtra, các Upaniṣad chính và Bhagavad-gītā dựng Advaita Vedānta thành một hệ thống: chỉ có một thực tại duy nhất là brahman; cái tôi cá nhân không phải một phần của nó mà chính là nó; và thế giới nhiều vẻ ta thấy không phải ảo giác mà là một cách nhìn sai do vô minh. Ông làm việc này bằng cách đọc lại kinh văn chứ không bằng cách bác bỏ kinh văn, nên Advaita vừa là triết học vừa là chú giải — và vì thế thành khung mà mọi trường phái Vedānta về sau phải định vị theo.",
-   "why": "Niên đại của ông là tranh luận mở, và khung 788–820 hay được chép lại không phải truyền thống của các maṭha mà là đề xuất của Đông phương học châu Âu cuối thế kỷ 19; các maṭha đặt ông ở thế kỷ 5 trước Công nguyên. Học giới hiện nay chặn hai đầu bằng văn bản: ông trích Pháp Xứng, nên sau giữa thế kỷ 7; còn mỏ neo Vācaspati Miśra (`CH05-CE10-07`) thì lỏng hơn vẻ ngoài, vì niên đại của chính Vācaspati có hai cách đọc cách nhau 135 năm.",
+   "why": "Niên đại của ông là tranh luận mở, và khung 788–820 hay được chép lại không phải truyền thống của các maṭha mà là một niên đại nguồn Ấn Độ được Đông phương học châu Âu cuối thế kỷ 19 chọn và phổ biến; các maṭha đặt ông ở thế kỷ 5 trước Công nguyên. Học giới hiện nay chặn hai đầu bằng văn bản: ông trích Pháp Xứng, nên sau giữa thế kỷ 7; còn mỏ neo Vācaspati Miśra (`CH05-CE10-07`) thì atlas đã bỏ: vòng CE10 đọc niên hiệu theo lịch Śaka và xếp ông ở k. 950–1000.",
    "sources": "Hajime Nakamura, A History of Early Vedānta Philosophy, Part One (Motilal Banarsidass, 1983); \"Śaṅkara\", Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/entries/shankara/",
    "inherits": [
     {
@@ -17146,7 +17139,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Trong hai thế kỷ, chính trị Maya Cổ điển xoay quanh thế đối đầu giữa Tikal và Calakmul. Ông là người phá vỡ nó: lên ngôi ngày 8 tháng 12 năm 734, ông đánh bại Calakmul năm 736, rồi hai đồng minh của Calakmul là El Perú năm 743 và Naranjo năm 744, và chuyển chiến thắng thành đá — Đền IV, cao 70 mét, công trình cao nhất Tikal và cao nhất thế giới Maya thời Cổ điển, với các rầm gỗ chạm ghi chính những chiến dịch ấy. Tikal từ một thành từng thất thế trở lại thành thế lực mạnh nhất vùng đất thấp.",
+   "ideas": "Trong hai thế kỷ, chính trị Maya Cổ điển xoay quanh thế đối đầu giữa Tikal và Calakmul. Ông là người phá vỡ nó: lên ngôi ngày 8 tháng 12 năm 734, ông đánh bại Calakmul năm 736, rồi hai đồng minh của Calakmul là El Perú năm 743 và Naranjo năm 744, và chuyển chiến thắng thành đá — Đền IV, cao 70 mét, công trình cao nhất Tikal và thuộc hàng cao nhất thế giới Maya, với các rầm gỗ chạm ghi chính những chiến dịch ấy. Tikal từ một thành từng thất thế trở lại thành thế lực mạnh nhất vùng đất thấp.",
    "why": "Niên đại của toàn chuỗi không do người đời sau dựng lại: nó được chính triều đình ông khắc bằng Long Count, hệ đếm ngày tuyệt đối, nên ngày lên ngôi xác định tới từng ngày trong khi năm sinh của Charlemagne cùng thế kỷ vẫn còn ba phương án cạnh tranh là 742, 747 và 748. Ghi Trung bình chứ không phải Cao vì năm mất còn để ngỏ. Kʼinich Janaabʼ Pakal có mục riêng ở nhóm CE07.",
    "sources": "Simon Martin và Nikolai Grube, Chronicle of the Maya Kings and Queens, tái bản lần 2 (Thames & Hudson, 2008); Peter D. Harrison, The Lords of Tikal: Rulers of an Ancient Maya City (Thames & Hudson, 1999).",
    "inherits": [
