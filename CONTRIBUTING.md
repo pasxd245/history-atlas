@@ -85,6 +85,18 @@ Vì sao chọn cách đọc chặt: ba mức này đo **đường truyền**, n�
 
 **Không thêm mức thứ tư.** Phương án tách nghĩa bằng một mức `qua văn bản` mới đã được cân nhắc và gác lại: đổi `EVIDENCE_LEVELS` trong `atlaslib/common.py` kéo theo lint, thống kê và cả sáu chapter cùng lúc. Việc ấy chỉ đáng làm **sau** khi đã có định nghĩa, không phải thay cho nó.
 
+**Quy ước tiêu chí (a) phạm vi** — đo **trong mạng lưới tiếp xúc tồn tại ở thời điểm ấy**, không đo trên bản đồ thế giới hiện đại.
+
+Không có câu này, tiêu chí (a) loại trừ châu Mỹ tiền Columbus **theo cấu trúc chứ không theo công trạng**: mục `CH05-CE07-12` Pakal đã tự ghi ra điều đó — *"trước 1492 không tồn tại đường vật lý nào để ảnh hưởng ra khỏi bán cầu"*. Hệ quả là mọi suất châu Mỹ, và phần lớn suất châu Phi hạ Sahara, hoặc thua (a) một cách máy móc, hoặc phải được chọn bằng một chính sách ngầm rằng "không được để vùng ấy trống". Một chính sách ngầm thì không phân biệt được với lấp chỉ tiêu — đó là kết luận §E-2 của `reviews/ch05-ce08-review.md`.
+
+Viết ra rồi thì Yikʼin Chan Kʼawiil (`CH05-CE08-12`) đứng được bằng chính tiêu chí (a): ông là thế lực mạnh nhất trong mạng lưới của ông. Quy ước này **không** hạ chuẩn — nó vẫn đòi người ấy phải trội trong mạng lưới của mình, và vẫn không cho phép đổi `vùng:` của ai để làm đẹp thống kê (quy ước `vùng:` điều 4).
+
+**Quy ước hệ quy chiếu và liên kết giữa mạch chính với phụ lục** — `content/ch90.md` tồn tại vì ảnh hưởng của nhân vật Việt Nam được đo trong phạm vi Việt Nam / Đông Nam Á, không phải toàn nhân loại (`README.md`). Ba hệ quả chưa từng được viết ra:
+
+1. **Bốn tiêu chí (a)–(d) được chấm trong hệ quy chiếu của track đang xét.** Cùng một tiêu chí cho hai kết quả khác nhau ở hai track **không phải mâu thuẫn**, nhưng mục nào rơi vào tình huống đó thì **phải nói ra hệ quy chiếu**, nếu không người đọc chỉ thấy hai file xếp hạng ngược nhau. Ca đang có: `CH05-CE10-05` Khúc Thừa Dụ và `CH90-CE10_14-01` Ngô Quyền.
+2. **Một nhân vật Việt Nam đạt thang đo toàn cầu thì ở mạch chính, và vẫn được phụ lục nhắc tới.** Hai track không loại trừ nhau; lint cố tình chỉ báo `INFO` khi trùng tên hoặc trùng Wikidata giữa hai bên. Khi điều đó xảy ra, phụ lục dùng đúng câu của quy tắc 6: *"có mục riêng ở `CHxx-…` nên không phải ứng viên bị loại"*.
+3. **Liên kết mạch chính → phụ lục dùng ID; liên kết phụ lục → mạch chính giữ nguyên văn bản tự do.** Tiền lệ chiều thuận: `CH05-CE08-09 → CH90-CE19_20-01`. Chiều ngược **cố ý không nâng** (`ch90.md:148` vẫn ghi `- Khúc Thừa Dụ · kế thừa · qua trường phái` dù ông đã có `CH05-CE10-05`): một cạnh có ID ở chiều ngược sẽ kéo phụ lục vào mạng lưới mà `render.py` cố tình cô lập khỏi thống kê toàn cục. Muốn đổi điều này thì phải sửa `render.py` trước, không sửa file nội dung trước.
+
 **Khối minh bạch bắt buộc.** Mỗi chapter phải mở đầu `## Ghi chú biên tập` bằng khối "Cách chapter này được soạn" (nguyên văn ở cuối `prompts/atlas-prompt.md`). Build không kiểm tự động — đây là việc của người biên tập.
 
 ## Quy tắc ảnh
