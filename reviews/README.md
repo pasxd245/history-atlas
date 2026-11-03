@@ -34,3 +34,29 @@ sửa đường dẫn bên trong là sửa bản ghi. Khi đọc, cứ đổi `r
 - Bốn mức kết luận: **BẮT BUỘC** · **NÊN** · **CÂN NHẮC** · **[KHÔNG KIỂM ĐƯỢC]**.
 - UA trung lập `history-atlas/0.1 (research)`. Không để thông tin cá nhân vào
   header, URL, payload hay báo cáo.
+
+## Lịch sử git đã được viết lại một lần (2026-11-03)
+
+`atlaslib/common.py` từng đặt User-Agent mặc định kèm địa chỉ email và tên
+miền nơi làm việc của Chủ dự án, nên mọi lần `build.py` chạy online đều gửi
+chuỗi ấy tới Wikidata. Hồ sơ cổng CE08 (`ch05-ce08-gate.md`) đã nêu từ vòng
+CE08; chuỗi được sửa ở HEAD trước, rồi gỡ khỏi toàn bộ lịch sử sau.
+
+Thao tác: `git filter-branch --index-filter` trên cả hai nhánh, thay
+`(personal research project; <email>)` thành `(personal research project)`
+trong 8 phiên bản của đúng một file. Không file nào khác chứa chuỗi ấy, và
+nó không có trong bất kỳ commit message nào. Author/committer của mọi commit
+là một địa chỉ khác, không bị đụng tới.
+
+Kết quả kiểm: cây HEAD **không đổi** (`7028460`), 83 commit giữ nguyên, quét
+mọi blob còn sống và mọi object mồ côi đều không còn chuỗi ấy.
+
+Hệ quả phải biết:
+
+- **Mọi hash commit đã đổi.** Bất kỳ ghi chú nào trỏ tới hash trước
+  2026-11-03 đều không còn giải ra được. Các báo cáo trong thư mục này trỏ
+  tới nhau bằng tên file và số dòng, không bằng hash, nên không bị ảnh hưởng.
+- **Bản bundle sao lưu và mọi clone cũ VẪN CÒN email.** Bundle nằm ở
+  `../history-atlas-backup-20261103-*.bundle`, cố ý giữ lại làm đường lùi.
+  Khi đã chắc không cần lùi nữa thì xoá nó, nếu không thì việc gỡ coi như
+  chưa trọn.
