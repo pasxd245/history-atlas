@@ -759,9 +759,18 @@
     "Nhóm CE09 đã khai **hai** ô trống — `Khoa học tự nhiên` và `Giáo dục` — và quy cho lựa chọn của người chọn. Ô `Giáo dục` nay đã được lấp bằng `CH05-CE10-12 · Gerbert`; ô này thì nhóm CE10 lặp lại đúng con số 0, mà thế kỷ 10 có **al-Masʿūdī** (mất 957), người vừa chép sử vừa ghi chép địa lý và vật lý tự nhiên, và có cả lớp thiên văn Buyid ở Baghdad — hồ sơ cổng để sẵn hai cái tên đang treo `[CHƯA KẾT LUẬN]`: `Abu al-Wafa' Buzjani` cho đúng ô này, và `al-Muqaddasi` cho ô `Khám phá/Địa lý`. Mục `CH05-CE10-01` nêu al-Masʿūdī làm ứng viên cùng ô bị cắt, nhưng nói cho đủ thì mục `CH05-CE10-01` nêu ông làm ứng viên bị cắt ở ô `Sử học`, nhưng nói cho đủ thì ông còn là ứng viên **khả dĩ** cho một ô khác mà không vòng nào xét tới: phần địa lý và ghi chép tự nhiên của *Murūj al-dhahab* đáng được cân cho `Khám phá/Địa lý` hoặc `Khoa học tự nhiên`, và nhóm này không cân. Hai nhóm liên tiếp để trống một ô mà cả hai lần đều có ứng viên thì đó là một khuôn, không phải một sự cố; vòng CE11 nên coi đây là ràng buộc chứ không phải gợi ý.",
     "**Những người bị cắt, và lý do của từng người**",
     "Để vòng duyệt khỏi phải đoán. **al-Ashʿarī** (874–936) — mạnh ngang bất kỳ ai trong nhóm; bị cắt vì ô `Tôn giáo/Tâm linh` của nhóm đã có bốn mục và vì Trung Đông đã giữ ba suất. `Q316349` khai 873–935, lệch một năm ở cả hai đầu so với cặp khối này dùng, và hồ sơ cổng gọi đó là \"dấu hiệu điển hình của quy đổi AH→CE bằng công thức\" — **lời chẩn ấy sai, sửa ở đây**: ông sinh **260 AH** và mất **324 AH**, mà 260 AH chạy từ cuối 873 sang cuối 874 và 324 AH từ cuối 935 sang cuối 936, nên ±1 ở cả hai đầu là **cấu trúc của lịch** chứ không phải vết của công thức. Hai cách ghi CE chỉ khác nhau ở chỗ lấy năm AH **bắt đầu** hay năm nó **phần lớn rơi vào**. Nếu CE11 nhặt ông lên thì viết kèm cặp AH là cách duy nhất không phải chọn phe. **Saadia Gaon** (882–942) — người đầu tiên dịch Kinh Thánh Do Thái sang tiếng Ả Rập và đưa kalām vào tư tưởng Do Thái; cùng lý do phân bổ. **al-Masʿūdī** — xem khối trên. **Ḥasdai ibn Shaprut** và **Dunash ben Labrat** — cả hai ở Córdoba, và nhóm đã có một suất Córdoba. **Rajaraja I** (947–1014) và **Sei Shōnagon** (966–1025) — thời kỳ ảnh hưởng chính rơi sang thế kỷ 11. **Abhinavagupta** (k. 950–1016) — cùng lý do, và hồ sơ cổng đã kết luận thế; dòng `Ảnh hưởng tới` tự do mang tên ông ở `CH05-CE09-11` vì vậy **vẫn giữ nguyên dạng văn bản tự do**, đúng cho tới khi ông có mục ở CE11. **Hrotsvitha xứ Gandersheim** — ca đáng tiếc nhất: nhà viết kịch nữ đầu tiên được biết của phương Tây Latin, tức tiêu chí (c) rất mạnh; nhưng tác phẩm của bà thất truyền cho tới khi Conrad Celtis tìm được bản chép tay ở St. Emmeram khoảng 1493–1494 và cho in năm 1501, nên (b) và (d) gần như không có gì để đo. Atlas không có trường giới tính nên không thống kê được tỉ lệ, nhưng ca này nên được ghi lại: lý do loại bà là lý do về **đường truyền văn bản**, và đường truyền văn bản không trung lập với việc ai được chép lại. Và bốn cái tên nữa phải ghi là **chưa xử xong**, không phải đã cắt: `Topiltzin Quetzalcoatl`, `Ibn Fadlan`, `Abu al-Wafa' Buzjani`, `al-Muqaddasi` — hồ sơ cổng không resolve được QID cho họ và đánh dấu `[CHƯA KẾT LUẬN]`, vòng này không tra lại, nên lý do họ vắng mặt là một việc bỏ dở chứ không phải một phán đoán. Hai trong bốn người ấy lại rơi đúng vào hai ô mà các khối trên đang than trống.",
+    "**Al-Bukhari mất hai nhãn `trực tiếp` cùng lúc, và vì sao đó không phải một phát biểu về ông**",
+    "`CH05-CE09-09` là mục duy nhất của chapter bị hạ **hai** dòng trong một vòng: `Kế thừa từ →",
+    "Yahya ibn Maʿin và Ali ibn al-Madini` và `Ảnh hưởng tới → Muslim ibn al-Hajjaj và al-Tirmidhi`.",
+    "Cả bốn người đều chồng đời với ông và đều có quan hệ thầy–trò xác nhận được hai chiều qua",
+    "Wikidata (`P1066`/`P802`). Cái hỏng là **hình dạng dòng** — mỗi dòng nêu hai cái tên — chứ không",
+    "phải nội dung, và cả hai trường quan hệ của mục đã kín đúng ba dòng nên không tách ra được. Ghi",
+    "ở đây vì thống kê sau vòng này sẽ gợi sai rằng al-Bukhari ít tiếp xúc trực tiếp, trong khi mạng",
+    "thầy–trò của ông là một trong những mạng dày nhất nhóm. Ai đọc con số mà không đọc dòng này sẽ",
+    "rút ra đúng kết luận ngược.",
     "**Ba việc ở tầng chapter, ghi lại cho P4**",
     "Một, **thể thức nêu ứng viên bị loại không ổn định và đang ở mức thấp**. Template §5 yêu cầu mỗi mục nêu đích danh ứng viên bị loại cùng ô; đo trên Chapter 5 **trước khi áp bình duyệt CE10**, tỉ lệ là CE06 8/12, CE07 12/12, CE08 6/12, CE09 4/12, CE10 3/12 — một đỉnh ở CE07 rồi bốn vòng dưới mức ấy, không phải một dốc đều. Sau khi áp bình duyệt, CE10 lên 5/12, trong đó hai mục nêu tên chỉ để nói người ấy không đủ điều kiện. Đây không phải lỗi của một nhóm, nên phải xử ở tầng chapter chứ không vá từng mục. Nhóm CE10 bù bằng một khối riêng liệt kê người bị cắt ở Ghi chú biên tập, nhưng đó là bù chứ không phải thay.",
-    "Hai, **mức bằng chứng `trực tiếp` từng mang hai nghĩa — đã xử xong.** Vòng này ghi nhận rằng nó được dùng vừa cho quan hệ người–người (thầy trò, đương thời) vừa cho quan hệ **văn bản** (đọc thẳng tác phẩm người trước), và nghĩa văn bản mới là nghĩa chiếm đa số: trong **19 dòng `trực tiếp`** của nhóm CE10 lúc ấy, chỉ khoảng ba dòng chỉ người thật sự gặp nhau. Ca xa nhất là `CH05-CE10-12 · Gerbert` kế thừa `CH05-CE06-12 · Boethius` qua khoảng bốn trăm hai mươi năm. Đo trên toàn atlas chính **lúc chẩn** thì diện rộng hơn nhiều: **346 trên 928 quan hệ, 37,3%**, mang nhãn ấy. `CONTRIBUTING.md` nay có định nghĩa (quy tắc 9 và khối \"Quy ước mức bằng chứng\"), và định nghĩa chọn nghĩa người–người: `trực tiếp` đòi tiếp xúc chứng minh được **và** đời hai người chồng lấn; đích không phải một con người thì luôn là `qua trường phái`. Áp định nghĩa ấy đã hạ **152** quan hệ ngay trong vòng ấy, xuống 194; hai vòng bình duyệt độc lập sau đó hạ thêm **12** và **25**. Ca Gerbert ← Boethius nằm trong số bị hạ. Trạng thái **đo ngày 2026-11-03**: `trực tiếp` còn **159 trên 950 quan hệ mạch chính (16,7%)**, trong đó 120 đích là ID và 39 là văn bản tự do; nhóm CE10 của chapter này còn **1** dòng. Bốn cạnh đích-là-ID còn lại không chồng đời đều ở Chapter 1 và đều được giữ có chủ đích, vì trường `năm:` của chúng ghi **trị vì** chứ không phải sinh–mất: Ashurnasirpal II ↔ Shalmaneser III là cha–con, Shamshi-Adad I ↔ Zimri-Lim là hai đối thủ cùng thời. Việc còn lại: **39 đích văn bản tự do** vẫn giữ `trực tiếp` chờ xác minh từng ca (đo 2026-11-03; con số 76 ghi ở bản trước là trạng thái **trước** hai vòng bình duyệt nói trên) — mỗi ca đòi hai phép kiểm, người ấy có chồng đời không và tiếp xúc có nguồn không, nên không gộp vào một lượt quét được.",
+    "Hai, **mức bằng chứng `trực tiếp` từng mang hai nghĩa — đã xử xong.** Vòng này ghi nhận rằng nó được dùng vừa cho quan hệ người–người (thầy trò, đương thời) vừa cho quan hệ **văn bản** (đọc thẳng tác phẩm người trước), và nghĩa văn bản mới là nghĩa chiếm đa số: trong **19 dòng `trực tiếp`** của nhóm CE10 lúc ấy, chỉ khoảng ba dòng chỉ người thật sự gặp nhau. Ca xa nhất là `CH05-CE10-12 · Gerbert` kế thừa `CH05-CE06-12 · Boethius` qua khoảng bốn trăm hai mươi năm. Đo trên toàn atlas chính **lúc chẩn** thì diện rộng hơn nhiều: **346 trên 928 quan hệ, 37,3%**, mang nhãn ấy. `CONTRIBUTING.md` nay có định nghĩa (quy tắc 9 và khối \"Quy ước mức bằng chứng\"), và định nghĩa chọn nghĩa người–người: `trực tiếp` đòi tiếp xúc chứng minh được **và** đời hai người chồng lấn; đích không phải một con người thì luôn là `qua trường phái`. Áp định nghĩa ấy đã hạ **152** quan hệ ngay trong vòng ấy, xuống 194; hai vòng bình duyệt độc lập sau đó hạ thêm **12** và **25**. Ca Gerbert ← Boethius nằm trong số bị hạ. Rồi một vòng thứ ba rà **từng ca** 39 đích văn bản tự do còn lại và hạ thêm **10**. Trạng thái **đo ngày 2026-11-03, sau vòng ấy**: `trực tiếp` còn **149 trên 950 quan hệ mạch chính (15,7%)**, trong đó 120 đích là ID và 29 là văn bản tự do; nhóm CE10 của chapter này còn **1** dòng. Bốn cạnh đích-là-ID còn lại không chồng đời đều ở Chapter 1 và đều được giữ có chủ đích, vì trường `năm:` của chúng ghi **trị vì** chứ không phải sinh–mất: Ashurnasirpal II ↔ Shalmaneser III là cha–con, Shamshi-Adad I ↔ Zimri-Lim là hai đối thủ cùng thời. Việc tồn đọng ấy **nay đã hết**: cả 39 ca đã được rà từng ca ở vòng thứ ba — 29 giữ, 10 hạ — và kết quả đáng ghi là **29 trên 39 giữ nguyên**. Tức \"đích là văn bản tự do\" là một chỉ báo **kém**: người kia là văn bản tự do phần lớn chỉ vì không được chọn vào atlas, không phải vì đường truyền dài ra. Chỉ báo tốt là **đích có phải đúng một con người không** — cả 10 ca bị hạ đều hỏng ở đúng phép kiểm ấy, không ca nào hỏng vì thiếu chồng đời hay thiếu tiếp xúc có nguồn.",
     "Ba, **tỉ lệ phần trăm trích trong ghi chú biên tập mục rữa mỗi khi thêm một nhóm**. Mỗi vòng mới đổi mẫu số, nên một con số viết ở thì hiện tại sẽ sai sau vòng sau mà không lint nào bắt được. Vòng này tìm thấy hai ca đã rữa và sửa theo cách không rữa lại được: con số của ô Châu Mỹ bỏ hẳn đi, và `23,4%` của khối lĩnh vực CE09 được ghi thành \"toàn atlas **khi ấy**\". Quy ước nên giữ từ đây: con số trong ghi chú biên tập phải tự khai nó đo ở thời điểm nào, hoặc không nêu số. Và quy ước ấy đã được áp ngược vào chính vòng đặt ra nó: hai con số toàn cục còn ở thì hiện tại — `23,8%` ở khối người cai trị và `1,6% → 1,2%` ở khối thang đo Khúc Thừa Dụ — nay đều ghi kèm mốc \"245 mục atlas chính sau vòng CE10\". Một ngoại lệ, ghi luôn để khỏi phải xử lại: **con số `0,0%` không cần khai mốc đo**, vì nó không rữa âm thầm — ngày ô ấy có người thì cả khối lập luận quanh nó phải viết lại chứ không chỉ con số, nên cái sai sẽ tự lộ. Mọi con số khác, kể cả con số nhỏ, vẫn theo quy ước trên."
    ],
    "groups": [
@@ -1619,15 +1628,15 @@
     {
      "target": "Apophis và Khamudi, hai vua Hyksos cuối",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "Apophis và Khamudi, hai vua Hyksos cuối · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Apophis và Khamudi, hai vua Hyksos cuối · phản bác · qua trường phái",
      "undetermined": false
     },
     {
      "target": "Kamose và Ahhotep",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Kamose và Ahhotep · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Kamose và Ahhotep · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -4869,8 +4878,8 @@
     {
      "target": "Sargon II (chương trình xây Dur-Sharrukin)",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Sargon II (chương trình xây Dur-Sharrukin) · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Sargon II (chương trình xây Dur-Sharrukin) · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -4899,8 +4908,8 @@
     {
      "target": "Esarhaddon (tái thiết Babylon)",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "Esarhaddon (tái thiết Babylon) · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Esarhaddon (tái thiết Babylon) · phản bác · qua trường phái",
      "undetermined": false
     },
     {
@@ -4985,8 +4994,8 @@
     {
      "target": "Tanwetamani (mất quyền kiểm soát Ai Cập năm 663 TCN)",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Tanwetamani (mất quyền kiểm soát Ai Cập năm 663 TCN) · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Tanwetamani (mất quyền kiểm soát Ai Cập năm 663 TCN) · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -5217,8 +5226,8 @@
     {
      "target": "Āḷāra Kālāma và Uddaka Rāmaputta",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "Āḷāra Kālāma và Uddaka Rāmaputta · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Āḷāra Kālāma và Uddaka Rāmaputta · phản bác · qua trường phái",
      "undetermined": false
     }
    ],
@@ -8653,10 +8662,10 @@
    ],
    "influences": [
     {
-     "target": "Scipio Africanus",
+     "target": "Scipio Africanus Lớn",
      "relation": "kế thừa",
      "evidence": "trực tiếp",
-     "raw": "Scipio Africanus · kế thừa · trực tiếp",
+     "raw": "Scipio Africanus Lớn · kế thừa · trực tiếp",
      "undetermined": false
     },
     {
@@ -9583,8 +9592,8 @@
     {
      "target": "Đầu Mạn thiền vu (liên minh bộ lạc Hung Nô trước khi hợp nhất)",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Đầu Mạn thiền vu (liên minh bộ lạc Hung Nô trước khi hợp nhất) · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Đầu Mạn thiền vu (liên minh bộ lạc Hung Nô trước khi hợp nhất) · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -10157,8 +10166,8 @@
     {
      "target": "Shemaiah và Avtalyon",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Shemaiah và Avtalyon · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Shemaiah và Avtalyon · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -18051,8 +18060,8 @@
     {
      "target": "Yahya ibn Maʿin và Ali ibn al-Madini",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Yahya ibn Maʿin và Ali ibn al-Madini · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Yahya ibn Maʿin và Ali ibn al-Madini · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -18067,8 +18076,8 @@
     {
      "target": "Muslim ibn al-Hajjaj và al-Tirmidhi",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Muslim ibn al-Hajjaj và al-Tirmidhi · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Muslim ibn al-Hajjaj và al-Tirmidhi · kế thừa · qua trường phái",
      "undetermined": false
     },
     {

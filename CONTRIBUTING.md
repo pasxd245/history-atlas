@@ -101,6 +101,25 @@ trong thực tế là `qua trường phái` theo điều 2. Khi *viết mới*, 
 từ đầu: nếu vế người đáng `trực tiếp` thì cho nó một dòng riêng, còn nếu không đủ chỗ thì vế
 người thuộc về thân mục chứ không thuộc về dòng quan hệ.
 
+**Phép thử một câu cho đích hỗn hợp**, để vòng sau khỏi cãi lại từ đầu: *ngoặc hoặc liên từ
+trong đích có thêm một **thứ** mới — một chương trình, một sự kiện, một người thứ hai — hay chỉ
+nói **cùng một người ấy là ai**?* Thêm thứ mới thì hạ; chỉ mô tả cùng một người thì giữ. Phép
+thử này tách sạch "Ahaz (vua Judah, cha ông)" và "Muhammad al-Baqir, cha ông" (**giữ** — đồng vị
+ngữ, vẫn đúng một người) khỏi "Sargon II (chương trình xây Dur-Sharrukin)" và "Tanwetamani (mất
+quyền kiểm soát Ai Cập năm 663 TCN)" (**hạ** — ngoặc thêm một chương trình, một sự kiện). Nó
+không viện tới chuyện quan hệ "mạnh" tới đâu, nên không mở lại cửa cho cách đọc rộng đã bị bác.
+
+**Đích gồm hai con người cũng hạ — và đây là chỗ đã có phản biện, ghi lại để khỏi xử lại.** Vòng
+bình duyệt nêu rằng áp quy ước này vào cặp *người + người* cho ra một nhãn mô tả thiếu: Hillel
+học **trực tiếp** cả Shemaiah lẫn Avtalyon, mà `qua trường phái` không nói ra điều đó. Phản biện
+ấy đúng về sự thật nhưng không đổi được quyết định, vì hai lẽ. Một, `qua trường phái` **nói ít
+hơn** chứ không nói sai — mà toàn bộ lập trường của dự án là mức chặt phải **giành được**, và
+nói ít hơn nguồn thì an toàn còn nói chắc hơn nguồn thì không. Hai, tách dòng lại rơi đúng cái
+bẫy tuỳ-slot đã bác ở trên: trong 6 ca đích-hai-người, chỉ **3 ca** còn chỗ tách (đo
+2026-11-03), và hai ca của `CH05-CE09-09` kín cả ba dòng ở cả hai trường. Khuyết điểm thật của
+những dòng ấy không phải mức bằng chứng mà là **dòng nêu hai cái tên**; chỗ sửa đúng là thân mục
+hoặc Ghi chú biên tập, nơi cả hai người đều đã được kể.
+
 **Không thêm mức thứ tư.** Phương án tách nghĩa bằng một mức `qua văn bản` mới đã được cân nhắc và gác lại: đổi `EVIDENCE_LEVELS` trong `atlaslib/common.py` kéo theo lint, thống kê và cả sáu chapter cùng lúc. Việc ấy chỉ đáng làm **sau** khi đã có định nghĩa, không phải thay cho nó.
 
 **Quy ước tiêu chí (a) phạm vi** — đo **trong mạng lưới tiếp xúc tồn tại ở thời điểm ấy**, không đo trên bản đồ thế giới hiện đại.
