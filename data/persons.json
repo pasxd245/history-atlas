@@ -1054,6 +1054,78 @@
    ]
   },
   {
+   "no": 7,
+   "title": "Phục Hưng, Khám phá, Cải cách",
+   "label": "TK 15–16",
+   "files": [
+    "ch07.md"
+   ],
+   "intro": "Hai thế kỷ này là lúc các khối văn minh vốn biết nhau qua trung gian bắt đầu chạm nhau trực tiếp, và lúc chính công cụ truyền tin thay đổi. Máy in chữ rời biến việc nhân bản văn bản từ một nghề chép tay thành một ngành sản xuất, và chỉ bảy chục năm sau, nó mang một cuộc ly khai tôn giáo đi khắp châu Âu nhanh hơn mọi thiết chế kịp phản ứng. Hạm đội vượt đại dương nối bốn lục địa vào một hệ trao đổi hàng hoá, cây trồng và bệnh tật, với cái giá đổ lên châu Mỹ và châu Phi.",
+   "editorial": [
+    "**Cách chapter này được soạn**",
+    "Phần văn xuôi của chapter do mô hình AI (Claude) viết theo prompt cố định tại `prompts/atlas-prompt.md`, không qua bình duyệt chuyên môn. Tên, niên đại và định danh được đối chiếu tự động với Wikidata; phần diễn giải, đánh giá ảnh hưởng và lựa chọn nhân vật là tổng hợp của model theo bốn tiêu chí (a)–(d), không phải kết luận của giới nghiên cứu. Mục Nguồn là điểm khởi đầu để tự kiểm tra, chưa được đối chiếu từng câu. Xem mục \"Về dự án\" ở trang Overview để biết giới hạn đầy đủ.",
+    "**Nhóm CE15: phép tra trước khi viết bắt một bẫy đúng loại đã ghi ở Chapter 6**",
+    "`Q343645` mang nhãn \"Nezahualcóyotl\" nhưng **không phải con người** — đó là thành phố mang tên ông ở bang México, và thực thể ấy không có `P569` lẫn `P570`. Thực thể người là `Q379964` (1402–1472). Đây là ca thứ hai liên tiếp một cái tên trả về **địa danh hoặc công trình mang tên người** thay vì chính người ấy, sau ca `Q207590` Lalibela ở Chapter 6. Bài học thao tác cho vòng sau: khi tra theo tên, **luôn kiểm `P31` trước khi dùng `P569`**, vì một thực thể sai loại thường cũng không có niên đại, nên nó im lặng chứ không báo lỗi.",
+    "`Q376898` Ewuare có `P569` ở **precision 6**, tức chỉ tới mức thiên niên kỷ — mục dùng khung trị vì và `Thấp`.",
+    "`Q213758` Pachacuti có cặp 1380–1460 ở độ chính xác năm, nhưng mọi mốc trong đời ông đều rút từ biên niên thuộc địa chép sau chinh phục. Mục dùng khung trị vì và `Thấp`, tức **không chép theo Wikidata** — cùng loại quyết định đã làm với Sundiata Keita ở `CH06-CE13-12`.",
+    "**Ứng viên Việt Nam trong nhóm CE15 (yêu cầu D5)**",
+    "Ba người Việt Nam thế kỷ 15 đáng xét đều **đã có mục riêng ở phụ lục**, nên theo quy tắc 6 họ không phải ứng viên bị loại: **Lê Lợi** `CH90-CE15_18-01`, **Nguyễn Trãi** `CH90-CE15_18-02`, **Lê Thánh Tông** `CH90-CE15_18-03`. Câu hỏi hai track vẫn là câu hỏi cũ: có ai đạt thang đo toàn cầu để lên mạch chính không. Vòng này trả lời **chưa**, và ca đáng cân nhất là Lê Thánh Tông với bộ *Quốc triều hình luật*: bộ luật ấy có những điều khoản về quyền thừa kế và quyền ly hôn của phụ nữ đi trước luật Trung Hoa cùng thời, nhưng đường truyền của nó ra ngoài Việt Nam chưa được dựng lại đủ để so với mười hai mục của nhóm. Đây là phán đoán theo tiêu chí (a), nêu rõ hệ quy chiếu, và nên xét lại nếu tìm được bằng chứng tiếp nhận ngoài khu vực.",
+    "**Nhóm CE16: một mục cố ý giữ liên kết tới chapter chưa viết**",
+    "`CH07-CE16-03` Copernicus ghi `Ảnh hưởng tới → CH08-CE17-01`, một ID thuộc Chapter 8 chưa tồn tại. Lint báo `WARN: liên kết tới ID chưa tồn tại`, và đó là hành vi đúng của lint. Dòng ấy được giữ có chủ đích vì nhóm CE17 sẽ mở bằng chính mạch Copernicus – Kepler – Galileo; nếu vòng sau đổi thứ tự nhóm CE17 thì **phải sửa dòng này trước**, đừng để nó tự im.",
+    "**Ô Châu Mỹ: hai nhóm, hai cách lấp khác hẳn nhau**",
+    "CE15 lấp bằng hai người cai trị trước tiếp xúc, CE16 lấp bằng một người viết **sau** tiếp xúc và viết từ bên trong. Chỗ cần nói rõ là nguồn: với `CH07-CE15-08` Pachacuti và `CH07-CE15-09` Nezahualcóyotl, mọi thứ biết được đều qua văn bản chép **sau** khi chinh phục, nên hai mục ấy để `Thấp` và `Trung bình`. Với `CH07-CE16-12` Garcilaso thì ngược lại: ông là nguồn, và niên đại của chính ông thì chắc. Ba mục ấy đặt cạnh nhau cho thấy hồ sơ châu Mỹ tiền Columbus không mỏng vì thiếu người đáng kể mà mỏng vì **thiếu văn bản đương thời do người trong cuộc viết**.",
+    "Hai ứng viên bị loại ở bước tra, không phải ở bước chấm: **Guamán Poma de Ayala** không tra được bằng `wbgetentities` qua tên enwiki ở vòng này, và **Bernardino de Sahagún** `Q379972` là người Tây Ban Nha, không lấp được ô Châu Mỹ theo nghĩa atlas dùng."
+   ],
+   "groups": [
+    {
+     "id": "CE15",
+     "label": "TK 15",
+     "range": [
+      1401,
+      1500
+     ],
+     "context": "Constantinopolis thất thủ năm 1453, chấm dứt đế chế Đông La Mã. Máy in chữ rời xuất hiện ở Mainz. Hạm đội nhà Minh đi tới Đông Phi rồi dừng hẳn. Inca và Mexica dựng hai nhà nước lớn ở châu Mỹ. Triều Tiên chế một hệ chữ viết riêng.",
+     "persons": [
+      "CH07-CE15-01",
+      "CH07-CE15-02",
+      "CH07-CE15-03",
+      "CH07-CE15-04",
+      "CH07-CE15-05",
+      "CH07-CE15-06",
+      "CH07-CE15-07",
+      "CH07-CE15-08",
+      "CH07-CE15-09",
+      "CH07-CE15-10",
+      "CH07-CE15-11",
+      "CH07-CE15-12"
+     ]
+    },
+    {
+     "id": "CE16",
+     "label": "TK 16",
+     "range": [
+      1501,
+      1600
+     ],
+     "context": "Một bản luận đề dán ở Wittenberg năm 1517 chia đôi Kitô giáo phương Tây trong vòng một thế hệ, nhờ máy in. Copernicus dời Trái Đất khỏi tâm vũ trụ. Ottoman, Safavid và Mughal dựng ba đế chế thuốc súng. Tây Ban Nha lật Mexica và Inca, mở tuyến bạc xuyên Thái Bình Dương.",
+     "persons": [
+      "CH07-CE16-01",
+      "CH07-CE16-02",
+      "CH07-CE16-03",
+      "CH07-CE16-04",
+      "CH07-CE16-05",
+      "CH07-CE16-06",
+      "CH07-CE16-07",
+      "CH07-CE16-08",
+      "CH07-CE16-09",
+      "CH07-CE16-10",
+      "CH07-CE16-11",
+      "CH07-CE16-12"
+     ]
+    }
+   ]
+  },
+  {
    "no": 90,
    "title": "Phụ lục · Việt Nam qua các thời kỳ",
    "label": "TK 3 TCN – TK 20",
@@ -22362,6 +22434,1570 @@
    "group": "CE14",
    "chapter": 6,
    "file": "ch06.md",
+   "image": null
+  },
+  "CH07-CE15-01": {
+   "id": "CH07-CE15-01",
+   "name_vi": "Johannes Gutenberg",
+   "name_orig": "Johannes Gensfleisch zur Laden zum Gutenberg",
+   "labels": [],
+   "years_raw": "k. 1400–1468 CN",
+   "born": 1400,
+   "died": 1468,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Mainz và Strasbourg",
+   "region": "Châu Âu",
+   "fields": [
+    "Kỹ thuật/Công nghệ",
+    "Kinh tế"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q8958",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Đóng góp của ông không phải ý niệm chữ rời — `CH06-CE11-05` đã có bốn thế kỷ trước — mà là **một hệ thống công nghệ khớp nhau**: khuôn đúc điều chỉnh được cho phép làm hàng nghìn con chữ đồng dạng, hợp kim chì – thiếc – antimon đủ cứng mà đúc được ở nhiệt độ thấp, mực gốc dầu bám được lên kim loại, và máy ép phỏng theo máy ép nho. Bảng chữ cái Latinh chỉ vài chục ký tự làm phép này có lợi về kinh tế, chỗ mà chữ Hán không có. Bản *Kinh Thánh 42 dòng* k. 1455 là chứng minh thương mại của hệ ấy.",
+   "why": "Ứng viên cùng ô là Laurens Coster, người Haarlem mà truyền thống Hà Lan quy công, và Johann Fust, chủ nợ rồi đối tác của ông. Coster bị loại vì không có bằng chứng văn bản đứng được. Fust bị loại theo tính nguyên bản (c): ông cấp vốn và phát hành. Gutenberg được chọn theo (c) và counterfactual (d): cái mới là **tổ hợp** năm kỹ thuật, và nó làm nhân bản văn bản rẻ đi hai bậc độ lớn.",
+   "sources": "Elizabeth L. Eisenstein, *The Printing Press as an Agent of Change* (Cambridge University Press, 1979); bản *Kinh Thánh 42 dòng*, Mainz, k. 1455.",
+   "inherits": [
+    {
+     "target": "CH06-CE11-05",
+     "relation": "tương đồng độc lập",
+     "evidence": "suy đoán học giả",
+     "raw": "CH06-CE11-05 · tương đồng độc lập · suy đoán học giả",
+     "undetermined": false
+    },
+    {
+     "target": "Nghề kim hoàn và đúc khuôn ở Rhineland",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Nghề kim hoàn và đúc khuôn ở Rhineland · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Nghề khắc ván in và làm giấy ở châu Âu thế kỷ 14",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Nghề khắc ván in và làm giấy ở châu Âu thế kỷ 14 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH07-CE16-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH07-CE16-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Thị trường sách và nghề xuất bản châu Âu",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Thị trường sách và nghề xuất bản châu Âu · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Chuẩn hoá chính tả các ngôn ngữ bản ngữ châu Âu",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "Chuẩn hoá chính tả các ngôn ngữ bản ngữ châu Âu · kế thừa · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "group": "CE15",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE15-02": {
+   "id": "CH07-CE15-02",
+   "name_vi": "Filippo Brunelleschi",
+   "name_orig": "Pippo di ser Brunellesco Lapi",
+   "labels": [],
+   "years_raw": "1377–1446 CN",
+   "born": 1377,
+   "died": 1446,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Firenze",
+   "region": "Châu Âu",
+   "fields": [
+    "Nghệ thuật/Kiến trúc",
+    "Kỹ thuật/Công nghệ"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q174330",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Ông dựng mái vòm nhà thờ chính toà Firenze **không dùng giàn giáo đỡ từ dưới** — một bài toán kỹ thuật bỏ ngỏ suốt nửa thế kỷ — bằng cách xây hai lớp vỏ lồng nhau, xếp gạch theo kiểu xương cá tự khoá, và chế cần trục riêng cho công trường. Trước đó, khoảng năm 1413, ông làm hai tấm bảng thí nghiệm chứng minh **phép phối cảnh một điểm tụ**: người xem nhìn qua một lỗ nhỏ vào gương thấy hình vẽ trùng khít với cảnh thật. Alberti sau đó viết nó thành lý thuyết.",
+   "why": "Ứng viên cùng ô là Lorenzo Ghiberti, người thắng ông trong cuộc thi cửa nhà rửa tội năm 1401, và Leon Battista Alberti. Ghiberti bị loại theo tính nguyên bản (c): tay nghề cao nhưng không mở một phương pháp. Alberti bị loại vì ông viết thành sách cái Brunelleschi đã chứng minh. Brunelleschi được chọn theo (c): cả mái vòm lẫn phép phối cảnh đều là lời giải cho bài toán chưa ai giải, và cả hai đều kiểm chứng được tại chỗ.",
+   "sources": "Ross King, *Brunelleschi's Dome* (Walker & Company, 2000); Antonio Manetti, *Vita di Filippo Brunelleschi* — tiểu sử do người cùng thời viết, dùng làm nguồn sơ cấp.",
+   "inherits": [
+    {
+     "target": "CH03-BCE01-08",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE01-08 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Kỹ thuật vòm La Mã quan sát trực tiếp ở Roma",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Kỹ thuật vòm La Mã quan sát trực tiếp ở Roma · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Phép phối cảnh trong hội hoạ châu Âu",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phép phối cảnh trong hội hoạ châu Âu · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Kiến trúc Phục Hưng Ý",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Kiến trúc Phục Hưng Ý · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE15",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE15-03": {
+   "id": "CH07-CE15-03",
+   "name_vi": "Lorenzo Valla",
+   "name_orig": "Laurentius Valla",
+   "labels": [],
+   "years_raw": "1407–1457 CN",
+   "born": 1407,
+   "died": 1457,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Roma và Napoli",
+   "region": "Châu Âu",
+   "fields": [
+    "Ngôn ngữ học",
+    "Sử học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q214115",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Năm 1440 ông chứng minh *Hiến tặng Constantinus* — văn bản mà giáo hoàng viện ra để đòi quyền thế tục — là **đồ giả**, và chứng minh bằng chính văn bản: tiếng Latinh trong đó chứa từ ngữ và lối nói không tồn tại ở thế kỷ 4, lẫn những chi tiết thiết chế sai thời. Đó là một trong những ca phê phán văn bản hiện đại đầu tiên: không cãi về nội dung, mà hỏi **văn bản này có thể được viết lúc ấy không**. Ông cũng soát lại bản Vulgate bằng cách đối chiếu với nguyên bản Hy Lạp.",
+   "why": "Ứng viên cùng ô là Poggio Bracciolini, người tìm lại nhiều bản chép tay cổ, và Nicolaus Cusanus, người cũng nghi ngờ văn bản ấy. Poggio bị loại theo tính nguyên bản (c): ông sưu tầm chứ không dựng phương pháp. Cusanus nêu nghi ngờ mà không dựng chứng minh ngữ văn. Valla được chọn theo (c) và độ bền (b): phép phê phán văn bản của ông là tổ tiên trực tiếp của ngữ văn học và của phê bình Kinh Thánh.",
+   "sources": "*De falso credita et ementita Constantini donatione* (1440); Christopher S. Celenza, *The Lost Italian Renaissance* (Johns Hopkins University Press, 2004).",
+   "inherits": [
+    {
+     "target": "CH06-CE14-04",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH06-CE14-04 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE01-03",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE01-03 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH07-CE16-02",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH07-CE16-02 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Ngữ văn học và phê bình văn bản châu Âu",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Ngữ văn học và phê bình văn bản châu Âu · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE15",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE15-04": {
+   "id": "CH07-CE15-04",
+   "name_vi": "Triều Tiên Thế Tông",
+   "name_orig": "조선 세종, Thế Tông Đại Vương",
+   "labels": [],
+   "years_raw": "1397–1450 CN",
+   "born": 1397,
+   "died": 1450,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Hanyang (Seoul), vương triều Triều Tiên",
+   "region": "Đông Á",
+   "fields": [
+    "Ngôn ngữ học",
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q37682",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Năm 1443 ông cho công bố *Huấn dân chính âm*, một hệ chữ viết **thiết kế có chủ đích** cho tiếng Triều Tiên: hình của mỗi phụ âm mô phỏng vị thế của lưỡi và môi khi phát âm, các chữ cái ghép thành khối âm tiết. Lời tựa nói thẳng mục đích — dân thường không học được chữ Hán nên không nói được điều mình muốn nói. Giới quan lại phản đối gay gắt vì sợ mất đặc quyền chữ nghĩa. Ông cũng cho lập cơ quan nghiên cứu Tập hiền điện và chế dụng cụ đo mưa, đo giờ.",
+   "why": "Ứng viên cùng ô là Triều Tiên Thái Tổ — có mục riêng ở `CH06-CE14-08` nên không phải ứng viên bị loại — và Thôi Hàng, học giả trong nhóm soạn chữ. Thôi Hàng bị loại theo counterfactual (d): nhóm soạn làm việc dưới một chương trình do vua đặt, chống lại chính triều thần của mình. Thế Tông được chọn theo tính nguyên bản (c): rất ít hệ chữ viết trên thế giới được **thiết kế** thay vì tiến hoá dần, và hệ này gắn hình chữ với cơ quan phát âm.",
+   "sources": "*Huấn dân chính âm* (訓民正音, 1443) và *Huấn dân chính âm giải lệ*; Gari Ledyard, *The Korean Language Reform of 1446* (Singu Munhwasa, 1998).",
+   "inherits": [
+    {
+     "target": "CH06-CE14-08",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH06-CE14-08 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH06-CE12-04",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH06-CE12-04 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Âm vận học Hán và chữ Phagspa đời Nguyên",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Âm vận học Hán và chữ Phagspa đời Nguyên · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Chữ Hangul và tỉ lệ biết chữ ở Triều Tiên hiện đại",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Chữ Hangul và tỉ lệ biết chữ ở Triều Tiên hiện đại · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Ngôn ngữ học về hệ chữ viết được thiết kế",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Ngôn ngữ học về hệ chữ viết được thiết kế · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE15",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE15-05": {
+   "id": "CH07-CE15-05",
+   "name_vi": "Trịnh Hoà",
+   "name_orig": "鄭和 Zhèng Hé, Mã Tam Bảo",
+   "labels": [],
+   "years_raw": "k. 1371–1433 CN",
+   "born": 1371,
+   "died": 1433,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Nam Kinh, và các tuyến từ Đông Nam Á tới Đông Phi",
+   "region": "Đông Á",
+   "fields": [
+    "Khám phá/Địa lý",
+    "Quân sự"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q7333",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Bảy chuyến đi từ 1405 tới 1433 đưa hạm đội nhà Minh — có chuyến hơn hai trăm tàu và hai vạn người — tới Ấn Độ, bán đảo Ả Rập và bờ Đông Phi. Mục đích không phải chiếm đất mà là **dựng một trật tự triều cống** trên biển: ban tặng phẩm, phong vương, và dùng vũ lực có chọn lọc để mở lại các eo biển. Điều đáng ghi nhất lại là đoạn kết: triều đình dừng hẳn chương trình, phá sổ sách, và một nhà nước có năng lực hàng hải lớn nhất thế giới tự rút khỏi biển.",
+   "why": "Ứng viên cùng ô là Minh Thành Tổ, người ra lệnh các chuyến đi, và Mã Hoan, người ghi chép. Minh Thành Tổ bị loại theo phạm vi (a): triều ông có nhiều việc lớn nhưng mục này cần một người gắn với chính thao tác hàng hải. Mã Hoan bị loại vì ông là người chép. Trịnh Hoà được chọn theo counterfactual (d): quy mô và việc dừng đột ngột của các chuyến đi là một trong những ca so sánh được nhắc nhiều nhất khi bàn vì sao châu Âu chứ không phải Trung Hoa vượt đại dương.",
+   "sources": "Mã Hoan, *Doanh nhai thắng lãm* (1433) — ghi chép của người đi cùng; Edward L. Dreyer, *Zheng He: China and the Oceans in the Early Ming Dynasty* (Pearson Longman, 2007).",
+   "inherits": [
+    {
+     "target": "CH05-CE09-05",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE09-05 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Kỹ thuật đóng thuyền và hải đồ đời Tống – Nguyên",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Kỹ thuật đóng thuyền và hải đồ đời Tống – Nguyên · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Cộng đồng người Hoa ở Đông Nam Á",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Cộng đồng người Hoa ở Đông Nam Á · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Tranh luận sử học về việc Trung Hoa rút khỏi biển",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Tranh luận sử học về việc Trung Hoa rút khỏi biển · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE15",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE15-06": {
+   "id": "CH07-CE15-06",
+   "name_vi": "Mehmed II",
+   "name_orig": "II. Mehmed, Fâtih Sultan Mehmed",
+   "labels": [],
+   "years_raw": "1432–1481 CN",
+   "born": 1432,
+   "died": 1481,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Edirne và Constantinopolis (Istanbul)",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Quân sự",
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q34503",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Năm 1453 ông chiếm Constantinopolis, chấm dứt đế chế La Mã phương Đông sau mười một thế kỷ, và làm được nhờ một khoản đầu tư kỹ thuật: dàn trọng pháo đúc tại chỗ đủ sức phá tường thành Theodosius. Sau đó ông làm việc hiếm với một người chinh phục — **dựng lại chính thành phố mình vừa phá**, mời người Hy Lạp, Armenia và Do Thái về định cư, lập lại toà thượng phụ Chính thống giáo dưới quyền mình, và ban *kanunname* đặt luật hành chính song song với luật tôn giáo.",
+   "why": "Ứng viên cùng ô là Bayezid II, con ông, và Timur — Timur có mục riêng ở `CH06-CE14-12` nên không phải ứng viên bị loại. Bayezid II bị loại theo tính nguyên bản (c): ông củng cố chứ không thiết kế. Mehmed II được chọn theo (c) và độ bền (b): mô hình nhà nước đa tôn giáo cai trị qua các cộng đồng tự quản, cộng với bộ luật hành chính, là khuôn Ottoman dùng suốt bốn thế kỷ.",
+   "sources": "Halil İnalcık, *The Ottoman Empire: The Classical Age 1300–1600* (Weidenfeld & Nicolson, 1973); *Kanunname-i Âl-i Osman*.",
+   "inherits": [
+    {
+     "target": "CH05-CE06-01",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE06-01 · phản bác · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống nhà nước Ottoman và luật tục thảo nguyên",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống nhà nước Ottoman và luật tục thảo nguyên · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Hệ *millet* và cấu trúc hành chính Ottoman",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hệ *millet* và cấu trúc hành chính Ottoman · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Istanbul làm trung tâm chính trị và văn hoá khu vực",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Istanbul làm trung tâm chính trị và văn hoá khu vực · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE15",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE15-07": {
+   "id": "CH07-CE15-07",
+   "name_vi": "Ulugh Beg",
+   "name_orig": "الغ‌ بیگ, Muḥammad Ṭaraghāy",
+   "labels": [],
+   "years_raw": "1394–1449 CN",
+   "born": 1394,
+   "died": 1449,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Samarkand",
+   "region": "Trung Á",
+   "fields": [
+    "Khoa học tự nhiên",
+    "Toán học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q486088",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Ông cho xây ở Samarkand một đài thiên văn có cung lục phân bán kính khoảng bốn mươi mét, phần dưới chôn trong đá — lại là chiến lược **nâng độ chính xác bằng kích thước dụng cụ**. Bảng *Zīj-i Sulṭānī* liệt kê vị trí hơn một nghìn ngôi sao đo lại trực tiếp, chứ không chép từ Ptolemy, và cho độ dài năm chí tuyến sai chưa tới một phút so với giá trị ngày nay. Ông là người cai trị, nên đây là ca hiếm: một ông vua tự làm quan trắc và tự tính.",
+   "why": "Ứng viên cùng ô là ʿAlī Qushjī, học trò và đồng sự của ông, và al-Kāshī, người tính số π tới mười sáu chữ số. al-Kāshī bị loại theo phạm vi (a): kết quả của ông sâu nhưng hẹp. ʿAlī Qushjī bị loại vì ông mang bảng sao ấy sang Istanbul, tức truyền bá. Ulugh Beg được chọn theo tính nguyên bản (c): việc đo lại toàn bộ danh mục sao bằng quan trắc mới là một quyết định phương pháp, không phải một cải tiến số liệu.",
+   "sources": "*Zīj-i Sulṭānī* (k. 1437); George Saliba, *Islamic Science and the Making of the European Renaissance* (MIT Press, 2007).",
+   "inherits": [
+    {
+     "target": "CH06-CE13-08",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH06-CE13-08 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH06-CE14-12",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH06-CE14-12 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE02-05",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE02-05 · phản bác · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Thiên văn Ottoman và Ấn Độ qua ʿAlī Qushjī",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Thiên văn Ottoman và Ấn Độ qua ʿAlī Qushjī · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Bảng sao châu Âu thế kỷ 17 sau bản in Oxford 1665",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Bảng sao châu Âu thế kỷ 17 sau bản in Oxford 1665 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE15",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE15-08": {
+   "id": "CH07-CE15-08",
+   "name_vi": "Pachacuti",
+   "name_orig": "Pachacútec Inca Yupanqui",
+   "labels": [],
+   "years_raw": "trị vì k. 1438–1471 CN",
+   "born": 1438,
+   "died": 1471,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Cusco, đế quốc Inca",
+   "region": "Châu Mỹ",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Kỹ thuật/Công nghệ"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q213758",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Ông biến một thành bang quanh Cusco thành *Tawantinsuyu*, nhà nước lớn nhất châu Mỹ tiền Columbus, và bộ máy của nó chạy trên ba thứ không có chữ viết: hệ đường *qhapaq ñan* với trạm chạy bộ, các kho *qollqa* dọc đường, và **dây thắt nút *khipu*** để ghi số liệu dân, thuế và kho. Nghĩa vụ với nhà nước là **lao động** (*mitʼa*) chứ không phải thuế hiện vật, nên nhà nước huy động được công trình lớn. Machu Picchu được dựng dưới triều ông.",
+   "why": "Ứng viên cùng ô là Topa Inca Yupanqui, con ông, và Nezahualcóyotl — có mục riêng ở nhóm này nên không phải ứng viên bị loại. Topa Inca bị loại theo tính nguyên bản (c): ông mở rộng theo khuôn đã có. Pachacuti được chọn theo (c). Niên đại để **Thấp** và dùng khung trị vì: mọi mốc đều rút từ biên niên thuộc địa chép sau khi chinh phục, và giới khảo cổ còn tranh luận cả về trình tự các đời Inca.",
+   "sources": "Pedro Cieza de León, *Crónica del Perú* — biên niên thuộc địa, dùng làm tư liệu chứ không làm nguồn niên đại; Terence N. D'Altroy, *The Incas*, bản in lần hai (Wiley-Blackwell, 2014).",
+   "inherits": [
+    {
+     "target": "Các nhà nước Wari và Tiwanaku ở vùng Andes",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Các nhà nước Wari và Tiwanaku ở vùng Andes · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống *khipu* và *mitʼa* tiền Inca",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống *khipu* và *mitʼa* tiền Inca · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Cấu trúc đế quốc Inca tới 1533",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Cấu trúc đế quốc Inca tới 1533 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Tổ chức lao động vùng Andes thời thuộc địa",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Tổ chức lao động vùng Andes thời thuộc địa · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE15",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE15-09": {
+   "id": "CH07-CE15-09",
+   "name_vi": "Nezahualcóyotl",
+   "name_orig": "Nezahualcoyotl of Texcoco",
+   "labels": [],
+   "years_raw": "1402–1472 CN",
+   "born": 1402,
+   "died": 1472,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Texcoco, lưu vực México",
+   "region": "Châu Mỹ",
+   "fields": [
+    "Văn học",
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q379964",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Làm *tlatoani* của Texcoco, ông đồng lập Liên minh Ba bên với Tenochtitlan và Tlacopan, cho xây đập ngăn nước mặn dài khoảng mười sáu cây số qua hồ Texcoco, và soạn một bộ luật thành văn. Nhưng điều khiến ông đứng riêng là thơ: các bài *cuicatl* được quy cho ông, chép lại ở thế kỷ 16 bằng chữ Latinh, xoay quanh **tính tạm bợ của mọi thứ** và nghi ngờ chính hệ thần linh đương thời. Đó là một trong số rất ít tiếng nói cá nhân còn lại từ châu Mỹ trước tiếp xúc.",
+   "why": "Ứng viên cùng ô là Itzcóatl của Tenochtitlan và Moctezuma I. Itzcóatl bị loại theo tính nguyên bản (c): ông dựng quyền lực quân sự nhưng việc đốt thư tịch cũ dưới triều ông làm mất tư liệu. Moctezuma I mở rộng theo khuôn đã có. Nezahualcóyotl được chọn theo (c): một người vừa cai trị, vừa làm công trình thuỷ lợi, vừa để lại văn bản mang giọng cá nhân là ca độc nhất trong hồ sơ còn lại của vùng.",
+   "sources": "*Cantares Mexicanos*, bản chép thế kỷ 16 — tuyển thơ Nahua chép sau tiếp xúc, việc quy tác giả còn tranh luận; Miguel León-Portilla, *Fifteen Poets of the Aztec World* (University of Oklahoma Press, 1992).",
+   "inherits": [
+    {
+     "target": "Truyền thống Toltec và trật tự thành bang lưu vực México",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống Toltec và trật tự thành bang lưu vực México · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống *cuicatl* trong văn chương Nahua",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống *cuicatl* trong văn chương Nahua · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Liên minh Ba bên và trật tự Mexica tới 1521",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Liên minh Ba bên và trật tự Mexica tới 1521 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Hình ảnh ông trong văn hoá México hiện đại",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hình ảnh ông trong văn hoá México hiện đại · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE15",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE15-10": {
+   "id": "CH07-CE15-10",
+   "name_vi": "Kabir",
+   "name_orig": "कबीर, कबीर दास",
+   "labels": [],
+   "years_raw": "k. 1440 – k. 1518 CN",
+   "born": 1440,
+   "died": 1518,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Varanasi và Magahar, Bắc Ấn",
+   "region": "Nam Á",
+   "fields": [
+    "Tôn giáo/Tâm linh",
+    "Văn học"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q312551",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Ông làm nghề dệt, thuộc một gia đình Hồi giáo cải đạo, và viết bằng tiếng bản ngữ chứ không bằng Phạn ngữ hay Ba Tư — tức ngoài cả hai hệ thẩm quyền tôn giáo của thời mình. Các câu *dohā* và *pad* của ông bác **cả hai**: nghi lễ Bà-la-môn lẫn hình thức Hồi giáo, với lập luận rằng thần linh không ở đền cũng không ở thánh đường. Giọng ông mỉa và cụ thể, dùng hình ảnh nghề dệt và đời sống chợ búa. Thơ ông vào cả *Guru Granth Sahib* của đạo Sikh.",
+   "why": "Ứng viên cùng ô là Ravidas, người cùng phong trào *bhakti* ở Varanasi, và Guru Nanak, thuộc đầu thế kỷ 16. Ravidas bị loại theo phạm vi (a): tiếp nhận hẹp hơn. Kabir được chọn theo (a) và tính nguyên bản (c): rất ít tiếng nói tôn giáo nào bác được cả hai truyền thống lớn cùng lúc mà vẫn được cả hai nhận. Niên đại để **Thấp**: không mốc nào trong đời ông có nguồn đương thời, và các dòng kế thừa cho những năm khác nhau.",
+   "sources": "*Bījak*; Linda Hess và Shukdev Singh (dịch), *The Bijak of Kabir* (Oxford University Press, 2002).",
+   "inherits": [
+    {
+     "target": "Phong trào *bhakti* Bắc Ấn và dòng *nirguṇa*",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phong trào *bhakti* Bắc Ấn và dòng *nirguṇa* · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH06-CE13-07",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "CH06-CE13-07 · kế thừa · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "*Guru Granth Sahib* và đạo Sikh",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "*Guru Granth Sahib* và đạo Sikh · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Thơ bản ngữ Bắc Ấn và phái Kabirpanth",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Thơ bản ngữ Bắc Ấn và phái Kabirpanth · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE15",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE15-11": {
+   "id": "CH07-CE15-11",
+   "name_vi": "Ewuare",
+   "name_orig": "Ewuare n'Ogidigan, Ewuare Đại đế",
+   "labels": [],
+   "years_raw": "trị vì k. 1440–1473 CN",
+   "born": 1440,
+   "died": 1473,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Thành Benin, vương quốc Benin",
+   "region": "Châu Phi hạ Sahara",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Nghệ thuật/Kiến trúc"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q376898",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Ông tổ chức lại vương quốc Benin từ một thành bang thành một nhà nước có cấp bậc chức tước do vua phong thay vì do dòng họ truyền, và cho đắp hệ hào luỹ quanh kinh đô — một trong những công trình đất lớn nhất thế giới tiền cơ giới. Dưới triều ông, nghề **đúc đồng thau bằng khuôn sáp chảy** đạt mức được dùng để ghi sử: các bảng đồng gắn trên cột cung điện kể lại sự kiện và chức sắc, tức một hệ lưu trữ hình ảnh thay cho chữ viết.",
+   "why": "Ứng viên cùng ô là Oba Esigie, thuộc thế kỷ 16, và Mansa Musa — Mansa Musa có mục riêng ở `CH06-CE14-09` nên không phải ứng viên bị loại. Esigie bị loại vì ông kế thừa bộ máy đã có. Ewuare được chọn theo tính nguyên bản (c). Niên đại để **Thấp**: `Q376898` chỉ cho năm sinh ở độ chính xác **thiên niên kỷ**, và khung trị vì lấy từ danh sách vua truyền khẩu chép lại sau tiếp xúc với người Bồ.",
+   "sources": "Jacob Egharevba, *A Short History of Benin* (Ibadan University Press, 1960) — dựng trên truyền khẩu, dùng làm tư liệu chứ không làm nguồn niên đại; Barbara Plankensteiner (chủ biên), *Benin Kings and Rituals* (Snoeck, 2007).",
+   "inherits": [
+    {
+     "target": "Truyền thống đúc đồng Ife và Igbo-Ukwu",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống đúc đồng Ife và Igbo-Ukwu · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Trật tự thành bang Edo tiền Benin",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Trật tự thành bang Edo tiền Benin · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Nghệ thuật đồng thau Benin tới 1897",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Nghệ thuật đồng thau Benin tới 1897 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Cấu trúc chức tước của vương quốc Benin",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Cấu trúc chức tước của vương quốc Benin · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE15",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE15-12": {
+   "id": "CH07-CE15-12",
+   "name_vi": "Cristoforo Colombo",
+   "name_orig": "Christopher Columbus",
+   "labels": [],
+   "years_raw": "k. 1450–1506 CN",
+   "born": 1450,
+   "died": 1506,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Genova, Castilla, và vùng Caribe",
+   "region": "Châu Âu",
+   "fields": [
+    "Khám phá/Địa lý"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q7322",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Bốn chuyến đi từ 1492 mở một tuyến đi về được qua Đại Tây Dương, và hệ quả không nằm ở việc \"tìm ra\" một lục địa đã có người ở mà ở việc **nối thường xuyên** hai hệ sinh thái tách rời mười nghìn năm: cây trồng, gia súc và mầm bệnh đi cả hai chiều, với dịch bệnh làm sụp dân số bản địa châu Mỹ trong vòng một thế kỷ. Lập luận địa lý của ông thì sai — ông tính chu vi Trái Đất nhỏ hơn thực tế rất nhiều, và tới chết vẫn cho rằng mình đã tới châu Á.",
+   "why": "Ứng viên cùng ô là Vasco da Gama, người mở tuyến vòng châu Phi sang Ấn Độ, và Bartolomeu Dias. Dias bị loại theo phạm vi (a): ông tới mũi Hảo Vọng nhưng không hoàn tất tuyến. Da Gama nối hai vùng vốn đã biết nhau qua trung gian. Columbus được chọn theo counterfactual (d): tuyến xuyên Đại Tây Dương nối hai thế giới chưa từng trao đổi, và đó là bước ngoặt nhân khẩu lớn nhất của thiên niên kỷ.",
+   "sources": "Alfred W. Crosby, *The Columbian Exchange: Biological and Cultural Consequences of 1492* (Greenwood, 1972); *Diario del primer viaje*, bản tóm của Bartolomé de las Casas — không phải nhật ký gốc, dùng làm nguồn sơ cấp có trung gian.",
+   "inherits": [
+    {
+     "target": "CH04-CE02-05",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE02-05 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Kỹ thuật hàng hải caravel và hải đồ portolan Iberia",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Kỹ thuật hàng hải caravel và hải đồ portolan Iberia · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Trao đổi Columbus giữa châu Mỹ và phần còn lại của thế giới",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Trao đổi Columbus giữa châu Mỹ và phần còn lại của thế giới · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Chế độ thuộc địa Tây Ban Nha ở châu Mỹ",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Chế độ thuộc địa Tây Ban Nha ở châu Mỹ · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE15",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE16-01": {
+   "id": "CH07-CE16-01",
+   "name_vi": "Martin Luther",
+   "name_orig": "Martinus Lutherus",
+   "labels": [],
+   "years_raw": "1483–1546 CN",
+   "born": 1483,
+   "died": 1546,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Eisleben, Wittenberg và Wartburg",
+   "region": "Châu Âu",
+   "fields": [
+    "Tôn giáo/Tâm linh",
+    "Ngôn ngữ học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q9554",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Luận điểm của ông rút quyền phán quyết khỏi thiết chế và đặt vào hai chỗ: **chỉ đức tin** làm người ta được xưng công chính, và **chỉ Kinh Thánh** làm thẩm quyền. Hệ quả tổ chức là bỏ hẳn vai trò trung gian bắt buộc của hàng giáo phẩm. Bản dịch Tân Ước sang tiếng Đức năm 1522, làm trong lúc ẩn ở Wartburg, vừa thực hiện nguyên tắc ấy vừa định hình tiếng Đức viết chuẩn. Việc lập luận thần học lan được là nhờ máy in: các tiểu phẩm của ông bán hàng trăm nghìn bản.",
+   "why": "Ứng viên cùng ô là Jean Calvin, người hệ thống hoá thần học Cải cách, và Jan Hus, người đi trước một thế kỷ. Calvin bị loại theo counterfactual (d): ông xây trên chỗ đã nứt sẵn. Hus bị loại vì phong trào của ông bị dập trong phạm vi Bohemia — và chỗ khác nhau giữa hai ca, theo chính Luther, là **máy in**. Luther được chọn theo (d) và phạm vi (a): cuộc ly khai lan nhanh hơn mọi thiết chế kịp phản ứng.",
+   "sources": "*Chín mươi lăm luận đề* (1517); *Von der Freiheit eines Christenmenschen* (1520); Diarmaid MacCulloch, *Reformation: Europe's House Divided* (Allen Lane, 2003).",
+   "inherits": [
+    {
+     "target": "CH07-CE15-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH07-CE15-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE05-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH06-CE14-05",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH06-CE14-05 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Các giáo hội Tin Lành và cuộc chia cắt tôn giáo châu Âu",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Các giáo hội Tin Lành và cuộc chia cắt tôn giáo châu Âu · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Tiếng Đức viết chuẩn",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Tiếng Đức viết chuẩn · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Tỉ lệ biết chữ ở các vùng Tin Lành",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "Tỉ lệ biết chữ ở các vùng Tin Lành · kế thừa · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "group": "CE16",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE16-02": {
+   "id": "CH07-CE16-02",
+   "name_vi": "Erasmus",
+   "name_orig": "Desiderius Erasmus Roterodamus",
+   "labels": [],
+   "years_raw": "k. 1466–1536 CN",
+   "born": 1466,
+   "died": 1536,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Rotterdam, Leuven, Basel và Cambridge",
+   "region": "Châu Âu",
+   "fields": [
+    "Ngôn ngữ học",
+    "Triết học"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q43499",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Năm 1516 ông in *Novum Instrumentum*, bản Tân Ước **tiếng Hy Lạp** kèm bản dịch Latinh mới của chính ông — tức đặt nguyên bản lên trên bản Vulgate mà giáo hội dùng một nghìn năm. Phương pháp là ngữ văn học: đối chiếu bản chép tay, bỏ những đoạn không có cơ sở. Chính bản ấy là cái Luther dịch sang tiếng Đức. Trong *Moriae encomium* ông châm biếm giới tu hành và học giả kinh viện. Nhưng khi ly khai nổ ra, ông từ chối theo, và tranh luận với Luther về tự do ý chí.",
+   "why": "Ứng viên cùng ô là Thomas More, bạn ông, và Johann Reuchlin. More bị loại theo phạm vi (a): *Utopia* có đời sống riêng nhưng không đổi nền văn bản của một tôn giáo. Reuchlin bị loại vì công trình Hebrew của ông hẹp hơn. Erasmus được chọn theo counterfactual (d): bản Tân Ước Hy Lạp là điều kiện kỹ thuật cho Cải cách, dù chính ông không muốn kết quả ấy — một ca tiêu chí (d) tách hẳn khỏi ý định.",
+   "sources": "*Novum Instrumentum omne* (1516); *De libero arbitrio* (1524); Lisa Jardine, *Erasmus, Man of Letters* (Princeton University Press, 1993).",
+   "inherits": [
+    {
+     "target": "CH07-CE15-03",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH07-CE15-03 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH06-CE14-04",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH06-CE14-04 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH07-CE16-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH07-CE16-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Phê bình văn bản Kinh Thánh tới nay",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phê bình văn bản Kinh Thánh tới nay · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Chủ nghĩa nhân văn Kitô giáo châu Âu",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Chủ nghĩa nhân văn Kitô giáo châu Âu · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE16",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE16-03": {
+   "id": "CH07-CE16-03",
+   "name_vi": "Nicolaus Copernicus",
+   "name_orig": "Mikołaj Kopernik",
+   "labels": [],
+   "years_raw": "1473–1543 CN",
+   "born": 1473,
+   "died": 1543,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Toruń và Frombork, Vương quốc Ba Lan",
+   "region": "Châu Âu",
+   "fields": [
+    "Khoa học tự nhiên",
+    "Toán học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q619",
+   "big_questions": [
+    "Vũ trụ"
+   ],
+   "ideas": "*De revolutionibus orbium coelestium* (1543) đặt Mặt Trời ở trung tâm và cho Trái Đất quay quanh nó. Lý do ông đưa ra không phải số liệu tốt hơn — mô hình của ông vẫn dùng vòng tròn và ngoại luân, nên độ chính xác không hơn Ptolemy — mà là **tính mạch lạc**: hệ nhật tâm giải thích được vì sao hành tinh có chuyển động lùi, và nó cho một thứ tự lẫn khoảng cách tương đối mà hệ địa tâm phải giả định rời rạc. Ông trì hoãn công bố gần ba mươi năm.",
+   "why": "Ứng viên cùng ô là Tycho Brahe, người để lại khối quan trắc chính xác nhất trước kính viễn vọng, và Rheticus, học trò ông. Tycho bị loại theo counterfactual (d): mô hình của ông là phương án trung gian giữ Trái Đất đứng yên. Rheticus bị loại vì ông công bố và quảng bá. Copernicus được chọn theo (d): việc dời Trái Đất khỏi tâm là tiền đề mà Kepler, Galileo và Newton đều xây tiếp lên.",
+   "sources": "*De revolutionibus orbium coelestium* (1543); Owen Gingerich, *The Book Nobody Read: Chasing the Revolutions of Nicolaus Copernicus* (Walker & Company, 2004).",
+   "inherits": [
+    {
+     "target": "CH04-CE02-05",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE02-05 · phản bác · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH06-CE13-08",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "CH06-CE13-08 · kế thừa · suy đoán học giả",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE03-09",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE03-09 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH08-CE17-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH08-CE17-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Cách mạng khoa học thế kỷ 17",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Cách mạng khoa học thế kỷ 17 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE16",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE16-04": {
+   "id": "CH07-CE16-04",
+   "name_vi": "Leonardo da Vinci",
+   "name_orig": "Lionardo di ser Piero da Vinci",
+   "labels": [],
+   "years_raw": "1452–1519 CN",
+   "born": 1452,
+   "died": 1519,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Firenze, Milano và Amboise",
+   "region": "Châu Âu",
+   "fields": [
+    "Nghệ thuật/Kiến trúc",
+    "Khoa học tự nhiên"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q762",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Khoảng sáu nghìn trang ghi chép của ông cho thấy một chương trình thống nhất: dùng **quan sát và vẽ** làm công cụ nhận thức, áp cùng một cách cho giải phẫu người, dòng chảy nước, đường bay của chim và bố cục tranh. Các hình giải phẫu dựng từ việc tự mổ xác chính xác hơn mọi sách y học đương thời. Trong hội hoạ, *sfumato* bỏ đường viền cứng vì mắt thật không thấy đường viền. Nhưng gần như toàn bộ ghi chép không được công bố lúc ông sống, nên ảnh hưởng khoa học của chúng là ảnh hưởng muộn.",
+   "why": "Ứng viên cùng ô là Michelangelo và Albrecht Dürer. Michelangelo bị loại theo phạm vi (a) trong khung mục này: tầm vóc nghệ thuật ngang hoặc hơn, nhưng không mở một phương pháp quan sát dùng chung cho nhiều ngành. Dürer bị loại vì lý thuyết tỉ lệ của ông hẹp hơn. Leonardo được chọn theo tính nguyên bản (c), và mục ghi rõ giới hạn: ảnh hưởng khoa học của ông tới muộn vì sổ tay không được in.",
+   "sources": "*Codex Leicester*; *Codex Atlanticus*; Martin Kemp, *Leonardo da Vinci: The Marvellous Works of Nature and Man* (Oxford University Press, 2006).",
+   "inherits": [
+    {
+     "target": "CH07-CE15-02",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH07-CE15-02 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE02-06",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE02-06 · phản bác · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Andrea del Verrocchio, thầy ông ở Firenze",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Andrea del Verrocchio, thầy ông ở Firenze · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Hội hoạ châu Âu thế kỷ 16",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hội hoạ châu Âu thế kỷ 16 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Hình dung hiện đại về mẫu người đa ngành",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hình dung hiện đại về mẫu người đa ngành · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE16",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE16-05": {
+   "id": "CH07-CE16-05",
+   "name_vi": "Suleiman I",
+   "name_orig": "I. Süleyman, Kanunî Sultan Süleyman",
+   "labels": [],
+   "years_raw": "1494–1566 CN",
+   "born": 1494,
+   "died": 1566,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Istanbul",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Luật",
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q8474",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Biệt danh *Kanunî* — người đặt luật — nói đúng đóng góp: ông cho rà và hệ thống hoá toàn bộ *kanun*, tức luật do nhà nước ban, rồi xác lập quan hệ của nó với *sharia* sao cho hai hệ **không tranh thẩm quyền**. Công trình ấy do Ebussuud Efendi chủ trì. Ông cũng chuẩn hoá thuế theo từng tỉnh bằng các sổ *tahrir*, và mở rộng đế quốc tới Hungary và Baghdad. Kiến trúc sư Sinan dựng các thánh đường lớn dưới triều ông.",
+   "why": "Ứng viên cùng ô là Ebussuud Efendi, người soạn phần lớn văn bản luật, và Shah Ismail I của Safavid. Ebussuud bị loại theo counterfactual (d): ông làm việc trong một chương trình do sultan đặt và bảo lãnh chính trị. Ismail I bị loại vì việc đổi Iran sang Shia là việc lớn nhưng phạm vi hẹp hơn. Suleiman được chọn theo (d) và độ bền (b): khuôn hai hệ luật song hành định hình pháp lý Ottoman tới thế kỷ 19.",
+   "sources": "Colin Imber, *Ebu's-su'ud: The Islamic Legal Tradition* (Edinburgh University Press, 1997); Halil İnalcık, *The Ottoman Empire: The Classical Age 1300–1600* (Weidenfeld & Nicolson, 1973).",
+   "inherits": [
+    {
+     "target": "CH07-CE15-06",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH07-CE15-06 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE08-04",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE08-04 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Hệ pháp lý Ottoman tới cải cách Tanzimat",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hệ pháp lý Ottoman tới cải cách Tanzimat · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Kiến trúc Ottoman cổ điển của Sinan",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Kiến trúc Ottoman cổ điển của Sinan · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "group": "CE16",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE16-06": {
+   "id": "CH07-CE16-06",
+   "name_vi": "Taqī al-Dīn",
+   "name_orig": "تقي الدين محمد بن معروف",
+   "labels": [],
+   "years_raw": "k. 1526 – k. 1585 CN",
+   "born": 1526,
+   "died": 1585,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Damascus, Cairo và Istanbul",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Khoa học tự nhiên",
+    "Kỹ thuật/Công nghệ"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q1379164",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Ông lập đài thiên văn Istanbul năm 1577 và quan trắc sao chổi năm ấy cùng lúc với Tycho Brahe ở Đan Mạch — hai bộ số liệu độc lập về cùng một hiện tượng. Ông mô tả một **tuốc bin hơi nước** dùng để quay xiên nướng thịt, và một đồng hồ cơ có kim phút, thứ cần cho quan trắc chính xác. Nhưng đài thiên văn bị phá chỉ năm năm sau khi dựng, vì tranh chấp chính trị quanh việc giải điềm sao chổi — một ca cho thấy thiết chế khoa học mong manh thế nào khi phụ thuộc bảo trợ.",
+   "why": "Ứng viên cùng ô là ʿAlī Qushjī, thuộc thế kỷ trước, và Tycho Brahe. Tycho bị loại khỏi ô này theo phân bổ vùng: Châu Âu đã giữ bốn suất trong nhóm. Taqī al-Dīn được chọn theo tính nguyên bản (c) và counterfactual (d): việc đài Istanbul bị phá là một trong những ca được dẫn nhiều nhất khi bàn vì sao truyền thống thiên văn Hồi giáo đứt đoạn đúng lúc châu Âu tăng tốc.",
+   "sources": "*Sidrat muntahā al-afkār*; Avner Ben-Zaken, *Cross-Cultural Scientific Exchanges in the Eastern Mediterranean, 1560–1660* (Johns Hopkins University Press, 2010).",
+   "inherits": [
+    {
+     "target": "CH07-CE15-07",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH07-CE15-07 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH06-CE13-08",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH06-CE13-08 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Tranh luận sử học về đứt đoạn của khoa học Hồi giáo",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Tranh luận sử học về đứt đoạn của khoa học Hồi giáo · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Kỹ thuật đồng hồ cơ ở Ottoman",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Kỹ thuật đồng hồ cơ ở Ottoman · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE16",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE16-07": {
+   "id": "CH07-CE16-07",
+   "name_vi": "Akbar",
+   "name_orig": "جلال‌الدین محمد اکبر, Akbar Đại đế",
+   "labels": [],
+   "years_raw": "1542–1605 CN",
+   "born": 1542,
+   "died": 1605,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Agra và Fatehpur Sikri, đế quốc Mughal",
+   "region": "Nam Á",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q8597",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Ông bỏ thuế *jizya* đánh vào người không theo Hồi giáo năm 1564, cho người Hindu giữ chức cao, và lập *Ibādat Khāna*, một nhà tranh luận nơi học giả Hồi giáo, Hindu, Jain, Zoroastrian và Dòng Tên cùng bàn — rồi rút ra nguyên tắc *ṣulḥ-i kull*, hoà hợp phổ quát, làm nền chính sách. Về hành chính, hệ *manṣabdārī* xếp quan lại theo thứ bậc lương và quân số do triều đình định, cắt đứt quyền lực theo dòng họ. Ông mù chữ nhưng cho người đọc sách cho nghe hằng ngày.",
+   "why": "Ứng viên cùng ô là Abu'l-Fazl, người soạn *Āʾīn-i Akbarī*, và Sher Shah Suri, người đi trước. Abu'l-Fazl bị loại theo counterfactual (d): ông viết ra chương trình mà vua đặt. Sher Shah bị loại vì cải cách thuế của ông bị gián đoạn. Akbar được chọn theo (d) và độ bền (b): chính sách khoan dung tôn giáo gắn với một bộ máy chọn người theo công trạng là tiền lệ được tranh luận suốt lịch sử Nam Á tới nay.",
+   "sources": "Abu'l-Fazl, *Āʾīn-i Akbarī* — biên niên do người trong triều viết, dùng làm nguồn sơ cấp chứ không làm nguồn phán đoán; John F. Richards, *The Mughal Empire* (Cambridge University Press, 1993).",
+   "inherits": [
+    {
+     "target": "CH06-CE14-12",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH06-CE14-12 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE03-01",
+     "relation": "tương đồng độc lập",
+     "evidence": "suy đoán học giả",
+     "raw": "CH03-BCE03-01 · tương đồng độc lập · suy đoán học giả",
+     "undetermined": false
+    },
+    {
+     "target": "CH07-CE15-10",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH07-CE15-10 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Bộ máy hành chính Mughal tới thế kỷ 18",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Bộ máy hành chính Mughal tới thế kỷ 18 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Tranh luận về thế tục và đa tôn giáo ở Nam Á",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Tranh luận về thế tục và đa tôn giáo ở Nam Á · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE16",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE16-08": {
+   "id": "CH07-CE16-08",
+   "name_vi": "Vương Dương Minh",
+   "name_orig": "王陽明, Vương Thủ Nhân 王守仁",
+   "labels": [],
+   "years_raw": "1472–1529 CN",
+   "born": 1472,
+   "died": 1529,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Chiết Giang, Quý Châu và Giang Tây, nhà Minh",
+   "region": "Đông Á",
+   "fields": [
+    "Triết học",
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q378462",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Ông bác cách đọc của Chu Hy ở đúng chỗ then chốt: **\"cách vật\"** không phải là đi khảo sát sự vật bên ngoài để tìm lý, vì lý vốn ở trong tâm. Từ đó ra hai mệnh đề: *trí lương tri* — ai cũng sẵn có khả năng biết điều phải — và *tri hành hợp nhất*, biết mà không làm thì chưa phải biết. Hệ quả xã hội là hạ thấp vai trò độc quyền của giới đọc sách, vì lương tri không đòi học vấn. Ông đồng thời là tướng dẹp loạn có thực tài.",
+   "why": "Ứng viên cùng ô là Chu Hy — có mục riêng ở `CH06-CE12-04` nên không phải ứng viên bị loại — và Trạm Nhược Thuỷ, bạn tranh luận của ông. Trạm Nhược Thuỷ bị loại theo phạm vi (a): dòng của ông không lan ra ngoài Trung Hoa. Vương Dương Minh được chọn theo (a) và counterfactual (d): tâm học của ông thành dòng đối trọng chính với Chu Hy ở cả Nhật Bản, nơi nó ảnh hưởng tới giới sĩ tộc thời Minh Trị.",
+   "sources": "*Truyền tập lục* (傳習錄); Philip J. Ivanhoe, *Readings from the Lu-Wang School of Neo-Confucianism* (Hackett, 2009).",
+   "inherits": [
+    {
+     "target": "CH06-CE12-04",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "CH06-CE12-04 · phản bác · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE07-07",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE07-07 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Lục Cửu Uyên của Nam Tống",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Lục Cửu Uyên của Nam Tống · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Tâm học ở Trung Hoa và Nhật Bản tới thế kỷ 19",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Tâm học ở Trung Hoa và Nhật Bản tới thế kỷ 19 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Giới sĩ tộc Nhật Bản thời Mạc mạt",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "Giới sĩ tộc Nhật Bản thời Mạc mạt · kế thừa · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "group": "CE16",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE16-09": {
+   "id": "CH07-CE16-09",
+   "name_vi": "Lý Thời Trân",
+   "name_orig": "李時珍 Lǐ Shízhēn",
+   "labels": [],
+   "years_raw": "1517–1593 CN",
+   "born": 1517,
+   "died": 1593,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Kỳ Châu, Hồ Bắc, nhà Minh",
+   "region": "Đông Á",
+   "fields": [
+    "Y học",
+    "Khoa học tự nhiên"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q698925",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Bộ *Bản thảo cương mục* mất gần ba mươi năm để soạn, kê 1.892 vị thuốc và hơn một vạn đơn thuốc. Điều đáng kể nằm ở **phép phân loại**: ông bỏ lối xếp theo phẩm cấp thượng – trung – hạ có từ thời Hán, xếp lại theo *cương* và *mục*, tức theo đặc tính tự nhiên của vật — khoáng, cây, thú — thành một hệ phân cấp. Ông cũng đi thực địa và bác bỏ nhiều mục trong sách cũ, kể cả các vị thuốc trường sinh chứa thuỷ ngân mà ông chỉ ra là độc.",
+   "why": "Ứng viên cùng ô là Tống Ứng Tinh, tác giả *Thiên công khai vật*, thuộc đầu thế kỷ 17, và Từ Hà Khách. Tống Ứng Tinh bị loại theo niên đại. Từ Hà Khách bị loại vì ghi chép địa lý của ông hẹp hơn về đường truyền. Lý Thời Trân được chọn theo tính nguyên bản (c): việc đổi nguyên tắc phân loại từ công dụng sang đặc tính tự nhiên là một thao tác phương pháp, và bộ sách được dịch sang nhiều thứ tiếng từ thế kỷ 18.",
+   "sources": "*Bản thảo cương mục* (本草綱目, 1596); Carla Nappi, *The Monkey and the Inkpot: Natural History and Its Transformations in Early Modern China* (Harvard University Press, 2009).",
+   "inherits": [
+    {
+     "target": "CH04-CE02-11",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE02-11 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống *bản thảo* từ đời Đường và đời Tống",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống *bản thảo* từ đời Đường và đời Tống · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Dược học Đông Á tới nay",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Dược học Đông Á tới nay · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Thực vật học châu Âu qua các bản dịch thế kỷ 18",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Thực vật học châu Âu qua các bản dịch thế kỷ 18 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE16",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE16-10": {
+   "id": "CH07-CE16-10",
+   "name_vi": "Toyotomi Hideyoshi",
+   "name_orig": "豊臣秀吉",
+   "labels": [],
+   "years_raw": "1536–1598 CN",
+   "born": 1536,
+   "died": 1598,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Osaka và Kyoto, Nhật Bản",
+   "region": "Đông Á",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Quân sự"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q187550",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Xuất thân nông dân, ông thống nhất Nhật Bản sau một thế kỷ nội chiến, và hai chính sách của ông định hình xã hội Nhật ba thế kỷ sau đó. *Katanagari* năm 1588 tịch thu vũ khí của nông dân; *Taikō kenchi* đo lại toàn bộ ruộng đất theo một đơn vị thống nhất và gắn mỗi thửa với một người chịu thuế. Hai việc ấy cộng lại **đóng băng ranh giới giữa võ sĩ và nông dân**, biến một xã hội còn lưu động thành một xã hội phân tầng cứng. Hai cuộc xâm lược Triều Tiên thì thất bại.",
+   "why": "Ứng viên cùng ô là Oda Nobunaga, chủ cũ của ông, và Tokugawa Ieyasu, người kế tục. Nobunaga bị loại theo độ bền (b): ông phá trật tự cũ nhưng chết trước khi dựng được cái mới. Ieyasu thuộc thế kỷ 17. Hideyoshi được chọn theo counterfactual (d): phép đo ruộng và việc tước vũ khí là hai quyết định hành chính tạo ra chính cấu trúc giai tầng mà Mạc phủ Tokugawa thừa hưởng.",
+   "sources": "Mary Elizabeth Berry, *Hideyoshi* (Harvard University Asia Center, 1982); các sắc lệnh *katanagari* 1588 và sổ *kenchi*.",
+   "inherits": [
+    {
+     "target": "Oda Nobunaga, chủ cũ của ông",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Oda Nobunaga, chủ cũ của ông · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH06-CE14-07",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH06-CE14-07 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Cấu trúc giai tầng Nhật Bản thời Edo",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Cấu trúc giai tầng Nhật Bản thời Edo · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Quan hệ Nhật – Triều sau hai cuộc xâm lược",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "Quan hệ Nhật – Triều sau hai cuộc xâm lược · phản bác · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE16",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE16-11": {
+   "id": "CH07-CE16-11",
+   "name_vi": "Askia Muhammad I",
+   "name_orig": "Askia Muḥammad Ture",
+   "labels": [],
+   "years_raw": "k. 1443–1538 CN",
+   "born": 1443,
+   "died": 1538,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Gao, đế quốc Songhai",
+   "region": "Châu Phi hạ Sahara",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Giáo dục"
+   ],
+   "confidence": "Thấp",
+   "wikidata": "Q1771994",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Ông lật người kế vị Sunni Ali năm 1493 rồi tổ chức lại Songhai thành một nhà nước **có bộ máy chuyên trách**: chia đế quốc thành tỉnh có thống đốc do triều đình bổ nhiệm, lập các bộ phụ trách tài chính, nông nghiệp và thuỷ quân trên sông Niger, chuẩn hoá cân đong. Ông đi hành hương Mecca năm 1497 và trở về với danh hiệu caliph vùng Tây Phi, dùng nó làm chính danh. Dưới triều ông, Timbuktu và Djenné đạt đỉnh với các trường và thư viện tư.",
+   "why": "Ứng viên cùng ô là Sunni Ali, người mở rộng Songhai bằng quân sự, và Ahmad Baba, học giả Timbuktu thuộc thế kỷ sau. Sunni Ali bị loại theo tính nguyên bản (c): ông chinh phục nhưng không dựng bộ máy. Askia Muhammad được chọn theo (c). Niên đại để **Thấp**: các mốc đời ông lấy từ hai biên niên Timbuktu chép ở thế kỷ 17, tức sau cả trăm năm.",
+   "sources": "*Taʾrīkh al-Sūdān* của al-Saʿdī và *Taʾrīkh al-fattāsh* — hai biên niên Timbuktu chép thế kỷ 17, dùng làm tư liệu chứ không làm nguồn niên đại; John O. Hunwick, *Timbuktu and the Songhay Empire* (Brill, 1999).",
+   "inherits": [
+    {
+     "target": "CH06-CE14-09",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH06-CE14-09 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH06-CE13-12",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH06-CE13-12 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Đế quốc Songhai tới 1591",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Đế quốc Songhai tới 1591 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Học thuật Timbuktu và các thư viện bản thảo",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Học thuật Timbuktu và các thư viện bản thảo · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE16",
+   "chapter": 7,
+   "file": "ch07.md",
+   "image": null
+  },
+  "CH07-CE16-12": {
+   "id": "CH07-CE16-12",
+   "name_vi": "Inca Garcilaso de la Vega",
+   "name_orig": "Gómez Suárez de Figueroa",
+   "labels": [],
+   "years_raw": "1539–1616 CN",
+   "born": 1539,
+   "died": 1616,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Cusco, và Montilla – Córdoba ở Tây Ban Nha",
+   "region": "Châu Mỹ",
+   "fields": [
+    "Sử học",
+    "Văn học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q334711",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Con của một quý tộc Tây Ban Nha và một công chúa Inca, ông lớn lên nghe tiếng Quechua trong nhà rồi sang Tây Ban Nha sống nửa sau đời. Bộ *Comentarios Reales de los Incas* (1609) viết lịch sử Inca **từ bên trong**, dựa vào ký ức họ hàng bên mẹ, và sửa đích danh những chỗ các biên niên Tây Ban Nha chép sai vì không biết tiếng. Ông cũng nói thẳng giới hạn của mình: ông rời Cusco năm hai mươi mốt tuổi, nên nhiều điều là nghe kể. Đó là một trong những tiếng nói bản địa sớm nhất được in.",
+   "why": "Ứng viên cùng ô là Guamán Poma de Ayala, tác giả *Nueva corónica*, và Bernardino de Sahagún. Sahagún bị loại vì ông là người Tây Ban Nha ghi chép về người Nahua. Guamán Poma bị loại theo phạm vi (a): bản thảo của ông nằm trong một thư viện Đan Mạch tới năm 1908 mới được tìm lại, nên gần như không có đường truyền. Garcilaso được chọn theo (a) và tính nguyên bản (c): sách ông được in và đọc liên tục từ 1609.",
+   "sources": "*Comentarios Reales de los Incas* (Lisboa, 1609); Margarita Zamora, *Language, Authority, and Indigenous History in the Comentarios reales de los incas* (Cambridge University Press, 1988).",
+   "inherits": [
+    {
+     "target": "CH07-CE15-08",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH07-CE15-08 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống truyền khẩu và *khipu* của giới quý tộc Cusco",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Truyền thống truyền khẩu và *khipu* của giới quý tộc Cusco · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Hình dung của châu Âu về đế quốc Inca",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hình dung của châu Âu về đế quốc Inca · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Phong trào bản địa Andes thế kỷ 18",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phong trào bản địa Andes thế kỷ 18 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE16",
+   "chapter": 7,
+   "file": "ch07.md",
    "image": null
   },
   "CH90-BCE03_01-01": {

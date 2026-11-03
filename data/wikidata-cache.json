@@ -15748,5 +15748,1148 @@
    "enwiki": "Hongwu Emperor"
   },
   "fetched": 1793705867
+ },
+ "wd:Q1379164": {
+  "id": "Q1379164",
+  "labels": {
+   "en": "Taqi al-Din Muhammad ibn Ma'ruf"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1526,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 1525,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1580,
+    "precision": 8,
+    "rank": "normal"
+   },
+   {
+    "year": 1585,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Taqi al din.jpg",
+  "sitelinks": {
+   "enwiki": "Taqi ad-Din Muhammad ibn Ma'ruf"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q174330": {
+  "id": "Q174330",
+  "labels": {
+   "en": "Filippo Brunelleschi"
+  },
+  "aliases": {
+   "en": [
+    "Brunellesco",
+    "Filippo di Ser Brunelleschi",
+    "Filippo Brunellesco",
+    "Brunelleschi",
+    "Filippo Brunelleski",
+    "Filippo di ser Brunellesco Lippi",
+    "Filippo di ser Brunellesco"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1377,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 1376,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1446,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1445,
+    "precision": 9,
+    "rank": "deprecated"
+   },
+   {
+    "year": 1446,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Masaccio, cappella brancacci, san pietro in cattedra. ritratto di filippo brunelleschi.jpg",
+  "sitelinks": {
+   "enwiki": "Filippo Brunelleschi"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q1771994": {
+  "id": "Q1771994",
+  "labels": {
+   "en": "Askia Muhammad I"
+  },
+  "aliases": {
+   "en": [
+    "Askia The Great"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1443,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1538,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1538,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "enwiki": "Askia Muhammad I"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q187550": {
+  "id": "Q187550",
+  "labels": {
+   "vi": "Toyotomi Hideyoshi",
+   "en": "Toyotomi Hideyoshi"
+  },
+  "aliases": {
+   "vi": [
+    "Hideyoshi Toyotomi",
+    "Phong-thần Tú-cát",
+    "Phong Thần Tú Cát",
+    "Hideyoshi",
+    "Kinoshita Tōkichirō",
+    "Hashiba Hideyoshi",
+    "Hideyoshi Hashiba"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1537,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1536,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1598,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Toyotomi Hideyoshi (Kodaiji).jpg",
+  "sitelinks": {
+   "viwiki": "Toyotomi Hideyoshi",
+   "enwiki": "Toyotomi Hideyoshi"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q213758": {
+  "id": "Q213758",
+  "labels": {
+   "en": "Pachacútec",
+   "vi": "Pachacuti"
+  },
+  "aliases": {
+   "en": [
+    "Pachacuti",
+    "Pachacutec",
+    "Pachacuti Inca Yupanqui"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1380,
+    "precision": 9,
+    "rank": "deprecated"
+   },
+   {
+    "year": 1391,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1460,
+    "precision": 9,
+    "rank": "deprecated"
+   },
+   {
+    "year": 1471,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Brooklyn Museum - Pachacuti, Tenth Inca, 1 of 14 Portraits of Inca Kings (cropped).jpg",
+  "sitelinks": {
+   "enwiki": "Pachacuti"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q214115": {
+  "id": "Q214115",
+  "labels": {
+   "en": "Lorenzo Valla"
+  },
+  "aliases": {
+   "en": [
+    "Laurence Valla"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1407,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 1405,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1457,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 1457,
+    "precision": 9,
+    "rank": "deprecated"
+   }
+  ],
+  "P18": "Portret van Lorenzo Valla Laurentius Valla (titel op object), RP-P-1909-4359.jpg",
+  "sitelinks": {
+   "enwiki": "Lorenzo Valla"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q312551": {
+  "id": "Q312551",
+  "labels": {
+   "en": "Kabir",
+   "vi": "Kabir"
+  },
+  "aliases": {
+   "en": [
+    "Kabir Sahib",
+    "Kabir Das",
+    "Bhagat Kabir"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1440,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 1398,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 1440,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1518,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Kabir (postage stamp).jpg",
+  "sitelinks": {
+   "viwiki": "Kabir",
+   "enwiki": "Kabir"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q334711": {
+  "id": "Q334711",
+  "labels": {
+   "en": "Inca Garcilaso de la Vega"
+  },
+  "aliases": {
+   "en": [
+    "Garzilasso de la Vega",
+    "Inka Garcilaso",
+    "Garci Laso de La Vega",
+    "el Inca Garcilasso de La Vega",
+    "Inca Garcillasso de la Vega",
+    "el Inca Garcilaso de La Vega",
+    "Garcilaso De la Vega",
+    "Garci Laso de la Vega",
+    "García Laso de la Vega",
+    "García Laso de La Vega",
+    "El Inca Garcilaso",
+    "Inka Garsilaso de la Vega",
+    "Garcillasso de La Vega",
+    "García Lasso de la Vega",
+    "Inca Garsilaso de la Vega",
+    "El Inca Garcilaso De La Vega",
+    "Garcillasso de la Vega",
+    "García Laso De la Vega",
+    "Inca Garcilasso de La Vega",
+    "Inca Garcillasso De la Vega",
+    "Inca Garcilasso De la Vega",
+    "Inka Garcilaso de la Vega",
+    "Garcilaso Inca De la Vega",
+    "Garcilaso Inca",
+    "Garcilasso Inca de la Vega",
+    "el Inca"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1539,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1616,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1616,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 1616,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Inca Garcilaso 1879.jpg",
+  "sitelinks": {
+   "enwiki": "Inca Garcilaso de la Vega"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q34503": {
+  "id": "Q34503",
+  "labels": {
+   "vi": "Mehmed II",
+   "en": "Mehmed II"
+  },
+  "aliases": {
+   "vi": [
+    "Mahomet II",
+    "Fatih Sultan Mehmet",
+    "Mehmed Người chinh phạt",
+    "Mehmet II",
+    "Mehmed the Conqueror",
+    "Vua Méchmét vô địch",
+    "Sultan Mehmed II",
+    "Mohamed II",
+    "Vua Mehmed vô địch",
+    "Mehmed Nhà chinh phạt",
+    "Mehmed II nhà Ottoman",
+    "Mehmed II Fatih"
+   ],
+   "en": [
+    "Muhammad bin Murad Khan",
+    "Mehmet II",
+    "Fatih Sultan Mehmed",
+    "Sultan Mehmed the Conqueror"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1432,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1481,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Portrait of Mehmet II (cropped). Human Physiognomy Concerning the Personal Dispositions of the Ottomans, 1579 (TSMK H.1563).jpg",
+  "sitelinks": {
+   "viwiki": "Mehmed II",
+   "enwiki": "Mehmed II"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q37682": {
+  "id": "Q37682",
+  "labels": {
+   "vi": "Triều Tiên Thế Tông",
+   "en": "Sejong the Great"
+  },
+  "aliases": {
+   "vi": [
+    "Sejong",
+    "Lý Thế Tông",
+    "Đại vương Sejong",
+    "Thế Tông Đại Vương nhà Triều Tiên",
+    "Vua Sejong",
+    "Triều Tiên Thế Tông Đại Vương",
+    "Thế Tông Đại Vương của Triều Tiên"
+   ],
+   "en": [
+    "King of Korea Sedzhon",
+    "the Great Seijong",
+    "King of Korea Yi Sejong",
+    "Sejong",
+    "King of Korea Sejong",
+    "Se Jong",
+    "Li Tao",
+    "Shizong",
+    "Yuanzheng",
+    "Yingwenruiwurenshengmingxiaodaiwang",
+    "Yingling",
+    "Zhuangxian",
+    "King of Korea Yi Do"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1397,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1397,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1450,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1450,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "10000 won banknote (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Triều Tiên Thế Tông",
+   "enwiki": "Sejong the Great"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q376898": {
+  "id": "Q376898",
+  "labels": {
+   "en": "Ewuare"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1400,
+    "precision": 6,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1473,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Oba Ewuare the Great!.jpg",
+  "sitelinks": {
+   "enwiki": "Ewuare"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q378462": {
+  "id": "Q378462",
+  "labels": {
+   "en": "Wang Yangming",
+   "vi": "Vương Dương Minh"
+  },
+  "aliases": {
+   "en": [
+    "Wang Shouren",
+    "Yun",
+    "Xinjian bo",
+    "Yangming xiansheng",
+    "Boan",
+    "Xianruwangzi",
+    "Binyangtang",
+    "Wang Yun",
+    "Junziting",
+    "Wencheng",
+    "Wanyiwo",
+    "Yangmingzi",
+    "Helouxuan"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1472,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1529,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "蔡世新 王阳明肖像轴 (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Vương Dương Minh",
+   "enwiki": "Wang Yangming"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q379964": {
+  "id": "Q379964",
+  "labels": {
+   "en": "Nezahualcóyotl"
+  },
+  "aliases": {
+   "en": [
+    "netzahual",
+    "Netzahualcoyotl"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1402,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1472,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Nezahualcoyotl.jpg",
+  "sitelinks": {
+   "enwiki": "Nezahualcoyotl (tlatoani)"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q43499": {
+  "id": "Q43499",
+  "labels": {
+   "vi": "Desiderius Erasmus",
+   "en": "Erasmus"
+  },
+  "aliases": {
+   "en": [
+    "Erasmus of Rotterdam",
+    "Desiderius Erasmus of Rotterdam",
+    "Erasmus Rotterdam",
+    "Erasmus Von Rotterdam Erasmus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1466,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1466,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 1469,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1536,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1536,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 1536,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Holbein-erasmus.jpg",
+  "sitelinks": {
+   "viwiki": "Desiderius Erasmus",
+   "enwiki": "Erasmus"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q486088": {
+  "id": "Q486088",
+  "labels": {
+   "en": "Ulugh Beg",
+   "vi": "Ulugh Beg"
+  },
+  "aliases": {
+   "en": [
+    "Mīrzā Muhammad Tāraghay bin Shāhrukh",
+    "Ulugh Begh",
+    "Ulugbek",
+    "Ulugh-Beg"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1394,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1449,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Ulugh Beg, Timurid painting 1425-50.jpg",
+  "sitelinks": {
+   "viwiki": "Ulugh Beg",
+   "enwiki": "Ulugh Beg"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q619": {
+  "id": "Q619",
+  "labels": {
+   "en": "Nicolaus Copernicus",
+   "vi": "Nicolaus Copernicus"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1473,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1473,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1543,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1543,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Nikolaus Kopernikus MOT.jpg",
+  "sitelinks": {
+   "viwiki": "Nicolaus Copernicus",
+   "enwiki": "Nicolaus Copernicus"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q698925": {
+  "id": "Q698925",
+  "labels": {
+   "en": "Li Shizhen",
+   "vi": "Lý Thời Trân"
+  },
+  "aliases": {
+   "en": [
+    "Dongbi"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1517,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1593,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Li Shizhen portrait.jpg",
+  "sitelinks": {
+   "viwiki": "Lý Thời Trân",
+   "enwiki": "Li Shizhen"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q7322": {
+  "id": "Q7322",
+  "labels": {
+   "vi": "Cristoforo Colombo",
+   "en": "Christopher Columbus"
+  },
+  "aliases": {
+   "vi": [
+    "Kha Luân Bố"
+   ],
+   "en": [
+    "Cristoffer Columbus",
+    "Don Cristobál Colón",
+    "Columbus",
+    "Cristobal Colon"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1451,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 1450,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 1451,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 1451,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 1451,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 1451,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1506,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1506,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 1506,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Ridolfo del Ghirlandaio - Ritratto di Cristoforo Colombo (1520).jpg",
+  "sitelinks": {
+   "viwiki": "Cristoforo Colombo",
+   "enwiki": "Christopher Columbus"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q7333": {
+  "id": "Q7333",
+  "labels": {
+   "en": "Zheng He",
+   "vi": "Trịnh Hòa"
+  },
+  "aliases": {
+   "en": [
+    "Ma He",
+    "Cheng Ho",
+    "Sanbao",
+    "Sanbao Taijian"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1371,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1433,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 1435,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "2016 Malakka, Stadhuys (09).jpg",
+  "sitelinks": {
+   "viwiki": "Trịnh Hòa",
+   "enwiki": "Zheng He"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q762": {
+  "id": "Q762",
+  "labels": {
+   "en": "Leonardo da Vinci"
+  },
+  "aliases": {
+   "vi": [
+    "Lê-ô-na-đô đờ Vanh-xi"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1452,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1452,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1519,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1519,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Francesco Melzi - Portrait of Leonardo.png",
+  "sitelinks": {
+   "viwiki": "Leonardo da Vinci",
+   "enwiki": "Leonardo da Vinci"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q8474": {
+  "id": "Q8474",
+  "labels": {
+   "en": "Suleiman the Magnificent",
+   "vi": "Suleiman I"
+  },
+  "aliases": {
+   "en": [
+    "Kanuni",
+    "Muhibbî",
+    "Muhibbi",
+    "Sulayman",
+    "Suleiman I"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1494,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1566,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "EmperorSuleiman.jpg",
+  "sitelinks": {
+   "viwiki": "Suleiman I",
+   "enwiki": "Suleiman the Magnificent"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q8597": {
+  "id": "Q8597",
+  "labels": {
+   "vi": "Akbar Đại đế",
+   "en": "Akbar"
+  },
+  "aliases": {
+   "en": [
+    "Jalal-ud-Din Muhammad Akbar",
+    "Akbar the Great",
+    "Akbar Mahan",
+    "Abu'l-Fath Jalal-ud-din Muhammad Akbar",
+    "Akbar I"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1542,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1605,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1605,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Contemporary seated portrait of Akbar, 1605.jpg",
+  "sitelinks": {
+   "viwiki": "Akbar Đại đế",
+   "enwiki": "Akbar"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q8958": {
+  "id": "Q8958",
+  "labels": {
+   "en": "Johannes Gutenberg",
+   "vi": "Johannes Gutenberg"
+  },
+  "aliases": {
+   "en": [
+    "Johann Gutenberg",
+    "Johannes Gensfleisch zur Laden",
+    "Henne Gutenburg",
+    "Henne Gensfleisch",
+    "Johann Gensfleisch zur Laden",
+    "Gensfleisch Gutenburg",
+    "Johannes Gutenburg",
+    "Johannes Gensfleisch"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1400,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1468,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 1468,
+    "precision": 11,
+    "rank": "deprecated"
+   },
+   {
+    "year": 1468,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 1468,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Gutenberg.jpg",
+  "sitelinks": {
+   "viwiki": "Johannes Gutenberg",
+   "enwiki": "Johannes Gutenberg"
+  },
+  "fetched": 1793706429
+ },
+ "wd:Q9554": {
+  "id": "Q9554",
+  "labels": {
+   "en": "Martin Luther",
+   "vi": "Martin Luther"
+  },
+  "aliases": {
+   "en": [
+    "Junker Jörg"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1483,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1546,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Lucas Cranach d.Ä. - Martin Luther, 1528 (Veste Coburg).jpg",
+  "sitelinks": {
+   "viwiki": "Martin Luther",
+   "enwiki": "Martin Luther"
+  },
+  "fetched": 1793706429
  }
 }
