@@ -19,6 +19,7 @@ Dạng đóng góp giá trị nhất, và cũng dễ nhất:
 uv sync --extra images                  # dựng .venv đúng theo uv.lock
 uv run python build.py --offline        # lint, không gọi mạng
 uv run python build.py                  # lint + đối chiếu Wikidata + sinh HTML
+uv run --frozen python -m http.server 8099   # xem kết quả ở http://localhost:8099/
 ```
 
 `uv sync` đọc `pyproject.toml` và `uv.lock`, nên môi trường tái lập được y hệt;
