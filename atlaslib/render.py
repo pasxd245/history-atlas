@@ -125,6 +125,8 @@ def page(title: str, body: str, depth: int, extra_head: str = "", body_class: st
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{E(title)} · {E(C.PROJECT["title"])}</title>
 <link rel="stylesheet" href="{rel}assets/style.css">
+<link rel="icon" href="{rel}favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="{rel}assets/img/apple-touch-icon.png">
 {extra_head}
 </head>
 <body class="{body_class}">

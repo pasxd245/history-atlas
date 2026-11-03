@@ -2,7 +2,9 @@
 
 Website tĩnh, mở được bằng `file://`, deploy được lên GitHub Pages/Vercel. Nội dung do model viết dưới dạng Markdown theo template cố định; `build.py` lint, đối chiếu Wikidata và sinh HTML. Ảnh lấy từ Wikimedia Commons theo chính sách giấy phép cứng.
 
-Trạng thái: **P2 xong** — Chapter 2 (Axial Age, 33 nhân vật) và Phụ lục Việt Nam (40 nhân vật). Atlas chính mới phủ 1/11 chapter · 4/33 nhóm. PLAN đã duyệt nằm trong Project "[Z] MY-PJ" (`claude/history-atlas-PLAN.md`).
+Trạng thái: **v0.0.1-rc.1** — đủ **11/11 chapter · 33/33 nhóm · 377 nhân vật** ở atlas chính, cộng **40 nhân vật** ở phụ lục Việt Nam. Build: 0 lỗi. PLAN đã duyệt nằm trong Project "[Z] MY-PJ" (`claude/history-atlas-PLAN.md`).
+
+> **Đây là bản ứng viên, không phải bản hoàn chỉnh.** Khoảng trống lớn nhất: **ch06–ch11 (132/417 mục, 32%) chưa qua bước bình duyệt độc lập** mà chính `CONTRIBUTING.md` quy định cho mỗi chapter. Xem *Việc còn lại* ở cuối file.
 
 ## Bản chất và giới hạn của nội dung
 
@@ -139,8 +141,17 @@ Hai điểm kỹ thuật lệch nhẹ so với PLAN §7.1 (không đụng §2):
 ## Việc còn lại theo PLAN
 
 - ~~**P2** Pilot Ch2 (Axial Age)~~ — xong. 33 nhân vật, lint 0 lỗi, 33/33 Q-ID khớp Wikidata.
-- **P3** Sản xuất Ch3 → Ch1 → Ch4 (2 phần) → Ch5 (2 phần) → Ch6…Ch11; ZIP mỗi 3 chapter.
-  **Mỗi chapter phải qua một lượt agent đánh giá độc lập trước khi commit** — xem `CONTRIBUTING.md`, mục *Quy trình một chapter*.
-- **P4** Rà soát toàn cục: trùng nhân vật, liên kết tên → ID, hai chiều, 10% nguồn, ảnh/chú thích.
+- ~~**P3** Sản xuất Ch3 → Ch1 → Ch4 → Ch5 → Ch6…Ch11~~ — **xong ở v0.0.1-rc.1**, 11/11 chapter.
+- ~~**P4** Rà soát toàn cục~~ — xong phần máy kiểm được: không trùng Q-ID, không liên kết treo, không vượt trần quan hệ, 69/69 URL trong `content/` còn sống, không có thông tin cá nhân trong repo.
+
+### Việc còn lại, xếp theo mức quan trọng
+
+1. **Bình duyệt độc lập ch06–ch11 — 132/417 mục (32%) chưa làm.** ch01–ch05 và ch90 có 57 báo cáo trong `reviews/`; ch06–ch11 có **0**. `CONTRIBUTING.md` bắt buộc bước này cho mỗi chapter, và lịch sử dự án cho thấy nó bắt được lỗi thật. **Đây là điều kiện để rời trạng thái `rc`.** Đề xuất 9 vòng: ch06 tách 4 vòng theo nhóm, ch07 và ch08 mỗi chapter 2 vòng, ch09–ch11 gộp 1 vòng.
+2. **Một mục chỉ mang được một Q-ID.** Nhóm CE21 có 4/12 mục phải loại người đồng tác giả không theo tiêu chí nào (Charpentier, Weissman, Jumper, Perlmutter/Riess) — khoa học thế kỷ 21 đóng góp theo nhóm, còn dữ liệu thì một mục một người. Sửa được nhưng đụng parser, lint và render.
+3. **Phép đếm Thích Nhất Hạnh** — so độ phủ đường truyền với `CH11-CE21-12` Harari để quyết việc chuyển từ phụ lục sang mạch chính. Là một phép đếm, không phải một cuộc tranh luận.
+4. **Hai ô vùng mỏng** — `Trung Á` 8/377 (vắng ở cả CE20 lẫn CE21), `Châu Đại Dương` còn 1 mục sau khi quy tắc `vùng` chuyển Rutherford sang Châu Âu.
+5. **`ch01` thiên lệch vùng 79%** (Trung Đông/Bắc Phi 30/38); nhóm `BCE20_18` chỉ 1 vùng. Có thể là khoảng trống hồ sơ thật của giai đoạn 2000–1700 TCN — nhưng ch01 hiện **chưa có dòng nào nói điều đó**.
+6. **Vụn** — ~127 dòng `[KHÔNG KIỂM ĐƯỢC]` trong `reviews/` cần nguồn ngoại tuyến · `ch90/BCE03_01` chỉ 2 lĩnh vực · Mahāvīra `Q9422` P31 (giữ có chủ đích) · ch02 còn treo (Zarathustra, Tôn Tử, lỗ hổng từ vựng §5) · Tì-ni-đa-lưu-chi phụ lục → mạch chính.
+
 - **P5** Overview: timeline toàn cục + graph dòng chảy tư tưởng bằng D3, bộ lọc, thống kê xuyên vùng, (bản đồ).
 - **P6** Bàn giao: rà credits, ZIP cuối, tuỳ chọn deploy.
