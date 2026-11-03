@@ -120,6 +120,11 @@ bẫy tuỳ-slot đã bác ở trên: trong 6 ca đích-hai-người, chỉ **3 
 những dòng ấy không phải mức bằng chứng mà là **dòng nêu hai cái tên**; chỗ sửa đúng là thân mục
 hoặc Ghi chú biên tập, nơi cả hai người đều đã được kể.
 
+**Ba mức đo đường truyền, không đo độ chắc của niên đại.** Khi niên đại một bên lỏng hoặc rút
+ra từ chính mệnh đề quan hệ, chỗ ghi điều đó là trường `độ tin cậy niên đại` và khối Ghi chú
+biên tập — **không phải** bằng cách hạ mức bằng chứng. Bắt mức bằng chứng gánh thêm việc ấy là
+tái phạm đúng lỗi quy tắc 9. Ca đã xử: `CH02-BCE05-05 → Leucippus`, xem ghi chú đầu `ch02.md`.
+
 **Không thêm mức thứ tư.** Phương án tách nghĩa bằng một mức `qua văn bản` mới đã được cân nhắc và gác lại: đổi `EVIDENCE_LEVELS` trong `atlaslib/common.py` kéo theo lint, thống kê và cả sáu chapter cùng lúc. Việc ấy chỉ đáng làm **sau** khi đã có định nghĩa, không phải thay cho nó.
 
 **Quy ước tiêu chí (a) phạm vi** — đo **trong mạng lưới tiếp xúc tồn tại ở thời điểm ấy**, không đo trên bản đồ thế giới hiện đại.
