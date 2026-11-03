@@ -1,0 +1,209 @@
+[
+  {
+    "id": "GROUP",
+    "finding": "6",
+    "severity": "sai",
+    "old": "ba lần đẩy lui quân Nguyên",
+    "new": "ba lần đẩy lui quân Mông Cổ – Nguyên",
+    "why": "Cuộc xâm lược năm 1258 là của quân Mông Cổ; nhà Nguyên mãi tháng 12/1271 mới lập quốc hiệu Đại Nguyên, nên gọi chung cả ba lần là “quân Nguyên” là sai niên đại.",
+    "wordcount": "Bối cảnh 57 -> 59 (≤ 60)"
+  },
+  {
+    "id": "CH90-CE10_14-01",
+    "finding": "2, 3",
+    "severity": "sai",
+    "old": "Bản kỷ, quyển 5; Keith W. Taylor, A History of the Vietnamese (2013), chương 2.",
+    "new": "Ngoại kỷ, quyển 5; Keith W. Taylor, A History of the Vietnamese (2013), chương 1.",
+    "why": "Kỷ Nhà Ngô nằm ở Ngoại kỷ quyển 5 (Bản kỷ quyển 5 là kỷ nhà Trần), và trong mục lục bản in Cambridge 2013 thì Ngô Quyền thuộc chương 1 “The provincial era” (mục “A lesser empire”, tr. 44), không phải chương 2.",
+    "wordcount": ""
+  },
+  {
+    "id": "CH90-CE10_14-02",
+    "finding": "4",
+    "severity": "sai",
+    "old": "đặt quốc hiệu Đại Cồ Việt, niên hiệu Thái Bình, định đô Hoa Lư",
+    "new": "đặt quốc hiệu Đại Cồ Việt và định đô Hoa Lư, đến năm 970 mới đặt niên hiệu Thái Bình",
+    "why": "Xưng đế, đặt quốc hiệu và định đô là năm 968, nhưng niên hiệu Thái Bình bắt đầu từ năm Canh Ngọ 970, nên gộp chung vào 968 là sai.",
+    "wordcount": "ideas 105 -> 111"
+  },
+  {
+    "id": "CH90-CE10_14-03",
+    "finding": "19, 20",
+    "severity": "dangngo",
+    "old": "ông là cố vấn của Lê Đại Hành rồi là người chủ mưu đưa Lý Công Uẩn — học trò ông nuôi dạy từ nhỏ — lên ngôi năm 1009, gần như không đổ máu. Bài kệ \"thân như bóng chớp, có rồi không\" của ông là một trong những văn bản văn học Việt Nam sớm nhất còn nguyên.",
+    "new": "ông là cố vấn của Lê Đại Hành rồi là người chủ mưu đưa Lý Công Uẩn — do Lý Khánh Văn nuôi, do ông dạy ở chùa Lục Tổ — lên ngôi năm 1009, gần như không đổ máu. Bài kệ \"thân như bóng chớp, có rồi không\" của ông thuộc lớp thơ thiền sớm nhất của người Việt, sau Quốc tộ của Đỗ Pháp Thuận và Vương lang quy của Khuông Việt, và chỉ còn qua Thiền uyển tập anh.",
+    "why": "Lý Công Uẩn lên ba được thiền sư Lý Khánh Văn nhận làm con nuôi, đến tuổi đi học mới sang chùa Lục Tổ học Vạn Hạnh — Vạn Hạnh là thầy học chứ không nuôi từ nhỏ; và bài kệ không phải văn bản sớm nhất còn nguyên vì Quốc tộ, Vương lang quy có trước, lại chỉ truyền qua Thiền uyển tập anh (bản in còn lại là ván khắc Vĩnh Thịnh 1715).",
+    "wordcount": "ideas 106 -> 123"
+  },
+  {
+    "id": "CH90-CE10_14-03",
+    "finding": "18",
+    "severity": "dangngo",
+    "old": "Niên đại để Trung bình vì năm sinh chỉ được suy ra từ tuổi thọ chép trong Thiền uyển tập anh.",
+    "new": "Niên đại để Trung bình vì năm sinh chỉ suy ra từ tuổi thọ chép trong Thiền uyển tập anh; năm mất thì bản truyền lại chép Thuận Thiên 16 (1025), còn Trần Văn Giáp hiệu đính thành 1018, trùng với ĐVSKTT.",
+    "why": "Hai truyền bản về năm mất: bản Thiền uyển tập anh truyền lại chép Thuận Thiên 16 (1025) — đúng với Wikidata Q1076219 và với trường năm hiện tại — còn con số 1018 phổ biến trong sách tra cứu là do Trần Văn Giáp hiệu đính, có ĐVSKTT hậu thuẫn; nêu cả hai thay vì chọn ngầm một.",
+    "wordcount": "why 76 -> 97"
+  },
+  {
+    "id": "CH90-CE10_14-04",
+    "finding": "5",
+    "severity": "sai",
+    "old": "Chiếu dời đô nêu lý do bằng lập luận địa lý và kinh tế — đất bằng rộng, tiện đường sông, dân cư không khổ vì ngập lụt — chứ không bằng điềm triệu, một văn bản hành chính hiếm hoi còn lại của thế kỷ 11.",
+    "new": "Chiếu dời đô dựng lý lẽ hai tầng: viện tiền lệ Thương – Chu, mệnh trời và thế \"rồng cuộn hổ ngồi\" để chính danh, rồi tả Đại La bằng con mắt thực dụng — đất bằng rộng, tiện đường sông, dân cư không khổ vì ngập lụt. Vế sau ấy hiếm trong văn thư thế kỷ 11.",
+    "why": "Nguyên văn chữ Hán có đủ 昔商家至盤庚五遷，周室迨成王三徙 / 忽天命 / 上謹天命，下因民志 và công thức phong thủy 得龍蟠虎踞之勢, nên nói chiếu “không lập luận bằng điềm triệu” là ngược với văn bản; lập luận địa lý – kinh tế có thật nhưng đi kèm chứ không thay thế.",
+    "wordcount": "ideas 109 -> 120"
+  },
+  {
+    "id": "CH90-CE10_14-05",
+    "finding": "14",
+    "severity": "dangngo",
+    "old": "lĩnh vực: Quân sự, Văn học",
+    "new": "lĩnh vực: Quân sự",
+    "why": "Không thư tịch cổ nào ghi tác giả Nam quốc sơn hà và SGK hiện hành để khuyết danh, nên gán lĩnh vực Văn học cho ông là ngầm nhận tác quyền mà học giới không xác nhận; bỏ trường này, nhóm vẫn còn 6 lĩnh vực (≥ 4).",
+    "wordcount": ""
+  },
+  {
+    "id": "CH90-CE10_14-05",
+    "finding": "15",
+    "severity": "dangngo",
+    "old": "Năm 1075 ông chủ động đánh sang Ung Châu và Khâm Châu để phá thế chuẩn bị xâm lược của nhà Tống",
+    "new": "Cuối năm 1075 ông chủ động đánh sang đất Tống để phá thế chuẩn bị xâm lược, hạ Khâm Châu rồi phá Ung Châu tháng 3/1076",
+    "why": "Chiến dịch mở cuối 1075 (Khâm Châu thất thủ 30/12/1075) nhưng quân Lý tới Ung Châu 18/1/1076 và hạ thành 1/3/1076, nên quy cả hai vào năm 1075 và đảo thứ tự Ung – Khâm là sai.",
+    "wordcount": ""
+  },
+  {
+    "id": "CH90-CE10_14-05",
+    "finding": "14",
+    "severity": "dangngo",
+    "old": "Bài thơ \"Nam quốc sơn hà\" gắn với trận này được coi là tuyên ngôn chủ quyền sớm nhất của Việt Nam, khẳng định biên giới là điều đã định trong \"thiên thư\", tức lập luận chính danh chứ không chỉ sức mạnh.",
+    "new": "Bài thơ \"Nam quốc sơn hà\" gắn với trận này được coi là tuyên ngôn chủ quyền sớm nhất của người Việt, dù không thư tịch cổ nào ghi tác giả và truyền thuyết sớm còn gắn nó với cuộc kháng Tống năm 981; bài thơ khẳng định biên giới là điều đã định trong \"thiên thư\", tức lập luận chính danh chứ không chỉ sức mạnh.",
+    "why": "Trong khoảng 26 dị bản còn lại không bản nào ghi tên Lý Thường Kiệt, truyền thuyết sớm còn đặt bài thơ vào cuộc kháng Tống 981; đây là chỗ khuyết danh chứ không phải đã bác tác quyền, nên nói rõ là không có thư tịch nào ghi tác giả.",
+    "wordcount": ""
+  },
+  {
+    "id": "CH90-CE10_14-05",
+    "finding": "14",
+    "severity": "dangngo",
+    "old": "Về độ bền (b), \"Nam quốc sơn hà\" vẫn là văn bản được trích nhiều nhất khi bàn về chủ quyền.",
+    "new": "Về độ bền (b), sau Như Nguyệt nhà Tống không mở cuộc xâm lược nào nữa, và thế trận ấy thành khuôn mẫu cho Trần Hưng Đạo hai thế kỷ sau; \"Nam quốc sơn hà\" thì gắn với chiến dịch của ông hơn là với ngòi bút ông.",
+    "why": "Căn cứ “độ bền” cũ đặt trên một bài thơ khuyết danh, tức ngầm gán tác quyền; chuyển sang hệ quả do chính ông làm ra (nhà Tống bỏ hẳn ý đồ xâm lược sau 1077, phòng tuyến thành khuôn mẫu) và nói rõ quan hệ của ông với bài thơ.",
+    "wordcount": "why 75 -> 101"
+  },
+  {
+    "id": "CH90-CE10_14-06",
+    "finding": "16, 17",
+    "severity": "dangngo",
+    "old": "dựng bộ khung thiết chế đặc trưng của triều Trần: chế độ Thái thượng hoàng để tránh tranh ngôi, hôn nhân nội tộc để giữ quyền lực trong họ, và điền trang thái ấp cấp cho tông thất đổi lấy nghĩa vụ quân sự",
+    "new": "đặt nền cho bộ khung thiết chế đặc trưng của triều Trần: hôn nhân nội tộc để giữ quyền lực trong họ, thái ấp cấp cho tông thất đổi lấy nghĩa vụ quân sự, và lệ Thái thượng hoàng — chính ông dâng sớ xin tôn Trần Thừa làm Thượng hoàng năm 1226, dù sử không chép ông là người thiết kế cả chế độ",
+    "why": "Chế độ điền trang lập bằng chiếu tháng 10 năm 1266, hai năm sau khi ông mất (1264), nên không thể quy cho ông — chỉ thái ấp là có trước; còn lệ Thái thượng hoàng thì ông khởi ra trường hợp đầu (dâng sớ tôn Trần Thừa, 1226) nhưng sử không chép ông thiết kế chế độ.",
+    "wordcount": "ideas 96 -> 120 (gồm cả bản vá mục 6)"
+  },
+  {
+    "id": "CH90-CE10_14-06",
+    "finding": "6",
+    "severity": "sai",
+    "old": "khi quân Nguyên tràn sang ba lần",
+    "new": "khi quân Mông Cổ rồi quân Nguyên tràn sang ba lần",
+    "why": "Lần thứ nhất (1258) là quân Mông Cổ: nhà Nguyên chỉ lập năm 1271.",
+    "wordcount": ""
+  },
+  {
+    "id": "CH90-CE10_14-06",
+    "finding": "6",
+    "severity": "sai",
+    "old": "khi quân Nguyên áp sát",
+    "new": "khi quân Mông Cổ tràn vào Thăng Long đầu năm 1258",
+    "why": "Câu nói với Trần Thái Tông ở cuộc kháng chiến lần thứ nhất, tháng 1/1258, khi quân Mông Cổ của Ngột Lương Hợp Thai tiến vào; Trần Thủ Độ mất 1264, không sống qua thời nhà Nguyên (lập 1271) lẫn hai cuộc 1285, 1287–1288.",
+    "wordcount": "why 89 -> 95"
+  },
+  {
+    "id": "CH90-CE10_14-06",
+    "finding": "7",
+    "severity": "sai",
+    "old": "Keith W. Taylor, A History of the Vietnamese (2013), chương 4.",
+    "new": "Keith W. Taylor, A History of the Vietnamese (2013), chương 3.",
+    "why": "Mục lục bản Cambridge 2013: chương 3 là “The Tran dynasty”, mở đầu bằng chính mục “Tran Thu Do” (tr. 108); chương 4 là “The Le dynasty”.",
+    "wordcount": ""
+  },
+  {
+    "id": "CH90-CE10_14-07",
+    "finding": "21",
+    "severity": "dangngo",
+    "old": "hai cuộc kháng chiến chống Nguyên 1285 và 1288",
+    "new": "hai cuộc kháng chiến chống Nguyên 1285 và 1287–1288",
+    "why": "Cuộc thứ ba kéo từ tháng 12/1287 đến tháng 4/1288, gọi theo lệ chuẩn là 1287–1288 chứ không chỉ 1288.",
+    "wordcount": ""
+  },
+  {
+    "id": "CH90-CE10_14-07",
+    "finding": "8",
+    "severity": "sai",
+    "old": "Hịch tướng sĩ của ông là văn bản động viên quân đội sớm nhất còn lại, và Binh thư yếu lược là trước tác quân sự riêng đầu tiên của Việt Nam. Lời dặn cuối đời — khoan thư sức dân làm kế sâu rễ bền gốc — tóm lại toàn bộ quan niệm của ông về quốc phòng.",
+    "new": "Hịch tướng sĩ là văn bản động viên quân đội sớm nhất còn lại; binh thư ông soạn thì đã thất truyền — văn bản mang tên Binh thư yếu lược lưu hành ngày nay được khảo cứu xác định là soạn muộn, không sớm hơn 1869. Lời dặn cuối đời — khoan thư sức dân làm kế sâu rễ bền gốc — tóm lại quan niệm quốc phòng của ông.",
+    "why": "Ngô Đức Thọ (1986) kết luận văn bản Binh thư yếu lược còn lại là ngụy thư do người đời sau soạn, sớm nhất là 1869, nên không thể nêu như trước tác thời Trần; bộ binh thư sử chép của ông (kể cả Vạn Kiếp tông bí truyền thư) đều đã mất.",
+    "wordcount": "ideas 115 -> 127"
+  },
+  {
+    "id": "CH90-CE10_14-07",
+    "finding": "9",
+    "severity": "sai",
+    "old": "ông là người hoạch định toàn cục cả ba lần",
+    "new": "ông dự cả ba lần chống xâm lược, và từ khi được phong Quốc công tiết chế tháng 10/1283 thì là người hoạch định toàn cục hai lần sau",
+    "why": "Năm 1257 ông chỉ được giao tiết chế quân phòng thủ biên giới phía bắc; chức Quốc công tiết chế thống lĩnh quân đội cả nước là tháng 10/1283 — nên “hoạch định toàn cục cả ba lần” vừa sai vừa mâu thuẫn với câu mở đầu cùng mục (“Tổng chỉ huy trong hai cuộc kháng chiến”).",
+    "wordcount": "why 74 -> 93"
+  },
+  {
+    "id": "CH90-CE10_14-07",
+    "finding": "8",
+    "severity": "sai",
+    "old": "Hịch tướng sĩ; Binh thư yếu lược.",
+    "new": "Hịch tướng sĩ; Ngô Đức Thọ, \"Đi tìm nguồn gốc và năm xuất hiện của văn bản Binh thư yếu lược\" (1986).",
+    "why": "Dùng chính văn bản bị xác định là ngụy thư muộn làm nguồn cho một nhân vật thế kỷ 13 là lỗi phương pháp; thay bằng khảo cứu văn bản học đã xác định niên đại của nó.",
+    "wordcount": ""
+  },
+  {
+    "id": "CH90-CE10_14-08",
+    "finding": "22",
+    "severity": "dangngo",
+    "old": "Cư trần lạc đạo phú; Đại Việt sử ký toàn thư, Bản kỷ, quyển 6.",
+    "new": "Cư trần lạc đạo phú; Đại Việt sử ký toàn thư, Bản kỷ, quyển 5–6.",
+    "why": "Triều Trần Nhân Tông (1278–1293) nằm ở Bản kỷ quyển 5 (kết thúc năm 1293); quyển 6 là kỷ Anh Tông – Minh Tông (1293–1329) và chứa việc ông mất năm 1308, nên phải dẫn cả quyển 5–6.",
+    "wordcount": ""
+  },
+  {
+    "id": "CH90-CE10_14-09",
+    "finding": "10",
+    "severity": "sai",
+    "old": "Năm 1339 ông dâng Thất trảm sớ xin chém bảy gian thần; vua không nghe",
+    "new": "Dưới triều Trần Dụ Tông (ĐVSKTT không ghi năm, niên đại thường dẫn là 1358), ông dâng Thất trảm sớ xin chém bảy gian thần; vua không nghe",
+    "why": "Thất trảm sớ dâng lên Trần Dụ Tông (trị vì 1341–1369), niên đại quy ước là 1358; năm 1339 thuộc đời Trần Hiến Tông — khi ấy Dụ Tông mới sinh được ba năm — và ĐVSKTT chỉ chép việc này trong mục cáo phó năm 1370 chứ không ghi năm.",
+    "wordcount": "ideas 95 -> 108"
+  },
+  {
+    "id": "CH90-CE10_14-10",
+    "finding": "11, 12",
+    "severity": "sai",
+    "old": "Ông tiến hành gói cải cách triệt để nhất của thời quân chủ Việt Nam: phát hành tiền giấy Thông bảo hội sao thay tiền đồng, hạn điền và hạn nô để phá thế lực điền trang quý tộc Trần, lập sổ hộ tịch toàn quốc, mở trường và đưa chữ Nôm vào thi cử cùng khoa toán. Ông cũng cho dịch Kinh Thi, Kinh Thư sang chữ Nôm.",
+    "new": "Gói cải cách triệt để nhất thời quân chủ Việt Nam: phát hành tiền giấy Thông bảo hội sao thay tiền đồng, hạn điền, hạn nô phá thế lực điền trang quý tộc Trần, lập sổ hộ tịch toàn quốc, mở trường, định phép thi tứ trường (1396), thêm kỳ thi viết chữ và toán pháp (1404). Khoa cử vẫn thi bằng chữ Hán; chữ Nôm ông dùng ở chỗ khác: dịch thiên Vô dật của Kinh Thư (1395) dạy vua, soạn Quốc ngữ Thi nghĩa giải Kinh Thi (1396), bài tựa cãi lại Chu Hy.",
+    "why": "Khoa cử thời Hồ vẫn thi hoàn toàn bằng chữ Hán — cải cách thi thật sự là phép tứ trường năm 1396 và kỳ thi viết chữ, thi toán năm 1404; còn phần chữ Nôm thì ông chỉ dịch thiên Vô dật của Kinh Thư (1395) và soạn Quốc ngữ Thi nghĩa giải nghĩa Kinh Thi (1396), không dịch trọn hai bộ kinh.",
+    "wordcount": "ideas 101 -> 126"
+  },
+  {
+    "id": "CH90-CE10_14-10",
+    "finding": "11",
+    "severity": "sai",
+    "old": "Ông được chọn theo tính nguyên bản (c): tiền giấy và hạn điền là những thử nghiệm chưa từng có ở Đại Việt, và việc đưa chữ Nôm vào khoa cử là nỗ lực sớm nhất dùng ngôn ngữ bản địa làm phương tiện học thuật chính thức.",
+    "new": "Ông được chọn theo tính nguyên bản (c): tiền giấy và hạn điền là thử nghiệm chưa từng có ở Đại Việt. Chữ Nôm ông mới đẩy được vào sách dịch và sách dạy trong cung, chưa vào nổi trường thi — bước ấy phải đợi Quang Trung gần bốn thế kỷ sau, nhưng ý định dùng tiếng bản địa làm phương tiện học thuật bắt đầu từ đây.",
+    "why": "Căn cứ “tính nguyên bản” cũ dựa hẳn vào một việc không có thật (chữ Nôm vào khoa cử); dựng lại lập luận trên cái ông làm thật — đẩy chữ Nôm vào sách dịch và sách dạy trong cung — và giữ nguyên mạch so sánh với Quang Trung, người mới thực sự đưa chữ Nôm vào khoa cử và công văn.",
+    "wordcount": "why 81 -> 103"
+  },
+  {
+    "id": "CH90-CE10_14-10",
+    "finding": "13",
+    "severity": "sai",
+    "old": "Keith W. Taylor, A History of the Vietnamese (2013), chương 5.",
+    "new": "Keith W. Taylor, A History of the Vietnamese (2013), chương 3–4.",
+    "why": "Chương 5 là “The beginning of inter-regional warfare” (thế kỷ 16); Hồ Quý Ly nằm ở cuối chương 3 (mục “Le Quy Ly”, tr. 157) và đầu chương 4 (mục “Ho Quy Ly”, tr. 170, rồi “Ming Giao Chi”, tr. 177).",
+    "wordcount": ""
+  }
+]

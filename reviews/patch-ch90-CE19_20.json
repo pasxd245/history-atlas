@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CH90-CE19_20-09",
+    "finding": "1",
+    "severity": "sai",
+    "old": "Tôn Thất Tùng, \"Une nouvelle technique d'hépatectomie\", Presse Médicale (1963)",
+    "new": "Tôn Thất Tùng & Nguyễn Dương Quang, \"A new technique for operating on the liver\", The Lancet 281 (1963), tr. 192–193",
+    "why": "Bài báo 1963 công bố phương pháp là trên The Lancet 1963;281(7274):192–193, đồng tác giả Nguyễn Dương Quang — không có bài nào tên \"Une nouvelle technique d'hépatectomie\" trên Presse Médicale; đã đối chiếu trích dẫn trong PMC8489969 (\"Tung TT, Quang ND. Lancet 1963;281:192–3\").",
+    "wordcount": ""
+  },
+  {
+    "id": "CH90-CE19_20-05",
+    "finding": "2",
+    "severity": "sai",
+    "old": "sau khi Nhật trục xuất du học sinh năm 1909, đường lối này thất bại",
+    "new": "sau khi Nhật, theo thoả thuận với Pháp, trục xuất du học sinh năm 1908 rồi trục xuất chính ông đầu năm 1909, đường lối này thất bại",
+    "why": "Du học sinh Đông Du bị Nhật giải tán và trục xuất tháng 8–10/1908 sau thoả thuận Pháp–Nhật; riêng Cường Để (11/1908) và Phan Bội Châu (2–3/1909) mới bị trục xuất sau — đã kiểm Wikipedia tiếng Việt \"Phong trào Đông Du\" và baotanglichsu.vn.",
+    "wordcount": "ideas 113 -> 126"
+  },
+  {
+    "id": "CH90-CE19_20-02",
+    "finding": "3, 4, 6, 7",
+    "severity": "sai",
+    "old": "Sau hai mươi lăm năm lưu vong và giao tranh, ông thống nhất toàn bộ lãnh thổ từ Lạng Sơn tới Hà Tiên năm 1802 — lần đầu một chính quyền duy nhất kiểm soát dải đất tương ứng Việt Nam ngày nay — và đặt quốc hiệu Việt Nam. Ông lập kinh đô Huế, cho đo đạc địa bạ toàn quốc, mở đường thiên lý Bắc Nam, và khởi soạn bộ Hoàng Việt luật lệ. Việc ông dựa vào viện trợ Pháp qua giám mục Pigneau de Béhaine, và các vua kế tục đóng cửa với phương Tây, là hai quyết định còn được tranh luận gay gắt.",
+    "new": "Sau hai mươi lăm năm giao tranh, ông thống nhất lãnh thổ từ Lạng Sơn tới Hà Tiên năm 1802 — lần đầu một chính quyền duy nhất kiểm soát dải đất tương ứng Việt Nam ngày nay. Quốc hiệu Việt Nam (1804) do nhà Thanh đảo ngược tên \"Nam Việt\" ông xin phong, để khỏi trùng nước của Triệu Đà. Ông đóng đô ở Huế, lập địa bạ Bắc Hà (1805), tu bổ, nối dài đường thiên lý, khởi soạn Hoàng Việt luật lệ. Việc ông cầu viện Pháp — hiệp ước Versailles 1787 không được thi hành, chỉ dưới trăm lính tình nguyện Pigneau de Béhaine quyên tiền chiêu mộ — và việc các vua sau đóng cửa với phương Tây còn gây tranh luận gay gắt.",
+    "why": "Bốn điểm trong cùng một đoạn nên sửa gộp để giữ dưới 130 chữ: quốc hiệu Việt Nam ban chiếu năm 1804 và là tên nhà Thanh đảo từ \"Nam Việt\" Gia Long xin phong (không phải 1802, không phải ông tự đặt); hiệp ước Versailles 1787 chưa bao giờ được thi hành (Conway từ chối), Pigneau quyên tiền tư nhân chiêu mộ chưa tới 100 người (đỉnh điểm ~14 sĩ quan, ~80 lính — Wikipedia EN \"French assistance to Nguyễn Ánh\"); địa bạ bắt đầu ở Bắc Hà 1805, Nam Kỳ mãi 1836 thời Minh Mạng mới lập nên không phải \"toàn quốc\" (baotanglichsu.vn); đường thiên lý có từ trước, Gia Long tu bổ và nối dài (1809 làm đường Quảng Nam–Bình Thuận, 1810 đặt trạm) chứ không \"mở\" mới.",
+    "wordcount": "ideas 109 -> 129"
+  },
+  {
+    "id": "CH90-CE19_20-03",
+    "finding": "8",
+    "severity": "dangngo",
+    "old": "UNESCO vinh danh bà năm 2021 nhân 250 năm sinh.",
+    "new": "Năm 2021 UNESCO ra nghị quyết cùng kỷ niệm 250 năm sinh và 200 năm mất của bà trong hai năm 2022–2023.",
+    "why": "Nghị quyết 41C/15 của Đại hội đồng UNESCO khoá 41 (11/2021) là \"cùng tham gia kỷ niệm\" 250 năm sinh và 200 năm mất trong 2022–2023, không trao danh hiệu và lễ kỷ niệm không diễn ra năm 2021 — đã kiểm vietnamnews.vn, nhandan.vn.",
+    "wordcount": "ideas 107 -> 119"
+  },
+  {
+    "id": "CH90-CE19_20-07",
+    "finding": "9",
+    "severity": "dangngo",
+    "old": "Sau ba mươi năm ở nước ngoài, ông sáng lập Đảng Cộng sản Việt Nam năm 1930, lập Việt Minh năm 1941 và đọc Tuyên ngôn độc lập ngày 2 tháng 9 năm 1945, lập nước Việt Nam Dân chủ Cộng hoà. Đóng góp đặc trưng của ông là gắn chủ nghĩa cộng sản với chủ nghĩa dân tộc thành một cương lĩnh tập hợp rộng, thay vì đấu tranh giai cấp thuần tuý — công thức mà nhiều phong trào giải phóng dân tộc ở châu Á và châu Phi sau đó tham khảo. Bản yêu sách gửi Hội nghị Versailles năm 1919 là lần đầu vấn đề Việt Nam được nêu tại một diễn đàn quốc tế.",
+    "new": "Năm 1919, ông cùng Phan Châu Trinh, Phan Văn Trường soạn Yêu sách của nhân dân An Nam ký tên chung Nguyễn Ái Quốc; Hội nghị Versailles không tiếp nhận, nhưng qua báo L'Humanité, vấn đề Việt Nam lần đầu ra dư luận quốc tế. Ông sáng lập Đảng Cộng sản Việt Nam năm 1930, về nước sau ba mươi năm lập Việt Minh năm 1941, và đọc Tuyên ngôn độc lập 2/9/1945, lập Việt Nam Dân chủ Cộng hoà. Đóng góp đặc trưng của ông: gắn chủ nghĩa cộng sản với chủ nghĩa dân tộc thành cương lĩnh tập hợp rộng, thay vì đấu tranh giai cấp thuần tuý — công thức nhiều phong trào giải phóng dân tộc ở châu Á và châu Phi tham khảo.",
+    "why": "Bản Yêu sách 1919 chưa từng được Hội nghị Versailles tiếp nhận hay đưa vào nghị trình — nó được gửi bưu điện tới các phái đoàn (thư gửi Lansing 18/6/1919 còn lưu tại NARA/docsteach.org) và đăng L'Humanité; và là sản phẩm chung của Nhóm người An Nam yêu nước (Phan Châu Trinh, Phan Văn Trường, Nguyễn Tất Thành) dưới bút danh tập thể Nguyễn Ái Quốc. Đoạn được sắp lại theo trình tự thời gian để câu 1919 đủ chỗ nêu cả hai điểm mà vẫn giữ ý nghĩa \"lần đầu ra trước dư luận quốc tế\" và giữ nguyên câu về cương lĩnh.",
+    "wordcount": "ideas 119 -> 128"
+  },
+  {
+    "id": "CH90-CE19_20-08",
+    "finding": "10, 11",
+    "severity": "dangngo",
+    "old": "Vốn là giáo viên lịch sử không qua trường quân sự, ông chỉ huy quân đội Việt Nam từ 1944. Ở Điện Biên Phủ năm 1954, quyết định đổi phương châm từ \"đánh nhanh thắng nhanh\" sang \"đánh chắc tiến chắc\" — kéo pháo ra, chuẩn bị thêm hai tháng, đào hệ hào siết dần vòng vây — là bước ngoặt dẫn tới chiến thắng. Ông hệ thống hoá học thuyết chiến tranh nhân dân ba thứ quân, kết hợp du kích với tác chiến chính quy và hậu cần dân công. Điện Biên Phủ là lần đầu một quân đội thuộc địa đánh bại một quân đội châu Âu trong trận địa chiến quy ước.",
+    "new": "Giáo viên lịch sử không qua trường quân sự, ông chỉ huy quân đội từ 1944. Tại Điện Biên Phủ 1954, quyết định đổi phương châm từ \"đánh nhanh thắng nhanh\" sang \"đánh chắc tiến chắc\" — kéo pháo ra, chuẩn bị thêm gần bảy tuần, đào hệ hào siết dần vòng vây — là bước ngoặt. Ông hệ thống hoá học thuyết chiến tranh nhân dân ba thứ quân, kết hợp du kích, chính quy và hậu cần dân công. Điện Biên Phủ là lần đầu một phong trào độc lập thuộc địa đi từ du kích lên quân đội chính quy rồi thắng một quân đội phương Tây hiện đại trong trận địa chiến; Adwa 1896 là chiến thắng của Ethiopia, một nước độc lập.",
+    "why": "Hai điểm trong cùng đoạn, sửa gộp để giữ dưới 130 chữ. (10) Câu \"lần đầu một quân đội thuộc địa đánh bại một quân đội châu Âu\" không đứng vững trước Adwa 1896 (Ethiopia của Menelik II thắng Ý trong trận địa chiến quy ước) và Isandlwana 1879; điều cứu được luận điểm là Ethiopia và Zulu không phải thuộc địa, nên viết lại theo công thức Martin Windrow — phong trào độc lập thuộc địa đi từ du kích lên quân đội quy ước rồi thắng một quân đội phương Tây hiện đại trong trận địa chiến — và nêu Adwa làm mốc so sánh; đã kiểm nguyên văn Windrow qua Wikipedia EN \"Battle of Dien Bien Phu\". (11) Lệnh kéo pháo ra 26/1/1954, nổ súng 13/3/1954 = 46 ngày, nên \"hai tháng\" làm tròn lên (nhandan.vn, vnexpress.net).",
+    "wordcount": "ideas 116 -> 127"
+  },
+  {
+    "id": "CH90-CE19_20-08",
+    "finding": "10",
+    "severity": "dangngo",
+    "old": "Bernard B. Fall, Hell in a Very Small Place (1966).",
+    "new": "Bernard B. Fall, Hell in a Very Small Place (1966); Martin Windrow, The Last Valley (2004).",
+    "why": "Bổ sung nguồn cho công thức \"lần đầu\" vừa được viết lại theo Windrow, để người đọc tra được xuất xứ của luận điểm.",
+    "wordcount": ""
+  },
+  {
+    "id": "CH90-CE19_20-10",
+    "finding": "13",
+    "severity": "dangngo",
+    "old": "bị cả hai miền từ chối cho về nước suốt gần bốn mươi năm",
+    "new": "bị cả hai miền, rồi từ 1975 là nhà nước thống nhất, từ chối cho về nước suốt ba mươi chín năm",
+    "why": "Cả hai chính quyền Bắc và Nam từ chối cho ông về chỉ đúng cho 1966–1975; sau 1975 chỉ còn CHXHCN Việt Nam từ chối tới 2005 (39 năm) — đã kiểm plumvillage.org và encyclopedia.com.",
+    "wordcount": "ideas 103 -> 111"
+  },
+  {
+    "id": "CH90-CE19_20-04",
+    "finding": "5",
+    "severity": "sai",
+    "old": "Gia Định báo (1869–1897)",
+    "new": "Gia Định báo (1865–1909), giai đoạn ông làm chủ bút 1869–k. 1872",
+    "why": "Gia Định báo ra số đầu 15/4/1865 và đình bản 31/12/1909; Trương Vĩnh Ký chỉ làm chủ bút từ 16/9/1869 tới khoảng 1872 (Potteaux trở lại 1872), nên khoảng 1869–1897 không ứng với mốc nào — đã kiểm Wikipedia EN \"Gia Dinh Bao\", Tuổi Trẻ \"Bếp núc tờ Gia Định báo\".",
+    "wordcount": ""
+  },
+  {
+    "id": "CH90-CE19_20-10",
+    "finding": "12",
+    "severity": "dangngo",
+    "old": "Phép lạ của sự tỉnh thức (1974)",
+    "new": "Phép lạ của sự tỉnh thức (viết 1974, in lần đầu 1975)",
+    "why": "1974 là năm viết bức thư gửi Trường Thanh niên Phụng sự Xã hội; bản in đầu là An Tiêm tháng 2/1975, Lá Bối tái bản 1976 — đã kiểm langmai.org và budsas.org.",
+    "wordcount": ""
+  },
+  {
+    "id": "CH90-CE19_20-07",
+    "finding": "TL3 (review-ch90.md)",
+    "severity": "trunglap",
+    "old": "với góc nhìn phi thực dân hoá.",
+    "new": "với góc nhìn phi thực dân hoá. Cải cách ruộng đất 1953–1956 dưới chính phủ do ông đứng đầu gây hàng loạt án oan; ông công khai nhận sai tháng 8/1956.",
+    "why": "TUỲ CHỌN, owner quyết riêng: thêm một câu ghi mặt trái theo đúng thể thức mục Trần Thủ Độ (nêu đích danh sự việc, không bình luận). Luật cải cách ruộng đất do ông ký 12/1953; Hội nghị TƯ 10 (9/1956) kết luận sai lầm nghiêm trọng, Trường Chinh từ chức Tổng Bí thư; thư Hồ Chí Minh gửi đồng bào nông thôn 18/8/1956 thừa nhận sai lầm — đã kiểm Wikipedia tiếng Việt \"Cải cách ruộng đất tại miền Bắc Việt Nam\" và nhandan.vn.",
+    "wordcount": "why 79 -> 103"
+  },
+  {
+    "id": "CH90-CE19_20-08",
+    "finding": "TL3 (review-ch90.md)",
+    "severity": "trunglap",
+    "old": "Algérie và châu Phi.",
+    "new": "Algérie và châu Phi. Ba đợt tấn công đồng bằng Bắc Bộ năm 1951 (Vĩnh Yên, Mạo Khê, sông Đáy) đều thất bại, tổn thất nặng; mức thương vong ông chấp nhận là điểm tranh luận nhất.",
+    "why": "TUỲ CHỌN, owner quyết riêng: thêm một câu ghi mặt trái cùng thể thức mục Trần Thủ Độ. Ba cuộc tấn công 1951 vào phòng tuyến de Lattre đều thất bại (riêng Vĩnh Yên ước 6.000 tử trận); Bernard Fall và Martin Windrow đều bàn về mức thương vong ông sẵn sàng chấp nhận — đã kiểm Wikipedia EN \"Battle of Vĩnh Yên\", \"Battle of Mạo Khê\", \"Battle of the Day River\".",
+    "wordcount": "why 70 -> 103"
+  }
+]

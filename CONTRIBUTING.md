@@ -107,7 +107,7 @@ Muốn đổi ảnh thì dùng `content/images.yaml` (`overrides.<ID>.file` / `.
    - độ phủ lĩnh vực/vùng của từng nhóm;
    - thiên lệch vùng và thiên lệch quan điểm ở các giai đoạn tranh luận.
 
-   Kết quả ghi vào `reports/review-chNN.md`. Sửa theo kết quả rồi mới commit. Lý do quy trình này tồn tại: phần văn xuôi do model viết, mà model thì tự tin kể cả khi sai — một lượt kiểm của bên thứ hai là lớp bảo vệ duy nhất có thật.
+   Kết quả ghi vào `reviews/review-chNN.md`. Sửa theo kết quả rồi mới commit. Lý do quy trình này tồn tại: phần văn xuôi do model viết, mà model thì tự tin kể cả khi sai — một lượt kiểm của bên thứ hai là lớp bảo vệ duy nhất có thật.
 9. Commit. Cứ 3 chapter → ZIP checkpoint.
 
 ## Code

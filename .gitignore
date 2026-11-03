@@ -2,5 +2,7 @@ __pycache__/
 *.pyc
 .DS_Store
 
-# báo cáo sinh ra mỗi lần build
+# output sinh lại mỗi lần chạy: build.py ghi lint-chXX.txt + stats.txt,
+# fetch_images.py ghi images-review.txt. Báo cáo bình duyệt viết tay
+# KHÔNG nằm ở đây mà ở reviews/, và có version-control.
 reports/

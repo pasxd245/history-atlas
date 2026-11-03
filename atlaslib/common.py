@@ -25,7 +25,7 @@ PROJECT = {
     "reference_year": 2026,
     "max_per_group": 12,
     "living_min_influence_years": 10,
-    "user_agent": "history-atlas/0.1 (personal research project) python-urllib",
+    "user_agent": "history-atlas/0.1 (research)",
 }
 
 # ---- PLAN §4: chapter → nhóm. Nhóm = 1 thế kỷ, trước TK 8 TCN gộp 3 thế kỷ.
