@@ -1167,3 +1167,707 @@ Chuỗi sứ bộ **khởi** ở thập niên 790 nhưng **vắt qua** mốc 800
 - **"khởi từ thập niên 790" chịu được cả hai mốc** 797 (sứ bộ đầu) và 801/802
   (voi), nên không phải chọn phe giữa 801 và 802 ✔ — một chi tiết đáng giữ, vì
   chính hai mốc ấy còn đang vênh trong các nguồn.
+
+---
+
+## Ca 29 — `ch05-ce08-notes-review-1.md:74` · chuỗi truyền của khung 788–820
+
+**Câu trong repo** (`content/ch05.md:1145`):
+> C.P. Tiele (Cornelis Petrus Tiele, 1830–1902) lấy nó từ chuyên luận
+> *Āryavidyā-sudhākara* của **Yajñeśvara Śāstrī**, vốn dẫn lại
+> *Śaṅkara-mandāra-saurabha* của **Bhaṭṭa Nīlakaṇṭha* — rồi Max Müller,
+> Macdonell, Deussen và Radhakrishnan chấp nhận theo lệ.
+
+**Phát hiện cũ:** `[KHÔNG KIỂM ĐƯỢC]` — *"tài liệu tham khảo phổ thông tôi mở
+được… **không** chứa hai nhan đề lẫn hai tên người ấy"*, và cảnh báo rằng nếu
+vòng sau không xác minh được thì **phải bỏ chuỗi hoặc gắn nhãn chưa kiểm**.
+
+**Tra ngoài — vòng này tìm được nguồn, và nó khớp từng mắt xích.** Natalia
+Isayeva, *Shankara and Indian Philosophy* (1993), chương tiểu sử:
+> "Tiele… suggested as a probable date of Sankara's life an interval
+> **between 788 and 820**. He based his estimate on the evidence of a later
+> Vedantin, **Yajnesvara Sastri**, who cites in his treatise
+> ***Aryavidya-sudhakar*** … an earlier work by **Bhatta Nilakantha**, entitled
+> ***Sankara-mandara-saurabha***."
+
+Thêm một mắt xích nữa, cùng chiều: Nīlakaṇṭha đặt năm sinh Śaṅkara là **Kali
+3889 = 788 CN**. Và danh sách người chấp nhận theo lệ cũng khớp: en.wikipedia
+"Adi Shankara" chép *"following **K.P. Tiele**, and was customarily accepted by
+scholars such as **Max Müller, Macdonnel**, Pathok, **Deussen and
+Radhakrishna**"*.
+
+**Kết luận: KHÔNG CẦN SỬA, và dấu `[KHÔNG KIỂM ĐƯỢC]` của vòng trước được GỠ.**
+Chuỗi truyền trong khối đúng cả ba mắt xích, đúng cả bốn tên người chấp nhận
+theo lệ. Vế "đóng góp của giới Đông phương học là **chọn và phổ biến** một niên
+đại vốn có nguồn Ấn Độ, không phải chế ra nó" vì vậy đứng vững — đúng cái vế mà
+báo cáo cũ cảnh báo có thể phải bỏ.
+
+**Hai ghi chú thêm, đều nghiêng về phía repo:**
+1. Repo viết "**C.P.** Tiele (Cornelis Petrus Tiele, 1830–1902)", trong khi cả
+   Isayeva lẫn en.wikipedia viết "**K.P.** Tiele". Repo **đúng hơn**: tên thật
+   là Cornelis Petrus. "K.P." gần như chắc chắn là vết chuyển tự qua tiếng Nga
+   (Корнелис → K). Repo đã làm đúng việc ghi kèm tên đầy đủ, nên không cần sửa.
+2. `k. 700 – k. 750` mà mục dùng khớp nguồn ngoài: *"c. 700 – c. 750 CE:
+   Late 20th-century and early 21st-century scholarship tends to place
+   Shankara's life…"* ✔
+
+---
+
+## Ca 30 — `ch05-ce08-notes-review-1.md:84` · khối bỏ mất cách đọc "Vikramāditya" thứ hai
+
+**Câu trong repo** (`content/ch05.md:1145`):
+> Bản ghi Śṛṅgeri thật sự chỉ nói ông sinh vào năm thứ mười bốn đời một vua tên
+> Vikramāditya mà **không cho biết là Vikramāditya nào**. **Một cách đọc** quy
+> về Vikramāditya II của triều Cālukya (733–746) — nhưng…
+
+**Tra ngoài** — en.wikipedia "Adi Shankara", nguyên văn:
+> "The records of the Sringeri Matha state that Shankara was born in the 14th
+> year of the reign of 'Vikramaditya', but **it is unclear to which king this
+> name refers**. Though **some researchers identify the name with Chandragupta
+> II (4th century CE)**, **modern scholarship accepts** the Vikramaditya as
+> being from the Chalukya dynasty of Badami, most likely **Vikramaditya II
+> (733–746 CE)**."
+
+**Kết luận: NÊN sửa.** Phát hiện cũ đúng. Khối viết "Một cách đọc" ở số ít rồi
+chỉ trình bày một cách đọc, nên người đọc không thấy rằng chính sự **phân tán**
+của tên ấy — từ thế kỷ 4 tới thế kỷ 8 — mới là lý do bản ghi "không chốt được
+gì". Thêm cách đọc thứ hai làm luận điểm của khối **mạnh hơn**, không yếu đi.
+
+**Câu thay thế đề xuất, nguyên văn:**
+> Bản ghi Śṛṅgeri thật sự chỉ nói ông sinh vào năm thứ mười bốn đời một vua tên Vikramāditya mà không cho biết là Vikramāditya nào. Một số nhà nghiên cứu đọc tên ấy là Chandragupta II (thế kỷ 4 CN), tức một Śaṅkara sớm hơn bốn thế kỷ; cách đọc được học giới hiện nay chấp nhận thì quy về Vikramāditya II của triều Cālukya (733–746) — nhưng năm thứ mười bốn của triều ấy rơi vào khoảng 746, tức một Śaṅkara muộn hơn khung mục này dùng, chứ không sớm hơn
+
+**Soi lại câu thay thế:**
+- Khối Ghi chú biên tập không nằm trong `WORD_TARGET` ✔.
+- **Tôi giữ đúng trọng số của nguồn:** "một số nhà nghiên cứu" cho Chandragupta
+  II (nguồn: "some researchers") và "được học giới hiện nay chấp nhận" cho
+  Vikramāditya II (nguồn: "modern scholarship accepts"). Đây là điểm tôi soi
+  kỹ, vì nêu hai cách đọc **ngang hàng** sẽ là một lỗi mới: nguồn nói rõ chúng
+  không ngang hàng.
+- **Bản thay có đụng tới lập luận kế tiếp của khối không?** Không — câu về
+  "triều ấy chỉ dài mười ba tới mười bốn năm, nên 'năm thứ mười bốn' rơi đúng
+  vào cuối triều, một trùng hợp đáng ngờ" giữ nguyên và vẫn nối liền ✔.
+- **Và nó củng cố kết luận của chính khối** ("Bản ghi ấy vì vậy không chốt được
+  gì: nó chỉ loại thế kỷ 5 TCN"): với hai cách đọc cách nhau bốn thế kỷ, câu
+  kết luận ấy nay có hai chân thay vì một ✔.
+
+---
+
+## Ca 31 — `ch05-ce08-notes-review-1.md:182` · chuỗi sử học của ca Jabir
+
+**Câu trong repo** (`content/ch05.md:1151`):
+> Jabir ibn Hayyan: 721–815, con số **721** truy ngược về giả thuyết **Holmyard
+> 1927** mà **Delva 2017** đã tháo rời
+
+**Phát hiện cũ:** `[KHÔNG KIỂM ĐƯỢC]` ở vòng ấy — *"Mối nối 'Trove → Holmyard
+1927' thì không nguồn nào trong repo chứng, và tôi không mở được nó."*
+
+**Tra ngoài — vòng này mở được, và cả ba mắt xích đều khớp.** en.wikipedia
+"Jabir ibn Hayyan":
+1. **Giả thuyết là của Holmyard 1927**, nguyên văn mục thư mục: *"Holmyard,
+   Eric J. (1927). 'An Essay on Jābir ibn Ḥayyān'… (**seminal paper first
+   presenting the hypothesis** that Jabir was the son of a proto-Shi'ite
+   pharmacist called Ḥayyān al-ʿAṭṭār)"*.
+2. **Con số 721 đến từ chính giả thuyết ấy**: *"Because Ḥayyān al-ʿAṭṭār was
+   supposedly executed not long after **721**, the hypothesis even made it
+   possible to **estimate Jabir's date of birth at c. 721**."*
+3. **Delva 2017 tháo rời nó**: *"Delva, Thijs (2017). 'The Abbasid Activist
+   Ḥayyān al-ʿAṭṭār as the Father of Jābir b. Ḥayyān: An Influential Hypothesis
+   Revisited'. *Journal of Abbasid Studies* 4(1): 35–61. (**rejects Holmyard
+   1927's hypothesis** … on the basis of newly available evidence)"*, và lý do:
+   Ḥayyān al-ʿAṭṭār *"probably lived at least until c. 744"* và thuộc bộ lạc
+   Nakhaʿ chứ không phải Azd.
+
+**Kết luận: KHÔNG CẦN SỬA, và dấu `[KHÔNG KIỂM ĐƯỢC]` của vòng trước được GỠ.**
+Câu trong repo đúng từng mắt xích, và đúng cả ở chỗ tinh tế nhất: 721 **không**
+là một niên đại được chứng, nó là một **hệ quả số học** của một giả thuyết về
+cha ông — đúng như khối lập luận.
+
+**Phần kiểm lại và thấy ĐÚNG trong cùng khối:** mệnh đề *"ngay thời Ibn
+al-Nadīm đã có người khẳng định ông chưa từng tồn tại"* khớp nguyên văn nguồn
+ngoài (*"already in Ibn al-Nadīm's time, there were some people who explicitly
+asserted that Jabir had never existed"*) ✔; mốc *Fihrist* **987** ✔.
+
+---
+
+## Ca 32 — `ch05-ce08-notes-review-1.md:281` · bẫy `429 / Varnish` chưa có trong danh sách URL xuyên chapter
+
+**Câu trong repo** (`content/ch05.md:1154`):
+> `doi.org/10.1163/22142371-12340030` (Delva 2017) trả **HTTP 202 với 0 byte**,
+> và `doi.org/10.1017/S0041977X20000014` (Capezzone 2020) trả **HTTP 429** với
+> trang chặn bot của Varnish — **cùng loại bẫy mà ghi chú CE06 đã ghi**.
+
+**Tôi gọi lại cả hai URL hôm nay:**
+
+| URL | mã | kích thước | đích cuối |
+|---|---|---|---|
+| `doi.org/10.1163/22142371-12340030` | **202** | **0 byte** | brill.com/…/article-p35_2.xml |
+| `doi.org/10.1017/S0041977X20000014` | **429** | 1.478 byte | cambridge.org/core/product/… |
+
+Thân trang thứ hai: `<title>429 Too many automated requests from this
+network.</title>`, và chuỗi `Varnish` có trong trang. **Cả hai mô tả trong repo
+đều tái lập được nguyên vẹn** — điều đáng ghi riêng, vì trạng thái máy chủ là
+thứ hay rữa nhất trong mọi ghi chú.
+
+**Đối chiếu hai danh sách bẫy đang tích luỹ:**
+- `ch05.md:1093`: `202`, `405`, `406`, `200`-kèm-trang-chặn, `200`/0-byte không
+  ổn định, JSTOR landing page 3 KB.
+- `ch05.md:1107`: `ctext.org` 200/2.781 byte, JSTOR 200/3.038 byte "Client
+  Challenge", Brill **202 / 0 byte**, Wikisource `404` với `<title>` giống
+  trang thật, Britannica và Iranica `403` qua Cloudflare.
+
+**Không danh sách nào chứa `429`.**
+
+**Kết luận: NÊN sửa.** Phát hiện cũ đúng: nửa đầu câu (202/0 byte của Brill) là
+ca **đã ghi**, nửa sau (429/Varnish của Cambridge) là ca **mới**, nhưng câu
+viết gộp "cùng loại bẫy mà ghi chú CE06 đã ghi" khiến nó không được nhặt vào
+danh sách. Hệ quả cụ thể: một vòng sau gặp `429` sẽ không tìm thấy nó trong
+danh sách và sẽ mất công chẩn lại từ đầu.
+
+**Sửa đề xuất — thêm vào danh sách ở `ch05.md:1107`, nguyên văn dòng thêm:**
+> Cambridge Core trả **429** với trang chặn bot của Varnish (`<title>429 Too many automated requests from this network.</title>`, 1.478 byte) — mã này khác mọi ca trên ở chỗ nó **phụ thuộc tần suất**, nên một lần gọi lại sau đó có thể qua; đừng xếp nó vào "chết hoặc chặn".
+
+**Soi lại đề xuất:**
+- Danh sách URL nằm trong khối Ghi chú biên tập, không có trần chữ ✔.
+- **Tôi thêm một mệnh đề mà báo cáo cũ không có:** `429` **phụ thuộc tần suất**.
+  Đó là điều phân biệt nó với `403`/`404`/`202` trong cùng danh sách, và nếu
+  không nói ra thì dòng mới sẽ sinh đúng cái bẫy bảo trì ngược đã chẩn ở Ca 22
+  (một nguồn dùng được bị loại vĩnh viễn vì một lần gặp 429).
+- Dòng ghi kèm `<title>` và kích thước, tức **kiểm lại được** ✔.
+
+---
+
+## Ca 33 — `ch05-ce08-notes-review-1.md:474` · hai mệnh đề "lớn nhất" trong cùng chapter không cùng phạm vi
+
+**Hai chỗ trong repo:**
+- Khối 7 (Ghi chú biên tập): *"**có lẽ** là biến cố đơn lẻ có hệ quả lớn nhất
+  thế kỷ 8 ở **lục địa Á–Âu**"*.
+- Thân mục `CH05-CE08-09` (`ideas`): *"biến cố lớn nhất thế kỷ 8 ở **Đông Á**"*
+  — không rào.
+
+**Kết luận: NÊN sửa — và cách sửa đã nêu ở Ca 17, không mở thêm phiếu.**
+
+Báo cáo cũ xếp ca này là "không phải lỗi" vì hai câu không mâu thuẫn (một bao
+trùm cái kia) và câu rộng có hedge. Tôi **không đồng ý** ở một điểm, và điểm ấy
+là lý do ca này đáng kết luận chứ không đáng xếp lại vào "chỉ lưu ý": hai câu
+lệch nhau **ở chỗ rào**, không ở chỗ phạm vi. Câu có nguồn đỡ (thân mục, có
+trường `Nguồn`) là câu **không rào**; câu không có nguồn nào đỡ (khối ghi chú)
+lại là câu **có rào**. Đó là hình dạng ngược, và nó nói rằng chữ "có lẽ" đang
+được dùng theo cảm giác từng chỗ chứ không theo tình trạng bằng chứng.
+
+**Việc phải làm vì vậy chỉ có một:** thêm "có lẽ" vào thân mục
+`CH05-CE08-09` — câu thay thế đầy đủ, phép đếm chữ (108 → 111/130) và phần soi
+lại đã viết ở **Ca 17**.
+
+**Chỗ tôi KHÔNG đề xuất, và nói rõ vì sao:** không nới phạm vi thân mục từ
+"Đông Á" lên "Á–Âu" để khớp khối ghi chú. Làm thế là nhân một cấp nhất lên thay
+vì rào nó, và sẽ kéo mệnh đề ra ngoài phạm vi hai nguồn của mục (Owen 2016 và
+Hung 1952, đều là công trình về Đỗ Phủ chứ không phải về lịch sử Á–Âu).
+
+---
+
+## Ca 34 — `ch05-ce08-notes-review-1.md:523` · hai con số/mốc của khối văn khố núi Mugh
+
+**Câu trong repo** (`content/ch05.md:1166`):
+> Văn khố núi Mugh — **khoảng 80 văn kiện** từ kho riêng của Ḏēwaštīč, phần lớn
+> bằng tiếng Sogdian kèm một số bản Ả Rập, Turkic và Hán, **UNESCO ghi danh
+> *Memory of the World* năm 2025** — … gồm sổ sách buôn bán, thư từ, khế ước,
+> trao đổi ngoại giao và báo cáo do thám.
+
+**Phát hiện cũ:** `[KHÔNG KIỂM ĐƯỢC]` cho mốc UNESCO 2025 — báo cáo cũ đã thử
+ba đường (MoW Register, country overview Tajikistan, tìm kiếm) và không đường
+nào xác nhận, vì các trang ấy dựng động nên `curl` không đọc được kết quả.
+
+**Tra ngoài — vòng này xác nhận được, và xác nhận tới từng chi tiết:**
+- UNESCO có trang riêng cho bộ sưu tập: *Collection of documents from Mount
+  Mugh*, mục Memory of the World; Wikidata có thực thể `Q136768442` cho nó.
+- **Ghi danh năm 2025**: được đưa vào Memory of the World International
+  Register tại **kỳ họp thứ 221 của Hội đồng Chấp hành UNESCO, ngày
+  17-4-2025**, do IICAS và ICDH đề cử.
+- **"khoảng 80 văn kiện"**: *"The collection comprises **approximately 80
+  manuscripts** discovered in the 1930s near present day Panjakent in
+  Tajikistan."* ✔
+- **Danh mục thể loại khớp gần như từng chữ**: *"everyday **business records,
+  letters, contracts, diplomatic exchange and spy reports**"* ✔
+- **Các ngôn ngữ khác**: *"The ethnic diversity of Sogdiana is reflected in
+  **Arabic, Chinese and Old Turkic** texts found in the collection"* ✔
+- **Ḏēwaštīč và năm 722**: *"The documents show the life of **Dewashtich**, the
+  ruler of Penjikent principality, until his **defeat by Arab forces in
+  722**"* ✔ — khớp cả `ch05.md:419` ("Divashtich thua trận năm 722").
+
+**Kết luận: KHÔNG CẦN SỬA, và dấu `[KHÔNG KIỂM ĐƯỢC]` của vòng trước được GỠ.**
+
+Phần số học mà báo cáo cũ chẩn — tổng ~80 và phần Sogdian không thể bằng nhau —
+**đã được áp**: câu hiện tại đọc "khoảng 80 văn kiện…, **phần lớn** bằng tiếng
+Sogdian **kèm một số** bản Ả Rập, Turkic và Hán", đúng cấu trúc mà nguồn UNESCO
+mô tả ✔.
+
+**Một chỗ đáng chỉnh nhỏ, không bắt buộc:** nguồn UNESCO viết "approximately 80
+**manuscripts**" (bản thảo), repo viết "văn kiện". Với một văn khố hành chính
+thì hai chữ gần như trùng nhau và "văn kiện" hợp ngữ cảnh tiếng Việt hơn, nên
+tôi **không** đề xuất đổi. Ghi lại để vòng sau khỏi tưởng đã bắt được lệch.
+
+---
+
+## Ca 35 — `ch05-ce09-review-d.md:92` · "(850)" cho *Gaṇitasārasaṅgraha*
+
+**Câu trong repo** (`content/ch05.md:1211`, khối Ghi chú biên tập):
+> **Mahāvīrācārya**, tác giả *Gaṇitasārasaṅgraha* **(850)**, văn bản Ấn Độ sớm
+> nhất dành riêng hoàn toàn cho toán học, bị cắt vì là người thứ mười ba
+
+**Tra ngoài:** mọi nguồn tôi mở được đều rào — *"written by the Indian
+mathematician Mahavira **around 850 CE**"*; *"Mahavira wrote
+Gaṇitasārasaṅgraha … **during the reign of Amoghavarsha (c. 814–878)** of the
+Rashtrakuta dynasty"*. Không nguồn nào cho một năm trần.
+
+**Kết luận: NÊN sửa.** Phát hiện cũ đúng, và lý do nó đúng có hai chân, không
+một: (a) nguồn ngoài chỉ cho "around 850"; (b) hồ sơ cổng của chính dự án
+(`reports/ch05-ce09-gate.md:88`) xếp Mahāvīrācārya `độ tin cậy niên đại: Thấp`
+với lý do "Không có niên đại độc lập; khung duy nhất là triều Amoghavarsha I" —
+tức dự án **tự biết** con số này lỏng, rồi viết nó trần ở chỗ khác. Chính
+chapter này viết "k. 850", "k. 870" cho các tác phẩm khác, nên đây còn là lệch
+nội bộ.
+
+**Gộp với Ca 36 vì cùng một câu — câu thay thế đề xuất, nguyên văn:**
+> **Mahāvīrācārya**, tác giả *Gaṇitasārasaṅgraha* (k. 850, soạn dưới triều Amoghavarsha I), văn bản Ấn Độ sớm nhất dành riêng hoàn toàn cho toán học, bị cắt vì là người thứ mười ba; ghi luôn chỗ ông sai để không ai phải phát hiện lại: ông khẳng định một số chia cho **không** thì không đổi (24 ÷ 0 = 24). So với `CH05-CE07-08` thì đó là bước lùi ở đúng phép tính ấy — Brahmagupta để `n ÷ 0` nguyên dạng phân số có mẫu bằng không, không gán giá trị — nhưng Brahmagupta cũng sai, chỉ sai chỗ khác: ông khẳng định 0 ÷ 0 = 0.
+
+---
+
+## Ca 36 — `ch05-ce09-review-d.md:96` · "một bước lùi so với `CH05-CE07-08`"
+
+**Tra ngoài:**
+- Mahāvīrācārya: *"at around 850 CE, Mahavira argued that **any number divided
+  by zero leaves that number unchanged**, so then, for example, **24 ÷ 0 =
+  24**."*
+- Brahmagupta: *"**Brahmagupta asserted that zero divided by zero is zero**…
+  allows division by zero resulting in a **fraction with a 0 in the
+  denominator**, and defines 0/0 = 0."*
+
+**Kết luận: NÊN sửa.** Phát hiện cũ đúng. Mệnh đề "một bước lùi" đúng ở **đúng
+một phép tính** — `n ÷ 0` với `n ≠ 0`, nơi Brahmagupta để nguyên dạng phân số
+còn Mahāvīrācārya gán một giá trị sai. Nhưng câu như đang viết để người đọc
+hiểu Brahmagupta đã làm đúng cả bài, trong khi ông sai ở `0 ÷ 0`. Với một khối
+có nhiệm vụ "**ghi luôn chỗ ông sai để không ai phải phát hiện lại**", bỏ sót
+chỗ sai của người kia là một mâu thuẫn tự thân.
+
+**Câu thay thế: xem Ca 35** (cùng một câu, một bản sửa).
+
+**Soi lại câu thay thế của Ca 35 + 36:**
+- Khối Ghi chú biên tập không nằm trong `WORD_TARGET` ✔ — không trần chữ.
+- **Mọi mệnh đề mới đều có nguồn ngoài, không một mệnh đề nào từ trí nhớ:**
+  "k. 850" (around 850 CE) ✔; "dưới triều Amoghavarsha I" ✔; "24 ÷ 0 = 24" là
+  **chính ví dụ của nguồn**, nên nó không phải tôi tự dựng ✔; "phân số có mẫu
+  bằng không" và "0 ÷ 0 = 0" ✔.
+- **Tôi giữ "bước lùi" chứ không bỏ**, vì nó đúng ở phép tính được nêu; cái
+  được thêm là **phạm vi** của nó. Bỏ hẳn sẽ mất một nhận định đúng.
+- **Chỗ tôi cố ý không đụng:** "văn bản Ấn Độ sớm nhất dành riêng hoàn toàn cho
+  toán học" — một cấp nhất. `[KHÔNG KIỂM ĐƯỢC]` ở vòng này: tôi không đối chiếu
+  được nó với *Bakhshālī* hay *Pāṭīgaṇita* của Śrīdhara. Ghi lại để vòng sau
+  biết đây là mệnh đề **chưa** được kiểm, chứ không phải đã qua.
+
+---
+
+## Ca 37 — `ch05-ce09-review-d.md:173` · chỉ một trong ba mục tự khai "có thể bị bác"
+
+**Ba mục, đọc thẳng từ `content/ch05.md`:**
+
+| mục | câu về lựa chọn lĩnh vực thứ hai | tự khai "có thể bị bác"? | `why` |
+|---|---|---|---|
+| `CH05-CE09-08` | "Lĩnh vực thứ hai ghi Kinh tế: việc ông làm là đàm phán lại một nghĩa vụ cống nạp – thương mại." | **không** | 104/104 |
+| `CH05-CE09-09` | "…không ghi Luật, vì *al-Tārīkh al-kabīr* là phê phán tiểu sử người truyền… **đó là một lựa chọn có thể bị bác**." | **có** | 81 |
+| `CH05-CE09-12` | "Lĩnh vực thứ hai ghi Quân sự vì Voss và Kremer rút vai chỉ huy quân sự của ông từ chính bi ký…" | **không** | 94 |
+
+**Kết luận: NÊN sửa — và sửa ở khối ghi chú, KHÔNG ở thân ba mục.**
+
+Phát hiện cũ đúng về hiện trạng. Nhưng bản sửa hiển nhiên (thêm câu tự khai vào
+`-08` và `-12`) **không chạy được**: `CH05-CE09-08` đang ở **đúng 104/104 chữ**,
+tức không còn một chữ nào. Thêm một mệnh đề vào đó buộc phải cắt chỗ khác trong
+một trường vốn đang làm việc nặng — nó là chỗ duy nhất giải thích vì sao cả
+Châu Phi hạ Sahara thế kỷ 9 chỉ có một người.
+
+Và có một lý do nội dung mạnh hơn lý do kỹ thuật: ba quyết định **không cùng độ
+chắc**. `-12` dẫn hai tác giả rút vai trò ấy **từ chính bi ký** (Voss và
+Kremer), tức có bằng chứng trực tiếp; `-09` tự nhận lỏng vì nó là một phép phân
+loại thao tác học thuật. Ép cả ba mang cùng một câu tự khai sẽ làm **sai lệch**
+chứ không làm nhất quán.
+
+**Câu thêm đề xuất cho khối ghi chú tương ứng, nguyên văn:**
+> Ba quyết định lĩnh vực thứ hai của nhóm không cùng độ chắc, và chỉ một mục nói ra: `CH05-CE09-12` rút vai Quân sự từ chính bi ký, `CH05-CE09-08` rút vai Kinh tế từ nội dung việc làm, còn `CH05-CE09-09` tự ghi "có thể bị bác" vì đó là một phép phân loại thao tác học thuật chứ không phải một dữ kiện. Ai đọc ba mục liền nhau mà không đọc khối này sẽ thấy ba mức tự tin như nhau.
+
+**Soi lại câu thêm:**
+- Khối Ghi chú biên tập không có trần chữ ✔; ba trường `why` **không bị đụng**,
+  nên không ca nào vượt trần ✔ — đây chính là lý do tôi chọn chỗ sửa này.
+- **Câu thêm có tự mâu thuẫn không?** Tôi kiểm riêng: nó không khẳng định mục
+  nào đúng mục nào sai, chỉ mô tả **loại bằng chứng** của từng quyết định, và cả
+  ba mô tả ấy đều đọc thẳng được từ chính ba mục ✔.
+
+---
+
+## Ca 38 — `ch05-ce09-review-d.md:206` · con số "khoảng 950" cho ʻAhoʻeitu
+
+**Phát hiện cũ:** `[KHÔNG KIỂM ĐƯỢC]` — *"tôi không tìm được nguồn nào trong
+tầm tra của vòng này nói đúng 950"*; đề nghị viết "thế kỷ 10" thay vì "khoảng
+950".
+
+**Tra ngoài — vòng này tìm được, và 950 là một con số có xuất xứ:**
+- en.wikipedia "Tuʻi Tonga Empire": *"Tongan expansionism and projected
+  hegemony in Oceania which **began around 950 CE**, reaching its peak during
+  the period 1200–1500."*
+- en.wikipedia "Tuʻi Tonga": *"a line of Tongan kings, which **originated in
+  the tenth century with the mythical ʻAhoʻeitu**"*.
+
+**Kết luận: KHÔNG CẦN SỬA, và dấu `[KHÔNG KIỂM ĐƯỢC]` của vòng trước được GỠ.**
+"Khoảng 950" là mốc quy ước cho khởi điểm bành trướng Tonga, và dòng Tuʻi Tonga
+được quy khởi từ ʻAhoʻeitu — nên con số không phải vô căn cứ. Nó đã mang chữ
+"khoảng", tức không tự nhận chắc hơn nguồn.
+
+**Một chỗ phải nói cho chính xác, nhưng không đòi sửa:** 950 là mốc của **sự
+bành trướng**, không phải một niên đại tiểu sử của ʻAhoʻeitu — người mà
+`Q1245849` thậm chí **không có `P569` lẫn `P570` nào**. Kết luận của khối
+("thuộc CE10, không thuộc nhóm này") đứng vững ở cả hai cách đọc, vì cả 950 lẫn
+"early 10th century" đều rơi trong 901–1000.
+
+---
+
+## Ca 39 — `ch05-ce09-review-d.md:323` · "lint không nhắc được"
+
+**Câu trong repo** (`content/ch05.md:1229`):
+> Đây là một thao tác bảo trì mà lint chỉ nhắc được **một nửa**: vòng đối xứng
+> (`atlaslib/lint.py:224-232`) in INFO khi đầu kia đã dùng ID, nhưng khi **cả
+> hai** đầu còn là văn bản tự do thì không có dòng nào — **lint không biết** một
+> chuỗi văn bản tự do nào đó vừa trở thành một mục có thật.
+
+**Kiểm trong mã nguồn** (phần kiểm được của ca này; kết luận về khả thi là một
+mệnh đề kỹ thuật, không phải một mệnh đề sử học):
+- Mô tả hiện trạng **đúng**: `atlaslib/lint.py:150-151` chỉ kiểm đích khi
+  `C.ID_RE.match(t)`; mọi đích tự do đi thẳng qua. Vòng đối xứng ở dòng 226–231
+  cũng chỉ chạy khi `t in all_persons`.
+- Nhưng phép kiểm ngược **làm được**: `atlaslib/parse.py:122` cho mỗi mục cả
+  `name_vi` lẫn `name_orig`, và `all_persons` đã có sẵn trong `lint_chapter`.
+  Đối chiếu tập đích tự do với chỉ mục hai trường tên ấy là một phép so chuỗi
+  cơ học — không có gì trong lint chặn nó.
+
+**Kết luận: NÊN sửa.** Phát hiện cũ đúng ở cả hai vế: (a) câu đang đóng cửa một
+việc **làm được**, và (b) quy trình thủ công mà khối kê — mỗi vòng `grep` tên
+người mới trên toàn `content/` — **không co giãn**: nó quét theo chiều
+người-mới → văn-bản-cũ, nên bỏ sót mọi đích tự do đã hở từ các vòng trước mà
+không nhóm mới nào gợi ra.
+
+**Câu thay thế đề xuất, nguyên văn (vế cuối của câu):**
+> …nhưng khi **cả hai** đầu còn là văn bản tự do thì không có dòng nào — lint **hiện chưa** biết một chuỗi văn bản tự do nào đó vừa trở thành một mục có thật. Phép kiểm ngược thì làm được và rẻ hơn phép `grep` theo chiều người-mới: rút tập đích tự do rồi đối chiếu một lượt với chỉ mục `name_vi`/`name_orig` của mọi mục (`atlaslib/parse.py:122`), dưới dạng **cảnh báo** chứ không phải lỗi chặn — vì đích tự do hợp lệ như "Trường phái luật Hanbalī" phải được phép tồn tại.
+
+**Soi lại câu thay thế:**
+- Khối Ghi chú biên tập không có trần chữ ✔.
+- **"cảnh báo chứ không phải lỗi chặn" là mệnh đề tôi thêm và nó bắt buộc phải
+  có:** nếu không nói, một vòng sau sẽ cài phép kiểm ở mức ERROR và chặn build
+  trên hàng trăm đích tự do hợp lệ. Ví dụ "Trường phái luật Hanbalī" lấy từ
+  chính `content/ch05.md` ✔.
+- **Tôi không viết con số "141 dòng"** như báo cáo cũ nêu: đó là một con số đếm
+  trạng thái file, đúng loại số sẽ rữa ở vòng sau — và chính chapter này vừa
+  đặt ra quy ước "con số trong ghi chú biên tập phải tự khai nó đo ở thời điểm
+  nào, hoặc không nêu số" (`ch05.md:1271`, ý *Ba*). Viết nó vào sẽ là vi phạm
+  quy ước ngay trong tệp đặt ra quy ước.
+
+---
+
+## Ca 40 — `ch05-ce10-notes-review.md:188` · `Q172383` còn một `P569` dạng `somevalue`
+
+**Tra Wikidata trực tiếp** (`Q172383` = Sylvester II / Gerbert, `200`):
+
+| thuộc tính | giá trị | rank | tham chiếu |
+|---|---|---|---|
+| P569 | **`somevalue`** (biết có, không biết năm nào) | **preferred** | 1 |
+| P569 | +0938 | normal | 1 |
+| P570 | +1003-05-12 (`precision 11`) | normal | 3 |
+
+**Kết luận: NÊN sửa**, và phát hiện cũ đúng — **nhưng nó mô tả sai vị trí của
+giá trị ấy**, và chỗ sai lại nghiêng về phía làm lập luận yếu đi.
+
+Báo cáo cũ gọi đó là *"một phát biểu `P569` **thứ hai** ở dạng `somevalue`"*,
+như thể nó là một giá trị phụ. Thực tế `somevalue` chính là giá trị **rank
+preferred** — tức Wikidata, ở phát biểu nó tự đánh dấu là tốt nhất, nói thẳng
+**"không biết năm sinh"**, còn con số 938 mới là giá trị hạng thường. Đó là
+chứng cứ mạnh hơn hẳn cho việc mục chọn `k. 945` theo nguồn ngoài thay vì theo
+Wikidata.
+
+**Câu thêm đề xuất cho bẫy (5) của khối, nguyên văn:**
+> Và chính Wikidata nói ra chỗ nó không biết: `P569` của `Q172383` có hai phát biểu, và phát biểu ở rank **preferred** là `somevalue` — "có năm sinh, không rõ năm nào" — còn con số 938 chỉ ở rank thường. Tức mốc 938 không phải một giá trị Wikidata đề cử; chọn `k. 945` theo nguồn ngoài vì vậy không đi ngược Wikidata, nó đi vào đúng chỗ Wikidata để trống.
+
+**Soi lại câu thêm:**
+- Khối Ghi chú biên tập không có trần chữ ✔.
+- **Mọi con số trong câu đều lấy từ lần gọi API của chính vòng này**, không chép
+  lại từ báo cáo cũ ✔ — và đó là lý do bắt được chỗ báo cáo cũ đặt sai vị trí
+  `somevalue`.
+- Câu **không** khẳng định `k. 945` là đúng; nó chỉ nói việc chọn ấy không mâu
+  thuẫn Wikidata. Tôi kiểm riêng điểm này vì nói quá lên ở đây sẽ là đúng lỗi
+  đang chẩn ✔.
+
+---
+
+## Ca 41 — `ch05-ce10-notes-review.md:350` · "mục CH05-CE08-11 trước đây ghi…" bị cho là không có trong git
+
+**Câu trong repo** (`content/ch05.md:1252`):
+> mục `CH05-CE08-11 · Ādi Shankara` **trước đây** dùng Vācaspati làm mốc chặn
+> trên và ghi ông **"sớ cho ông ở nửa đầu thế kỷ 9"** — câu ấy **chỉ đúng nếu
+> nhận cách đọc 841**…
+
+**Phát hiện cũ:** `[KHÔNG KIỂM ĐƯỢC]` — *"câu cũ không còn trong file và cũng
+không có trong `git show HEAD:content/ch05.md`"*; đề nghị **bỏ dấu ngoặc kép**
+vì repo "không còn chứng cứ".
+
+**Tra trong git — vòng này tìm được, và tìm thấy ngay.** `git log --all -S "nửa
+đầu thế kỷ 9" -- content/ch05.md` trả về hai commit. Mở commit sớm hơn:
+> `git show 3157f64:content/ch05.md` — dòng 597 (thân mục `CH05-CE08-11`):
+> *"…ông trích Pháp Xứng, nên sau giữa thế kỷ 7; **Vācaspati Miśra sớ cho ông ở
+> nửa đầu thế kỷ 9**."*
+> và dòng 716 (khối ghi chú): *"…Śaṅkara trích nguyên văn Pháp Xứng, và
+> **Vācaspati Miśra sớ cho ông ở nửa đầu thế kỷ 9** — nên mục ghi `k. 700 –
+> k. 750 CN`…"*
+
+Trích dẫn trong dấu ngoặc kép khớp **từng chữ**.
+
+**Kết luận: KHÔNG CẦN SỬA, và dấu `[KHÔNG KIỂM ĐƯỢC]` của vòng trước được GỠ.**
+Phát hiện cũ **sai**, và sai vì một lý do có thể nói thành quy trình: nó chỉ tra
+`git show HEAD:…`, tức **một** bản chụp, trong khi câu được trích tường minh là
+một câu **đã bị sửa** — chỗ duy nhất nó còn tồn tại là lịch sử. Một phép
+`git log -S` là đủ.
+
+Nếu áp phát hiện cũ (bỏ dấu ngoặc kép), repo sẽ **mất** một trích dẫn có thật và
+tra lại được, để đổi lấy một lời diễn giải không tra lại được. Đây là ca thứ năm
+trong rổ này mà đề xuất cũ làm hỏng một chỗ đang đúng.
+
+**Gợi ý nhỏ, không bắt buộc:** nếu Chủ dự án muốn vòng sau khỏi phải đi tìm,
+thêm `(xem `3157f64:content/ch05.md`)` vào sau trích dẫn. Lưu ý điều kiện kèm:
+`reviews/README.md` ghi rõ lịch sử git **đã được viết lại ngày 2026-11-03** nên
+mọi hash trước đó không còn giải ra được; hash tôi nêu là hash **sau** lần viết
+lại ấy, và sẽ chết nếu lịch sử bị viết lại lần nữa. Vì vậy tôi **không** khuyến
+nghị mạnh việc ghi hash vào văn bản — chuỗi `git log -S "nửa đầu thế kỷ 9"` thì
+không rữa.
+
+---
+
+## Ca 42 — `ch05-ce10-notes-review.md:462` · ca ʻAhoʻeitu và `P31 = Q6949213`
+
+**Tra Wikidata trực tiếp** (`Q1245849`, `200`):
+
+| thuộc tính | giá trị | rank | tham chiếu |
+|---|---|---|---|
+| P31 | **`Q6949213`** (mythological king) | normal | **0** |
+| P39 | `Q42298576` | normal | **0** |
+| P569 / P570 | **không có phát biểu nào** | — | — |
+
+Nhãn tiếng Anh: `'Aho'eitu`; mô tả: *"son of the god Tangaloa ʻEitumātupuʻa and
+a mortal woman"*; **không có nhãn tiếng Việt**.
+
+**Kết luận: NÊN sửa.** Phát hiện cũ đúng: khối CE10 rút gọn ca ʻAhoʻeitu xuống
+còn tầng (3) và **bỏ mất** trở ngại thao tác mà khối CE09 đã ghi. Vòng này xác
+nhận trở ngại ấy và tìm thêm **ba** dữ kiện khối chưa có, tất cả đều nặng hơn:
+1. `P31 = Q6949213` **không có tham chiếu nào** — nên ngay cả phép phân loại
+   "mythological king" cũng chưa phải bằng chứng theo nguyên tắc của dự án.
+2. Thực thể **không có `P569` lẫn `P570`** — tức nếu ông vào atlas, trường
+   `năm:` sẽ không có gì để đối chiếu, cộng dồn với cảnh báo `P31`.
+3. **Không có nhãn tiếng Việt**, nên tên mục sẽ phải tự đặt.
+
+**Câu thêm đề xuất cho khối CE10, nguyên văn:**
+> Và trở ngại thao tác mà khối CE09 ghi vẫn còn nguyên, đừng để nó rơi ở đây: `Q1245849` khai `P31 = Q6949213` ("mythological king") chứ không phải `Q5` — không kèm tham chiếu nào — và thực thể ấy **không có `P569` lẫn `P570`**, cũng không có nhãn tiếng Việt. Tính truyền thuyết **không** phải lý do loại (atlas có nhãn `[Truyền thuyết]` và đã dùng), nhưng ba điều trên là việc phải làm kèm nếu ông vào atlas, và sẽ kích hoạt cảnh báo `P31` trong `lint_wikidata`.
+
+**Soi lại câu thêm:**
+- Khối Ghi chú biên tập không có trần chữ ✔.
+- **Tôi nhắc lại mệnh đề "tính truyền thuyết không phải lý do loại"** dù nó dài
+  thêm, vì bỏ nó đi là mở đúng cái cửa mà khối CE09 đã đóng — một vòng sau sẽ
+  dùng `Q6949213` làm lý do loại ✔.
+- Ba dữ kiện mới đều từ lần gọi API của chính vòng này ✔.
+
+---
+
+## Ca 43 — `ch05-ce10-notes-review.md:552` · al-Ashʿarī (874–936) so với `Q316349` khai 873–935
+
+**Câu trong repo** (`content/ch05.md:1267`, khối "Những người bị cắt"):
+> **al-Ashʿarī** (**874–936**) — mạnh ngang bất kỳ ai trong nhóm; bị cắt vì ô
+> `Tôn giáo/Tâm linh` của nhóm đã có bốn mục…
+
+**Tra Wikidata trực tiếp** (`Q316349`, `200`):
+
+| thuộc tính | giá trị | rank | tham chiếu |
+|---|---|---|---|
+| P569 | +0873 | **preferred** | **7** |
+| P569 | +0873 | normal | 1 |
+| P570 | +0935 | normal | 1 |
+
+**Tra ngoài repo:** AH thì **không ai cãi** — sinh **260 AH**, mất **324 AH**.
+Cách ghi CE thì có hai: en.wikipedia dùng **874–936**; các tài liệu chuyên
+ngành thường viết **260/873-4** và **324/935-6**.
+
+**Kết luận: KHÔNG CẦN SỬA con số — nhưng phần CHẨN ĐOÁN của hồ sơ cổng thì SAI,
+và đó mới là thứ cần sửa.**
+
+Hồ sơ cổng gọi cặp lệch-một-năm-cả-hai-đầu này là *"dấu hiệu điển hình của quy
+đổi AH→CE bằng công thức"*. Tôi kiểm lại phép quy đổi và kết luận **ngược**:
+- **260 AH bắt đầu khoảng 28-10-873** và kết thúc khoảng 16-10-**874**;
+  **324 AH bắt đầu khoảng 01-12-935**, kết thúc khoảng 19-11-**936**. Một năm
+  AH **vắt qua hai năm CE**, nên ±1 ở cả hai đầu là **cấu trúc của lịch**, không
+  phải vết của một công thức.
+- Hơn nữa, công thức tuyến tính quen dùng (`CE ≈ AH + 622 − AH/33`) cho
+  260 → **874,1** và 324 → **936,2** — tức công thức ra **đúng cặp số mà repo
+  đang dùng**, còn 873/935 của Wikidata là **năm CE mà năm AH bắt đầu**. Chẩn
+  đoán của hồ sơ cổng vì vậy chỉ nhầm phe, mà là nhầm đúng phe quan trọng.
+
+**Vậy việc phải làm:** giữ **874–936** (cặp số của học giới, và của
+en.wikipedia), và **sửa lời chẩn** ở hồ sơ cổng / khối ghi chú thành:
+
+> `Q316349` khai 873–935, lệch một năm ở cả hai đầu so với cặp 874–936 mà khối này dùng. Đó **không** phải dấu hiệu quy đổi bằng công thức: ông sinh **260 AH** và mất **324 AH**, mà 260 AH chạy từ cuối 873 sang cuối 874 và 324 AH từ cuối 935 sang cuối 936 — hai cách ghi CE chỉ khác nhau ở chỗ lấy năm AH **bắt đầu** hay năm nó **phần lớn rơi vào**. Nếu CE11 nhặt ông lên thì viết cặp AH kèm theo là cách duy nhất không phải chọn phe.
+
+**Soi lại đề xuất:**
+- Khối Ghi chú biên tập không có trần chữ ✔.
+- **Tôi tự kiểm phép tính lịch của chính mình** thay vì chép lại: năm Hồi lịch
+  ≈ 354,367 ngày; 259 năm kể từ 16-07-622 cho cuối 873, 323 năm cho cuối 935 —
+  khớp với các mốc quy chuẩn ✔. Đây là chỗ dễ sai nhất trong cả ca, nên tôi ghi
+  cả phép tính ra để vòng sau kiểm lại được chứ không phải tin tôi.
+- **Tôi không đề nghị đổi 874–936 sang 873–935 theo Wikidata**: 7 tham chiếu ở
+  rank preferred nghe thì mạnh, nhưng cả hai phát biểu `P569` của `Q316349` đều
+  là **cùng một con số 873**, nên "7 tham chiếu" chỉ chứng rằng nhiều nơi chép
+  873 — không chứng rằng 874 sai ✔.
+
+---
+
+## Ca 44 — `ch05-ce10-notes-review.md:639` · ý *Ba* không có trong `reviews/ch05-ce10-review.md`
+
+**Phát hiện cũ:** khối tự giới thiệu là *"vòng bình duyệt CE10 chỉ ra"*, nhưng ý
+*Ba* (tỉ lệ phần trăm rữa) không có trong báo cáo ấy; đề nghị tách "hai việc từ
+vòng bình duyệt, một việc tự tìm".
+
+**Đọc lại văn bản hiện tại:**
+- Tiêu đề khối (`content/ch05.md:1268`) là **"Ba việc ở tầng chapter, ghi lại
+  cho P4"** — **không** có cụm "vòng bình duyệt CE10 chỉ ra", tức mệnh đề quy
+  công mà phát hiện cũ nhắm vào **không còn trong file**.
+- Ý *Ba* tự ghi công đúng chỗ: *"**Vòng này** tìm thấy hai ca đã rữa và sửa
+  theo cách không rữa lại được"* — "vòng này" là vòng viết, không phải vòng bình
+  duyệt.
+- Và trong `reviews/ch05-ce10-review.md` thì **có** ca cụ thể của đúng hiện
+  tượng ấy: dòng 60 — *"Con số 1,3% là **tỉ lệ trước khi thêm chính mục
+  này**"*; dòng 446 — *"`CE10-02` — '`Y học`… 1,3%'; `reports/stats.txt` ghi
+  **1.5%**"*.
+
+**Kết luận: KHÔNG CẦN SỬA.** Phát hiện cũ **không còn áp dụng được**: cụm quy
+công mà nó phản đối đã không có trong văn bản hiện tại, và ý *Ba* đã tự ghi
+công cho vòng viết. Ngoài ra, ngay cả nếu có quy công thì nó cũng không phải vô
+căn cứ — báo cáo CE10 bắt được **ca cụ thể** (1,3% đã rữa thành 1,5%); cái vòng
+viết tự thêm là **sự khái quát** từ ca ấy thành một quy ước. Phân biệt
+"ca cụ thể" với "khái quát" là một ranh giới tinh hơn mức mà một dòng ghi công
+cần phải phân giải.
+
+`[KHÔNG KIỂM ĐƯỢC]`: tôi **không** dựng lại được bản nháp mà báo cáo cũ đã đọc,
+nên không xác định được cụm "vòng bình duyệt CE10 chỉ ra" từng tồn tại rồi bị
+gỡ, hay báo cáo cũ diễn giải tiêu đề khối. Kết luận không đổi theo cả hai
+đường, vì văn bản hiện tại đã đúng.
+
+---
+---
+
+# Tổng kết
+
+## Bảng theo bốn hạng kết luận
+
+| Ca | Mục / khối | Kết luận |
+|---|---|---|
+| 11 | `CH05-CE08-01` Abu Muslim — "cuối năm ấy chiếm Merv" | **BẮT BUỘC sửa** |
+| 6b | `CH05-CE07-09` Isiđôrô — "chia thành **hai mươi quyển** là do Braulio" (**lỗi mới, chín báo cáo trước đều bỏ sót**) | **BẮT BUỘC sửa** |
+| 2 | `CH05-CE06-11` Bhavavarman — "giới nghiên cứu thấy" + "vị vua **đầu tiên**" | NÊN sửa |
+| 3 | `CH05-CE06-12` Boethius — dòng Nguồn thiếu tác giả bài SEP thứ hai | NÊN sửa |
+| 4 | `CH05-CE07-03` Ali — Madelung "rõ nhất trong giới hiện đại" | NÊN sửa |
+| 5 | `CH05-CE07-04` Thái Tông — "sử do chính triều ông soạn" | NÊN sửa |
+| 7 | `CH05-CE07-10` Pháp Xứng — nguồn SEP không có URL | NÊN sửa |
+| 8 | `CH05-CE07-11` Tùng Tán Cán Bố — `Trung bình` → `Thấp` | NÊN sửa |
+| 9 | `CH05-CE07-12` Pakal — "cá nhân châu Mỹ tiền Columbus biết rõ nhất" | NÊN sửa |
+| 12 | `CH05-CE08-02` Al-Mansur — "trung tâm suốt năm thế kỷ" | NÊN sửa |
+| 13 | `CH05-CE08-05` Sibawayh — so sánh với ngữ pháp Hy Lạp–Latin | NÊN sửa |
+| 14 | `CH05-CE08-06` Charlemagne — Einhard cùng dòng Nguồn với McKitterick | NÊN sửa |
+| 15 | `CH05-CE08-07` Bêđa — "bắt đầu ở một tu viện Northumbria" | NÊN sửa |
+| 16 | `CH05-CE08-07` Bêđa — Alcuin `trực tiếp` → `qua trường phái` | NÊN sửa |
+| 17 | `CH05-CE08-09` Đỗ Phủ — "biến cố lớn nhất thế kỷ 8 ở Đông Á" | NÊN sửa |
+| 19 | Khối Kaleb — nhan đề chuyên khảo Robin | NÊN sửa |
+| 20 | Khối Kaleb — "ba mươi lăm năm" | NÊN sửa |
+| 21 | Khối Chân Lạp — Vickery quy mệnh đề cho Claude Jacques | NÊN sửa |
+| 22 | Khối URL — CSLA xếp nhầm vào "chết hoặc chặn" | NÊN sửa |
+| 24 | Khối Boethius ý (4) — "làm nó nổi tiếng" → "một bài toán" | NÊN sửa |
+| 25 | Khối Đông Nam Á — "dòng đầu của `ch90.md` nói rõ" | NÊN sửa |
+| 26 | Khối Võ Tắc Thiên ý (2) — "k. 424–430" | NÊN sửa |
+| 27 | Khối bốn nguồn — "Plofker là người phản đối" | NÊN sửa |
+| 28 | Khối Charlemagne/CE08 — "sứ bộ … **đều** thuộc thế kỷ 8" | NÊN sửa |
+| 30 | Khối Shankara — bỏ mất cách đọc Vikramāditya thứ hai | NÊN sửa |
+| 32 | Khối URL — bẫy `429 / Varnish` chưa vào danh sách | NÊN sửa |
+| 33 | Hai "lớn nhất" lệch chỗ rào (**gộp vào Ca 17, không mở phiếu riêng**) | NÊN sửa |
+| 35 | Khối người bị cắt CE09 — "*Gaṇitasārasaṅgraha* (850)" | NÊN sửa |
+| 36 | Khối người bị cắt CE09 — "một bước lùi so với `CH05-CE07-08`" | NÊN sửa |
+| 37 | Ba mục CE09 — chỉ một tự khai "có thể bị bác" | NÊN sửa |
+| 39 | Khối đích tự do — "lint không biết" → "lint hiện chưa" | NÊN sửa |
+| 40 | Khối bẫy CE10 (5) — `Q172383` có `P569` **preferred** là `somevalue` | NÊN sửa |
+| 42 | Khối CE10 — ca ʻAhoʻeitu, `P31 = Q6949213` | NÊN sửa |
+| 43b | Khối người bị cắt CE10 — **lời chẩn** "quy đổi AH→CE bằng công thức" sai | NÊN sửa |
+| 1 | `CH05-CE06-06` Tùy Văn Đế — "Khai Hoàng luật năm 583" (**phát hiện cũ sai**) | **KHÔNG CẦN SỬA** |
+| 6a | `CH05-CE07-09` — "Braulio, **học trò ông**" (**phát hiện cũ sai**) | **KHÔNG CẦN SỬA** |
+| 10 | `CH05-CE07-12` — năm in Tiesler & Cucina 2006 | **KHÔNG CẦN SỬA** |
+| 18 | `CH05-CE08-10` — `trị vì 755–797` so với bốn `P570` | **KHÔNG CẦN SỬA** |
+| 23 | Khối Boethius ý (2) — "dịch trọn Plato lẫn Aristotle" (**phát hiện cũ sai**) | **KHÔNG CẦN SỬA** |
+| 29 | Khối Shankara — chuỗi truyền Tiele ← Yajñeśvara ← Nīlakaṇṭha | **KHÔNG CẦN SỬA** |
+| 31 | Khối niên đại yếu — Jabir 721 ← Holmyard 1927, Delva 2017 | **KHÔNG CẦN SỬA** |
+| 34 | Khối Divashtich — văn khố Mugh, UNESCO 2025, ~80 văn kiện | **KHÔNG CẦN SỬA** |
+| 38 | Khối Châu Đại Dương — "khoảng 950" cho ʻAhoʻeitu | **KHÔNG CẦN SỬA** |
+| 41 | Khối Vācaspati — trích dẫn "nửa đầu thế kỷ 9" (**phát hiện cũ sai**) | **KHÔNG CẦN SỬA** |
+| 43a | Khối CE10 — **con số** al-Ashʿarī 874–936 | **KHÔNG CẦN SỬA** |
+| 44 | Khối "Ba việc ở tầng chapter" — ý *Ba* (**phát hiện cũ không còn áp dụng**) | **KHÔNG CẦN SỬA** |
+
+**Cộng: 44 ca** — 2 BẮT BUỘC · 32 NÊN · 12 KHÔNG CẦN SỬA (Ca 6 và Ca 43 mỗi ca
+tách làm hai nửa khác hạng).
+
+## `[KHÔNG KIỂM ĐƯỢC]` — những chỗ vòng này KHÔNG xác minh được
+
+Liệt kê riêng, vì đây là phần dễ bị đọc nhầm thành "đã kiểm, không sao".
+
+| # | Mệnh đề | Thuộc ca |
+|---|---|---|
+| 1 | *Tùy thư* 刑法志 — không mở được sử liệu gốc cho hai bản 581/583 | Ca 1 |
+| 2 | Niên đại soạn chính xác của *Trinh Quán chính yếu* (707–709 hay đời Huyền Tông) | Ca 5 |
+| 3 | Tác giả bài SEP "Dharmakīrti" — không kiểm lại Tillemans ở lần ghi đầu (sau đó kiểm riêng: `citation_author = Tillemans, Tom` ✔) | Ca 7 |
+| 4 | Năm mất Tùng Tán Cán Bố: 649 (Tibetan Annals) hay 650 — **cần mở Dotson 2009**, đừng sửa theo Wikipedia | Ca 8 |
+| 5 | Trang bản quyền Tiesler & Cucina — không phân biệt được năm copyright với năm phát hành | Ca 10 |
+| 6 | McKitterick 2008 có dành phần phê bình cho **riêng** Einhard hay không | Ca 14 |
+| 7 | Niên đại soạn *Martyrium Arethae* ("k. 560") | Ca 20 |
+| 8 | Trạng thái `bitig.kz` — vòng này **không** kiểm lại | Ca 22 |
+| 9 | Niên đại chính xác của T. 387 trong kinh lục Hán văn | Ca 26 |
+| 10 | Mốc "tháng 10/2024 Bodleian lùi niên đại Bakhshali về 799–1102" | Ca 27 |
+| 11 | "*Gaṇitasārasaṅgraha* là văn bản Ấn Độ **sớm nhất** dành riêng cho toán học" — chưa đối chiếu *Bakhshālī*, *Pāṭīgaṇita* | Ca 36 |
+| 12 | Bản nháp mà `ch05-ce10-notes-review.md` đã đọc khi viết phát hiện về ý *Ba* | Ca 44 |
+
+## Ba việc vòng này thấy mà rổ không hỏi tới
+
+1. **Năm báo cáo cũ kết luận ngược** (Ca 1, 6a, 23, 41, 44), và chúng **không
+   cùng một kiểu hỏng**:
+   - Ca 1 và Ca 6a: đề xuất sửa sẽ **biến một câu đúng thành câu sai**.
+   - Ca 23: `[KHÔNG KIỂM ĐƯỢC]` tuyên dạng **phủ định toàn xưng** ("không có
+     trên trang") dựa trên ba lần `grep` trượt chuỗi.
+   - Ca 41: tra `git show HEAD:` thay vì `git log -S`, tức tra **một bản chụp**
+     để kết luận về một câu **đã bị sửa**.
+   - Ca 44: phản đối một cụm chữ **không còn trong văn bản**.
+   Bốn kiểu này cần bốn phép phòng khác nhau; gộp chúng thành "báo cáo cũ có
+   thể sai" là mất thông tin.
+
+2. **Bốn dấu `[KHÔNG KIỂM ĐƯỢC]` của vòng trước nay GỠ được** (Ca 29 chuỗi
+   Tiele, Ca 31 chuỗi Jabir, Ca 34 UNESCO 2025, Ca 38 mốc 950). Cả bốn đều gỡ
+   được bằng **cùng một thao tác**: tra lại bằng một dạng chuỗi khác, hoặc tra
+   một trang **lân cận** thay vì trang chính (Tuʻi Tonga Empire thay vì
+   ʻAhoʻeitu; mục thư mục của bài thay vì bài). Đáng đưa vào `CONTRIBUTING.md`:
+   `[KHÔNG KIỂM ĐƯỢC]` nên ghi kèm **chuỗi đã thử**, để vòng sau biết thử gì
+   khác.
+
+3. **Một hình dạng lỗi lặp đủ nhiều để thành quy tắc: câu thay thế mang đúng
+   lỗi nó vừa chẩn.** Ba ca trong rổ này:
+   - Ca 13 (Sibawayh): vòng 1 bác một cấp nhất bằng Donatus/Priscianus/Dionysius
+     Thrax, rồi dùng chính ba tác phẩm ấy làm vế đối lập trong câu thay thế —
+     và câu ấy **đã được chép vào file**.
+   - Ca 9 (Pakal): báo cáo cũ chẩn một cấp nhất rồi đề xuất một cấp nhất khác
+     ("dày nhất"), và tự thú `[KHÔNG KIỂM ĐƯỢC]` cho nó ngay dòng sau.
+   - Ca 19 (Robin): câu thay thế dùng đại từ "ông" ở chỗ chủ ngữ gần nhất là
+     Robin, nên nó trỏ sai đúng người mà nó đang đi sửa.
+   Phép phòng rẻ nhất: **đọc câu thay thế như thể nó là câu gốc, bằng đúng tiêu
+   chí vừa dùng để chẩn** — và viết ra kết quả phép đọc ấy, như mọi ca trong
+   báo cáo này đã làm ở phần "Soi lại".
