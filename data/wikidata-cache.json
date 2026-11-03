@@ -10665,5 +10665,2661 @@
    "enwiki": "Modu Chanyu"
   },
   "fetched": 1793446916
+ },
+ "wd:Q1001807": {
+  "id": "Q1001807",
+  "labels": {
+   "vi": "Khúc Thừa Dụ",
+   "en": "Khúc Thừa Dụ"
+  },
+  "aliases": {
+   "en": [
+    "Qu Chengyu"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 801,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 907,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Khúc Thừa Dụ",
+   "enwiki": "Khúc Thừa Dụ"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q102851": {
+  "id": "Q102851",
+  "labels": {
+   "en": "Boethius",
+   "vi": "Boethius"
+  },
+  "aliases": {
+   "en": [
+    "Anicius Manlius Torquatus Severinus Boethius",
+    "Anicius Manlius Severinus Boëthius",
+    "Anicus Manlius Severinus Boethius"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 480,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 475,
+    "precision": 8,
+    "rank": "normal"
+   },
+   {
+    "year": 475,
+    "precision": 8,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 524,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 525,
+    "precision": 8,
+    "rank": "normal"
+   },
+   {
+    "year": 524,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Boethius initial consolation philosophy.jpg",
+  "sitelinks": {
+   "viwiki": "Boethius",
+   "enwiki": "Boethius"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q1292812": {
+  "id": "Q1292812",
+  "labels": {
+   "en": "Vācaspati Miśra"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 900,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 980,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "enwiki": "Vāchaspati Misra"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q1525584": {
+  "id": "Q1525584",
+  "labels": {
+   "en": "Georgios I of Makuria"
+  },
+  "aliases": {
+   "en": [
+    "George of Nubia"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 900,
+    "precision": 7,
+    "rank": "normal"
+   },
+   {
+    "year": 815,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 920,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 887,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "enwiki": "Georgios I of Makuria"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q154938": {
+  "id": "Q154938",
+  "labels": {
+   "en": "Bede",
+   "vi": "Bêđa"
+  },
+  "aliases": {
+   "en": [
+    "Bede le Venerable",
+    "Beda Anglicus",
+    "Saint Bede the Venerable",
+    "Doctor of the English",
+    "Doctor Anglorum",
+    "Saint Bede",
+    "Bede the Venerable"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 672,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 672,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 673,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 735,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 735,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 734,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "The Venerable Bede translates John 1902.jpg",
+  "sitelinks": {
+   "viwiki": "Bêđa",
+   "enwiki": "Bede"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q160460": {
+  "id": "Q160460",
+  "labels": {
+   "en": "Farabi",
+   "vi": "Al-Farabi"
+  },
+  "aliases": {
+   "en": [
+    "Alpharabius",
+    "Abu Nasr al-Farabi",
+    "Alfarabi"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 870,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 872,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 872,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 951,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Farabi.jpg",
+  "sitelinks": {
+   "enwiki": "Al-Farabi"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q166876": {
+  "id": "Q166876",
+  "labels": {
+   "en": "Isidore of Seville",
+   "vi": "Isiđôrô"
+  },
+  "aliases": {
+   "en": [
+    "Saint Isidore of Seville",
+    "Isidor of Seville",
+    "St. Isidore, Bishop of Seville",
+    "Isidorus Hispalensis"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 560,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 636,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 636,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Isidore de Séville.jpg",
+  "sitelinks": {
+   "viwiki": "Isiđôrô",
+   "enwiki": "Isidore of Seville"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q169234": {
+  "id": "Q169234",
+  "labels": {
+   "vi": "Muhammad ibn Zakariya al-Razi",
+   "en": "Abu Bakr al-Razi"
+  },
+  "aliases": {
+   "en": [
+    "al-Razi",
+    "Razi",
+    "Rhazes",
+    "Rasis",
+    "Abū Bakr Muḥammad ibn Zakarīyā Rāzī"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 866,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 854,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 854,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 864,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 865,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 925,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Portrait of Rhazes (al-Razi) (AD 865 - 925) Wellcome L0005053 (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Muhammad ibn Zakariya al-Razi",
+   "enwiki": "Abu Bakr al-Razi"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q170046": {
+  "id": "Q170046",
+  "labels": {
+   "en": "Jaafar Al-Sadiq",
+   "vi": "Ja'far al-Sadiq"
+  },
+  "aliases": {
+   "en": [
+    "Imam Jaafar Al-Sadiq"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 702,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 699,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 765,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 765,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Eight imams and Hakima next to Jawad.jpg",
+  "sitelinks": {
+   "viwiki": "Ja'far al-Sadiq",
+   "enwiki": "Ja'far al-Sadiq"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q172383": {
+  "id": "Q172383",
+  "labels": {
+   "vi": "Giáo hoàng Silvestrô II",
+   "en": "Sylvester II"
+  },
+  "aliases": {
+   "vi": [
+    "Giáo hoàng Silvester II"
+   ],
+   "en": [
+    "Pope Sylvester II"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 938,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1003,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Meister der Reichenauer Schule 002 (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Giáo hoàng Sylvestrô II",
+   "enwiki": "Pope Sylvester II"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q180967": {
+  "id": "Q180967",
+  "labels": {
+   "vi": "Adi Shankara",
+   "en": "Ādi Shankara"
+  },
+  "aliases": {
+   "en": [
+    "Adi Sankarachaarya",
+    "Sankaracarya",
+    "Aryamba antharjanam",
+    "Sankara bhagavatpāda",
+    "Śankara",
+    "Śaṅkarācārya",
+    "Sankara",
+    "Dashanami Sampradaya",
+    "Shankara Bhashya"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 788,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 820,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 820,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Raja Ravi Varma - Sankaracharya.jpg",
+  "sitelinks": {
+   "viwiki": "Adi Shankara",
+   "enwiki": "Adi Shankara"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q184500": {
+  "id": "Q184500",
+  "labels": {
+   "en": "Johannes Scotus Eriugena"
+  },
+  "aliases": {
+   "en": [
+    "Scotus",
+    "John Scotus Eriugena",
+    "Eriugena",
+    "Iohannes Scotus Eriugena",
+    "Johannes Scotus Erigena",
+    "John Eriugena",
+    "Joannes Scotus Erigena"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 800,
+    "precision": 8,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 877,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Johannes Scottus Eriugena.jpg",
+  "sitelinks": {
+   "enwiki": "John Scotus Eriugena"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q187172": {
+  "id": "Q187172",
+  "labels": {
+   "vi": "Bồ-đề-đạt-ma",
+   "en": "Bodhidharma"
+  },
+  "aliases": {
+   "vi": [
+    "Lạt ma tổ sư",
+    "Bodhidharma",
+    "Bồ Đề Đạt Ma",
+    "Ðạt Ma lão tổ",
+    "Đạt Ma tổ sư",
+    "Đạt ma thiền sư",
+    "Đạt Ma Sư Tổ",
+    "Tổ sư Bồ Đề",
+    "Đạt-ma thiền sư"
+   ],
+   "en": [
+    "Damo",
+    "Daruma"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 483,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 440,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 540,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "BodhidharmaYoshitoshi1887.jpg",
+  "sitelinks": {
+   "viwiki": "Bồ-đề-đạt-ma",
+   "enwiki": "Bodhidharma"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q190418": {
+  "id": "Q190418",
+  "labels": {
+   "vi": "Abd-al-Rahman III",
+   "en": "Abd-ar-Rahman III"
+  },
+  "aliases": {
+   "vi": [
+    "Abd-ar-Rahman III"
+   ],
+   "en": [
+    "Abd ar-Rahmān ibn Muhammad ibn ′Abd Allāh ibn Muhammad ibn ′abd ar-Rahman ibn al-Hakam ar-Rabdi ibn Hisham ibn ′abd ar-Rahman ad-Dakhil"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 891,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 961,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 961,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "AtaiforDeGuadalajara-9100538 (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Abd al-Rahman III",
+   "enwiki": "Abd al-Rahman III"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q190896": {
+  "id": "Q190896",
+  "labels": {
+   "vi": "Abu Hanifa",
+   "en": "Abū Ḥanīfa"
+  },
+  "aliases": {
+   "en": [
+    "Abu Hanifa",
+    "Imam Azam",
+    "The Great Imam",
+    "The Lamp of the Imams",
+    "al-Nuʿmān b. al-Ṯābit, Abū Ḥanīfaŧ"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 699,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 699,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 767,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 767,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Nu'man bin Thabit Abu Hanifa Masjid an-Nabawi Calligraphy.svg",
+  "sitelinks": {
+   "viwiki": "Abu Hanifa",
+   "enwiki": "Abu Hanifa"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q192124": {
+  "id": "Q192124",
+  "labels": {
+   "en": "Muhammad ibn Jarir al-Tabari"
+  },
+  "aliases": {
+   "en": [
+    "al-Tabari",
+    "Tabarî",
+    "Abu Ǧaʻfar Muḥammad ibn Ǧarîr Aṭ-Ṭabari"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 839,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 922,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "الطبري.png",
+  "sitelinks": {
+   "enwiki": "Al-Tabari"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q194442": {
+  "id": "Q194442",
+  "labels": {
+   "vi": "Hanbal",
+   "en": "Ahmad ibn Hanbal"
+  },
+  "aliases": {
+   "en": [
+    "Ahmed ibn Hanbal",
+    "Ḥanbal Aḥmad",
+    "al-Imām Ibn ḥanbal"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 780,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 780,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 780,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 780,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 855,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 855,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Hanbal, Sakleshpur",
+   "enwiki": "Ahmad ibn Hanbal"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q197778": {
+  "id": "Q197778",
+  "labels": {
+   "en": "Zhiyi",
+   "vi": "Trí Di"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 538,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 597,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Sramana Zhiyi.jpeg",
+  "sitelinks": {
+   "viwiki": "Trí Khải",
+   "enwiki": "Zhiyi"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q202943": {
+  "id": "Q202943",
+  "labels": {
+   "en": "Brahmagupta",
+   "vi": "Brahmagupta"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 598,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 670,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 665,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Hindu astronomer, 19th-century illustration.jpg",
+  "sitelinks": {
+   "viwiki": "Brahmagupta",
+   "enwiki": "Brahmagupta"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q207381": {
+  "id": "Q207381",
+  "labels": {
+   "vi": "Khosrau I",
+   "en": "Khosrow I"
+  },
+  "aliases": {
+   "vi": [
+    "Khosrau Anosharwan",
+    "Khosrau I của Ba Tư",
+    "Khosrow I",
+    "Chosroes I của Ba Tư",
+    "Khosrow I của Ba Tư",
+    "Chosroes I"
+   ],
+   "en": [
+    "Anushirvan",
+    "Khosrow Anushirvan",
+    "Khusraw I",
+    "Chosroes I",
+    "Chosroës I"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 501,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 579,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Plate of the Sasanian king Khosrow I Anushirvan.jpg",
+  "sitelinks": {
+   "viwiki": "Khosrau I",
+   "enwiki": "Khosrow I"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q222227": {
+  "id": "Q222227",
+  "labels": {
+   "en": "Kūkai",
+   "vi": "Không Hải"
+  },
+  "aliases": {
+   "en": [
+    "Kukai",
+    "Kōbō Daishi",
+    "Kobo Daishi",
+    "Kuukai",
+    "Shi Konghai",
+    "Bianzhaojingang",
+    "Hongfa dashi",
+    "Konghai"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 774,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 774,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 835,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Kukai2.jpg",
+  "sitelinks": {
+   "viwiki": "Không Hải",
+   "enwiki": "Kūkai"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q241026": {
+  "id": "Q241026",
+  "labels": {
+   "en": "Muḥammad ibn Ismā‘īl al-Bukhārī",
+   "vi": "Muhammad al-Bukhari"
+  },
+  "aliases": {
+   "en": [
+    "Muhammad ibn Ismail al- Bukhari",
+    "Muḥammad al-Bukhārī",
+    "Abū ‘Abd Allāh Muḥammad ibn Ismā‘īl ibn Ibrāhīm ibn al-Mughīrah ibn Bardizbah al-Ju‘fī al-Bukhārī"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 810,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 870,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 870,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "الامام البخاري.png",
+  "sitelinks": {
+   "viwiki": "Muhammad al-Bukhari",
+   "enwiki": "Muhammad al-Bukhari"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q2551244": {
+  "id": "Q2551244",
+  "labels": {
+   "en": "Anandavardhana"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 820,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 890,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "enwiki": "Anandavardhana"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q2620151": {
+  "id": "Q2620151",
+  "labels": {
+   "en": "Yik'in Chan K'awiil"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [],
+  "P570": [],
+  "P18": "TempleIIILintelMaudslay.jpg",
+  "sitelinks": {
+   "enwiki": "Yikʼin Chan Kʼawiil"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q26904572": {
+  "id": "Q26904572",
+  "labels": {
+   "en": "K’ak’upakal K’awiil"
+  },
+  "aliases": {
+   "en": [
+    "K'ak'upakal",
+    "Kʼakʼupakal Kʼawiil",
+    "Kʼakʼ-u-pakal"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [],
+  "P570": [],
+  "P18": null,
+  "sitelinks": {
+   "enwiki": "Kʼakʼupakal"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q29001": {
+  "id": "Q29001",
+  "labels": {
+   "en": "Bumin Qaghan"
+  },
+  "aliases": {
+   "en": [
+    "Tumen",
+    "Bumın Kagan",
+    "Illig Qaghan",
+    "Ashina Tumen"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 490,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 552,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Pınarbaşı 16.JPG",
+  "sitelinks": {
+   "enwiki": "Bumin Qaghan"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q3044": {
+  "id": "Q3044",
+  "labels": {},
+  "aliases": {
+   "en": [
+    "Charles I",
+    "Charles the Great",
+    "Karl the Great",
+    "Emperor Charlemagne",
+    "Charlemagne the Franc",
+    "Carlus Magnus",
+    "Karolus Magnus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 748,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 742,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 742,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 742,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 747,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 814,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 814,
+    "precision": 11,
+    "rank": "deprecated"
+   }
+  ],
+  "P18": "Charlemagne denier Mayence 812 814.jpg",
+  "sitelinks": {
+   "viwiki": "Charlemagne",
+   "enwiki": "Charlemagne"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q31066": {
+  "id": "Q31066",
+  "labels": {
+   "en": "Al-Mansur"
+  },
+  "aliases": {
+   "en": [
+    "Abu Ja'far Abdallah ibn Muhammad al-Mansur",
+    "Abu Ja'far al-Mansur",
+    "Mansur",
+    "Abu Giafar Almansur"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 713,
+    "precision": 10,
+    "rank": "preferred"
+   },
+   {
+    "year": 714,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 775,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 775,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Abbāsid Caliph al-Manṣūr from the genealogy (silsilanāma), Cream of Histories (Zübdet-üt Tevarih, 1598).jpg",
+  "sitelinks": {
+   "enwiki": "Al-Mansur"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q318998": {
+  "id": "Q318998",
+  "labels": {
+   "en": "Han Yu",
+   "vi": "Hàn Dũ"
+  },
+  "aliases": {
+   "vi": [
+    "Hàn Thoái Chi",
+    "Hàn Xương Lê"
+   ],
+   "en": [
+    "Wen",
+    "Hanchangli",
+    "Tuizhi",
+    "Han Shiba",
+    "Hanlibu",
+    "Hanwengong"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 768,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 824,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Han Yu.jpg",
+  "sitelinks": {
+   "viwiki": "Hàn Dũ",
+   "enwiki": "Han Yu"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q320122": {
+  "id": "Q320122",
+  "labels": {
+   "en": "Songtsän Gampo",
+   "vi": "Tùng Tán Cán Bố"
+  },
+  "aliases": {
+   "vi": [
+    "Tùng Tán Can Bố"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 604,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 617,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 650,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "King Songsten Gampo's statue in his meditation cave at Yerpa.jpg",
+  "sitelinks": {
+   "viwiki": "Songtsen Gampo",
+   "enwiki": "Songtsen Gampo"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q334312": {
+  "id": "Q334312",
+  "labels": {
+   "en": "Taejo of Goryeo",
+   "vi": "Cao Ly Thái Tổ"
+  },
+  "aliases": {
+   "vi": [
+    "Thái Tổ nhà Cao Ly",
+    "Vương Kiến"
+   ],
+   "en": [
+    "Wang Kŏn",
+    "Wang Kon",
+    "T'aejo of Koryŏ",
+    "Wang Geon",
+    "T'aejo",
+    "Taejo"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 877,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 943,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "WangGeon.jpg",
+  "sitelinks": {
+   "viwiki": "Cao Ly Thái Tổ",
+   "enwiki": "Taejo of Goryeo"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q335210": {
+  "id": "Q335210",
+  "labels": {
+   "en": "Abu Muslim al Khorasani"
+  },
+  "aliases": {
+   "en": [
+    "Abu Muslim Khorasani"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 718,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 755,
+    "precision": 10,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Portrait of Abu Muslim (d. 755) from the genealogy (silsilanāma), Cream of Histories (Zübdet-üt Tevarih, 1598).jpg",
+  "sitelinks": {
+   "enwiki": "Abu Muslim"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q33772": {
+  "id": "Q33772",
+  "labels": {
+   "vi": "Đỗ Phủ",
+   "en": "Du Fu"
+  },
+  "aliases": {
+   "vi": [
+    "Thi Thánh",
+    "Đỗ Thiếu Lăng"
+   ],
+   "en": [
+    "Fu Du"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 712,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 770,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Dufu.jpg",
+  "sitelinks": {
+   "viwiki": "Đỗ Phủ",
+   "enwiki": "Du Fu"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q345012": {
+  "id": "Q345012",
+  "labels": {
+   "en": "Huineng",
+   "vi": "Huệ Năng"
+  },
+  "aliases": {
+   "vi": [
+    "Lục tổ Huệ Năng",
+    "Lục Tổ"
+   ],
+   "en": [
+    "the Sixth Patriarch",
+    "Luzu",
+    "Lu-zu",
+    "Lu Zu",
+    "Liuzu",
+    "Liu-tsu",
+    "Liu Tsu",
+    "Liu Zu",
+    "Hui Neng",
+    "Shi Huineng",
+    "Dajian Chanshi",
+    "Luxingzhe"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 638,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 713,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Huineng.jpg",
+  "sitelinks": {
+   "viwiki": "Huệ Năng",
+   "enwiki": "Huineng"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q366661": {
+  "id": "Q366661",
+  "labels": {
+   "en": "Tri Songdetsen",
+   "vi": "Trisong Detsen"
+  },
+  "aliases": {
+   "vi": [
+    "Tri Songdetsen",
+    "Ngật-lật-song Đề-tán"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 742,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 742,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 797,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 798,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 800,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 797,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Emperor Trisong Detsen.jpg",
+  "sitelinks": {
+   "viwiki": "Trisong Detsen",
+   "enwiki": "Trisong Detsen"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q371384": {
+  "id": "Q371384",
+  "labels": {
+   "en": "K'inich Janaab' Pakal",
+   "vi": "K'inich Janaab' Pakal"
+  },
+  "aliases": {
+   "en": [
+    "Pacal",
+    "Pacal the Great",
+    "Pakal",
+    "Pakal the Great"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 603,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 683,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "K'inich Janaab Pakal I.jpg",
+  "sitelinks": {
+   "viwiki": "K'inich Janaab' Pakal",
+   "enwiki": "Kʼinich Janaabʼ Pakal"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q379239": {
+  "id": "Q379239",
+  "labels": {
+   "en": "Jayavaraman II",
+   "vi": "Jayavarman II"
+  },
+  "aliases": {
+   "en": [
+    "Jayavarman II"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 800,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 900,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Jayavarman II",
+   "enwiki": "Jayavarman II"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q379898": {
+  "id": "Q379898",
+  "labels": {
+   "en": "Ezana of Axum"
+  },
+  "aliases": {
+   "en": [
+    "Ezana of Aksum",
+    "Aezanes",
+    "Ezena",
+    "Aizanas",
+    "Azanas"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [],
+  "P570": [],
+  "P18": "Ezana.jpg",
+  "sitelinks": {
+   "enwiki": "Ezana of Axum"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q39619": {
+  "id": "Q39619",
+  "labels": {
+   "vi": "Ali bin Abu Talib",
+   "en": "Alī ibn Abī Ṭālib"
+  },
+  "aliases": {
+   "vi": [
+    "Caliph Ali",
+    "Ali bin Abi Talib"
+   ],
+   "en": [
+    "Haydar",
+    "Lion of God",
+    "Father of the Soil",
+    "Door of the City of Knowledge",
+    "Leader of the Faithful"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 599,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 661,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "The ten to whom Paradise was promised (Ali).png",
+  "sitelinks": {
+   "viwiki": "Ali bin Abu Talib",
+   "enwiki": "Ali"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q41866": {
+  "id": "Q41866",
+  "labels": {
+   "vi": "Justinianus I",
+   "en": "Justinian I"
+  },
+  "aliases": {
+   "vi": [
+    "Justinian I",
+    "Justinian Đại đế",
+    "Justinian"
+   ],
+   "en": [
+    "Imperator Caesar Flavius Iustinianus Alamannicus Gothicus Francicus Germanicus Anticus Alanicus Vandalicus Africanus pius felix inclitus victor ac triumphator semper Augustus",
+    "Ioustinianos I",
+    "Justinian the Great",
+    "Iustinianus I",
+    "Flavius Petrus Sabbatius Justinianus",
+    "Petrus Sabbatius Iustinianus",
+    "Flavius Petrus Sabbatius Justinianus Magnus",
+    "Petrus Sabbatius",
+    "Imperator Caesar Flavius Petrus Sabbatius Iustinianus Augustus",
+    "Flāvius Petrus Sabbatius Jūstīniānus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 482,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 483,
+    "precision": 11,
+    "rank": "deprecated"
+   },
+   {
+    "year": 483,
+    "precision": 9,
+    "rank": "deprecated"
+   }
+  ],
+  "P570": [
+   {
+    "year": 565,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 565,
+    "precision": 9,
+    "rank": "deprecated"
+   }
+  ],
+  "P18": "Mosaic of Justinianus I - Basilica San Vitale (Ravenna).jpg",
+  "sitelinks": {
+   "viwiki": "Justinianus I",
+   "enwiki": "Justinian I"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q42063": {
+  "id": "Q42063",
+  "labels": {
+   "vi": "Huyền Trang",
+   "en": "Xuanzang"
+  },
+  "aliases": {
+   "vi": [
+    "Trần Huyền Trang",
+    "Đường Huyền Trang",
+    "Đường Tăng",
+    "Đường Tam Tạng"
+   ],
+   "en": [
+    "Hsuang-tsang",
+    "Hiuen Tsang",
+    "Chen Yi",
+    "Tongru",
+    "Hiouen-Thsang",
+    "Hwen Tsang",
+    "Hwen T'sang",
+    "Hwen-tsang",
+    "Hwen-t'sang",
+    "Hsüan-tsang",
+    "Hsüan Tsang",
+    "Hsuan-tsang",
+    "Hsuan Tsang",
+    "Hiouen Thsang",
+    "Hiouen-tsang",
+    "Hiouen Tsang",
+    "Genjo",
+    "Genjoo",
+    "Genjou",
+    "Genjo Sanzo",
+    "Genjō",
+    "Genjō Sanzō",
+    "Tō-dai no Hōshi",
+    "To-dai no Hoshi",
+    "Todai no Hoshi",
+    "Tōdai no Hōshi",
+    "Hiuen Tsiang",
+    "Hiuan Thoang",
+    "Hwen Thsang",
+    "Hwan Thsang",
+    "Tripitaka",
+    "Hwán Thsáng",
+    "Chen Hui",
+    "Sanzang",
+    "Tang Sanzang",
+    "Sanzang Fashi",
+    "Fashi",
+    "Master of the Dharma",
+    "Tangseng",
+    "the Tang Monk",
+    "the Tang monk",
+    "the T'ang Monk",
+    "the T'ang monk",
+    "H'wen-tsang"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 602,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 602,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 664,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 664,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Xuanzang w.jpg",
+  "sitelinks": {
+   "viwiki": "Huyền Trang",
+   "enwiki": "Xuanzang"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q44265": {
+  "id": "Q44265",
+  "labels": {
+   "en": "Benedict of Nursia",
+   "vi": "Biển Đức thành Norcia"
+  },
+  "aliases": {
+   "en": [
+    "St. Benedict",
+    "Saint Benedict of Nursia",
+    "Saint Benedict",
+    "Bengt"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 480,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 547,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Frari (Venice) - Sacristy - triptych by Giovanni Bellini - Saint Benedict of Nursia and Saint Mark.jpg",
+  "sitelinks": {
+   "viwiki": "Biển Đức thành Norcia",
+   "enwiki": "Benedict of Nursia"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q457990": {
+  "id": "Q457990",
+  "labels": {
+   "en": "Dharmakirti",
+   "vi": "Pháp Xứng"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 700,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 660,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Dharmakirti.gif",
+  "sitelinks": {
+   "viwiki": "Pháp Xứng",
+   "enwiki": "Dharmakirti"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q468288": {
+  "id": "Q468288",
+  "labels": {
+   "en": "Ki no Tsurayuki"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 866,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 872,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 945,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Sanjūrokkasen-gaku - 2 - Kanō Tan’yū - Ki no Tsurayuki.jpg",
+  "sitelinks": {
+   "enwiki": "Ki no Tsurayuki"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q47684": {
+  "id": "Q47684",
+  "labels": {
+   "en": "Mpu Sindok"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [],
+  "P570": [
+   {
+    "year": 947,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "enwiki": "Mpu Sindok"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q493856": {
+  "id": "Q493856",
+  "labels": {
+   "vi": "Jang Bogo",
+   "en": "Chang Pogo"
+  },
+  "aliases": {
+   "vi": [
+    "Chang Bogo"
+   ],
+   "en": [
+    "Chang Po-go",
+    "Jang Bo-go",
+    "Jang Bogo",
+    "Kungbok",
+    "Gungbok",
+    "Kungp'a",
+    "Gungpa"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 787,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 846,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 841,
+    "precision": 9,
+    "rank": "deprecated"
+   }
+  ],
+  "P18": "Portraits of kings at Tongiljeon.jpg",
+  "sitelinks": {
+   "viwiki": "Trương Bảo Cao",
+   "enwiki": "Chang Pogo"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q4989": {
+  "id": "Q4989",
+  "labels": {
+   "en": "Emperor Taizu of Liao",
+   "vi": "Liêu Thái Tổ"
+  },
+  "aliases": {
+   "en": [
+    "Yelv Yi",
+    "Yelv Abaoji",
+    "Tian Huangdi",
+    "Yelv(1) Chuolizhi",
+    "Dasheng Daming Tianhuangdi",
+    "Abaoji",
+    "Yelü Abaoji",
+    "Shengtian Huangdi",
+    "Yelv Abaojin(Abuji)",
+    "Yelü Yi",
+    "Dasheng Daming Shenlie Tianhuangdi",
+    "Tai Zu",
+    "Liu Yi",
+    "Apaochi"
+   ],
+   "vi": [
+    "A Bảo Cơ",
+    "Da Luật A Bảo Cơ",
+    "Da Luật Ức"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 872,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 926,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Liêu Thái Tổ",
+   "enwiki": "Abaoji"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q503130": {
+  "id": "Q503130",
+  "labels": {
+   "en": "Hunayn ibn Ishaq"
+  },
+  "aliases": {
+   "en": [
+    "Ḥunayn ibn ʾIsḥāq"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 808,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 873,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Hunayn ibn-Ishaq al-'Ibadi Isagoge.jpg",
+  "sitelinks": {
+   "enwiki": "Hunayn ibn Ishaq"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q558272": {
+  "id": "Q558272",
+  "labels": {
+   "en": "Dignāga",
+   "vi": "Trần-na"
+  },
+  "aliases": {
+   "vi": [
+    "Đại Vực Long",
+    "Trần Na",
+    "Vực Long"
+   ],
+   "en": [
+    "Dignaga",
+    "Diṅnāga"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 480,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 540,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Trần-na",
+   "enwiki": "Dignāga"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q705378": {
+  "id": "Q705378",
+  "labels": {
+   "en": "Kaléb"
+  },
+  "aliases": {
+   "en": [
+    "Elesbaan",
+    "Ella Asbeha",
+    "Kaleb",
+    "St. Elesbaan",
+    "Saint Elesbaan",
+    "King Kaleb",
+    "King Alaasbaha the ||",
+    "Hellestheaeus",
+    "Hellesthaeus",
+    "Ellestheaeus",
+    "Eleshaah",
+    "Ellesboas",
+    "Elesboam"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 450,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 540,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Kaleb.jpg",
+  "sitelinks": {
+   "enwiki": "Kaleb of Axum"
+  },
+  "fetched": 1793676063
+ },
+ "wd:Q710705": {
+  "id": "Q710705",
+  "labels": {
+   "en": "Yi Xing",
+   "vi": "Nhất Hạnh"
+  },
+  "aliases": {
+   "vi": [
+    "Trương Toại"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 683,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 727,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Beijing Ancient Observatory 20090715-22.jpg",
+  "sitelinks": {
+   "viwiki": "Nhất Hạnh",
+   "enwiki": "Yi Xing"
+  },
+  "fetched": 1793676065
+ },
+ "wd:Q7418": {
+  "id": "Q7418",
+  "labels": {
+   "en": "Emperor Wen of Sui",
+   "vi": "Tùy Văn Đế"
+  },
+  "aliases": {
+   "en": [
+    "Gao Zu",
+    "Naluoyan",
+    "Yang Jian(8)",
+    "Yeung Kin",
+    "Yang Jian",
+    "Wen Di"
+   ],
+   "vi": [
+    "Dương Kiên"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 541,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 604,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Sui Wendi Tang.jpg",
+  "sitelinks": {
+   "viwiki": "Tùy Văn Đế",
+   "enwiki": "Emperor Wen of Sui"
+  },
+  "fetched": 1793676065
+ },
+ "wd:Q8467": {
+  "id": "Q8467",
+  "labels": {
+   "en": "Umar ibn Al-Khattāb",
+   "vi": "Omar bin Khattab"
+  },
+  "aliases": {
+   "en": [
+    "Farooq the Great",
+    "Leader of the Faithful",
+    "Omar",
+    "'Umar ibn al-Khaṭṭâb",
+    "'Umar ibn al-Khaṭṭâb ibn Nufayl ibn 'Abdul-'Uzza ibn Riyâḥ ibn 'Abdullah ibn Qurut ibn Razâh ibn 'Adiyy ibn Ka'b ibn Lu'ayy ibn Ghâlib al-Qurashi al-'Adawi",
+    "Omar ibn al-Khattab"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 586,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 644,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 644,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Rashidun Caliphs Umar ibn Al-Khattāb - عُمر بن الخطّاب ثاني الخلفاء الراشدين.svg",
+  "sitelinks": {
+   "viwiki": "Omar bin Khattab",
+   "enwiki": "Umar"
+  },
+  "fetched": 1793676065
+ },
+ "wd:Q854920": {
+  "id": "Q854920",
+  "labels": {
+   "en": "Bhavavarman I",
+   "vi": "Bhavavarman I"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 600,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 600,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "viwiki": "Bhavavarman I",
+   "enwiki": "Bhavavarman I"
+  },
+  "fetched": 1793676065
+ },
+ "wd:Q858348": {
+  "id": "Q858348",
+  "labels": {
+   "en": "Varāhamihira"
+  },
+  "aliases": {
+   "en": [
+    "Varahamihir",
+    "Varahamihira"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 505,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 587,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "enwiki": "Varāhamihira"
+  },
+  "fetched": 1793676065
+ },
+ "wd:Q862648": {
+  "id": "Q862648",
+  "labels": {
+   "en": "Ismail Samani"
+  },
+  "aliases": {
+   "en": [
+    "Amir Ismail Samani",
+    "Amir Ismail I",
+    "Amir Ismail the first"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 849,
+    "precision": 10,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 907,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "TajikistanP19-100Somoni-1999(2000)-donatedeh f.jpg",
+  "sitelinks": {
+   "enwiki": "Ismail Samani"
+  },
+  "fetched": 1793676065
+ },
+ "wd:Q9038": {
+  "id": "Q9038",
+  "labels": {
+   "en": "Muḥammad ibn Musa al-Khwarizmi",
+   "vi": "Muhammad ibn Mūsā al-Khwārizmī"
+  },
+  "aliases": {
+   "en": [
+    "Muḥammad ibn Mūsā al-Khwārizmī",
+    "Al-Khwārizmī",
+    "Al-Khwârizmî",
+    "al-Khwarizmi"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 780,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 750,
+    "precision": 7,
+    "rank": "normal"
+   },
+   {
+    "year": 780,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 850,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 846,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 850,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Al-Khwarizmi portrait.jpg",
+  "sitelinks": {
+   "viwiki": "Muhammad ibn Mūsā al-Khwārizmī",
+   "enwiki": "Al-Khwarizmi"
+  },
+  "fetched": 1793676065
+ },
+ "wd:Q9458": {
+  "id": "Q9458",
+  "labels": {
+   "vi": "Muhammad",
+   "en": "Muhammad"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 571,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 570,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 632,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 634,
+    "precision": 9,
+    "rank": "deprecated"
+   }
+  ],
+  "P18": "Muslim depiction of Muhammad - 17th century Ottoman copy from the \"Edinburgh codex\".jpg",
+  "sitelinks": {
+   "viwiki": "Muhammad",
+   "enwiki": "Muhammad"
+  },
+  "fetched": 1793676065
+ },
+ "wd:Q9701": {
+  "id": "Q9701",
+  "labels": {
+   "en": "Emperor Taizong of Tang",
+   "vi": "Đường Thái Tông"
+  },
+  "aliases": {
+   "en": [
+    "Wen",
+    "Tang Tai-tsung",
+    "Wenwu dasheng daguang xiao huangdi",
+    "Tang Taizong",
+    "Li Shimin",
+    "Taizong",
+    "Li Huangdi",
+    "Tengri Qaghan"
+   ],
+   "vi": [
+    "Lý Thế Dân",
+    "Thiên Khả Hãn",
+    "Tần Vương"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 598,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 649,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "TangTaizong.jpg",
+  "sitelinks": {
+   "viwiki": "Đường Thái Tông",
+   "enwiki": "Emperor Taizong of Tang"
+  },
+  "fetched": 1793676065
+ },
+ "wd:Q9738": {
+  "id": "Q9738",
+  "labels": {
+   "en": "Wu Zetian",
+   "vi": "Võ Tắc Thiên"
+  },
+  "aliases": {
+   "en": [
+    "Wu Zhao",
+    "Empress Consort Wu",
+    "Wu mei",
+    "Wuzetian",
+    "Zetian dasheng huanghou",
+    "Empress Wu",
+    "shunsheng huanghou"
+   ],
+   "vi": [
+    "Võ Hậu"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 624,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 705,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "唐后行從圖 (局部) - 武則天.png",
+  "sitelinks": {
+   "viwiki": "Võ Tắc Thiên",
+   "enwiki": "Wu Zetian"
+  },
+  "fetched": 1793676065
+ },
+ "wd:Q983355": {
+  "id": "Q983355",
+  "labels": {
+   "en": "Sibawayh"
+  },
+  "aliases": {
+   "en": [
+    "Abu Bishr Amr ibn Uthman ibn Qanbar al-Basri",
+    "Sībawayh"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 760,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 797,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Bust of Sibawayh, 28 February 2022 (cropped).jpg",
+  "sitelinks": {
+   "enwiki": "Sibawayh"
+  },
+  "fetched": 1793676065
  }
 }
