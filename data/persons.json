@@ -3738,10 +3738,10 @@
      "undetermined": false
     },
     {
-     "target": "Virgil (Publius Vergilius Maro)",
+     "target": "CH03-BCE01-05",
      "relation": "kế thừa",
      "evidence": "qua trường phái",
-     "raw": "Virgil (Publius Vergilius Maro) · kế thừa · qua trường phái",
+     "raw": "CH03-BCE01-05 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -4426,10 +4426,10 @@
      "undetermined": false
     },
     {
-     "target": "Thương Ưởng (商鞅)",
+     "target": "CH03-BCE04-06",
      "relation": "kế thừa",
      "evidence": "qua trường phái",
-     "raw": "Thương Ưởng (商鞅) · kế thừa · qua trường phái",
+     "raw": "CH03-BCE04-06 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -5054,10 +5054,10 @@
    ],
    "influences": [
     {
-     "target": "Mạnh Tử (孟子)",
+     "target": "CH03-BCE04-04",
      "relation": "kế thừa",
      "evidence": "qua trường phái",
-     "raw": "Mạnh Tử (孟子) · kế thừa · qua trường phái",
+     "raw": "CH03-BCE04-04 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -5136,10 +5136,10 @@
    ],
    "influences": [
     {
-     "target": "Trang Tử (莊子)",
+     "target": "CH03-BCE04-05",
      "relation": "kế thừa",
      "evidence": "qua trường phái",
-     "raw": "Trang Tử (莊子) · kế thừa · qua trường phái",
+     "raw": "CH03-BCE04-05 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -5216,17 +5216,17 @@
    ],
    "influences": [
     {
-     "target": "Ashoka (A-dục vương)",
+     "target": "CH03-BCE03-01",
      "relation": "kế thừa",
      "evidence": "qua trường phái",
-     "raw": "Ashoka (A-dục vương) · kế thừa · qua trường phái",
+     "raw": "CH03-BCE03-01 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
-     "target": "Nāgārjuna (Long Thọ)",
+     "target": "CH04-CE02-08",
      "relation": "kế thừa",
      "evidence": "qua trường phái",
-     "raw": "Nāgārjuna (Long Thọ) · kế thừa · qua trường phái",
+     "raw": "CH04-CE02-08 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -5459,10 +5459,10 @@
      "undetermined": false
     },
     {
-     "target": "Plato (Πλάτων)",
+     "target": "CH03-BCE04-01",
      "relation": "kế thừa",
      "evidence": "qua trường phái",
-     "raw": "Plato (Πλάτων) · kế thừa · qua trường phái",
+     "raw": "CH03-BCE04-01 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -5684,10 +5684,10 @@
      "undetermined": false
     },
     {
-     "target": "Mani (Ma Ni)",
+     "target": "CH04-CE03-04",
      "relation": "kế thừa",
      "evidence": "qua trường phái",
-     "raw": "Mani (Ma Ni) · kế thừa · qua trường phái",
+     "raw": "CH04-CE03-04 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -6004,10 +6004,10 @@
    ],
    "influences": [
     {
-     "target": "Plato (Πλάτων)",
+     "target": "CH03-BCE04-01",
      "relation": "kế thừa",
      "evidence": "trực tiếp",
-     "raw": "Plato (Πλάτων) · kế thừa · trực tiếp",
+     "raw": "CH03-BCE04-01 · kế thừa · trực tiếp",
      "undetermined": false
     },
     {
@@ -6018,10 +6018,10 @@
      "undetermined": false
     },
     {
-     "target": "Zeno xứ Citium",
+     "target": "CH03-BCE03-07",
      "relation": "kế thừa",
      "evidence": "qua trường phái",
-     "raw": "Zeno xứ Citium · kế thừa · qua trường phái",
+     "raw": "CH03-BCE03-07 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -6096,10 +6096,10 @@
      "undetermined": false
     },
     {
-     "target": "Plato (Πλάτων)",
+     "target": "CH03-BCE04-01",
      "relation": "kế thừa",
      "evidence": "qua trường phái",
-     "raw": "Plato (Πλάτων) · kế thừa · qua trường phái",
+     "raw": "CH03-BCE04-01 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -6239,10 +6239,10 @@
    ],
    "influences": [
     {
-     "target": "Galen (Γαληνός)",
+     "target": "CH04-CE02-06",
      "relation": "kế thừa",
      "evidence": "qua trường phái",
-     "raw": "Galen (Γαληνός) · kế thừa · qua trường phái",
+     "raw": "CH04-CE02-06 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -6319,17 +6319,17 @@
    ],
    "influences": [
     {
-     "target": "Epicurus (Ἐπίκουρος)",
+     "target": "CH03-BCE03-08",
      "relation": "kế thừa",
      "evidence": "qua trường phái",
-     "raw": "Epicurus (Ἐπίκουρος) · kế thừa · qua trường phái",
+     "raw": "CH03-BCE03-08 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
-     "target": "Lucretius (Titus Lucretius Carus)",
+     "target": "CH03-BCE01-04",
      "relation": "kế thừa",
      "evidence": "qua trường phái",
-     "raw": "Lucretius (Titus Lucretius Carus) · kế thừa · qua trường phái",
+     "raw": "CH03-BCE01-04 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -6469,17 +6469,17 @@
    ],
    "influences": [
     {
-     "target": "Mạnh Tử (孟子)",
+     "target": "CH03-BCE04-04",
      "relation": "phản bác",
      "evidence": "qua trường phái",
-     "raw": "Mạnh Tử (孟子) · phản bác · qua trường phái",
+     "raw": "CH03-BCE04-04 · phản bác · qua trường phái",
      "undetermined": false
     },
     {
-     "target": "Hàn Phi (韓非)",
+     "target": "CH03-BCE03-06",
      "relation": "kế thừa",
      "evidence": "qua trường phái",
-     "raw": "Hàn Phi (韓非) · kế thừa · qua trường phái",
+     "raw": "CH03-BCE03-06 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -6548,10 +6548,10 @@
    ],
    "influences": [
     {
-     "target": "Patañjali",
+     "target": "CH03-BCE02-06",
      "relation": "kế thừa",
      "evidence": "qua trường phái",
-     "raw": "Patañjali · kế thừa · qua trường phái",
+     "raw": "CH03-BCE02-06 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -6707,10 +6707,10 @@
    ],
    "influences": [
     {
-     "target": "Alexander Đại đế",
+     "target": "CH03-BCE04-03",
      "relation": "kế thừa",
      "evidence": "qua trường phái",
-     "raw": "Alexander Đại đế · kế thừa · qua trường phái",
+     "raw": "CH03-BCE04-03 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
