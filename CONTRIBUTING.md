@@ -16,11 +16,16 @@ Dạng đóng góp giá trị nhất, và cũng dễ nhất:
 ## Môi trường
 
 ```bash
-uv venv --python 3.12
-uv pip install -r requirements.txt PyYAML Pillow
-.venv/bin/python build.py --offline     # lint, không gọi mạng
-.venv/bin/python build.py               # lint + đối chiếu Wikidata + sinh HTML
+uv sync --extra images                  # dựng .venv đúng theo uv.lock
+uv run python build.py --offline        # lint, không gọi mạng
+uv run python build.py                  # lint + đối chiếu Wikidata + sinh HTML
 ```
+
+`uv sync` đọc `pyproject.toml` và `uv.lock`, nên môi trường tái lập được y hệt;
+`.python-version` ghim CPython 3.12. Extra `images` chứa PyYAML và Pillow — code có
+bắt `ImportError` và chạy tiếp mà không có chúng, nhưng bản dựng chuẩn 191 ảnh nhúng
+thì cần, nên cứ cài kèm. `markdown` ghim **đúng** `3.10.3` vì đó là bản đã dựng ra
+output đang nằm trong git; nâng nó là một quyết định riêng, phải dựng lại rồi soi diff.
 
 Không cần Node, không cần server. Mở `index.html` bằng `file://` là chạy.
 

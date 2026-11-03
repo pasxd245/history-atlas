@@ -50,13 +50,20 @@ history-atlas/
 ├── prompts/atlas-prompt.md # prompt research v2 (PLAN §5, nguyên văn) + bảng biến theo chapter
 ├── atlaslib/               # common (hằng số, năm/thế kỷ, HTTP, Wikidata) · parse · lint · render
 ├── tests/                  # ch99-bad.md (23 lỗi cài sẵn) · ch98-wikidata.md (lệch niên đại)
-├── build.py · fetch_images.py · requirements.txt
+├── build.py · fetch_images.py · pyproject.toml · uv.lock
 ├── README.md · LICENSE (MIT) · CONTRIBUTING.md
 ```
 
 ## Yêu cầu
 
-Python 3.11+ và gói `markdown` (`pip install -r requirements.txt`). Tuỳ chọn: `PyYAML` (đọc `images.yaml` đầy đủ hơn), `Pillow` (thu nhỏ ảnh gốc khi Commons không trả thumbnail). Không cần Node, không cần server.
+Python 3.11+ (dự án ghim 3.12 qua `.python-version`) và [uv](https://docs.astral.sh/uv/):
+
+```bash
+uv sync --extra images
+uv run python build.py
+```
+
+Gói bắt buộc là `markdown`. Extra `images` thêm `PyYAML` (đọc `images.yaml` đầy đủ hơn) và `Pillow` (thu nhỏ ảnh gốc khi Commons không trả thumbnail); thiếu hai gói này thì code vẫn chạy ở mức thấp hơn, nhưng bản dựng chuẩn với 191 ảnh nhúng thì cần. Không cần Node, không cần server.
 
 ## Quy trình mỗi chapter (P2/P3)
 
