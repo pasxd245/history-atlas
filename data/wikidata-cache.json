@@ -13321,5 +13321,558 @@
    "enwiki": "Sibawayh"
   },
   "fetched": 1793676065
+ },
+ "wd:Q11104": {
+  "id": "Q11104",
+  "labels": {
+   "en": "Ibn al-Haytham",
+   "vi": "Alhazen"
+  },
+  "aliases": {
+   "en": [
+    "Ptolemaeus Secundus",
+    "Alhacen",
+    "The Physicist",
+    "al-Baṣrī",
+    "al-Miṣrī",
+    "Alhazen",
+    "Abū ʿAlī al-Ḥasan ibn al-Ḥasan ibn al-Ḥaytham"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 965,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 965,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1039,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 1038,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 1039,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 1040,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 1040,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 1041,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 1049,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Ibn Al-Haytham portrait.jpg",
+  "sitelinks": {
+   "viwiki": "Ibn al-Haytham",
+   "enwiki": "Ibn al-Haytham"
+  },
+  "fetched": 1793704916
+ },
+ "wd:Q11826": {
+  "id": "Q11826",
+  "labels": {
+   "en": "Al-Biruni",
+   "vi": "Al-Biruni"
+  },
+  "aliases": {
+   "en": [
+    "Al Biruni",
+    "Biruni",
+    "Abu Rayhan al-Biruni",
+    "Abū Rayḥān al-Bīrūnī",
+    "Abu al-Rayhan al-Biruni",
+    "Abū al-Rayḥān al-Bīrūnī",
+    "Albirunius",
+    "Beruni",
+    "Muḥammad ibn Aḥmad Bīrūnī"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 973,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1048,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Al-Biruni Portrait.jpg",
+  "sitelinks": {
+   "viwiki": "Al-Biruni",
+   "enwiki": "Al-Biruni"
+  },
+  "fetched": 1793704916
+ },
+ "wd:Q133063": {
+  "id": "Q133063",
+  "labels": {
+   "vi": "Giáo hoàng Grêgôriô VII",
+   "en": "Gregory VII"
+  },
+  "aliases": {
+   "en": [
+    "Ildebrando da Soana",
+    "Pope Gregory VII",
+    "Hildebrand",
+    "Hildebrand of Sovana",
+    "Pope Saint Gregory VII"
+   ],
+   "vi": [
+    "Giáo hoàng Gregory VII"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1020,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1085,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Gregorius (Vita Gregorii VII).jpg",
+  "sitelinks": {
+   "viwiki": "Giáo hoàng Grêgôriô VII",
+   "enwiki": "Pope Gregory VII"
+  },
+  "fetched": 1793704916
+ },
+ "wd:Q192238": {
+  "id": "Q192238",
+  "labels": {
+   "en": "Guido of Arezzo",
+   "vi": "Guido d’Arezzo"
+  },
+  "aliases": {
+   "en": [
+    "Guido d'Arezzo",
+    "Guido Aretinus",
+    "Guido da Arezzo"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 992,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1050,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Guido van Arezzo.jpg",
+  "sitelinks": {
+   "viwiki": "Guido d’Arezzo",
+   "enwiki": "Guido of Arezzo"
+  },
+  "fetched": 1793704916
+ },
+ "wd:Q200662": {
+  "id": "Q200662",
+  "labels": {
+   "en": "Bi Sheng",
+   "vi": "Tất Thăng"
+  },
+  "aliases": {
+   "en": [
+    "Sheng Bi"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1000,
+    "precision": 7,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1051,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Mengxi bitan.jpg",
+  "sitelinks": {
+   "enwiki": "Bi Sheng"
+  },
+  "fetched": 1793704916
+ },
+ "wd:Q211483": {
+  "id": "Q211483",
+  "labels": {
+   "vi": "Rajendra Chola I",
+   "en": "Rajendra Chola I"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1000,
+    "precision": 8,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1044,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Rajendra Chola.JPG",
+  "sitelinks": {
+   "viwiki": "Rajendra Chola I",
+   "enwiki": "Rajendra I"
+  },
+  "fetched": 1793704916
+ },
+ "wd:Q319618": {
+  "id": "Q319618",
+  "labels": {
+   "en": "Wang Anshi",
+   "vi": "Vương An Thạch"
+  },
+  "aliases": {
+   "vi": [
+    "Giới Phủ"
+   ],
+   "en": [
+    "Wen",
+    "Banshan laoren",
+    "Huanlang",
+    "Jiefu",
+    "Jinggong",
+    "Wang, Anshi, 1021-1086"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1021,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1086,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "歷代聖賢名人像-29-宋丞相王荆公安石.jpg",
+  "sitelinks": {
+   "viwiki": "Vương An Thạch",
+   "enwiki": "Wang Anshi"
+  },
+  "fetched": 1793704916
+ },
+ "wd:Q36020": {
+  "id": "Q36020",
+  "labels": {
+   "vi": "Tô Đông Pha",
+   "en": "Su Shi"
+  },
+  "aliases": {
+   "vi": [
+    "Tô Thức"
+   ],
+   "en": [
+    "Su Dongpo",
+    "Zizhan",
+    "Su Shih",
+    "Dongpo jushi",
+    "Su shi",
+    "zi Zizhan",
+    "hao Dongpo jushi",
+    "Su Tung-p'o",
+    "Wenzhong"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1037,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1101,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Su shi.jpg",
+  "sitelinks": {
+   "viwiki": "Tô Đông Pha",
+   "enwiki": "Su Shi"
+  },
+  "fetched": 1793704916
+ },
+ "wd:Q43939": {
+  "id": "Q43939",
+  "labels": {
+   "en": "Anselm of Canterbury",
+   "vi": "Anselmô thành Canterbury"
+  },
+  "aliases": {
+   "en": [
+    "Anselm",
+    "St. Anselm",
+    "Saint Anselm",
+    "St. Anselm of Canterbury",
+    "Anselm of Bec",
+    "Anselm of Aosta"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1033,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1109,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 1109,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Anselm of Canterbury.jpg",
+  "sitelinks": {
+   "viwiki": "Anselmô thành Canterbury",
+   "enwiki": "Anselm of Canterbury"
+  },
+  "fetched": 1793704916
+ },
+ "wd:Q47179": {
+  "id": "Q47179",
+  "labels": {
+   "vi": "Airlangga",
+   "en": "Airlangga"
+  },
+  "aliases": {
+   "en": [
+    "Erlangga",
+    "Rakai Halu Sri Lokeswara Dharmawangsa Airlangga Anantawikramottunggadewa"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 991,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1049,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Airlangga.jpg",
+  "sitelinks": {
+   "viwiki": "Airlangga",
+   "enwiki": "Airlangga"
+  },
+  "fetched": 1793704916
+ },
+ "wd:Q8011": {
+  "id": "Q8011",
+  "labels": {
+   "en": "Avicenna",
+   "vi": "Avicenna"
+  },
+  "aliases": {
+   "en": [
+    "Abitianus",
+    "Ibn Sīnā",
+    "Alraaʼys Ibn sīnā",
+    "Aboû Alî al-Hosain ibn Abdallâh ibn Sînâ",
+    "Pūr-i Sīnā"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 980,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 980,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1037,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1037,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 1037,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Avicenna Portrait on Silver Vase - Museum at BuAli Sina (Avicenna) Mausoleum - Hamadan - Western Iran (7423560860).jpg",
+  "sitelinks": {
+   "viwiki": "Avicenna",
+   "enwiki": "Avicenna"
+  },
+  "fetched": 1793704916
+ },
+ "wd:Q9546": {
+  "id": "Q9546",
+  "labels": {
+   "en": "Al-Ghazali",
+   "vi": "Al-Ghazali"
+  },
+  "aliases": {
+   "en": [
+    "Ghazzoliĭ, Muḣammad ibn Muḣammad ibn Aḣmad Abu Ḣomid at-Tusiĭ,",
+    "Al-Ghazzali",
+    "Abu Hamid al-Ghazālī",
+    "Algazelus",
+    "Algazel",
+    "Abu Hamid al-Ghazali",
+    "Abu Mohammed al-Ghazali",
+    "Al-Gonzzali",
+    "Ghonzzali",
+    "Ghazzālī"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1058,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 1056,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1111,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1111,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Al-Ghazali by Khalil Gibran.png",
+  "sitelinks": {
+   "viwiki": "Al-Ghazali",
+   "enwiki": "Al-Ghazali"
+  },
+  "fetched": 1793704916
  }
 }
