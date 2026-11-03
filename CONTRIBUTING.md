@@ -41,7 +41,7 @@ Template và từ vựng cố định nằm ở `prompts/atlas-prompt.md` (§5) 
 | `EVIDENCE_LEVELS` mức bằng chứng | 3 | — |
 | `CONFIDENCE` độ tin cậy niên đại | 3 | 1 |
 
-**Hai việc bắt buộc TRƯỚC khi viết** — bỏ qua là lint sẽ ngập cảnh báo:
+**Chín điều bắt buộc TRƯỚC khi viết** — bỏ qua là lint sẽ ngập cảnh báo:
 
 1. **Tra Wikidata Q-ID bằng API**, đừng đoán. `wbgetentities` với `sites=enwiki&titles=...` trả về P569/P570/nhãn thật; viết trường `năm:` khớp dung sai (Cao ±5 năm, Trung bình ±25, Thấp bỏ qua đối chiếu).
 2. **Kiểm URL nguồn tồn tại** trước khi trích. Nhiều slug Stanford Encyclopedia không có thật (`mozi` → thực tế là `mohism`; không hề có `thales`, `anaximander`, `herodotus`, `hippocrates`). Tồn tại chưa đủ — phải mở ra xem nó **có nói về nhân vật không**: Ch2 từng dẫn một bài SEP không nhắc tới Solon một chữ nào.
@@ -51,6 +51,7 @@ Template và từ vựng cố định nằm ở `prompts/atlas-prompt.md` (§5) 
 6. **Đừng nêu làm "ứng viên bị loại" một người đã được chọn ở chỗ khác trong atlas.** Ch3 mắc 11 lần: mục Tần Thủy Hoàng nêu Lý Tư, mục Ashoka nêu Chandragupta, mục Cicero nêu Lucretius — tất cả đều có mục riêng. Câu văn khi đó tự mâu thuẫn: không có đánh đổi nào xảy ra. Nếu muốn nhắc để so sánh thì nói rõ *"có mục riêng ở nhóm X nên không phải ứng viên bị loại"*. Dò bằng script đối chiếu mọi tên trong "Vì sao chọn" với `data/persons.json` nhanh hơn dò tay, và bắt được cả những ca người rà bỏ sót.
 7. **Nguồn tồn tại, đúng chủ đề, vẫn có thể bị dùng ngược.** Ch3 dẫn Hansen, *The Silk Road: A New History* (2012) để đỡ cho câu về sự hình thành Con đường tơ lụa — trong khi luận điểm trung tâm của bà là lưu lượng tuyến ấy nhỏ hơn nhiều so với hình dung phổ biến. Loại lỗi này không URL nào bắt được: phải biết sách đó **lập luận gì**, không chỉ nó nói về cái gì. Tương tự, kiểm cả **thể loại**: Fried & Unguru (2001) bị ghi là "bản dịch Conics", thực tế là chuyên khảo.
 8. **Lint mù trước liên kết trỏ đúng ID nhưng sai người.** Vòng đối xứng (thêm ở P2) chỉ báo được rằng liên kết một chiều, không báo được đích sai: Ch3 từng cho Tư Mã Thiên "ảnh hưởng tới" Đinh Bộ Lĩnh và Lưu Hướng "ảnh hưởng tới" Nguyễn Hoàng. **Mở mục đích ra đọc tên** trước khi commit. Lint có bắt nghịch niên đại, nhưng chỉ khi người tác động sinh sau khi người kia đã mất — nó không bắt được `trực tiếp` giữa hai người cách nhau 130 năm mà vẫn "đúng thứ tự".
+9. **`trực tiếp` là mức bằng chứng chặt nhất, không phải mức mạnh nhất.** Trước khi viết `trực tiếp`, mở cả hai mục ra và cộng trừ năm: đời hai người phải chồng lấn, **và** phải có tiếp xúc nói được bằng nguồn. Không chồng đời thì viết `qua trường phái`. Đây là lỗi phổ biến nhất trong atlas hiện tại, không phải lỗi hiếm — xem khối "Quy ước mức bằng chứng" bên dưới để biết quy mô. Lint không đỡ được chỗ này (quy tắc 8).
 
 **Quy ước trường `năm:`** — parser cần dạng đọc được, nhưng đừng bịa:
 
@@ -69,6 +70,20 @@ Tránh dạng `TK 6 TCN` — parser bỏ qua, nhân vật sẽ mất chỗ trên
 2. **Ngoại lệ đã khai báo: các thành bang nói tiếng Hy Lạp ở Tiểu Á** (Miletus, Nicaea, Cos, Amaseia, Pergamon) ghi **Châu Âu**, vì chúng là bộ phận cấu thành thế giới Hy Lạp. Alexandria **không** theo ngoại lệ này; lý do đầy đủ nằm ở `## Ghi chú biên tập` của Chapter 3.
 3. **`REGIONS` không có ô nào cho Nội Á / thế giới thảo nguyên.** Hệ quả: cao nguyên Mông Cổ ghi **Đông Á** (Mặc Đốn thiền vu, `CH03-BCE02-12`), còn "Trung Á" trên thực tế chỉ còn dùng cho vành đai Transoxiana–Iran đông. Thế giới du mục vì vậy **không tồn tại như một hạng mục** trong thống kê vùng, dù nó là một trong những lực định hình lịch sử Á–Âu. Mọi con số Trung Á phải đọc kèm giới hạn từ vựng này.
 4. **Đừng đổi `vùng:` của một người để cải thiện thống kê.** Khi một vùng trống, chỉ có hai câu trả lời đúng: tìm người thật sự thuộc vùng đó, hoặc ghi vào Ghi chú biên tập rằng vùng ấy trống và vì sao. Vòng rà soát vùng đã **bác** đề xuất chuyển Kanishka từ Nam Á sang Trung Á đúng theo điều này — kinh đô Purushapura nằm ở Nam Á, nên đổi nhãn chỉ phá quy tắc 1 để lấy một con số đẹp hơn.
+
+**Quy ước mức bằng chứng** — như quy ước `vùng:` ở trên, điều này trước nay **chưa từng được viết ra**. `trực tiếp` chỉ tồn tại như một giá trị enum ở `prompts/atlas-prompt.md` §5 và trong `EVIDENCE_LEVELS`; không chỗ nào nói nó nghĩa là gì. Đo trên mạch chính (245 người, không tính phụ lục): **346 trên 928 quan hệ, tức 37,3%, đang mang nhãn này**. Một từ không định nghĩa đang gánh hơn một phần ba mạng lưới.
+
+Định nghĩa, từ nay:
+
+1. **`trực tiếp`** — tiếp xúc người với người, chứng minh được bằng nguồn: thầy–trò, đồng sự, thư từ qua lại, cùng ngồi một hội đồng hay một triều đình. **Điều kiện cần: đời hai người chồng lấn.** Hai người không cùng sống thì không có tiếp xúc nào để chứng minh, ảnh hưởng mạnh tới đâu cũng vậy.
+2. **`qua trường phái`** — truyền qua văn bản, bản dịch, học phái, định chế, dòng tu, trường luật. Đây là mức **mặc định** cho mọi cặp không chồng đời, và cho mọi quan hệ mà đích không phải một con người (một chế độ, một bộ kinh, một truyền thống).
+3. **`suy đoán học giả`** — không có đường truyền chứng minh được; mối liên hệ là giả thuyết của giới nghiên cứu, và nên nói rõ giả thuyết của ai.
+
+Vì sao chọn cách đọc chặt: ba mức này đo **đường truyền**, nên mức đầu phải là đường ngắn nhất. Đọc rộng thì `trực tiếp` chỉ còn nghĩa "ảnh hưởng rõ ràng" — mà điều đó đã nằm sẵn ở `kế thừa`, và từ ấy thôi mang thông tin.
+
+**Hiện trạng cần dọn**, đo lúc viết điều này. Trong 346 quan hệ `trực tiếp`: **183 có đích là văn bản tự do** chứ không phải một mục trong atlas, phần lớn thuộc nhóm 2 theo định nghĩa trên. Trong 163 quan hệ đích-là-ID còn lại, **50 cặp không chồng đời** — xa nhất `CH05-CE09-02 → CH02-BCE06-03` cách **1251 năm**, rồi `CH05-CE09-02 → CH03-BCE04-04` cách 1057 năm và `CH04-CE03-10 → CH02-BCE06-02` cách 716 năm. Lint mù trước cả nhóm này: nó chỉ báo nghịch niên đại khi người tác động sinh sau khi người kia đã mất, nên một `trực tiếp` "đúng thứ tự" mà cách nhau mười thế kỷ vẫn qua sạch.
+
+**Không thêm mức thứ tư.** Phương án tách nghĩa bằng một mức `qua văn bản` mới đã được cân nhắc và gác lại: đổi `EVIDENCE_LEVELS` trong `atlaslib/common.py` kéo theo lint, thống kê và cả sáu chapter cùng lúc. Việc ấy chỉ đáng làm **sau** khi đã có định nghĩa, không phải thay cho nó.
 
 **Khối minh bạch bắt buộc.** Mỗi chapter phải mở đầu `## Ghi chú biên tập` bằng khối "Cách chapter này được soạn" (nguyên văn ở cuối `prompts/atlas-prompt.md`). Build không kiểm tự động — đây là việc của người biên tập.
 

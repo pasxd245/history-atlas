@@ -47,6 +47,9 @@ Hãy research trước khi viết; ưu tiên nguồn học thuật (Stanford Enc
 **Kế thừa từ:**
 - {{ID hoặc tên}} · {{kế thừa|tổng hợp|phản bác|tương đồng độc lập}} · {{trực tiếp|qua trường phái|suy đoán học giả}}
 (tối đa 3 mục; nếu không xác định được, ghi đúng một dòng "- Không xác định")
+> Mức bằng chứng đo ĐƯỜNG TRUYỀN, không đo độ mạnh. `trực tiếp` = tiếp xúc người với người
+> chứng minh được VÀ đời hai người chồng lấn. Không chồng đời, hoặc đích không phải một con
+> người → `qua trường phái`. Định nghĩa đầy đủ: `CONTRIBUTING.md`, khối "Quy ước mức bằng chứng".
 
 **Ảnh hưởng tới:**
 - {{ID hoặc tên nhân vật/trào lưu}} · {{loại quan hệ}} · {{mức bằng chứng}}
