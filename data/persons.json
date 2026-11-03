@@ -1129,15 +1129,15 @@
     {
      "target": "CH01-BCE20_18-03",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH01-BCE20_18-03 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH01-BCE20_18-03 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
      "target": "Thể loại văn chương răn dạy Ai Cập",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Thể loại văn chương răn dạy Ai Cập · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Thể loại văn chương răn dạy Ai Cập · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -1192,8 +1192,8 @@
     {
      "target": "CH01-BCE20_18-02",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH01-BCE20_18-02 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH01-BCE20_18-02 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -1208,8 +1208,8 @@
     {
      "target": "Truyền thống chân dung vua thời Trung vương quốc",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Truyền thống chân dung vua thời Trung vương quốc · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống chân dung vua thời Trung vương quốc · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -1344,8 +1344,8 @@
     {
      "target": "Hiểu biết hiện đại về Cận Đông thiên niên kỷ 2 TCN",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Hiểu biết hiện đại về Cận Đông thiên niên kỷ 2 TCN · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Hiểu biết hiện đại về Cận Đông thiên niên kỷ 2 TCN · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -1791,8 +1791,8 @@
     {
      "target": "Hệ chư hầu Levant thời Tân vương quốc",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Hệ chư hầu Levant thời Tân vương quốc · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Hệ chư hầu Levant thời Tân vương quốc · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -1906,8 +1906,8 @@
     {
      "target": "Bản gốc thời Trung vương quốc mà ông chép lại",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Bản gốc thời Trung vương quốc mà ông chép lại · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Bản gốc thời Trung vương quốc mà ông chép lại · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -1915,8 +1915,8 @@
     {
      "target": "Hiểu biết hiện đại về toán học Ai Cập",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Hiểu biết hiện đại về toán học Ai Cập · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Hiểu biết hiện đại về toán học Ai Cập · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -1978,8 +1978,8 @@
     {
      "target": "Truyền thống tụng Gāyatrī trong Ấn giáo",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Truyền thống tụng Gāyatrī trong Ấn giáo · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống tụng Gāyatrī trong Ấn giáo · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -2321,8 +2321,8 @@
     {
      "target": "Truyền thống nuôi ngựa Mitanni",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Truyền thống nuôi ngựa Mitanni · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống nuôi ngựa Mitanni · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -2616,8 +2616,8 @@
     {
      "target": "Hiểu biết hiện đại về sụp đổ Thời đại Đồ đồng",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Hiểu biết hiện đại về sụp đổ Thời đại Đồ đồng · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Hiểu biết hiện đại về sụp đổ Thời đại Đồ đồng · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -2752,8 +2752,8 @@
     {
      "target": "Khảo cổ học nhà Thương và niên biểu đồ đồng",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Khảo cổ học nhà Thương và niên biểu đồ đồng · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Khảo cổ học nhà Thương và niên biểu đồ đồng · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -2891,8 +2891,8 @@
     {
      "target": "Thể loại biên niên vua Assyria",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Thể loại biên niên vua Assyria · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Thể loại biên niên vua Assyria · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -3183,8 +3183,8 @@
     {
      "target": "Phụng tự tập trung tại Đền Jerusalem",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Phụng tự tập trung tại Đền Jerusalem · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Phụng tự tập trung tại Đền Jerusalem · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -3316,8 +3316,8 @@
     {
      "target": "Niên biểu đối chiếu Ai Cập và Levant",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Niên biểu đối chiếu Ai Cập và Levant · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Niên biểu đối chiếu Ai Cập và Levant · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -3459,8 +3459,8 @@
     {
      "target": "Niên biểu đối chiếu Assyria và Levant",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Niên biểu đối chiếu Assyria và Levant · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Niên biểu đối chiếu Assyria và Levant · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -3596,8 +3596,8 @@
     {
      "target": "Hiểu biết hiện đại về các vương quốc Levant thời đồ sắt",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Hiểu biết hiện đại về các vương quốc Levant thời đồ sắt · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Hiểu biết hiện đại về các vương quốc Levant thời đồ sắt · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -4027,8 +4027,8 @@
     {
      "target": "CH02-BCE07-01",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH02-BCE07-01 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE07-01 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -4097,8 +4097,8 @@
     {
      "target": "Truyền thống vương quyền Ai Cập (Amun ở Napata)",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Truyền thống vương quyền Ai Cập (Amun ở Napata) · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống vương quyền Ai Cập (Amun ở Napata) · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -4106,8 +4106,8 @@
     {
      "target": "CH02-BCE07-09",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH02-BCE07-09 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE07-09 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -4257,8 +4257,8 @@
     {
      "target": "Quy tắc dựng bàn thờ trong tế lễ Vệ Đà (Taittirīya Saṃhitā, Śatapatha Brāhmaṇa)",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Quy tắc dựng bàn thờ trong tế lễ Vệ Đà (Taittirīya Saṃhitā, Śatapatha Brāhmaṇa) · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Quy tắc dựng bàn thờ trong tế lễ Vệ Đà (Taittirīya Saṃhitā, Śatapatha Brāhmaṇa) · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -4273,8 +4273,8 @@
     {
      "target": "Truyền thống Śulbasūtra về sau (Āpastamba, Kātyāyana, Mānava)",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Truyền thống Śulbasūtra về sau (Āpastamba, Kātyāyana, Mānava) · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống Śulbasūtra về sau (Āpastamba, Kātyāyana, Mānava) · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -4355,8 +4355,8 @@
     {
      "target": "Ngành Assyria học hiện đại",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Ngành Assyria học hiện đại · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Ngành Assyria học hiện đại · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -4781,8 +4781,8 @@
     {
      "target": "Truyền thống tế tự Vệ Đà (Brāhmaṇa)",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "Truyền thống tế tự Vệ Đà (Brāhmaṇa) · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống tế tự Vệ Đà (Brāhmaṇa) · phản bác · qua trường phái",
      "undetermined": false
     },
     {
@@ -4953,8 +4953,8 @@
     {
      "target": "CH02-BCE08-06",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH02-BCE08-06 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE08-06 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -4983,8 +4983,8 @@
     {
      "target": "Nghĩa địa hoàng gia Nuri và truyền thống kim tự tháp Napata–Meroë",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Nghĩa địa hoàng gia Nuri và truyền thống kim tự tháp Napata–Meroë · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Nghĩa địa hoàng gia Nuri và truyền thống kim tự tháp Napata–Meroë · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -5062,8 +5062,8 @@
     {
      "target": "CH02-BCE05-07",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "CH02-BCE05-07 · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE05-07 · phản bác · qua trường phái",
      "undetermined": false
     },
     {
@@ -5989,8 +5989,8 @@
     {
      "target": "Phái Biện sĩ (sophistai)",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "Phái Biện sĩ (sophistai) · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Phái Biện sĩ (sophistai) · phản bác · qua trường phái",
      "undetermined": false
     },
     {
@@ -6461,8 +6461,8 @@
     {
      "target": "CH02-BCE06-01",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "CH02-BCE06-01 · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE06-01 · phản bác · qua trường phái",
      "undetermined": false
     }
    ],
@@ -6981,8 +6981,8 @@
     {
      "target": "Các vương quốc Hellenistic và Hy Lạp–Bactria",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Các vương quốc Hellenistic và Hy Lạp–Bactria · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Các vương quốc Hellenistic và Hy Lạp–Bactria · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -7210,8 +7210,8 @@
     {
      "target": "CH03-BCE03-02",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH03-BCE03-02 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE03-02 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -7434,15 +7434,15 @@
     {
      "target": "CH03-BCE03-03",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH03-BCE03-03 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE03-03 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
      "target": "CH03-BCE03-05",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH03-BCE03-05 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE03-05 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -7733,8 +7733,8 @@
     {
      "target": "Phật giáo Theravāda ở Sri Lanka và Đông Nam Á",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Phật giáo Theravāda ở Sri Lanka và Đông Nam Á · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Phật giáo Theravāda ở Sri Lanka và Đông Nam Á · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -7882,8 +7882,8 @@
     {
      "target": "CH03-BCE04-09",
      "relation": "tổng hợp",
-     "evidence": "trực tiếp",
-     "raw": "CH03-BCE04-09 · tổng hợp · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE04-09 · tổng hợp · qua trường phái",
      "undetermined": false
     },
     {
@@ -8047,8 +8047,8 @@
     {
      "target": "CH03-BCE04-09",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH03-BCE04-09 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE04-09 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -8379,8 +8379,8 @@
     {
      "target": "CH03-BCE02-03",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "CH03-BCE02-03 · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE02-03 · phản bác · qua trường phái",
      "undetermined": false
     },
     {
@@ -8738,8 +8738,8 @@
     {
      "target": "CH03-BCE02-12",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "CH03-BCE02-12 · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE02-12 · phản bác · qua trường phái",
      "undetermined": false
     },
     {
@@ -8831,8 +8831,8 @@
     {
      "target": "CH03-BCE03-09",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "CH03-BCE03-09 · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE03-09 · phản bác · qua trường phái",
      "undetermined": false
     },
     {
@@ -8926,8 +8926,8 @@
     {
      "target": "CH03-BCE01-03",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH03-BCE01-03 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE01-03 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -8981,8 +8981,8 @@
     {
      "target": "CH03-BCE02-12",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "CH03-BCE02-12 · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE02-12 · phản bác · qua trường phái",
      "undetermined": false
     },
     {
@@ -9059,8 +9059,8 @@
     {
      "target": "CH02-BCE05-08",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH02-BCE05-08 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE05-08 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -9148,8 +9148,8 @@
     {
      "target": "Milindapañha trong tạng kinh Theravāda",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Milindapañha trong tạng kinh Theravāda · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Milindapañha trong tạng kinh Theravāda · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -9210,8 +9210,8 @@
     {
      "target": "CH03-BCE03-03",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH03-BCE03-03 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE03-03 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -9305,8 +9305,8 @@
     {
      "target": "Khủng hoảng cuối nền Cộng hoà La Mã",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Khủng hoảng cuối nền Cộng hoà La Mã · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Khủng hoảng cuối nền Cộng hoà La Mã · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -9376,8 +9376,8 @@
     {
      "target": "CH03-BCE01-03",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH03-BCE01-03 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE01-03 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -9448,8 +9448,8 @@
     {
      "target": "Nhà nước Hasmonean và lễ Hanukkah",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Nhà nước Hasmonean và lễ Hanukkah · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Nhà nước Hasmonean và lễ Hanukkah · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -9520,15 +9520,15 @@
     {
      "target": "CH03-BCE02-02",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "CH03-BCE02-02 · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE02-02 · phản bác · qua trường phái",
      "undetermined": false
     },
     {
      "target": "CH03-BCE02-05",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "CH03-BCE02-05 · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE02-05 · phản bác · qua trường phái",
      "undetermined": false
     },
     {
@@ -9602,8 +9602,8 @@
     {
      "target": "Lịch Julius và lịch Gregory",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Lịch Julius và lịch Gregory · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Lịch Julius và lịch Gregory · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -10159,8 +10159,8 @@
     {
      "target": "Bản vẽ Người Vitruvius của Leonardo da Vinci",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Bản vẽ Người Vitruvius của Leonardo da Vinci · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Bản vẽ Người Vitruvius của Leonardo da Vinci · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -10230,8 +10230,8 @@
     {
      "target": "Ai Cập thành tỉnh La Mã và nguồn lúa mì cho Rome",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Ai Cập thành tỉnh La Mã và nguồn lúa mì cho Rome · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Ai Cập thành tỉnh La Mã và nguồn lúa mì cho Rome · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -10893,8 +10893,8 @@
     {
      "target": "CH04-CE03-02",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH04-CE03-02 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE03-02 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -11107,8 +11107,8 @@
     {
      "target": "Hiểu biết hiện đại về Judea thế kỷ 1",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Hiểu biết hiện đại về Judea thế kỷ 1 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Hiểu biết hiện đại về Judea thế kỷ 1 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -11236,15 +11236,15 @@
     {
      "target": "CH03-BCE01-06",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH03-BCE01-06 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE01-06 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
      "target": "CH03-BCE01-10",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH03-BCE01-10 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE01-10 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -11670,8 +11670,8 @@
     {
      "target": "CH03-BCE02-03",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH03-BCE02-03 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE02-03 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -12066,8 +12066,8 @@
     {
      "target": "Từ vựng thần học Latinh",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Từ vựng thần học Latinh · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Từ vựng thần học Latinh · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -12203,8 +12203,8 @@
     {
      "target": "Đạo giáo có tổ chức ở Trung Hoa và Việt Nam",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Đạo giáo có tổ chức ở Trung Hoa và Việt Nam · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Đạo giáo có tổ chức ở Trung Hoa và Việt Nam · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -12345,8 +12345,8 @@
     {
      "target": "CH04-CE01-06",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH04-CE01-06 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE01-06 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -12539,15 +12539,15 @@
     {
      "target": "CH04-CE05-01",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "CH04-CE05-01 · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-01 · phản bác · qua trường phái",
      "undetermined": false
     },
     {
      "target": "Manichaeism từ Tây Ban Nha tới Trung Hoa",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Manichaeism từ Tây Ban Nha tới Trung Hoa · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Manichaeism từ Tây Ban Nha tới Trung Hoa · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -12880,8 +12880,8 @@
     {
      "target": "Cửu chương toán thuật",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Cửu chương toán thuật · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Cửu chương toán thuật · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -12889,8 +12889,8 @@
     {
      "target": "CH04-CE05-11",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH04-CE05-11 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-11 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -12903,8 +12903,8 @@
     {
      "target": "Nguyên lý Tổ Cảnh và bài toán thể tích cầu",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Nguyên lý Tổ Cảnh và bài toán thể tích cầu · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Nguyên lý Tổ Cảnh và bài toán thể tích cầu · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -12958,8 +12958,8 @@
     {
      "target": "CH02-BCE06-02",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH02-BCE06-02 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE06-02 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -12981,8 +12981,8 @@
     {
      "target": "Huyền học và cách đọc Kinh Dịch ở Đông Á",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Huyền học và cách đọc Kinh Dịch ở Đông Á · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Huyền học và cách đọc Kinh Dịch ở Đông Á · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -13125,8 +13125,8 @@
     {
      "target": "Tam luận tông ở Trung Hoa, Triều Tiên và Nhật Bản",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Tam luận tông ở Trung Hoa, Triều Tiên và Nhật Bản · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Tam luận tông ở Trung Hoa, Triều Tiên và Nhật Bản · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -13275,8 +13275,8 @@
     {
      "target": "Quy điển Tân Ước và tín điều Nicaea",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Quy điển Tân Ước và tín điều Nicaea · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Quy điển Tân Ước và tín điều Nicaea · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -13354,15 +13354,15 @@
     {
      "target": "Ngôn ngữ học lịch sử các ngôn ngữ German",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Ngôn ngữ học lịch sử các ngôn ngữ German · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Ngôn ngữ học lịch sử các ngôn ngữ German · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
      "target": "Kitô giáo phi Nicaea ở các vương quốc German",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Kitô giáo phi Nicaea ở các vương quốc German · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Kitô giáo phi Nicaea ở các vương quốc German · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -13498,8 +13498,8 @@
     {
      "target": "Chuẩn hoá kinh Avesta và Hoả giáo hậu kỳ",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Chuẩn hoá kinh Avesta và Hoả giáo hậu kỳ · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Chuẩn hoá kinh Avesta và Hoả giáo hậu kỳ · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -13692,8 +13692,8 @@
     {
      "target": "CH04-CE04-01",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH04-CE04-01 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE04-01 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -13708,8 +13708,8 @@
     {
      "target": "Kinh Tin kính Nicaea–Constantinopolis",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Kinh Tin kính Nicaea–Constantinopolis · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Kinh Tin kính Nicaea–Constantinopolis · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -13785,8 +13785,8 @@
     {
      "target": "Vương quyền Aksum và thần Maḥrem",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "Vương quyền Aksum và thần Maḥrem · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Vương quyền Aksum và thần Maḥrem · phản bác · qua trường phái",
      "undetermined": false
     }
    ],
@@ -13801,8 +13801,8 @@
     {
      "target": "Chữ Ge'ez có nguyên âm hoá",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Chữ Ge'ez có nguyên âm hoá · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Chữ Ge'ez có nguyên âm hoá · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -14009,8 +14009,8 @@
     {
      "target": "Bối cảnh Ấn Độ thời Gupta",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Bối cảnh Ấn Độ thời Gupta · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Bối cảnh Ấn Độ thời Gupta · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -14032,8 +14032,8 @@
     {
      "target": "Hiểu biết hiện đại về Ấn Độ thời Gupta",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Hiểu biết hiện đại về Ấn Độ thời Gupta · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Hiểu biết hiện đại về Ấn Độ thời Gupta · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -14119,8 +14119,8 @@
     {
      "target": "Thể loại tự thuật nội tâm ở phương Tây",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Thể loại tự thuật nội tâm ở phương Tây · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Thể loại tự thuật nội tâm ở phương Tây · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -14184,15 +14184,15 @@
     {
      "target": "Phân ly giữa các giáo hội Chalcedon và phi Chalcedon",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Phân ly giữa các giáo hội Chalcedon và phi Chalcedon · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Phân ly giữa các giáo hội Chalcedon và phi Chalcedon · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
      "target": "Học thuyết quyền tối thượng của giáo hoàng",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Học thuyết quyền tối thượng của giáo hoàng · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Học thuyết quyền tối thượng của giáo hoàng · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -14406,8 +14406,8 @@
     {
      "target": "Corpus Iuris Civilis của Justinianus",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Corpus Iuris Civilis của Justinianus · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Corpus Iuris Civilis của Justinianus · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -14541,8 +14541,8 @@
     {
      "target": "CH04-CE02-08",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH04-CE02-08 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE02-08 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -14564,8 +14564,8 @@
     {
      "target": "Phật giáo Đông Á và kinh tụng tiếng Hán",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Phật giáo Đông Á và kinh tụng tiếng Hán · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Phật giáo Đông Á và kinh tụng tiếng Hán · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -14643,8 +14643,8 @@
     {
      "target": "Theravāda ở Sri Lanka và Đông Nam Á lục địa",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Theravāda ở Sri Lanka và Đông Nam Á lục địa · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Theravāda ở Sri Lanka và Đông Nam Á lục địa · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -14704,15 +14704,15 @@
     {
      "target": "Thiên văn học Ấn Độ tới Brahmagupta và Bhāskara",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Thiên văn học Ấn Độ tới Brahmagupta và Bhāskara · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Thiên văn học Ấn Độ tới Brahmagupta và Bhāskara · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
      "target": "CH05-CE07-08",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "CH05-CE07-08 · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE07-08 · phản bác · qua trường phái",
      "undetermined": false
     }
    ],
@@ -14782,15 +14782,15 @@
     {
      "target": "Thiên Liệt nữ trong chính sử Đông Á",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Thiên Liệt nữ trong chính sử Đông Á · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Thiên Liệt nữ trong chính sử Đông Á · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
      "target": "Hiểu biết hiện đại về Giao Chỉ thời Bắc thuộc sớm",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Hiểu biết hiện đại về Giao Chỉ thời Bắc thuộc sớm · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Hiểu biết hiện đại về Giao Chỉ thời Bắc thuộc sớm · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -14834,8 +14834,8 @@
     {
      "target": "CH04-CE03-09",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH04-CE03-09 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE03-09 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -14970,8 +14970,8 @@
     {
      "target": "CH04-CE05-05",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH04-CE05-05 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-05 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -15110,8 +15110,8 @@
     {
      "target": "Bộ máy thuế đất của nhà nước Hồi giáo sơ kỳ",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Bộ máy thuế đất của nhà nước Hồi giáo sơ kỳ · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Bộ máy thuế đất của nhà nước Hồi giáo sơ kỳ · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -15163,8 +15163,8 @@
     {
      "target": "Truyền thống siddhānta Ấn Độ",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Truyền thống siddhānta Ấn Độ · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống siddhānta Ấn Độ · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -15179,8 +15179,8 @@
     {
      "target": "Hiểu biết hiện đại về thiên văn Ấn Độ trước thế kỷ 5",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Hiểu biết hiện đại về thiên văn Ấn Độ trước thế kỷ 5 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Hiểu biết hiện đại về thiên văn Ấn Độ trước thế kỷ 5 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -15240,8 +15240,8 @@
     {
      "target": "Trường phái Nyāya",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "Trường phái Nyāya · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Trường phái Nyāya · phản bác · qua trường phái",
      "undetermined": false
     }
    ],
@@ -15295,8 +15295,8 @@
     {
      "target": "Đường luật sớ nghị và các bộ luật mô phỏng ở Nhật Bản, Triều Tiên, Việt Nam",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Đường luật sớ nghị và các bộ luật mô phỏng ở Nhật Bản, Triều Tiên, Việt Nam · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Đường luật sớ nghị và các bộ luật mô phỏng ở Nhật Bản, Triều Tiên, Việt Nam · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -15364,8 +15364,8 @@
     {
      "target": "Truyền thống phán giáo của Phật giáo Đông Á",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Truyền thống phán giáo của Phật giáo Đông Á · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống phán giáo của Phật giáo Đông Á · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -15464,8 +15464,8 @@
     {
      "target": "Truyền thống vương quyền Ḥimyar và lối xưng hiệu Nam Arabia",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Truyền thống vương quyền Ḥimyar và lối xưng hiệu Nam Arabia · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống vương quyền Ḥimyar và lối xưng hiệu Nam Arabia · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -15574,8 +15574,8 @@
     {
      "target": "Truyền thống bi ký Phạn ngữ và vương quyền Śaiva Nam Á",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Truyền thống bi ký Phạn ngữ và vương quyền Śaiva Nam Á · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống bi ký Phạn ngữ và vương quyền Śaiva Nam Á · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -15645,8 +15645,8 @@
     {
      "target": "Tranh luận về vấn đề phổ quát trong kinh viện trung cổ",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Tranh luận về vấn đề phổ quát trong kinh viện trung cổ · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Tranh luận về vấn đề phổ quát trong kinh viện trung cổ · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -15698,8 +15698,8 @@
     {
      "target": "Tục lệ bộ lạc Quraysh ở Mecca",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "Tục lệ bộ lạc Quraysh ở Mecca · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Tục lệ bộ lạc Quraysh ở Mecca · phản bác · qua trường phái",
      "undetermined": false
     }
    ],
@@ -15769,8 +15769,8 @@
     {
      "target": "Chế độ thuế đất và hành chính của nhà Umayyad",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Chế độ thuế đất và hành chính của nhà Umayyad · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Chế độ thuế đất và hành chính của nhà Umayyad · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -15831,8 +15831,8 @@
     {
      "target": "Phái Khawarij",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "Phái Khawarij · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Phái Khawarij · phản bác · qua trường phái",
      "undetermined": false
     }
    ],
@@ -15933,15 +15933,15 @@
     {
      "target": "Tầng quan lại xuất thân khoa cử thời Đường",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Tầng quan lại xuất thân khoa cử thời Đường · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Tầng quan lại xuất thân khoa cử thời Đường · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
      "target": "Nghệ thuật tạc tượng Phật giáo Long Môn",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Nghệ thuật tạc tượng Phật giáo Long Môn · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Nghệ thuật tạc tượng Phật giáo Long Môn · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -15995,15 +15995,15 @@
     {
      "target": "Tông Pháp tướng và thuật ngữ Phật giáo Đông Á",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Tông Pháp tướng và thuật ngữ Phật giáo Đông Á · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Tông Pháp tướng và thuật ngữ Phật giáo Đông Á · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
      "target": "Khảo cổ học Ấn Độ thế kỷ 19",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Khảo cổ học Ấn Độ thế kỷ 19 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Khảo cổ học Ấn Độ thế kỷ 19 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -16050,8 +16050,8 @@
     {
      "target": "Thiền tông Nam phái và các dòng Lâm Tế, Tào Động",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Thiền tông Nam phái và các dòng Lâm Tế, Tào Động · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Thiền tông Nam phái và các dòng Lâm Tế, Tào Động · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -16096,8 +16096,8 @@
     {
      "target": "CH04-CE05-09",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "CH04-CE05-09 · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-09 · phản bác · qua trường phái",
      "undetermined": false
     },
     {
@@ -16174,8 +16174,8 @@
     {
      "target": "Chương trình bảy môn khai phóng thời trung cổ",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Chương trình bảy môn khai phóng thời trung cổ · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Chương trình bảy môn khai phóng thời trung cổ · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -16235,15 +16235,15 @@
     {
      "target": "Truyền thống nhân minh học Tây Tạng",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Truyền thống nhân minh học Tây Tạng · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống nhân minh học Tây Tạng · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
      "target": "Nyāya và Mīmāṃsā (qua tranh luận đối kháng)",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "Nyāya và Mīmāṃsā (qua tranh luận đối kháng) · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Nyāya và Mīmāṃsā (qua tranh luận đối kháng) · phản bác · qua trường phái",
      "undetermined": false
     }
    ],
@@ -16288,8 +16288,8 @@
     {
      "target": "Truyền thống thủ lĩnh thung lũng Yarlung",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Truyền thống thủ lĩnh thung lũng Yarlung · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống thủ lĩnh thung lũng Yarlung · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -16297,15 +16297,15 @@
     {
      "target": "Chữ viết Tây Tạng và công cuộc dịch tạng kinh",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Chữ viết Tây Tạng và công cuộc dịch tạng kinh · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Chữ viết Tây Tạng và công cuộc dịch tạng kinh · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
      "target": "Đế quốc Thổ Phồn thế kỷ 8–9",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Đế quốc Thổ Phồn thế kỷ 8–9 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Đế quốc Thổ Phồn thế kỷ 8–9 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -16343,15 +16343,15 @@
     {
      "target": "Vương triều Palenque trước nội loạn thế kỷ 7",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Vương triều Palenque trước nội loạn thế kỷ 7 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Vương triều Palenque trước nội loạn thế kỷ 7 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
      "target": "Calakmul (qua hai thất bại quân sự)",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "Calakmul (qua hai thất bại quân sự) · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Calakmul (qua hai thất bại quân sự) · phản bác · qua trường phái",
      "undetermined": false
     }
    ],
@@ -16366,8 +16366,8 @@
     {
      "target": "Ngành giải mã chữ Maya thế kỷ 20",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Ngành giải mã chữ Maya thế kỷ 20 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Ngành giải mã chữ Maya thế kỷ 20 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -16405,8 +16405,8 @@
     {
      "target": "Cuộc vận động ngầm Hāshimiyya của dòng Abbas ở Kufa",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Cuộc vận động ngầm Hāshimiyya của dòng Abbas ở Kufa · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Cuộc vận động ngầm Hāshimiyya của dòng Abbas ở Kufa · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -16528,8 +16528,8 @@
     {
      "target": "CH05-CE07-03",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH05-CE07-03 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE07-03 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -16803,8 +16803,8 @@
     {
      "target": "CH05-CE07-09",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH05-CE07-09 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE07-09 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -17009,8 +17009,8 @@
     {
      "target": "CH05-CE07-11",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH05-CE07-11 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE07-11 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -17032,8 +17032,8 @@
     {
      "target": "Chương trình dịch kinh điển Phật giáo sang tiếng Tạng",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Chương trình dịch kinh điển Phật giáo sang tiếng Tạng · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Chương trình dịch kinh điển Phật giáo sang tiếng Tạng · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -17071,8 +17071,8 @@
     {
      "target": "CH05-CE07-10",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "CH05-CE07-10 · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE07-10 · phản bác · qua trường phái",
      "undetermined": false
     },
     {
@@ -17154,8 +17154,8 @@
     {
      "target": "Calakmul, qua thế đối đầu kéo dài",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "Calakmul, qua thế đối đầu kéo dài · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Calakmul, qua thế đối đầu kéo dài · phản bác · qua trường phái",
      "undetermined": false
     }
    ],
@@ -17278,15 +17278,15 @@
     {
      "target": "CH03-BCE04-04",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH03-BCE04-04 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE04-04 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
      "target": "CH02-BCE06-03",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "CH02-BCE06-03 · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE06-03 · phản bác · qua trường phái",
      "undetermined": false
     }
    ],
@@ -17364,8 +17364,8 @@
     {
      "target": "Chân Ngôn tông và Mật giáo Nhật Bản",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Chân Ngôn tông và Mật giáo Nhật Bản · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Chân Ngôn tông và Mật giáo Nhật Bản · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -17424,8 +17424,8 @@
     {
      "target": "CH04-CE02-05",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "CH04-CE02-05 · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE02-05 · phản bác · qua trường phái",
      "undetermined": false
     },
     {
@@ -17486,15 +17486,15 @@
     {
      "target": "Mạng lưới kiều dân Silla ở Sơn Đông – Giang Tô và các Tân La phường",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Mạng lưới kiều dân Silla ở Sơn Đông – Giang Tô và các Tân La phường · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Mạng lưới kiều dân Silla ở Sơn Đông – Giang Tô và các Tân La phường · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
      "target": "Chế độ phiên trấn nhà Đường mà ông từng phục vụ",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Chế độ phiên trấn nhà Đường mà ông từng phục vụ · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Chế độ phiên trấn nhà Đường mà ông từng phục vụ · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -17502,8 +17502,8 @@
     {
      "target": "Thương mại biển Hoàng Hải – Đông Hải thế kỷ 9 và các chuyến đi của tăng nhân Nhật Bản",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Thương mại biển Hoàng Hải – Đông Hải thế kỷ 9 và các chuyến đi của tăng nhân Nhật Bản · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Thương mại biển Hoàng Hải – Đông Hải thế kỷ 9 và các chuyến đi của tăng nhân Nhật Bản · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -17548,8 +17548,8 @@
     {
      "target": "CH04-CE02-06",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH04-CE02-06 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE02-06 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -17578,8 +17578,8 @@
     {
      "target": "Thuật ngữ y học và triết học Ả Rập về sau",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Thuật ngữ y học và triết học Ả Rập về sau · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Thuật ngữ y học và triết học Ả Rập về sau · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -17640,8 +17640,8 @@
     {
      "target": "Trường phái luật Hanbalī, một trong bốn madhhab Sunni",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Trường phái luật Hanbalī, một trong bốn madhhab Sunni · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Trường phái luật Hanbalī, một trong bốn madhhab Sunni · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -17716,8 +17716,8 @@
     {
      "target": "Khung quan hệ baqt giữa Nubia và Ai Cập Hồi giáo",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Khung quan hệ baqt giữa Nubia và Ai Cập Hồi giáo · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Khung quan hệ baqt giữa Nubia và Ai Cập Hồi giáo · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -17778,8 +17778,8 @@
     {
      "target": "Hệ Kutub al-Sittah, sáu bộ ḥadīth chính điển Sunni",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Hệ Kutub al-Sittah, sáu bộ ḥadīth chính điển Sunni · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Hệ Kutub al-Sittah, sáu bộ ḥadīth chính điển Sunni · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -17792,8 +17792,8 @@
     {
      "target": "Khoa phê phán tiểu sử người truyền (ʿilm al-rijāl) về sau",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Khoa phê phán tiểu sử người truyền (ʿilm al-rijāl) về sau · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Khoa phê phán tiểu sử người truyền (ʿilm al-rijāl) về sau · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -17839,8 +17839,8 @@
     {
      "target": "CH04-CE05-01",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH04-CE05-01 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-01 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -17862,8 +17862,8 @@
     {
      "target": "Truyền thống Dionysius ở Tây Âu — Grosseteste, Bonaventura",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Truyền thống Dionysius ở Tây Âu — Grosseteste, Bonaventura · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống Dionysius ở Tây Âu — Grosseteste, Bonaventura · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -18117,8 +18117,8 @@
     {
      "target": "Bản dịch Latin *Continens* (1279) và trường y châu Âu tới thế kỷ 16",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Bản dịch Latin *Continens* (1279) và trường y châu Âu tới thế kỷ 16 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Bản dịch Latin *Continens* (1279) và trường y châu Âu tới thế kỷ 16 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -18293,8 +18293,8 @@
     {
      "target": "Thể chế tiết độ sứ của nhà Đường",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Thể chế tiết độ sứ của nhà Đường · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Thể chế tiết độ sứ của nhà Đường · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -18362,8 +18362,8 @@
     {
      "target": "Các vương triều Sailendra và Mataram miền trung Java, những người dựng Borobudur và Prambanan",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Các vương triều Sailendra và Mataram miền trung Java, những người dựng Borobudur và Prambanan · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Các vương triều Sailendra và Mataram miền trung Java, những người dựng Borobudur và Prambanan · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -18439,8 +18439,8 @@
     {
      "target": "Dòng Bhāmatī trong Advaita Vedānta, một trong hai dòng chú giải chính",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Dòng Bhāmatī trong Advaita Vedānta, một trong hai dòng chú giải chính · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Dòng Bhāmatī trong Advaita Vedānta, một trong hai dòng chú giải chính · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -18492,8 +18492,8 @@
     {
      "target": "Thể chế tiết độ sứ và quan chế nhà Đường",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Thể chế tiết độ sứ và quan chế nhà Đường · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Thể chế tiết độ sứ và quan chế nhà Đường · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -18547,8 +18547,8 @@
     {
      "target": "Thể chế hào tộc địa phương cuối thời Silla",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Thể chế hào tộc địa phương cuối thời Silla · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Thể chế hào tộc địa phương cuối thời Silla · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -18616,8 +18616,8 @@
     {
      "target": "Truyền thống *Vạn diệp tập* và thơ waka trước thời Heian",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Truyền thống *Vạn diệp tập* và thơ waka trước thời Heian · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống *Vạn diệp tập* và thơ waka trước thời Heian · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -18671,8 +18671,8 @@
     {
      "target": "Nhánh Umayyad lưu vong lập tiểu quốc Córdoba năm 756",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Nhánh Umayyad lưu vong lập tiểu quốc Córdoba năm 756 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Nhánh Umayyad lưu vong lập tiểu quốc Córdoba năm 756 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -18685,8 +18685,8 @@
     {
      "target": "Nhà Fatimid và lời xưng caliph năm 909",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "Nhà Fatimid và lời xưng caliph năm 909 · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Nhà Fatimid và lời xưng caliph năm 909 · phản bác · qua trường phái",
      "undetermined": false
     }
    ],
@@ -18694,8 +18694,8 @@
     {
      "target": "Thời kỳ caliphate Córdoba tới khi tan năm 1031",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Thời kỳ caliphate Córdoba tới khi tan năm 1031 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Thời kỳ caliphate Córdoba tới khi tan năm 1031 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -18747,8 +18747,8 @@
     {
      "target": "CH05-CE06-12",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH05-CE06-12 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE06-12 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -18756,8 +18756,8 @@
     {
      "target": "Trường nhà thờ Reims và lớp thầy dạy quadrivium thế kỷ 11",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Trường nhà thờ Reims và lớp thầy dạy quadrivium thế kỷ 11 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Trường nhà thờ Reims và lớp thầy dạy quadrivium thế kỷ 11 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
