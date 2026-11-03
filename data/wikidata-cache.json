@@ -18371,5 +18371,518 @@
    "enwiki": "Karl Marx"
   },
   "fetched": 1793719785
+ },
+ "wd:Q1001": {
+  "id": "Q1001",
+  "labels": {
+   "vi": "Mahatma Gandhi",
+   "en": "Mahatma Gandhi"
+  },
+  "aliases": {
+   "en": [
+    "Mohandas K. Gandhi",
+    "M. K. Gandhi",
+    "Mohandas K Gandhi",
+    "Gandhiji",
+    "M K Gandhi",
+    "Bapuji",
+    "MK Gandhi",
+    "Father of the Nation"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1869,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1948,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Mahatma-Gandhi, studio, 1931.jpg",
+  "sitelinks": {
+   "viwiki": "Mahatma Gandhi",
+   "enwiki": "Mahatma Gandhi"
+  },
+  "fetched": 1793720816
+ },
+ "wd:Q154824": {
+  "id": "Q154824",
+  "labels": {
+   "en": "Norman Borlaug",
+   "vi": "Norman Borlaug"
+  },
+  "aliases": {
+   "en": [
+    "Norman E. Borlaug"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1914,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 2009,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Norman Borlaug.jpg",
+  "sitelinks": {
+   "viwiki": "Norman Borlaug",
+   "enwiki": "Norman Borlaug"
+  },
+  "fetched": 1793720816
+ },
+ "wd:Q231690": {
+  "id": "Q231690",
+  "labels": {
+   "vi": "Bhimrao Ambedkar"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1891,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1956,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Dr. Bhimrao Ambedkar.jpg",
+  "sitelinks": {
+   "viwiki": "Bhimrao Ambedkar",
+   "enwiki": "B. R. Ambedkar"
+  },
+  "fetched": 1793720816
+ },
+ "wd:Q5152": {
+  "id": "Q5152",
+  "labels": {
+   "en": "Mustafa Kemal Atatürk",
+   "vi": "Mustafa Kemal Atatürk"
+  },
+  "aliases": {
+   "vi": [
+    "Kemal",
+    "Mustapha Kémal"
+   ],
+   "en": [
+    "Gazi Mustafa Kemal",
+    "Mustafa Kemal Paşa",
+    "Ghazi Moustapha Kemal Pasha",
+    "Kamâl Atatürk",
+    "Mustafa K. Atatürk",
+    "Attaturk",
+    "Gazi Mustafa Kemal Pasha",
+    "M. Kemal Ataturk",
+    "Gazi Mustafa Kemal Atatürk",
+    "Ali Rıza oğlu Mustafa",
+    "K. Atatürk",
+    "MKA",
+    "M. Kemal Atatürk",
+    "Ghazi Mustapha Kemal Pasha",
+    "Mustapha Kemal Pasha",
+    "Ghazi Mustapha Kemal",
+    "Mustafa Pascha Kemal",
+    "Mustafa Kemal Pascha",
+    "Mustafa Kamal Ataturk",
+    "Kamal Ataturk",
+    "Mustapha Kemal Ataturk",
+    "Ghazi Mustapha Kemal Ataturk",
+    "Kemal Pasha",
+    "Mustafa Kamal Attaturk"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1881,
+    "precision": 9,
+    "rank": "preferred"
+   },
+   {
+    "year": 1881,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1938,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Atatürk Kemal.jpg",
+  "sitelinks": {
+   "viwiki": "Mustafa Kemal Atatürk",
+   "enwiki": "Mustafa Kemal Atatürk"
+  },
+  "fetched": 1793720816
+ },
+ "wd:Q5816": {
+  "id": "Q5816",
+  "labels": {
+   "en": "Mao Zedong",
+   "vi": "Mao Trạch Đông"
+  },
+  "aliases": {
+   "en": [
+    "Máu Zéh-ton",
+    "Máo Zédōng",
+    "Mouh Jaahk-dung",
+    "Moo Tik-tang",
+    "Mao Runzhi",
+    "Mao Tsê-tung",
+    "Máo Rùnzhī",
+    "Chairman Mao Zedong",
+    "Mao Ze Dong",
+    "Mau Tzerdong",
+    "Mou Zaak-dung",
+    "Chairman Mao",
+    "Mo Chhet-tung",
+    "Maozedong",
+    "Jun-chih",
+    "Jeon-zi",
+    "Tse Toung Mao",
+    "Lun-chi",
+    "Rùnzhī",
+    "Mau Zeh-ton",
+    "Mo Tek-tong",
+    "Máo Zhǔxí",
+    "Mau Zerdong",
+    "Mô͘ Te̍k-tong",
+    "Mao² Tsê²-tung¹",
+    "Mô Chhe̍t-tûng",
+    "Môo Ti̍k-tang",
+    "Mao Jun-chih",
+    "Mao Zédong"
+   ],
+   "vi": [
+    "Mao Chủ tịch"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1893,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1976,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Mao Tse Tung.jpg",
+  "sitelinks": {
+   "viwiki": "Mao Trạch Đông",
+   "enwiki": "Mao Zedong"
+  },
+  "fetched": 1793720816
+ },
+ "wd:Q7251": {
+  "id": "Q7251",
+  "labels": {
+   "en": "Alan Turing",
+   "vi": "Alan Turing"
+  },
+  "aliases": {
+   "en": [
+    "Alan Mathieson Turing",
+    "Turing",
+    "Alan M. Turing",
+    "Alan Mathison Turing"
+   ],
+   "vi": [
+    "Alan Mathison Turing"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1912,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1954,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Alan Turing (1951) (crop).jpg",
+  "sitelinks": {
+   "viwiki": "Alan Turing",
+   "enwiki": "Alan Turing"
+  },
+  "fetched": 1793720816
+ },
+ "wd:Q76127": {
+  "id": "Q76127",
+  "labels": {
+   "en": "Sukarno",
+   "vi": "Sukarno"
+  },
+  "aliases": {
+   "en": [
+    "Kusno Sosrodihardjo",
+    "Achmed Soekarno",
+    "Ir. Soekarno",
+    "Bung Karno"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1901,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1970,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Presiden Sukarno.jpg",
+  "sitelinks": {
+   "viwiki": "Sukarno",
+   "enwiki": "Sukarno"
+  },
+  "fetched": 1793720816
+ },
+ "wd:Q8023": {
+  "id": "Q8023",
+  "labels": {
+   "en": "Nelson Mandela",
+   "vi": "Nelson Mandela"
+  },
+  "aliases": {
+   "en": [
+    "Father of the Nation"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1918,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 1918,
+    "precision": 9,
+    "rank": "deprecated"
+   }
+  ],
+  "P570": [
+   {
+    "year": 2013,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Nelson Mandela 1994.jpg",
+  "sitelinks": {
+   "viwiki": "Nelson Mandela",
+   "enwiki": "Nelson Mandela"
+  },
+  "fetched": 1793720816
+ },
+ "wd:Q8027": {
+  "id": "Q8027",
+  "labels": {
+   "en": "Martin Luther King Jr.",
+   "vi": "Martin Luther King"
+  },
+  "aliases": {
+   "vi": [
+    "Martin Luther King con"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1929,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1968,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "The Rev. Dr. Martin Luther King Jr. Color Portrait (high quality).jpg",
+  "sitelinks": {
+   "viwiki": "Martin Luther King",
+   "enwiki": "Martin Luther King Jr."
+  },
+  "fetched": 1793720816
+ },
+ "wd:Q9123": {
+  "id": "Q9123",
+  "labels": {
+   "en": "Ernest Rutherford",
+   "vi": "Ernest Rutherford"
+  },
+  "aliases": {
+   "en": [
+    "Ernest Lord Rutherford",
+    "E. Rutherford",
+    "Ernest Rutherford, primer barón Rutherford. de Nelson",
+    "Ernest, Lord Rutherford"
+   ],
+   "vi": [
+    "E. Rutherford"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1871,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1937,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Ernest Rutherford LOC.jpg",
+  "sitelinks": {
+   "viwiki": "Ernest Rutherford",
+   "enwiki": "Ernest Rutherford"
+  },
+  "fetched": 1793720816
+ },
+ "wd:Q9317": {
+  "id": "Q9317",
+  "labels": {
+   "en": "John Maynard Keynes"
+  },
+  "aliases": {
+   "en": [
+    "Lord Keynes",
+    "Baron Keynes of Tilton",
+    "John Maynard Keynes, 1st Baron Keynes"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1883,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1946,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Keynes 1933.jpg",
+  "sitelinks": {
+   "viwiki": "John Maynard Keynes",
+   "enwiki": "John Maynard Keynes"
+  },
+  "fetched": 1793720816
+ },
+ "wd:Q937": {
+  "id": "Q937",
+  "labels": {
+   "en": "Albert Einstein"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1879,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1955,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Einstein 1921 by F Schmutzer - restoration.jpg",
+  "sitelinks": {
+   "viwiki": "Albert Einstein",
+   "enwiki": "Albert Einstein"
+  },
+  "fetched": 1793720816
  }
 }

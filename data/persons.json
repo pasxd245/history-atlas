@@ -1249,6 +1249,62 @@
    ]
   },
   {
+   "no": 10,
+   "title": "Thế kỷ 20",
+   "label": "TK 20",
+   "files": [
+    "ch10.md"
+   ],
+   "intro": "Thế kỷ 20 nén vào một trăm năm hai cuộc chiến toàn cầu, sự sụp đổ của gần như mọi đế quốc thực dân, và hai bước nhảy làm đổi thang đo của loài người: hiểu được hạt nhân nguyên tử, và chế ra máy tính được. Dân số tăng từ một tỉ sáu lên sáu tỉ mà nạn đói toàn cầu lại lùi — một nghịch lý có nguyên nhân cụ thể. Chapter này chỉ có mười hai chỗ cho một thế kỷ dày nhất, nên phần nói rõ ai bị cắt và vì sao nằm ở Ghi chú biên tập, và nó dài hơn thường lệ.",
+   "editorial": [
+    "**Cách chapter này được soạn**",
+    "Phần văn xuôi của chapter do mô hình AI (Claude) viết theo prompt cố định tại `prompts/atlas-prompt.md`, không qua bình duyệt chuyên môn. Tên, niên đại và định danh được đối chiếu tự động với Wikidata; phần diễn giải, đánh giá ảnh hưởng và lựa chọn nhân vật là tổng hợp của model theo bốn tiêu chí (a)–(d), không phải kết luận của giới nghiên cứu. Mục Nguồn là điểm khởi đầu để tự kiểm tra, chưa được đối chiếu từng câu. Xem mục \"Về dự án\" ở trang Overview để biết giới hạn đầy đủ.",
+    "**Mười hai chỗ cho thế kỷ dày nhất: danh sách bị cắt, theo nhóm lý do**",
+    "Trần nhóm là 12 mục cứng và CE20 là nhóm duy nhất của chapter, nên đây là chỗ sức ép lớn nhất toàn atlas. Bị cắt mà vẫn đáng có mục, xếp theo ô:",
+    "*Khoa học*: **Marie Curie**, **Rosalind Franklin**, **Francis Crick** và **James Watson**, **Werner Heisenberg**, **Edwin Hubble**, **Alexander Fleming**. Ô khoa học lấy ba chỗ — `CH10-CE20-01`, `-02`, `-03` — và cả ba đều đứng ở mức đổi khung chứ không đổi một ngành, nên các ca trên bị loại theo phạm vi (a), không theo chất lượng.",
+    "*Tư tưởng và xã hội*: **Sigmund Freud** (bị loại theo độ bền (b): bộ máy lý thuyết của ông phần lớn không còn đứng được trong tâm lý học hôm nay, dù ảnh hưởng văn hoá thì còn), **Rachel Carson**, **Simone de Beauvoir**, **Hannah Arendt**, **Edward Said**.",
+    "*Chính trị*: **Vladimir Lenin**, **Joseph Stalin**, **Adolf Hitler**, **Winston Churchill**, **Franklin D. Roosevelt**, **Kwame Nkrumah**, **Gamal Abdel Nasser**, **Đặng Tiểu Bình**.",
+    "Nếu vòng sau nới trần nhóm thì hai mục đầu tiên nên thêm là **Marie Curie** và **Rachel Carson** — cả hai đều mở một ngành, và cả hai đều rơi vì ô của mình đã đầy chứ không vì điểm bốn tiêu chí.",
+    "**Bốn tiêu chí không phải tiêu chí đạo đức, và chapter này là chỗ điều đó lộ rõ nhất**",
+    "`CH10-CE20-07` Mao Trạch Đông vào atlas theo phạm vi (a) và counterfactual (d). Điều đó **không** phải một phán xét rằng ông đáng được ngưỡng mộ, và mục ghi thẳng nạn đói Đại nhảy vọt cùng Cách mạng Văn hoá trong chính trường \"Tư tưởng / đóng góp chính\" chứ không đẩy xuống ghi chú. Phải nói rõ hệ quả của việc đọc tiêu chí đúng như nó được viết: **Lenin, Stalin và Hitler cũng đạt (a) và (d)**, và nếu atlas chỉ chấm theo bốn tiêu chí thì họ có chỗ. Lý do vòng này cắt cả ba nằm ở độ bền (b), nêu cụ thể: nhà nước Lenin và Stalin dựng đã tan năm 1991, chế độ Hitler kéo dài mười hai năm, và cái còn lại lâu nhất từ cả ba là **trật tự nhân quyền hậu chiến dựng lên để chống lại họ** — tức một cạnh `phản bác`, chứ không phải một mục. Đó là lập luận theo tiêu chí, và nó có thể bị bác. Chỗ để bác là đây.",
+    "**`CH10-CE20-02` Rutherford và câu hỏi trường `vùng` thật ra đo cái gì**",
+    "Mục này để `Châu Đại Dương`, theo tiền lệ của chính atlas: `CH07-CE16-12` Inca Garcilaso de la Vega sống phần lớn đời ở Tây Ban Nha mà vẫn để `Châu Mỹ`. Nhưng hai ca không giống nhau ở chỗ quan trọng — Garcilaso **viết về** Peru, còn công trình của Rutherford không dính gì tới New Zealand ngoài nơi ông sinh ra và lớn lên. Nói thẳng hệ quả: nếu atlas chọn quy tắc \"`vùng` là nơi công trình được làm ra\" thì mục này thành `Châu Âu`, và ô `Châu Đại Dương` tụt về đúng 1 — chỉ còn `CH09-CE19-11` Te Whiti.",
+    "Đây là lần thứ ba liên tiếp trường `vùng` gánh một quyết định chưa có quy tắc viết ra: `CH08-CE18-11` Equiano (nơi sinh đang tranh cãi), `CH09-CE19-11` Te Whiti (lấp ô trống), và ca này. Ba lần là đủ để kết luận **đây không phải ba ca lẻ mà là một lỗ hổng trong quy ước**. Việc cần làm ở vòng sau không phải sửa từng mục, mà là viết vào CONTRIBUTING một định nghĩa dứt khoát cho `vùng`, rồi rà lại cả ba.",
+    "**`CH10-CE20-01` Einstein giữ cảnh báo \"thiếu tên gốc trong ngoặc\", giống `CH09-CE19-01` Faraday**",
+    "`Q937` không có alias ở bất kỳ ngôn ngữ nào, nhãn vi không tồn tại, và tên đầy đủ của ông đúng là \"Albert Einstein\". Giống hệt ca Faraday ở chapter trước. Hai ca liên tiếp cho thấy đây là **một lớp ca có thật**, không phải ngoại lệ: nhà khoa học hiện đại dùng tên phương Tây không có dạng biến thể nào, nên trường `name_orig` không có gì để điền. Theo đúng quy tắc đã ghi vào CONTRIBUTING ở vòng Chapter 8, cả hai cảnh báo được giữ nguyên thay vì bịa một phiên âm. Nếu con số này còn tăng ở Chapter 11 thì nên xét hạ mức cảnh báo ấy xuống `INFO` khi Wikidata xác nhận thực thể không có alias nào — nhưng đó là việc sửa lint, phải đo trước, không làm trong vòng này.",
+    "**Ô `Trung Á` trống trong nhóm CE20**",
+    "Chapter phủ 8/9 vùng; vùng vắng là `Trung Á`. Ứng viên được xét và bị loại: **Chingiz Aitmatov** `Q484292` (1928–2008), nhà văn Kyrgyz được dịch ra hàng chục thứ tiếng — bị loại theo phạm vi (a) khi đặt cạnh mười hai mục của nhóm, chứ không phải vì thiếu tư liệu. Ghi lại để vòng sau khỏi tưởng ô này trống vì không tìm ra ai.",
+    "**Ứng viên Việt Nam trong nhóm CE20 (yêu cầu D5)**",
+    "Sáu người Việt Nam thế kỷ 20 đáng xét đều **đã có mục riêng ở phụ lục**, nên theo quy tắc 6 họ không phải ứng viên bị loại: **Phan Bội Châu** `CH90-CE19_20-05`, **Phan Châu Trinh** `CH90-CE19_20-06`, **Hồ Chí Minh** `CH90-CE19_20-07`, **Võ Nguyên Giáp** `CH90-CE19_20-08`, **Tôn Thất Tùng** `CH90-CE19_20-09`, **Thích Nhất Hạnh** `CH90-CE19_20-10`.",
+    "Lần đầu trong cả chuỗi chapter, câu hỏi hai track có một ca mà lập luận \"đường truyền không rời khỏi khu vực\" **không dùng được**: **Thích Nhất Hạnh**. Sách ông in ở hàng chục ngôn ngữ, và bộ từ vựng chánh niệm ông đưa sang phương Tây đã đi vào cả tâm lý học lâm sàng lẫn ngôn ngữ thường ngày ngoài giới Phật giáo — tức đúng loại bằng chứng tiếp nhận mà các vòng trước đòi ở Lê Thánh Tông, Lê Quý Đôn và Trương Vĩnh Ký mà không có. Vòng này vẫn **chưa** chuyển ông lên mạch chính, và lý do phải nói cho đúng: không phải vì đường truyền hẹp, mà vì chưa ai đo nó **đặt cạnh mười hai mục của nhóm CE20** — cụ thể là chưa so với `CH10-CE20-12` Sukarno, mục yếu nhất về (a) trong nhóm. Đây là ứng viên đáng chuyển track nhất của cả phụ lục; việc cần làm là một phép đo, không phải một phán đoán nữa."
+   ],
+   "groups": [
+    {
+     "id": "CE20",
+     "label": "TK 20",
+     "range": [
+      1901,
+      2000
+     ],
+     "context": "Hai cuộc đại chiến giết hơn tám mươi triệu người. Các đế quốc châu Âu mất gần hết thuộc địa trong ba thập niên sau 1945. Liên Xô và Hoa Kỳ chia thế giới thành hai khối rồi một khối tan năm 1991. Kháng sinh, vắc-xin và giống lúa mì mới đẩy tuổi thọ trung bình toàn cầu từ ba mươi mốt lên sáu mươi sáu.",
+     "persons": [
+      "CH10-CE20-01",
+      "CH10-CE20-02",
+      "CH10-CE20-03",
+      "CH10-CE20-04",
+      "CH10-CE20-05",
+      "CH10-CE20-06",
+      "CH10-CE20-07",
+      "CH10-CE20-08",
+      "CH10-CE20-09",
+      "CH10-CE20-10",
+      "CH10-CE20-11",
+      "CH10-CE20-12"
+     ]
+    }
+   ]
+  },
+  {
    "no": 90,
    "title": "Phụ lục · Việt Nam qua các thời kỳ",
    "label": "TK 3 TCN – TK 20",
@@ -26669,6 +26725,878 @@
    "group": "CE19",
    "chapter": 9,
    "file": "ch09.md",
+   "image": null
+  },
+  "CH10-CE20-01": {
+   "id": "CH10-CE20-01",
+   "name_vi": "Albert Einstein",
+   "name_orig": "",
+   "labels": [],
+   "years_raw": "1879–1955 CN",
+   "born": 1879,
+   "died": 1955,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Bern, Berlin và Princeton",
+   "region": "Châu Âu",
+   "fields": [
+    "Khoa học tự nhiên"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q937",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Năm 1905 ông công bố bốn bài báo, mỗi bài mở một hướng: chuyển động Brown làm bằng chứng nguyên tử có thật, hiệu ứng quang điện đưa ra hạt ánh sáng, thuyết tương đối hẹp bỏ khái niệm đồng thời tuyệt đối, và hệ quả E = mc². Mười năm sau, thuyết tương đối rộng (1915) thay lực hấp dẫn bằng **độ cong của không – thời gian**: vật nặng làm cong hình học, vật khác chỉ đi đường thẳng nhất trong hình học đã cong ấy. Quan sát nhật thực năm 1919 xác nhận góc lệch ông tính trước.",
+   "why": "Ứng viên cùng ô là Max Planck, người đưa ra lượng tử năng lượng năm 1900, Niels Bohr, người dựng mô hình nguyên tử và cách diễn giải Copenhagen, và Henri Poincaré. Planck bị loại theo tính nguyên bản (c): ông coi lượng tử là mẹo toán học, Einstein mới coi nó là vật lý. Bohr bị loại theo phạm vi (a) rất sát. Poincaré có gần đủ phép biến đổi nhưng giữ ether. Einstein được chọn theo (a) và (b).",
+   "sources": "\"Zur Elektrodynamik bewegter Körper\", *Annalen der Physik* 17 (1905); \"Die Grundlage der allgemeinen Relativitätstheorie\", *Annalen der Physik* 49 (1916); Abraham Pais, *Subtle is the Lord* (Oxford University Press, 1982).",
+   "inherits": [
+    {
+     "target": "CH09-CE19-01",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH09-CE19-01 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Hendrik Lorentz",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Hendrik Lorentz · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH08-CE17-03",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH08-CE17-03 · phản bác · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Vũ trụ học hiện đại, từ giãn nở tới lỗ đen",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Vũ trụ học hiện đại, từ giãn nở tới lỗ đen · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Định vị vệ tinh và các hệ đo thời gian chính xác",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Định vị vệ tinh và các hệ đo thời gian chính xác · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Chương trình vũ khí hạt nhân, qua lá thư ông ký gửi Roosevelt năm 1939",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Chương trình vũ khí hạt nhân, qua lá thư ông ký gửi Roosevelt năm 1939 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE20",
+   "chapter": 10,
+   "file": "ch10.md",
+   "image": null
+  },
+  "CH10-CE20-02": {
+   "id": "CH10-CE20-02",
+   "name_vi": "Ernest Rutherford",
+   "name_orig": "Baron Rutherford of Nelson",
+   "labels": [],
+   "years_raw": "1871–1937 CN",
+   "born": 1871,
+   "died": 1937,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Nelson, Montreal, Manchester và Cambridge",
+   "region": "Châu Đại Dương",
+   "fields": [
+    "Khoa học tự nhiên"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q9123",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Thí nghiệm lá vàng do Geiger và Marsden làm năm 1909 cho một kết quả không mô hình nào giải thích nổi: một phần nhỏ hạt alpha bật ngược lại. Ông rút ra kết luận năm 1911 — gần như toàn bộ khối lượng và toàn bộ điện tích dương của nguyên tử dồn trong một **hạt nhân** rất nhỏ, phần còn lại là trống. Trước đó ông cùng Soddy đã chứng minh phóng xạ là việc nguyên tố này biến thành nguyên tố khác, và năm 1917 ông làm được phép biến đổi nhân tạo đầu tiên. Năm 1933 ông công khai bác ý tưởng dùng năng lượng hạt nhân.",
+   "why": "Ứng viên cùng ô là Marie Curie, người tách được polonium và radium rồi dựng ngành phóng xạ học, J. J. Thomson, thầy ông và là người tìm ra electron, và Frederick Soddy. Marie Curie là ca sát nhất và bị loại theo tính nguyên bản (c): bà tách và cung cấp vật liệu, còn mô hình cấu trúc nguyên tử là của Rutherford. Thomson bị loại theo (c): mô hình của ông bị chính thí nghiệm này bác. Soddy bị loại theo phạm vi (a). Rutherford được chọn theo (d): không có hạt nhân thì không có ngành vật lý hạt nhân.",
+   "sources": "\"The Scattering of α and β Particles by Matter and the Structure of the Atom\", *Philosophical Magazine* 21 (1911); John Campbell, *Rutherford: Scientist Supreme* (AAS Publications, 1999).",
+   "inherits": [
+    {
+     "target": "J. J. Thomson",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "J. J. Thomson · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Marie Curie",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Marie Curie · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Frederick Soddy",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Frederick Soddy · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Niels Bohr và mô hình nguyên tử lượng tử",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Niels Bohr và mô hình nguyên tử lượng tử · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Ngành vật lý hạt nhân và chương trình Manhattan",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Ngành vật lý hạt nhân và chương trình Manhattan · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Phép định tuổi bằng đồng vị phóng xạ",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phép định tuổi bằng đồng vị phóng xạ · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE20",
+   "chapter": 10,
+   "file": "ch10.md",
+   "image": null
+  },
+  "CH10-CE20-03": {
+   "id": "CH10-CE20-03",
+   "name_vi": "Alan Turing",
+   "name_orig": "Alan Mathison Turing",
+   "labels": [],
+   "years_raw": "1912–1954 CN",
+   "born": 1912,
+   "died": 1954,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Cambridge, Bletchley Park và Manchester",
+   "region": "Châu Âu",
+   "fields": [
+    "Toán học",
+    "Kỹ thuật/Công nghệ"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q7251",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Bài *On Computable Numbers* (1936) trả lời một câu hỏi logic bằng cách **định nghĩa máy tính trước khi máy tính tồn tại**: một cỗ máy trừu tượng đọc ghi trên băng giấy theo bảng quy tắc, và một cỗ máy phổ dụng đọc mô tả của mọi cỗ máy khác rồi làm việc của chúng — chính là ý niệm chương trình lưu trong bộ nhớ. Cùng bài ấy ông chứng minh có những bài toán không thuật toán nào giải được. Ở Bletchley Park ông thiết kế máy dò khoá Enigma. Bài năm 1950 đặt ra phép thử mô phỏng cho câu hỏi máy có nghĩ được không.",
+   "why": "Ứng viên cùng ô là Alonzo Church, người giải cùng bài toán quyết định bằng phép tính lambda gần như cùng lúc, John von Neumann, người đặt kiến trúc máy tính mang tên ông, và Claude Shannon. Church bị loại theo (d): hình thức của ông tương đương về toán nhưng không gợi ra cỗ máy. Von Neumann bị loại theo tính nguyên bản (c): ông đọc bài 1936 và nói rõ điều đó. Shannon bị loại theo phạm vi (a). Turing được chọn theo (c) và (b).",
+   "sources": "\"On Computable Numbers, with an Application to the Entscheidungsproblem\", *Proceedings of the London Mathematical Society* 42 (1937); \"Computing Machinery and Intelligence\", *Mind* 59 (1950); Andrew Hodges, *Alan Turing: The Enigma* (Burnett Books, 1983).",
+   "inherits": [
+    {
+     "target": "Kurt Gödel",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Kurt Gödel · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Alonzo Church",
+     "relation": "tương đồng độc lập",
+     "evidence": "trực tiếp",
+     "raw": "Alonzo Church · tương đồng độc lập · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "David Hilbert và bài toán quyết định",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "David Hilbert và bài toán quyết định · phản bác · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Khoa học máy tính và kiến trúc chương trình lưu trong bộ nhớ",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Khoa học máy tính và kiến trúc chương trình lưu trong bộ nhớ · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Tranh luận về trí tuệ nhân tạo từ 1950 tới nay",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Tranh luận về trí tuệ nhân tạo từ 1950 tới nay · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Sinh học phát triển qua mô hình phản ứng – khuếch tán",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Sinh học phát triển qua mô hình phản ứng – khuếch tán · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE20",
+   "chapter": 10,
+   "file": "ch10.md",
+   "image": null
+  },
+  "CH10-CE20-04": {
+   "id": "CH10-CE20-04",
+   "name_vi": "John Maynard Keynes",
+   "name_orig": "Baron Keynes of Tilton",
+   "labels": [],
+   "years_raw": "1883–1946 CN",
+   "born": 1883,
+   "died": 1946,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Cambridge và Luân Đôn",
+   "region": "Châu Âu",
+   "fields": [
+    "Kinh tế"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q9317",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "*Lý thuyết tổng quát* (1936) bác một tiền đề mà kinh tế học cổ điển coi là hiển nhiên: thị trường tự nó sẽ về trạng thái toàn dụng lao động. Ông lập luận rằng một nền kinh tế có thể **nằm yên rất lâu ở mức thất nghiệp cao**, vì cái quyết định sản lượng là tổng cầu, mà tổng cầu thì phụ thuộc vào kỳ vọng — và kỳ vọng có thể bi quan dai dẳng. Hệ quả chính sách: nhà nước chi tiêu để lấp chỗ trống. Từ năm 1919 ông đã cảnh báo khoản bồi thường áp lên Đức sẽ phá nát kinh tế châu Âu.",
+   "why": "Ứng viên cùng ô là Friedrich Hayek, đối thủ tranh luận trực tiếp của ông và là người thắng hiệp sau năm 1979, Michał Kalecki, người đưa ra lập luận gần giống trước ông vài năm bằng tiếng Ba Lan, và Joseph Schumpeter. Hayek bị loại theo phạm vi (a) rất sát. Kalecki bị loại theo (a): bài ông không tới được giới đọc tiếng Anh. Schumpeter bị loại theo (d). Keynes được chọn theo độ bền (b): khung đo lường vĩ mô của ông vẫn là ngôn ngữ chung.",
+   "sources": "*The General Theory of Employment, Interest and Money* (Macmillan, 1936); *The Economic Consequences of the Peace* (Macmillan, 1919); Robert Skidelsky, *John Maynard Keynes*, 3 tập (Macmillan, 1983–2000).",
+   "inherits": [
+    {
+     "target": "CH08-CE18-04",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH08-CE18-04 · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Alfred Marshall",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Alfred Marshall · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Michał Kalecki",
+     "relation": "tương đồng độc lập",
+     "evidence": "suy đoán học giả",
+     "raw": "Michał Kalecki · tương đồng độc lập · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Chính sách tài khoá của các nhà nước phúc lợi sau 1945",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Chính sách tài khoá của các nhà nước phúc lợi sau 1945 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Hệ Bretton Woods, IMF và Ngân hàng Thế giới",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hệ Bretton Woods, IMF và Ngân hàng Thế giới · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Phản ứng của các chính phủ trước khủng hoảng 2008 và 2020",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phản ứng của các chính phủ trước khủng hoảng 2008 và 2020 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE20",
+   "chapter": 10,
+   "file": "ch10.md",
+   "image": null
+  },
+  "CH10-CE20-05": {
+   "id": "CH10-CE20-05",
+   "name_vi": "Mahatma Gandhi",
+   "name_orig": "मोहनदास करमचंद गांधी, Mohandas Karamchand Gandhi",
+   "labels": [],
+   "years_raw": "1869–1948 CN",
+   "born": 1869,
+   "died": 1948,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Gujarat, Nam Phi và Ấn Độ",
+   "region": "Nam Á",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Triết học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q1001",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Satyagraha của ông không phải chịu đựng thụ động mà là một **phương pháp có luật**: vi phạm công khai một đạo luật bất công, nhận hình phạt chứ không trốn, không làm hại người bên kia, và luôn để ngỏ cửa thương lượng. Ông thử nó ở Nam Phi từ 1906, rồi đưa về Ấn Độ: bất hợp tác 1920, cuộc đi bộ lấy muối 1930, Quit India 1942. Kèm theo là chiến lược kinh tế — tẩy chay vải Anh, tự quay sợi — biến một cuộc vận động chính trị thành việc làm hằng ngày của hàng triệu người.",
+   "why": "Ứng viên cùng ô là Jawaharlal Nehru, người cầm quyền mười bảy năm đầu của Ấn Độ độc lập, Subhas Chandra Bose, người chọn đường vũ trang, và Bal Gangadhar Tilak. Ambedkar có mục riêng ở nhóm CE20 nên không phải ứng viên bị loại. Nehru bị loại theo tính nguyên bản (c): ông thi hành một khung đã có. Bose bị loại theo (d). Tilak bị loại theo phạm vi (a). Gandhi được chọn theo (c): phương pháp của ông được dùng lại ở nhiều nước khác hẳn Ấn Độ.",
+   "sources": "*Hind Swaraj* (1909); *An Autobiography: The Story of My Experiments with Truth* (Ahmedabad, 1927–1929); Ramachandra Guha, *Gandhi: The Years That Changed the World* (Allen Lane, 2018).",
+   "inherits": [
+    {
+     "target": "Lev Tolstoy",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Lev Tolstoy · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống *ahimsa* của Jain giáo và Ấn giáo ở Gujarat",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống *ahimsa* của Jain giáo và Ấn giáo ở Gujarat · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Henry David Thoreau và bài về bất tuân dân sự",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Henry David Thoreau và bài về bất tuân dân sự · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH10-CE20-10",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH10-CE20-10 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH10-CE20-09",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH10-CE20-09 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Phong trào phi thực dân hoá và các cuộc vận động dân quyền thế kỷ 20",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phong trào phi thực dân hoá và các cuộc vận động dân quyền thế kỷ 20 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE20",
+   "chapter": 10,
+   "file": "ch10.md",
+   "image": null
+  },
+  "CH10-CE20-06": {
+   "id": "CH10-CE20-06",
+   "name_vi": "B. R. Ambedkar",
+   "name_orig": "भीमराव रामजी आंबेडकर, Bhimrao Ramji Ambedkar",
+   "labels": [],
+   "years_raw": "1891–1956 CN",
+   "born": 1891,
+   "died": 1956,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Mhow, Bombay, New York và Delhi",
+   "region": "Nam Á",
+   "fields": [
+    "Luật",
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q231690",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "*Thủ tiêu đẳng cấp* (1936) đưa ra một chẩn đoán khác hẳn các nhà cải cách trước: đẳng cấp không phải phân công lao động mà là **phân chia chính người lao động**, và nó đứng được vì có thẩm quyền kinh sách chống lưng — nên cải cách mà không bác thẩm quyền ấy thì vô ích. Ông chủ trì ban soạn thảo Hiến pháp Ấn Độ 1950, văn bản xoá bỏ tình trạng tiện dân ở điều 17 và lập chế độ dành ghế. Năm 1956 ông cùng khoảng bốn trăm nghìn người cải sang Phật giáo.",
+   "why": "Ứng viên cùng ô là E. V. Ramasamy, người dẫn phong trào Tự trọng ở miền Nam, Jagjivan Ram, và Jyotirao Phule, người mở đường từ thế kỷ trước. Gandhi có mục riêng ở nhóm CE20 nên không phải ứng viên bị loại. Ramasamy bị loại theo phạm vi (a): ảnh hưởng của ông nằm trong một bang. Jagjivan Ram bị loại theo tính nguyên bản (c). Phule bị loại theo (a). Ambedkar được chọn theo độ bền (b): ông viết điều cấm ấy vào hiến pháp của một tỉ người.",
+   "sources": "*Annihilation of Caste* (Bombay, 1936); *The Buddha and His Dhamma* (Bombay, 1957); Christophe Jaffrelot, *Dr Ambedkar and Untouchability* (Columbia University Press, 2005).",
+   "inherits": [
+    {
+     "target": "CH02-BCE06-03",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH02-BCE06-03 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Jyotirao Phule",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Jyotirao Phule · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "John Dewey",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "John Dewey · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Hiến pháp Ấn Độ và chế độ dành ghế",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hiến pháp Ấn Độ và chế độ dành ghế · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Phong trào Dalit và Phật giáo Navayana",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phong trào Dalit và Phật giáo Navayana · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Tranh luận toàn cầu về hành động khẳng định",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "Tranh luận toàn cầu về hành động khẳng định · kế thừa · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "group": "CE20",
+   "chapter": 10,
+   "file": "ch10.md",
+   "image": null
+  },
+  "CH10-CE20-07": {
+   "id": "CH10-CE20-07",
+   "name_vi": "Mao Trạch Đông",
+   "name_orig": "毛澤東 Máo Zédōng",
+   "labels": [],
+   "years_raw": "1893–1976 CN",
+   "born": 1893,
+   "died": 1976,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Hồ Nam, Diên An và Bắc Kinh",
+   "region": "Đông Á",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Quân sự"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q5816",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Đóng góp lý thuyết của ông là sửa chủ nghĩa Marx cho một xã hội không có giai cấp công nhân đông: lấy **nông dân** làm lực lượng chính, dựng căn cứ ở nông thôn, đánh lâu dài rồi vây thành thị từ ngoài vào. Mô hình ấy thắng năm 1949 và được các phong trào du kích ở nhiều châu lục học lại. Hai chiến dịch ông phát động thì đi ngược: Đại nhảy vọt gây nạn đói chết hàng chục triệu người những năm 1959–1961, và Cách mạng Văn hoá 1966–1976 phá hệ thống giáo dục cùng guồng máy nhà nước.",
+   "why": "Ứng viên cùng ô là Tôn Trung Sơn, người lật nhà Thanh và đặt khung dân tộc – dân quyền – dân sinh, Đặng Tiểu Bình, người xoay nền kinh tế sau năm 1978, và Tưởng Giới Thạch. Tôn Trung Sơn bị loại theo độ bền (b): hệ ông để lại không giữ được nước. Đặng bị loại theo tính nguyên bản (c) rất sát: ông cải cách bên trong một nhà nước Mao dựng. Tưởng bị loại theo phạm vi (a). Mao được chọn theo (a) và (d).",
+   "sources": "*Luận về chiến tranh lâu dài* (論持久戰, Diên An, 1938); Frank Dikötter, *Mao's Great Famine* (Bloomsbury, 2010); Rana Mitter, *A Bitter Revolution* (Oxford University Press, 2004).",
+   "inherits": [
+    {
+     "target": "CH09-CE19-03",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH09-CE19-03 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Vladimir Lenin",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Vladimir Lenin · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Tôn Trung Sơn",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Tôn Trung Sơn · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Nhà nước Trung Quốc hiện nay và thiết chế đảng – nhà nước của nó",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Nhà nước Trung Quốc hiện nay và thiết chế đảng – nhà nước của nó · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Các phong trào du kích nông thôn ở châu Á, châu Phi và Mỹ Latinh",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Các phong trào du kích nông thôn ở châu Á, châu Phi và Mỹ Latinh · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE20",
+   "chapter": 10,
+   "file": "ch10.md",
+   "image": null
+  },
+  "CH10-CE20-08": {
+   "id": "CH10-CE20-08",
+   "name_vi": "Mustafa Kemal Atatürk",
+   "name_orig": "Mustafa Kemal Paşa",
+   "labels": [],
+   "years_raw": "1881–1938 CN",
+   "born": 1881,
+   "died": 1938,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Selanik và Ankara",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Quân sự"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q5152",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Ông là người duy nhất trong phe bại trận Thế chiến thứ nhất buộc được phe thắng ký lại hoà ước: thắng cuộc chiến 1919–1922 rồi thay hiệp ước Sèvres bằng Lausanne năm 1923. Sau đó ông làm một loạt việc không ai trong thế giới Hồi giáo từng làm: bỏ vương quyền năm 1922, bỏ **ngôi caliph** năm 1924 — chấm dứt một thiết chế mười ba thế kỷ — đổi sang chữ Latinh năm 1928, lấy bộ dân luật Thuỵ Sĩ, cho phụ nữ quyền bầu cử năm 1934. Cái giá là chế độ một đảng và việc chối bỏ bản sắc người Kurd.",
+   "why": "Ứng viên cùng ô là Reza Shah Pahlavi, người làm một chương trình hiện đại hoá gần giống ở Iran cùng thập niên, Gamal Abdel Nasser, người dựng chủ nghĩa dân tộc Arab, và İsmet İnönü. Reza Shah bị loại theo độ bền (b): hệ của ông sụp năm 1979. Nasser bị loại theo (b): dự án liên Arab tan sau 1967. İnönü bị loại theo tính nguyên bản (c). Atatürk được chọn theo (b) và (d): nước cộng hoà ông dựng vẫn đứng sau một trăm năm.",
+   "sources": "*Nutuk* (Ankara, 1927); Hiệp ước Lausanne (1923); Andrew Mango, *Atatürk* (John Murray, 1999).",
+   "inherits": [
+    {
+     "target": "CH08-CE18-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH08-CE18-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Phong trào Thanh niên Thổ và cải cách Tanzimat",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phong trào Thanh niên Thổ và cải cách Tanzimat · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Ziya Gökalp và lý thuyết dân tộc Thổ",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Ziya Gökalp và lý thuyết dân tộc Thổ · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Nhà nước Thổ Nhĩ Kỳ hiện đại và nguyên tắc thế tục của nó",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Nhà nước Thổ Nhĩ Kỳ hiện đại và nguyên tắc thế tục của nó · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Các chương trình hiện đại hoá từ trên xuống ở Iran, Afghanistan và Tunisia",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Các chương trình hiện đại hoá từ trên xuống ở Iran, Afghanistan và Tunisia · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE20",
+   "chapter": 10,
+   "file": "ch10.md",
+   "image": null
+  },
+  "CH10-CE20-09": {
+   "id": "CH10-CE20-09",
+   "name_vi": "Nelson Mandela",
+   "name_orig": "Nelson Rolihlahla Mandela, Madiba",
+   "labels": [],
+   "years_raw": "1918–2013 CN",
+   "born": 1918,
+   "died": 2013,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Mvezo, Johannesburg và đảo Robben",
+   "region": "Châu Phi hạ Sahara",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Luật"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q8023",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Ông bắt đầu bằng bất bạo động kiểu Gandhi trong chiến dịch Thách thức năm 1952, rồi **bỏ nó có lập luận**: sau vụ bắn ở Sharpeville năm 1960 và lệnh cấm ANC, ông lập cánh vũ trang, và tại phiên toà Rivonia năm 1964 nói rõ vì sao. Hai mươi bảy năm tù biến ông thành một thứ mà chế độ không xử lý được. Từ giữa thập niên 1980 ông chủ động mở thương lượng ngay trong tù, và cuộc chuyển giao 1990–1994 diễn ra không thành nội chiến. Bất bình đẳng kinh tế thì ông không đảo được.",
+   "why": "Ứng viên cùng ô là Oliver Tambo, người giữ ANC sống suốt ba mươi năm lưu vong trong khi ông ở tù, Steve Biko, người dựng phong trào Ý thức Da đen và bị giết năm 1977, và Desmond Tutu. Tambo bị loại theo tính nguyên bản (c) rất sát: vai trò ông là duy trì tổ chức. Biko bị loại theo độ bền (b). Tutu bị loại theo phạm vi (a). Mandela được chọn theo (d): cuộc chuyển giao không đổ máu phụ thuộc vào vị thế riêng của ông.",
+   "sources": "Lời khai tại phiên toà Rivonia (Pretoria, 20.4.1964); *Long Walk to Freedom* (Little, Brown, 1994).",
+   "inherits": [
+    {
+     "target": "CH10-CE20-05",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH10-CE20-05 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Walter Sisulu",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Walter Sisulu · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Hiến chương Tự do năm 1955 của Đại hội Nhân dân",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hiến chương Tự do năm 1955 của Đại hội Nhân dân · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Hiến pháp Nam Phi 1996 và Uỷ ban Sự thật và Hoà giải",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hiến pháp Nam Phi 1996 và Uỷ ban Sự thật và Hoà giải · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Mô hình công lý chuyển tiếp dùng lại ở nhiều nước sau xung đột",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Mô hình công lý chuyển tiếp dùng lại ở nhiều nước sau xung đột · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE20",
+   "chapter": 10,
+   "file": "ch10.md",
+   "image": null
+  },
+  "CH10-CE20-10": {
+   "id": "CH10-CE20-10",
+   "name_vi": "Martin Luther King Jr.",
+   "name_orig": "Michael King Jr.",
+   "labels": [],
+   "years_raw": "1929–1968 CN",
+   "born": 1929,
+   "died": 1968,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Atlanta, Montgomery và Memphis",
+   "region": "Châu Mỹ",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q8027",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Ông ghép phương pháp satyagraha với nhà thờ người da đen, rồi thêm một tính toán mới: **chọn nơi đối đầu sao cho bạo lực của chính quyền lọt lên truyền hình cả nước** — Birmingham 1963, Selma 1965 — khiến một tranh chấp địa phương thành áp lực liên bang. *Thư từ nhà tù Birmingham* (1963) trả lời những người khuyên chờ đợi: chậm trễ không trung lập, nó đứng về phía kẻ đang áp bức. Hai đạo luật 1964 và 1965 là kết quả. Sau 1965 ông chuyển sang nghèo đói và chiến tranh Việt Nam, và mất nhiều đồng minh.",
+   "why": "Ứng viên cùng ô là Malcolm X, người đưa ra đường lối đối lập và buộc phe ôn hoà phải có sức nặng, Ella Baker, người tổ chức mạng lưới cơ sở mà các chiến dịch dựa vào, và Thurgood Marshall, luật sư thắng vụ Brown năm 1954. Malcolm X bị loại theo độ bền (b). Ella Baker bị loại theo phạm vi (a), không theo năng lực. Marshall bị loại theo tính nguyên bản (c). King được chọn theo (c) và (d): ông dựng một phương pháp vận động dùng được ở nơi khác.",
+   "sources": "\"Letter from Birmingham Jail\" (1963); Taylor Branch, *Parting the Waters: America in the King Years 1954–63* (Simon & Schuster, 1988).",
+   "inherits": [
+    {
+     "target": "CH10-CE20-05",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH10-CE20-05 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Bayard Rustin",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Bayard Rustin · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống thuyết giảng và tổ chức của nhà thờ Baptist người da đen",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống thuyết giảng và tổ chức của nhà thờ Baptist người da đen · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Đạo luật Dân quyền 1964 và Đạo luật Quyền bầu cử 1965",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Đạo luật Dân quyền 1964 và Đạo luật Quyền bầu cử 1965 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Các phong trào đòi quyền của những nhóm bị gạt ra lề từ thập niên 1970",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Các phong trào đòi quyền của những nhóm bị gạt ra lề từ thập niên 1970 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE20",
+   "chapter": 10,
+   "file": "ch10.md",
+   "image": null
+  },
+  "CH10-CE20-11": {
+   "id": "CH10-CE20-11",
+   "name_vi": "Norman Borlaug",
+   "name_orig": "Norman Ernest Borlaug",
+   "labels": [],
+   "years_raw": "1914–2009 CN",
+   "born": 1914,
+   "died": 2009,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Iowa và Mexico",
+   "region": "Châu Mỹ",
+   "fields": [
+    "Khoa học tự nhiên"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q154824",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Giống lúa mì ông chọn tạo ở Mexico có ba tính chất cùng lúc: thân lùn nên không đổ khi bón nhiều đạm, kháng được nấm gỉ sắt, và không kén độ dài ngày nên trồng được ở nhiều vĩ độ. Tính chất thứ ba là **sản phẩm phụ của phương pháp**: ông gieo hai vụ một năm ở hai nơi khác vĩ độ để rút ngắn chu kỳ lai tạo. Từ 1965 các giống này sang Ấn Độ và Pakistan đúng lúc hai nước bị dự báo đói lớn, và sản lượng gần gấp đôi trong năm năm. Cái giá là lệ thuộc nước tưới, phân bón và thuốc.",
+   "why": "Ứng viên cùng ô là M. S. Swaminathan, người đưa các giống ấy vào Ấn Độ và sửa chúng cho hợp khẩu vị địa phương, Yuan Longping, người lai tạo lúa nước ở Trung Quốc, và Fritz Haber, người tổng hợp đạm từ không khí. Swaminathan bị loại theo tính nguyên bản (c) rất sát. Yuan Longping bị loại theo phạm vi (a): tác động của ông tập trung ở Trung Quốc. Haber bị loại theo (c). Borlaug được chọn theo counterfactual (d).",
+   "sources": "Norman E. Borlaug, \"The Green Revolution, Peace, and Humanity\" — diễn từ Nobel Hoà bình (Oslo, 1970); Nick Cullather, *The Hungry World* (Harvard University Press, 2010) — đọc lại Cách mạng Xanh có phê phán.",
+   "inherits": [
+    {
+     "target": "CH09-CE19-02",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH09-CE19-02 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Giống lúa mì lùn Norin 10 của Nhật Bản qua Orville Vogel",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Giống lúa mì lùn Norin 10 của Nhật Bản qua Orville Vogel · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Di truyền học Mendel áp dụng vào chọn giống cây trồng",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Di truyền học Mendel áp dụng vào chọn giống cây trồng · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Cách mạng Xanh ở Nam Á và Mỹ Latinh",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Cách mạng Xanh ở Nam Á và Mỹ Latinh · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Nông nghiệp thâm canh lệ thuộc phân bón và nước tưới",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Nông nghiệp thâm canh lệ thuộc phân bón và nước tưới · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Tranh luận về đa dạng giống và cạn kiệt tầng nước ngầm",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "Tranh luận về đa dạng giống và cạn kiệt tầng nước ngầm · kế thừa · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "group": "CE20",
+   "chapter": 10,
+   "file": "ch10.md",
+   "image": null
+  },
+  "CH10-CE20-12": {
+   "id": "CH10-CE20-12",
+   "name_vi": "Sukarno",
+   "name_orig": "Koesno Sosrodihardjo",
+   "labels": [],
+   "years_raw": "1901–1970 CN",
+   "born": 1901,
+   "died": 1970,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Surabaya, Bandung và Jakarta",
+   "region": "Đông Nam Á",
+   "fields": [
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q76127",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Pancasila, bản ông đọc năm 1945, là lời giải cho một bài toán cụ thể: làm sao gắn một quần đảo hàng trăm sắc tộc, đa số theo đạo Hồi, thành một nước mà **không biến nó thành nhà nước Hồi giáo**. Năm nguyên tắc ấy cố ý để rộng, và chúng vẫn là nền của hiến pháp Indonesia. Việc thứ hai có tầm ngoài nước: hội nghị Bandung năm 1955 lần đầu cho các nước vừa thoát thuộc địa ngồi lại như một khối, và từ đó ra phong trào không liên kết. Kinh tế dưới tay ông thì sụp, và ông mất quyền năm 1966.",
+   "why": "Ứng viên cùng ô là Mohammad Hatta, người cùng ông ký tuyên ngôn độc lập và lo phần hành chính, Aung San, người đưa Miến Điện tới độc lập rồi bị ám sát năm 1947, và Tunku Abdul Rahman. Hồ Chí Minh có mục riêng ở phụ lục nên không phải ứng viên bị loại. Hatta bị loại theo tính nguyên bản (c). Aung San bị loại theo độ bền (b). Tunku bị loại theo phạm vi (a). Sukarno được chọn theo (a): Pancasila và Bandung đều vượt khỏi một nước.",
+   "sources": "Diễn văn \"Lahirnya Pancasila\" (Jakarta, 1.6.1945); Thông cáo chung Hội nghị Á – Phi (Bandung, 1955); J. D. Legge, *Sukarno: A Political Biography* (Allen Lane, 1972).",
+   "inherits": [
+    {
+     "target": "CH09-CE19-10",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH09-CE19-10 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Phong trào Sarekat Islam và chủ nghĩa dân tộc Indonesia thập niên 1910",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phong trào Sarekat Islam và chủ nghĩa dân tộc Indonesia thập niên 1910 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Chủ nghĩa Marx và chủ nghĩa dân tộc Hồi giáo hoà vào nhau trong giới trẻ Java thập niên 1920",
+     "relation": "tổng hợp",
+     "evidence": "qua trường phái",
+     "raw": "Chủ nghĩa Marx và chủ nghĩa dân tộc Hồi giáo hoà vào nhau trong giới trẻ Java thập niên 1920 · tổng hợp · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Pancasila làm nền hiến pháp Indonesia tới nay",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Pancasila làm nền hiến pháp Indonesia tới nay · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Phong trào không liên kết và nhóm G77",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phong trào không liên kết và nhóm G77 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE20",
+   "chapter": 10,
+   "file": "ch10.md",
    "image": null
   },
   "CH90-BCE03_01-01": {
