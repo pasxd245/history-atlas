@@ -156,6 +156,14 @@ trong đồ thị (tiền lệ: `CH05-CE06-12` gỡ dòng "Chaucer, Jean de Meun
 trường đó trước**; nếu đã chạm trần thì phải cắt trước khi cộng. Chỗ không cắt được thì viết
 xuống `## Ghi chú biên tập` — khối ấy không có trần chữ.
 
+**Tên gốc trong ngoặc cũng là công cụ so khớp Wikidata, không chỉ để trang trí.** Lint so
+tên mục với `labels`, `aliases` **và** tiêu đề bài viwiki/enwiki của Q-ID (`common.py:wd_names`).
+Tiêu đề bài được đưa vào từ 2026-11-03 vì có mục không có nhãn vi lẫn en — `Q379887` Olaudah
+Equiano chỉ có nhãn ar và zh — nên Q-ID đúng vẫn bị báo lệch. Khi lint báo `nhãn Wikidata ≠ tên`,
+thứ tự xử lý là: (1) kiểm `P31` và `P569/P570` xem có đúng người không; (2) nếu đúng thì thêm
+**dạng tên có thật** vào ngoặc, phân tách bằng dấu phẩy (`Khang Hy (康熙帝, Khang Hi, …)`);
+(3) đừng bịa một dạng Latinh hoặc một phiên âm chỉ để lint im.
+
 **Khối minh bạch bắt buộc.** Mỗi chapter phải mở đầu `## Ghi chú biên tập` bằng khối "Cách chapter này được soạn" (nguyên văn ở cuối `prompts/atlas-prompt.md`). Build không kiểm tự động — đây là việc của người biên tập.
 
 ## Quy tắc ảnh

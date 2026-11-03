@@ -16891,5 +16891,982 @@
    "enwiki": "Martin Luther"
   },
   "fetched": 1793706429
+ },
+ "wd:Q1385286": {
+  "id": "Q1385286",
+  "labels": {
+   "en": "Sugita Genpaku"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1733,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1817,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Sugita Genpaku.jpg",
+  "sitelinks": {
+   "enwiki": "Sugita Genpaku"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q171977": {
+  "id": "Q171977",
+  "labels": {
+   "vi": "Tokugawa Ieyasu",
+   "en": "Tokugawa Ieyasu"
+  },
+  "aliases": {
+   "vi": [
+    "Matsudaira Motoyasu",
+    "Ieyasu Tokugawa",
+    "Matsudaira Takechiyo",
+    "Đức Xuyên Gia Khang"
+   ],
+   "en": [
+    "Matsudaira Takechiyo",
+    "Ieyasu"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1543,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1616,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Tokugawa Ieyasu2.JPG",
+  "sitelinks": {
+   "viwiki": "Tokugawa Ieyasu",
+   "enwiki": "Tokugawa Ieyasu"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q1771129": {
+  "id": "Q1771129",
+  "labels": {
+   "en": "Sultan Agung of Mataram"
+  },
+  "aliases": {
+   "en": [
+    "Sultan Agung",
+    "Sunan Agung",
+    "Susuhunan Anyakrakusuma",
+    "Susuhunan Anyokrokusumo",
+    "Susuhunan Agung Adiprabu Anyakrakusuma",
+    "Agoeng de Grote",
+    "Sultan Agung of Mataram",
+    "Susuhunan Agung of Mataram",
+    "Anyakrakusuma of Mataram",
+    "Anyokrokusumo of Mataram",
+    "Sultan Anyakrakusuma",
+    "Sultan Agung Hanyakrakusuma"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1593,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1645,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Anyakrakusuma of Mataram.jpg",
+  "sitelinks": {
+   "enwiki": "Sultan Agung of Mataram"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q17790": {
+  "id": "Q17790",
+  "labels": {
+   "en": "Kangxi Emperor",
+   "vi": "Khang Hi"
+  },
+  "aliases": {
+   "en": [
+    "Kangxi",
+    "Tiyuanzhuren",
+    "Hetianhongyunwenwuruizhegongjiankuanyuxiaojingchengxingongdedachengrenhuangdi",
+    "Shengzu",
+    "Xuanye",
+    "Hsüan-ye",
+    "Cang-hi",
+    "K'ang-hsi",
+    "Emperor Kangxi",
+    "Amulon-Bogdo-Cham",
+    "Engke-Amuulang",
+    "Engke Amuyulang",
+    "Engke Amuγulang",
+    "Enh-Amgalan",
+    "K'ang Hsi",
+    "Amuγulang Qaγan",
+    "Amuγulang Bogda Qaγan",
+    "Amulon Bogdo-Cham",
+    "Kang-hsi",
+    "Kang Hsi",
+    "Kanghsi",
+    "Camhi",
+    "Emperor Shengzu of Qing"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1654,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1722,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "清 佚名 《清圣祖康熙皇帝朝服像》.jpg",
+  "sitelinks": {
+   "viwiki": "Khang Hi",
+   "enwiki": "Kangxi Emperor"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q183074": {
+  "id": "Q183074",
+  "labels": {
+   "en": "Sor Juana Inés de la Cruz",
+   "vi": "Juana Inés de la Cruz"
+  },
+  "aliases": {
+   "en": [
+    "Juana Ines de la Cruz",
+    "Sor Juana Ines",
+    "Jeane-Ignes de la Cruz",
+    "Sor Juana",
+    "Juana Ines de Asbaje y Ramirez de Santillana",
+    "Juana Inés de la Cruz"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1651,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1648,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 1648,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1695,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Sor Juana Inés de la Cruz, 1732 - Fray Miguel de Herrera.jpg",
+  "sitelinks": {
+   "viwiki": "Juana Inés de la Cruz",
+   "enwiki": "Juana Inés de la Cruz"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q2010955": {
+  "id": "Q2010955",
+  "labels": {
+   "en": "Mulla Sadra"
+  },
+  "aliases": {
+   "en": [
+    "Ṣadr ad-Dīn Muḥammad Shīrāzī",
+    "Mullā Ṣadrā"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1571,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1641,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "enwiki": "Mulla Sadra"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q307": {
+  "id": "Q307",
+  "labels": {
+   "en": "Galileo Galilei",
+   "vi": "Galileo Galilei"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1564,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1642,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Galileo.arp.300pix.jpg",
+  "sitelinks": {
+   "viwiki": "Galileo Galilei",
+   "enwiki": "Galileo Galilei"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q315937": {
+  "id": "Q315937",
+  "labels": {
+   "vi": "Túpac Amaru II",
+   "en": "Túpac Amaru II"
+  },
+  "aliases": {
+   "en": [
+    "José Gabriel Tupac-Amaru",
+    "José Gabriel Condorcanqui Noguera",
+    "José Gabriel Túpac Amaru",
+    "Tupac Amaru II",
+    "José Gabriel Condorcanqui"
+   ],
+   "vi": [
+    "José Gabriel Condorcanqui"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1738,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1781,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Acuarela de Túpac Amaru II crop.jpg",
+  "sitelinks": {
+   "enwiki": "Túpac Amaru II"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q34969": {
+  "id": "Q34969",
+  "labels": {
+   "vi": "Benjamin Franklin",
+   "en": "Benjamin Franklin"
+  },
+  "aliases": {
+   "en": [
+    "Poor Richard",
+    "The First American"
+   ],
+   "vi": [
+    "The First American"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1706,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1790,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Joseph Siffrein Duplessis - Benjamin Franklin - Google Art Project.jpg",
+  "sitelinks": {
+   "viwiki": "Benjamin Franklin",
+   "enwiki": "Benjamin Franklin"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q379887": {
+  "id": "Q379887",
+  "labels": {},
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1745,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1797,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Olaudah Equiano - Project Gutenberg eText 15399.png",
+  "sitelinks": {
+   "enwiki": "Olaudah Equiano"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q390123": {
+  "id": "Q390123",
+  "labels": {
+   "en": "Kâtip Çelebi"
+  },
+  "aliases": {
+   "en": [
+    "Kâtib Çelebi",
+    "Haci Halife",
+    "Khaṭīb Shalabī",
+    "Ḥajjī Khalīfa",
+    "Muṣṭafa Ibn ʿabd Allāh",
+    "Kâtip Tchelebi",
+    "Muṣṭafa ibn ʻAbdallâh Kâtib Čelebi Ḥaǧǧi Ḫalfa",
+    "Muṣṭafa ibn ʻAbdallâh Kâtib Čelebi Ḥaǧǧi Ḫalîfa"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1609,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1657,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": null,
+  "sitelinks": {
+   "enwiki": "Kâtip Çelebi"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q392835": {
+  "id": "Q392835",
+  "labels": {
+   "en": "Shah Waliullah Dehlawi"
+  },
+  "aliases": {
+   "en": [
+    "Shah Wali Allah",
+    "Shah Waliullah ad-Dehlawi"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1703,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1762,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Shah Waliullah Name.svg",
+  "sitelinks": {
+   "enwiki": "Shah Waliullah Dehlawi"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q39607": {
+  "id": "Q39607",
+  "labels": {
+   "vi": "Antoine Lavoisier",
+   "en": "Antoine Lavoisier"
+  },
+  "aliases": {
+   "vi": [
+    "Antoine Laurent Lavoisier",
+    "Antoine Laurent de Lavoisier"
+   ],
+   "en": [
+    "Antoine Laurent Lavoisier",
+    "Lavoisier",
+    "Antoine Laurent de Lavoisier",
+    "Antoine-Laurent de Lavoisier"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1743,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1794,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "David - Portrait of Monsieur Lavoisier (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Antoine Lavoisier",
+   "enwiki": "Antoine Lavoisier"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q467650": {
+  "id": "Q467650",
+  "labels": {
+   "en": "Nzingha Mbande",
+   "vi": "Anne Zingha"
+  },
+  "aliases": {
+   "en": [
+    "Ana de Sousa Nzingha Mbande",
+    "Queen Anna Nzinga",
+    "Anna Zingha",
+    "Anna Zinga",
+    "Nzinga of Ndongo and Matamba",
+    "Nzingha of Ndongo and Matamba",
+    "Njinga Mbandi",
+    "Nzinga a Mbandi",
+    "Nzinga di Ndongo e Matamba",
+    "Nzinga Mbanda"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1582,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1663,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Ann Zingha.jpg",
+  "sitelinks": {
+   "viwiki": "Anne Zingha",
+   "enwiki": "Nzinga of Ndongo and Matamba"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q6527": {
+  "id": "Q6527",
+  "labels": {
+   "en": "Jean-Jacques Rousseau"
+  },
+  "aliases": {
+   "en": [
+    "Citizen of Geneva"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1712,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1778,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Jean-Jacques Rousseau (painted portrait).jpg",
+  "sitelinks": {
+   "viwiki": "Jean-Jacques Rousseau",
+   "enwiki": "Jean-Jacques Rousseau"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q69351": {
+  "id": "Q69351",
+  "labels": {
+   "en": "Muhammad ibn Abd al-Wahhab"
+  },
+  "aliases": {
+   "en": [
+    "Muhammad bin Abdul Wahhab",
+    "Muhammad Ibn Abd al-Wahhab",
+    "Muhammad ibn Abdul Wahhab",
+    "Muhammad ibn Abdul Wahhab al-Musharrafi al-Tamimi"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1703,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1792,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 1792,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "محمد بن عبد الوهاب.png",
+  "sitelinks": {
+   "enwiki": "Muhammad ibn Abd al-Wahhab"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q714369": {
+  "id": "Q714369",
+  "labels": {
+   "en": "Dai Zhen"
+  },
+  "aliases": {
+   "en": [
+    "Gaoxi",
+    "Shenxiu",
+    "Dongyuan"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1724,
+    "precision": 11,
+    "rank": "preferred"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1777,
+    "precision": 11,
+    "rank": "preferred"
+   }
+  ],
+  "P18": "Dai Zhen.png",
+  "sitelinks": {
+   "enwiki": "Dai Zhen"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q8963": {
+  "id": "Q8963",
+  "labels": {
+   "en": "Johannes Kepler",
+   "vi": "Johannes Kepler"
+  },
+  "aliases": {
+   "en": [
+    "John Kepler",
+    "Johannes Keppler",
+    "Johann Kepler",
+    "Keppler",
+    "John Keppler",
+    "Johanes Kepler",
+    "Kepler"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1571,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 1571,
+    "precision": 11,
+    "rank": "deprecated"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1630,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "JKepler.jpg",
+  "sitelinks": {
+   "viwiki": "Johannes Kepler",
+   "enwiki": "Johannes Kepler"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q9068": {
+  "id": "Q9068",
+  "labels": {
+   "vi": "Vôn-te",
+   "en": "Voltaire"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1694,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1694,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1778,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Nicolas de Largillière - Portrait de Voltaire (1694-1778) en 1718 - P208 - musée Carnavalet - 5 (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Voltaire",
+   "enwiki": "Voltaire"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q9191": {
+  "id": "Q9191",
+  "labels": {
+   "en": "René Descartes"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1596,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1596,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1650,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1650,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Frans Hals - Portret van René Descartes.jpg",
+  "sitelinks": {
+   "viwiki": "René Descartes",
+   "enwiki": "René Descartes"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q9312": {
+  "id": "Q9312",
+  "labels": {
+   "en": "Immanuel Kant"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1724,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1804,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Immanuel Kant - Gemaelde 2.jpg",
+  "sitelinks": {
+   "viwiki": "Immanuel Kant",
+   "enwiki": "Immanuel Kant"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q935": {
+  "id": "Q935",
+  "labels": {
+   "en": "Isaac Newton",
+   "vi": "Isaac Newton"
+  },
+  "aliases": {
+   "vi": [
+    "Niu-tơn",
+    "Ixăc Niutơn",
+    "Niutơn"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1642,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1643,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 1642,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1727,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1727,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 1727,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "GodfreyKneller-IsaacNewton-1689.jpg",
+  "sitelinks": {
+   "viwiki": "Isaac Newton",
+   "enwiki": "Isaac Newton"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q9353": {
+  "id": "Q9353",
+  "labels": {
+   "en": "John Locke"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1632,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1632,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1704,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1704,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "JohnLocke.png",
+  "sitelinks": {
+   "viwiki": "John Locke",
+   "enwiki": "John Locke"
+  },
+  "fetched": 1793718889
+ },
+ "wd:Q9381": {
+  "id": "Q9381",
+  "labels": {
+   "en": "Adam Smith"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1723,
+    "precision": 10,
+    "rank": "preferred"
+   },
+   {
+    "year": 1723,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 1723,
+    "precision": 11,
+    "rank": "deprecated"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1790,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "AdamSmith.jpg",
+  "sitelinks": {
+   "viwiki": "Adam Smith",
+   "enwiki": "Adam Smith"
+  },
+  "fetched": 1793718889
  }
 }

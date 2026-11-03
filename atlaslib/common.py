@@ -359,4 +359,8 @@ def wd_names(info: dict) -> set[str]:
     names = {norm_name(v) for v in info.get("labels", {}).values()}
     for al in info.get("aliases", {}).values():
         names |= {norm_name(a) for a in al}
+    # Một số mục không có nhãn vi lẫn en (vd Q379887 Olaudah Equiano chỉ có nhãn ar và zh),
+    # nên so tên chỉ bằng labels/aliases thì báo lệch dù Q-ID đúng. Tiêu đề bài Wikipedia
+    # cũng là một tên của thực thể, và wd_fetch đã lấy sẵn viwiki|enwiki, nên dùng luôn.
+    names |= {norm_name(v) for v in info.get("sitelinks", {}).values()}
     return {n for n in names if n}

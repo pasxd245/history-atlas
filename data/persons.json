@@ -1126,6 +1126,78 @@
    ]
   },
   {
+   "no": 8,
+   "title": "Cách mạng khoa học, Khai sáng",
+   "label": "TK 17–18",
+   "files": [
+    "ch08.md"
+   ],
+   "intro": "Hai thế kỷ này đổi hai thứ cùng lúc. Thứ nhất là cách biết: ở châu Âu, đo lường có kiểm soát và toán học hoá thay chỗ cho lập luận từ thẩm quyền văn bản, và tới cuối thế kỷ 17 nó cho ra một hệ vật lý giải thích được cả quả táo lẫn hành tinh. Thứ hai là cách cai trị: các nhà nước lớn — Tokugawa, Thanh, Mataram, Mughal, Ottoman — đều dựng lại thiết chế để đứng lâu, và các công ty đặc quyền châu Âu bắt đầu biến thương mại thành chủ quyền. Chapter này cố giữ hai mạch ấy cạnh nhau thay vì kể riêng mạch châu Âu.",
+   "editorial": [
+    "**Cách chapter này được soạn**",
+    "Phần văn xuôi của chapter do mô hình AI (Claude) viết theo prompt cố định tại `prompts/atlas-prompt.md`, không qua bình duyệt chuyên môn. Tên, niên đại và định danh được đối chiếu tự động với Wikidata; phần diễn giải, đánh giá ảnh hưởng và lựa chọn nhân vật là tổng hợp của model theo bốn tiêu chí (a)–(d), không phải kết luận của giới nghiên cứu. Mục Nguồn là điểm khởi đầu để tự kiểm tra, chưa được đối chiếu từng câu. Xem mục \"Về dự án\" ở trang Overview để biết giới hạn đầy đủ.",
+    "**Nhóm CE17: liên kết treo từ Chapter 7 đã đóng đúng chỗ**",
+    "`CH07-CE16-03` Copernicus ghi `Ảnh hưởng tới → CH08-CE17-01`, một liên kết cố ý treo lúc viết Chapter 7. Vòng này `CH08-CE17-01` là Kepler, nên nó phân giải đúng mạch đã hứa và cảnh báo `liên kết tới ID chưa tồn tại` biến mất mà không phải sửa dòng cũ. Ghi lại vì đây là ca đầu tiên trong atlas một liên kết tiến được để treo qua một vòng viết rồi đóng lại — cách làm này chỉ an toàn khi **ghi rõ ở ghi chú biên tập của chapter đang viết**, chứ không phải khi để lint tự im.",
+    "**Mức `trực tiếp` dùng cho đường truyền qua văn bản có tên người**",
+    "Vài cạnh trong nhóm CE17 nối hai người không hề gặp nhau: Kepler với Copernicus (chênh một phần tư thế kỷ), Newton với Descartes, Locke với Hobbes. Chúng vẫn để `trực tiếp` vì quy tắc 9 đo **đường truyền**, không đo khoảng cách thời gian: mỗi ca đều có văn bản của người sau nêu đích danh người trước và nêu đúng luận điểm bị kế thừa hoặc bị bác. Ngược lại, các đích không phải một con người cụ thể — tập bản đồ Mercator – Hondius ở `CH08-CE17-07`, lịch Java ở `CH08-CE17-12` — đều hạ xuống `qua trường phái`, theo đúng kết quả đo được ở vòng rà 39 cạnh: tiêu chí ăn thua là **đích có đúng một người hay không**, không phải đích là văn bản tự do hay ID.",
+    "**`CH08-CE18-11` Equiano: ô vùng đang gánh một mệnh đề đang tranh cãi**",
+    "Trường `vùng` của mục này ghi `Châu Phi hạ Sahara` theo lời kể trong chính *The Interesting Narrative*. Nhưng hồ sơ rửa tội năm 1759 và sổ hải quân ghi nơi sinh là South Carolina, và Vincent Carretta là người nêu bằng chứng ấy. Hai khả năng dẫn tới hai ô vùng khác nhau, nên **một dòng thống kê vùng của atlas đang phụ thuộc vào một tranh cãi chưa khép**. Mục để `Trung bình` cho niên đại và nói thẳng tranh cãi trong phần nội dung; nếu vòng sau muốn chặt hơn thì cách đúng là thêm một trường ghi độ tin cậy của `vùng`, chứ không phải lặng lẽ đổi ô.",
+    "**Ứng viên Việt Nam trong Chapter 8 (yêu cầu D5)**",
+    "Sáu người Việt Nam thuộc hai thế kỷ này đều **đã có mục riêng ở phụ lục**, nên theo quy tắc 6 họ không phải ứng viên bị loại: **Nguyễn Hoàng** `CH90-CE15_18-05`, **Đào Duy Từ** `CH90-CE15_18-06`, **Alexandre de Rhodes** `CH90-CE15_18-07`, **Lê Quý Đôn** `CH90-CE15_18-08`, **Lê Hữu Trác** `CH90-CE15_18-09`, **Quang Trung** `CH90-CE15_18-10`.",
+    "Ca đáng cân nhất vòng này là **Lê Quý Đôn**, và lý do đáng nói ra: nhóm CE17 nhận `CH08-CE17-07` Kâtip Çelebi đúng theo hồ sơ bách khoa thư — liệt kê, phân loại, mở kho tri thức. Lê Quý Đôn với *Vân đài loại ngữ* và *Phủ biên tạp lục* hợp cùng một khuôn ấy. Chỗ hai người tách ra là **độ phủ của đường truyền**: bộ thư mục của Kâtip Çelebi đi ra ngoài thế giới Ottoman và đến nay vẫn được tra, còn trước tác của Lê Quý Đôn gần như không rời khỏi khu vực chữ Hán trước thế kỷ 20. Đây là phán đoán theo tiêu chí (a) với hệ quy chiếu nêu rõ, không phải đánh giá chất lượng công trình, và nên xét lại nếu dựng được bằng chứng tiếp nhận ngoài Việt Nam.",
+    "**Ô Châu Âu chiếm 10/24 mục của chapter**",
+    "Con số này dưới ngưỡng cảnh báo 60% nhưng cao hơn tỉ lệ chung của atlas, nên phải nói rõ nó từ đâu ra. Nhóm CE17 lấy năm người châu Âu vì cách mạng khoa học là một sự kiện tập trung về địa lý ở mức hiếm thấy; nhóm CE18 lấy năm người vì Khai sáng cũng vậy. Cái **không** được phép đi kèm là suy ra rằng các vùng khác đứng yên: `CH08-CE18-06` Đới Chấn và `CH08-CE18-07` Sugita Genpaku đều là ca đặt quan sát lên trên thẩm quyền văn bản, đúng cái mà mạch châu Âu thường được kể như thể chỉ nó có. Chapter này cố để hai mạch ấy cạnh nhau chứ không xếp một mạch làm phụ lục của mạch kia."
+   ],
+   "groups": [
+    {
+     "id": "CE17",
+     "label": "TK 17",
+     "range": [
+      1601,
+      1700
+     ],
+     "context": "Chiến tranh Ba mươi năm tàn phá Trung Âu rồi kết bằng hoà ước Westfalen. Nhà Minh sụp, nhà Thanh vào Trung Nguyên. Mạc phủ Tokugawa đóng cửa Nhật Bản. Công ty Đông Ấn Hà Lan và Anh biến thương mại thành quyền lực vũ trang. Kính viễn vọng và kính hiển vi mở hai thang đo mới cho quan sát.",
+     "persons": [
+      "CH08-CE17-01",
+      "CH08-CE17-02",
+      "CH08-CE17-03",
+      "CH08-CE17-04",
+      "CH08-CE17-05",
+      "CH08-CE17-06",
+      "CH08-CE17-07",
+      "CH08-CE17-08",
+      "CH08-CE17-09",
+      "CH08-CE17-10",
+      "CH08-CE17-11",
+      "CH08-CE17-12"
+     ]
+    },
+    {
+     "id": "CE18",
+     "label": "TK 18",
+     "range": [
+      1701,
+      1800
+     ],
+     "context": "Chiến tranh Bảy Năm đẩy xung đột châu Âu ra bốn lục địa. Mười ba thuộc địa Bắc Mỹ tuyên bố độc lập, rồi Pháp lật quân chủ. Công ty Đông Ấn Anh thắng Plassey và bắt đầu cai trị Bengal. Nhà Thanh và Mughal đi hai hướng ngược nhau. Máy hơi nước Watt được cấp bằng sáng chế năm 1769.",
+     "persons": [
+      "CH08-CE18-01",
+      "CH08-CE18-02",
+      "CH08-CE18-03",
+      "CH08-CE18-04",
+      "CH08-CE18-05",
+      "CH08-CE18-06",
+      "CH08-CE18-07",
+      "CH08-CE18-08",
+      "CH08-CE18-09",
+      "CH08-CE18-10",
+      "CH08-CE18-11",
+      "CH08-CE18-12"
+     ]
+    }
+   ]
+  },
+  {
    "no": 90,
    "title": "Phụ lục · Việt Nam qua các thời kỳ",
    "label": "TK 3 TCN – TK 20",
@@ -23993,11 +24065,1698 @@
      "evidence": "qua trường phái",
      "raw": "Phong trào bản địa Andes thế kỷ 18 · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH08-CE18-10",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH08-CE18-10 · kế thừa · trực tiếp",
+     "undetermined": false
     }
    ],
    "group": "CE16",
    "chapter": 7,
    "file": "ch07.md",
+   "image": null
+  },
+  "CH08-CE17-01": {
+   "id": "CH08-CE17-01",
+   "name_vi": "Johannes Kepler",
+   "name_orig": "Iohannes Keplerus, Johannes Keppler",
+   "labels": [],
+   "years_raw": "1571–1630 CN",
+   "born": 1571,
+   "died": 1630,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Graz, Praha và Linz",
+   "region": "Châu Âu",
+   "fields": [
+    "Khoa học tự nhiên",
+    "Toán học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q8963",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Ông nhận dữ liệu quan sát sao Hoả của Tycho Brahe, và sau sáu năm tính tay đã bỏ cái mà cả Copernicus lẫn Ptolemaios đều giữ: **quỹ đạo tròn**. Ba định luật của ông nói hành tinh đi theo ellipse với Mặt Trời ở một tiêu điểm, quét diện tích bằng nhau trong thời gian bằng nhau, và bình phương chu kỳ tỉ lệ với lập phương bán trục lớn. Quan trọng không kém là câu hỏi ông đặt: cái gì **đẩy** hành tinh đi. *Astronomia nova* (1609) tự gọi mình là vật lý học thiên giới, chứ không phải hình học cứu vãn hiện tượng.",
+   "why": "Ứng viên cùng ô là Tycho Brahe, người để lại bộ dữ liệu chính xác nhất trước kính viễn vọng, và Giovanni Battista Riccioli. Copernicus có mục riêng ở nhóm CE16 nên không phải ứng viên bị loại. Tycho bị loại theo tính nguyên bản (c): ông đo rất giỏi nhưng giữ một mô hình lai. Riccioli bị loại theo phạm vi (a). Kepler được chọn theo (c) và counterfactual (d): không có ba định luật thì Newton không có cái để giải thích.",
+   "sources": "*Astronomia nova* (Praha, 1609); *Harmonices mundi* (Linz, 1619); James R. Voelkel, *The Composition of Kepler's Astronomia Nova* (Princeton University Press, 2001).",
+   "inherits": [
+    {
+     "target": "CH07-CE16-03",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH07-CE16-03 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Tycho Brahe",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Tycho Brahe · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Mô hình hình học của Claudius Ptolemaios",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "Mô hình hình học của Claudius Ptolemaios · phản bác · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH08-CE17-03",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH08-CE17-03 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Cơ học thiên thể châu Âu thế kỷ 18",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Cơ học thiên thể châu Âu thế kỷ 18 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE17",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE17-02": {
+   "id": "CH08-CE17-02",
+   "name_vi": "Galileo Galilei",
+   "name_orig": "Galileo di Vincenzo Bonaiuti de' Galilei",
+   "labels": [],
+   "years_raw": "1564–1642 CN",
+   "born": 1564,
+   "died": 1642,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Padova và Firenze",
+   "region": "Châu Âu",
+   "fields": [
+    "Khoa học tự nhiên",
+    "Toán học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q307",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Cuối năm 1609 ông chĩa một ống kính tự mài lên trời và trong vài tháng thu được những thứ không mô hình địa tâm nào chứa nổi: bốn vệ tinh quay quanh Mộc tinh, các pha của Kim tinh, núi trên Mặt Trăng. Song song, các thí nghiệm máng nghiêng cho ông định luật rơi — quãng đường tỉ lệ với bình phương thời gian — và ý niệm quán tính. Đóng góp sâu nhất là phương pháp: ông coi **đo lường có kiểm soát** là trọng tài của tranh luận tự nhiên, và viết bằng tiếng Ý cho người ngoài giới học thuật đọc.",
+   "why": "Ứng viên cùng ô là Thomas Harriot, người vẽ Mặt Trăng qua kính viễn vọng trước ông vài tháng, và Hans Lipperhey, thợ kính xin bằng sáng chế năm 1608. Kepler có mục riêng ở nhóm CE17 nên không phải ứng viên bị loại. Harriot bị loại theo phạm vi (a): ông không công bố. Lipperhey bị loại theo tính nguyên bản (c): dụng cụ, không phải chương trình nghiên cứu. Galileo được chọn theo (b) và (d): ông biến quan sát thành lập luận công khai, và phiên toà 1633 cho thấy nó nặng cỡ nào.",
+   "sources": "*Sidereus nuncius* (Venezia, 1610); *Discorsi e dimostrazioni matematiche* (Leiden, 1638); Stillman Drake, *Galileo at Work* (University of Chicago Press, 1978).",
+   "inherits": [
+    {
+     "target": "CH07-CE16-03",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH07-CE16-03 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE03-05",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE03-05 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống cơ học ở Padova và các nhà toán học Dòng Tên",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống cơ học ở Padova và các nhà toán học Dòng Tên · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH08-CE17-03",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH08-CE17-03 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Vật lý thực nghiệm châu Âu thế kỷ 17",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Vật lý thực nghiệm châu Âu thế kỷ 17 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Tranh luận về thẩm quyền của khoa học tự nhiên trước thẩm quyền tôn giáo",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "Tranh luận về thẩm quyền của khoa học tự nhiên trước thẩm quyền tôn giáo · kế thừa · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "group": "CE17",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE17-03": {
+   "id": "CH08-CE17-03",
+   "name_vi": "Isaac Newton",
+   "name_orig": "Isaacus Newtonus, Ixăc Niutơn",
+   "labels": [],
+   "years_raw": "1642–1727 CN",
+   "born": 1642,
+   "died": 1727,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Woolsthorpe, Cambridge và London",
+   "region": "Châu Âu",
+   "fields": [
+    "Khoa học tự nhiên",
+    "Toán học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q935",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "*Philosophiæ Naturalis Principia Mathematica* (1687) đặt ba định luật chuyển động cùng một định luật hấp dẫn duy nhất, rồi từ đó **suy ra** quỹ đạo ellipse mà Kepler chỉ rút được từ số liệu. Chỗ đột phá không nằm ở từng mảnh mà ở phép hợp nhất: quả táo rơi và Mặt Trăng giữ quỹ đạo là cùng một hiện tượng, mô tả bằng cùng một công thức. Ông lập phép tính vi tích phân làm công cụ cho việc ấy, và trong *Opticks* (1704) tách ánh sáng trắng thành phổ bằng lăng kính rồi hợp lại.",
+   "why": "Ứng viên cùng ô là Robert Hooke, người nêu ý nghịch đảo bình phương trong thư gửi ông năm 1679, và Christiaan Huygens. Kepler và Galileo có mục riêng ở nhóm CE17 nên không phải ứng viên bị loại. Hooke bị loại theo tính nguyên bản (c): ông nêu ý mà không dựng được chứng minh toán học. Huygens bị loại theo phạm vi (a). Newton được chọn theo (a) và độ bền (b): hệ của ông là khung vật lý dùng được suốt hơn hai thế kỷ.",
+   "sources": "*Philosophiæ Naturalis Principia Mathematica* (London, 1687); *Opticks* (London, 1704); Richard S. Westfall, *Never at Rest: A Biography of Isaac Newton* (Cambridge University Press, 1980).",
+   "inherits": [
+    {
+     "target": "CH08-CE17-01",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH08-CE17-01 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH08-CE17-02",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH08-CE17-02 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH08-CE17-04",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH08-CE17-04 · phản bác · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH08-CE18-03",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH08-CE18-03 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Cơ học cổ điển và thiên văn học thế kỷ 18–19",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Cơ học cổ điển và thiên văn học thế kỷ 18–19 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Hình mẫu hệ tiên đề cho triết học Khai sáng",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hình mẫu hệ tiên đề cho triết học Khai sáng · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE17",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE17-04": {
+   "id": "CH08-CE17-04",
+   "name_vi": "René Descartes",
+   "name_orig": "Renatus Cartesius",
+   "labels": [],
+   "years_raw": "1596–1650 CN",
+   "born": 1596,
+   "died": 1650,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Cộng hoà Hà Lan và Stockholm",
+   "region": "Châu Âu",
+   "fields": [
+    "Triết học",
+    "Toán học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q9191",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Ông bắt đầu bằng cách **nghi ngờ có phương pháp**: gạt bỏ mọi điều có thể sai dù chỉ một lần, cho tới khi còn lại một mệnh đề không tự phủ định được — việc tôi đang nghĩ. Từ nền ấy ông dựng lại tri thức theo lối suy diễn. Song song, *La Géométrie* (1637) gắn mỗi điểm với một cặp số, biến bài toán hình học thành phương trình đại số và ngược lại. Phần vật lý của ông — vũ trụ đầy vật chất xoáy, không có chân không — về sau bị bác, nhưng chương trình **giải thích tự nhiên chỉ bằng vật chất và chuyển động** thì ở lại.",
+   "why": "Ứng viên cùng ô là Francis Bacon, người viết *Novum Organum* (1620) đặt quy nạp làm phương pháp, Pierre Gassendi, người phục hồi nguyên tử luận Epicurus, và Marin Mersenne. Bacon bị loại theo counterfactual (d): ông cổ vũ phương pháp mà không làm ra kết quả khoa học nào. Gassendi bị loại theo phạm vi (a). Mersenne bị loại vì vai trò của ông là người nối mạng thư từ. Descartes được chọn theo (a) và độ bền (b): hình học giải tích và bài toán tâm – vật đều còn sống.",
+   "sources": "*Discours de la méthode*, kèm *La Géométrie* (Leiden, 1637); *Meditationes de prima philosophia* (Paris, 1641); Stephen Gaukroger, *Descartes: An Intellectual Biography* (Oxford University Press, 1995).",
+   "inherits": [
+    {
+     "target": "CH03-BCE03-03",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE03-03 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống hoài nghi Pyrrhon phục hồi qua Montaigne",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống hoài nghi Pyrrhon phục hồi qua Montaigne · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Đại số của các nhà toán học Ý và Pháp thế kỷ 16",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Đại số của các nhà toán học Ý và Pháp thế kỷ 16 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH08-CE17-05",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH08-CE17-05 · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH08-CE17-03",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH08-CE17-03 · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Triết học duy lý lục địa",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Triết học duy lý lục địa · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE17",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE17-05": {
+   "id": "CH08-CE17-05",
+   "name_vi": "John Locke",
+   "name_orig": "Joannes Lockius",
+   "labels": [],
+   "years_raw": "1632–1704 CN",
+   "born": 1632,
+   "died": 1704,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Oxford, Cộng hoà Hà Lan và London",
+   "region": "Châu Âu",
+   "fields": [
+    "Triết học",
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q9353",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "*An Essay Concerning Human Understanding* (1690) bác bỏ ý niệm bẩm sinh: trí óc lúc đầu không chứa gì, mọi nội dung đến từ cảm giác và từ việc quan sát chính hoạt động của trí óc. *Two Treatises of Government* (1689) dựng chính quyền trên **sự đồng thuận của người bị cai trị**, với quyền tự nhiên về sinh mạng, tự do và tài sản, và với quyền kháng cự khi khế ước bị phá. Cùng lúc ông góp vốn vào Công ty Hoàng gia châu Phi và soạn hiến chương Carolina cho phép chủ nô toàn quyền — mâu thuẫn ấy nằm trong chính văn bản ông viết.",
+   "why": "Ứng viên cùng ô là Thomas Hobbes, người dựng khế ước xã hội trong *Leviathan* (1651) nhưng dẫn tới quyền tuyệt đối của chủ quyền, Samuel Pufendorf và Algernon Sidney. Hobbes là ca sát nhất và bị loại theo counterfactual (d): lập luận của ông được dùng để chống lại chính kết luận ông rút ra. Pufendorf và Sidney bị loại theo phạm vi (a). Locke được chọn theo độ bền (b): hai văn bản của ông đi thẳng vào tuyên ngôn Mỹ và Pháp thế kỷ sau.",
+   "sources": "*An Essay Concerning Human Understanding* (London, 1690); *Two Treatises of Government* (London, 1689); mục \"John Locke\", *Stanford Encyclopedia of Philosophy*.",
+   "inherits": [
+    {
+     "target": "CH08-CE17-04",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH08-CE17-04 · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Thomas Hobbes",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "Thomas Hobbes · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống luật tự nhiên và tranh luận hiến chế Anh thế kỷ 17",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống luật tự nhiên và tranh luận hiến chế Anh thế kỷ 17 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH08-CE18-01",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH08-CE18-01 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Tuyên ngôn Độc lập Hoa Kỳ 1776 và Tuyên ngôn Nhân quyền 1789",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Tuyên ngôn Độc lập Hoa Kỳ 1776 và Tuyên ngôn Nhân quyền 1789 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Chủ nghĩa kinh nghiệm Anh",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Chủ nghĩa kinh nghiệm Anh · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE17",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE17-06": {
+   "id": "CH08-CE17-06",
+   "name_vi": "Mulla Sadra",
+   "name_orig": "ملا صدرا, Sadr al-Din al-Shirazi",
+   "labels": [],
+   "years_raw": "k. 1571–1641 CN",
+   "born": 1571,
+   "died": 1641,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Shiraz và Qom",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Triết học"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q2010955",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Ông đảo ngược một tiền đề mà triết học Hồi giáo giữ từ Ibn Sina: không phải **bản chất** có thực còn tồn tại là thứ gán thêm, mà ngược lại — chỉ tồn tại là có thực, bản chất chỉ là các mức độ của nó. Từ đó ông rút ra **vận động bản thể**: không chỉ thuộc tính mà chính bản thể của vật cũng biến đổi liên tục, nên thế giới là một dòng chứ không phải một tập các vật đứng yên. Bốn mạch trước đó — Ibn Sina, trường phái chiếu minh, Ibn Arabi và kalam Shia — được ông gộp vào một hệ.",
+   "why": "Ứng viên cùng ô là Mir Damad, thầy ông ở Isfahan, và Shaykh Bahai, nhà toán học kiêm kiến trúc sư cùng triều Safavid. Mir Damad bị loại theo tính nguyên bản (c): ông dựng khung cho trường phái Isfahan nhưng giữ nguyên ưu tiên dành cho bản chất. Shaykh Bahai bị loại theo phạm vi (a): đóng góp của ông rải ra nhiều ngành mà không đổi mệnh đề nền nào. Mulla Sadra được chọn theo (c) và độ bền (b): hệ của ông vẫn là giáo trình ở các trường Iran hôm nay.",
+   "sources": "*al-Asfar al-arbaʿa* (Bốn hành trình); mục \"Mulla Sadra\", *Stanford Encyclopedia of Philosophy*.",
+   "inherits": [
+    {
+     "target": "CH06-CE11-01",
+     "relation": "tổng hợp",
+     "evidence": "qua trường phái",
+     "raw": "CH06-CE11-01 · tổng hợp · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Mir Damad",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Mir Damad · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Trường phái chiếu minh của Suhrawardi và thần bí luận Ibn Arabi",
+     "relation": "tổng hợp",
+     "evidence": "qua trường phái",
+     "raw": "Trường phái chiếu minh của Suhrawardi và thần bí luận Ibn Arabi · tổng hợp · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Triết học Iran thời Safavid và Qajar",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Triết học Iran thời Safavid và Qajar · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Chương trình đào tạo hawza ở Iran và Iraq",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Chương trình đào tạo hawza ở Iran và Iraq · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE17",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE17-07": {
+   "id": "CH08-CE17-07",
+   "name_vi": "Kâtip Çelebi",
+   "name_orig": "كاتب چلبی, Hacı Halife",
+   "labels": [],
+   "years_raw": "k. 1609–1657 CN",
+   "born": 1609,
+   "died": 1657,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Istanbul",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Sử học",
+    "Khám phá/Địa lý"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q390123",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Ông làm hai việc mà trước đó chưa ai trong giới học thuật Ottoman làm cùng lúc. *Kashf al-ẓunūn* liệt kê khoảng mười lăm nghìn đầu sách Arab, Ba Tư và Thổ kèm tác giả và nội dung — một bản đồ của chính kho tri thức ấy. *Cihannümâ* thì dùng **nguồn châu Âu**: ông cho dịch tập bản đồ Mercator – Hondius và ghép nó với địa lý Hồi giáo, ở thời điểm giới ulama còn coi sách phương Tây là đáng ngờ. Trong *Mīzān al-ḥaqq* ông bàn các tranh cãi tôn giáo bằng lý lẽ và chủ trương dung hoà.",
+   "why": "Ứng viên cùng ô là Evliya Çelebi, tác giả *Seyahatnâme* mười tập, và Koçi Bey, người dâng tờ trình phân tích suy thoái Ottoman. Evliya bị loại theo tính nguyên bản (c): ông ghi chép tuyệt vời nhưng không dựng phương pháp. Koçi Bey bị loại theo phạm vi (a): tờ trình nhắm vào một triều đình. Kâtip Çelebi được chọn theo (c): ông mở đường cho việc nhập tri thức châu Âu vào học giới Ottoman, và bộ thư mục của ông đến nay vẫn là công cụ tra cứu.",
+   "sources": "*Kashf al-ẓunūn ʿan asāmī al-kutub wa-l-funūn*; *Cihannümâ* (Istanbul, 1732, in sau khi ông mất); Gottfried Hagen, *Ein osmanischer Geograph bei der Arbeit* (Klaus Schwarz Verlag, 2003).",
+   "inherits": [
+    {
+     "target": "Truyền thống thư mục học Arab từ *al-Fihrist* của Ibn al-Nadim",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống thư mục học Arab từ *al-Fihrist* của Ibn al-Nadim · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Tập bản đồ Mercator – Hondius qua bản dịch tiếng Thổ",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Tập bản đồ Mercator – Hondius qua bản dịch tiếng Thổ · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Địa lý học Ottoman thế kỷ 16",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Địa lý học Ottoman thế kỷ 16 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Phong trào tiếp nhận khoa học châu Âu ở Ottoman thế kỷ 18",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phong trào tiếp nhận khoa học châu Âu ở Ottoman thế kỷ 18 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Ngành thư mục học Hồi giáo hiện đại",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Ngành thư mục học Hồi giáo hiện đại · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE17",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE17-08": {
+   "id": "CH08-CE17-08",
+   "name_vi": "Tokugawa Ieyasu",
+   "name_orig": "徳川家康",
+   "labels": [],
+   "years_raw": "1543–1616 CN",
+   "born": 1543,
+   "died": 1616,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Edo và Sunpu",
+   "region": "Đông Á",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Quân sự"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q171977",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Thắng trận Sekigahara năm 1600, ông nhận chức shogun năm 1603 rồi **nhường ngôi sau hai năm** mà vẫn nắm quyền từ phía sau — một nước đi làm cho việc kế vị thành thông lệ thay vì thành cuộc tranh đoạt. Hệ ông để lại chia đất cho khoảng hai trăm sáu mươi lãnh chúa nhưng giữ các vùng then chốt và toàn bộ quan hệ đối ngoại trong tay mạc phủ, kèm *Vũ gia chư pháp độ* (1615) ràng buộc hành vi của họ. Các quy định đóng cửa và chế độ luân phiên trú Edo thì do những người kế nhiệm hoàn chỉnh.",
+   "why": "Ứng viên cùng ô là Oda Nobunaga, người phá thế cát cứ bằng hoả khí và bị sát hại năm 1582, và Tokugawa Iemitsu, cháu ông. Toyotomi Hideyoshi có mục riêng ở nhóm CE16 nên không phải ứng viên bị loại. Nobunaga bị loại theo độ bền (b): ông mở đường thống nhất nhưng hệ của ông chết cùng ông. Iemitsu bị loại theo tính nguyên bản (c): ông siết chặt cái đã có. Ieyasu được chọn theo (b): thiết chế ông dựng giữ Nhật Bản yên hơn hai thế kỷ rưỡi.",
+   "sources": "*Vũ gia chư pháp độ* (武家諸法度, 1615); Conrad Totman, *Tokugawa Ieyasu: Shogun* (Heian International, 1983).",
+   "inherits": [
+    {
+     "target": "CH07-CE16-10",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH07-CE16-10 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Oda Nobunaga",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Oda Nobunaga · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Mô hình mạc phủ Kamakura và Muromachi",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Mô hình mạc phủ Kamakura và Muromachi · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Thời Edo và hai thế kỷ rưỡi không nội chiến ở Nhật Bản",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Thời Edo và hai thế kỷ rưỡi không nội chiến ở Nhật Bản · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Chính sách hạn chế ngoại thương kéo dài tới 1853",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Chính sách hạn chế ngoại thương kéo dài tới 1853 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE17",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE17-09": {
+   "id": "CH08-CE17-09",
+   "name_vi": "Khang Hy",
+   "name_orig": "康熙帝, Khang Hi, Ái Tân Giác La Huyền Diệp",
+   "labels": [],
+   "years_raw": "1654–1722 CN",
+   "born": 1654,
+   "died": 1722,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Bắc Kinh",
+   "region": "Đông Á",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Ngôn ngữ học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q17790",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Ông trị vì sáu mươi mốt năm và dùng khoảng thời gian ấy để biến một chính quyền chinh phục thành một triều đại được giới sĩ phu Hán chấp nhận: dẹp Tam Phiên, sáp nhập Đài Loan, ký hoà ước Nerchinsk năm 1689 với Nga — văn bản ngoại giao bình đẳng đầu tiên giữa Trung Hoa và một cường quốc châu Âu, soạn bằng tiếng Latinh. Ông đặt các tu sĩ Dòng Tên vào Khâm Thiên Giám để sửa lịch, tự học hình học và đại số, và cho soạn *Khang Hy tự điển* (1716) với bộ thủ và số nét vẫn dùng đến nay.",
+   "why": "Ứng viên cùng ô là Cố Viêm Vũ, người mở học phái khảo chứng và từ chối ra làm quan cho nhà Thanh, và Ngao Bái, phụ chính nắm quyền trước khi ông thân chính. Cố Viêm Vũ bị loại theo phạm vi (a): ảnh hưởng của ông nằm trong một giới học thuật. Ngao Bái bị loại theo độ bền (b). Khang Hy được chọn theo (a) và counterfactual (d): nếu nhà Thanh không qua được giai đoạn này thì bản đồ Đông Á — gồm cả ranh giới với Nga — đã khác hẳn.",
+   "sources": "Hoà ước Nerchinsk (1689), bản Latinh; *Khang Hy tự điển* (1716); Jonathan D. Spence, *Emperor of China: Self-Portrait of K'ang-hsi* (Alfred A. Knopf, 1974).",
+   "inherits": [
+    {
+     "target": "CH06-CE12-04",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH06-CE12-04 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Thiết chế quan liêu và khoa cử nhà Minh",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Thiết chế quan liêu và khoa cử nhà Minh · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Hệ Bát Kỳ Mãn Châu do Nỗ Nhĩ Cáp Xích lập",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hệ Bát Kỳ Mãn Châu do Nỗ Nhĩ Cáp Xích lập · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Cương vực nhà Thanh làm nền cho biên giới Trung Quốc hiện đại",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Cương vực nhà Thanh làm nền cho biên giới Trung Quốc hiện đại · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Tranh luận lễ nghi và việc hạn chế truyền giáo ở Trung Hoa",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Tranh luận lễ nghi và việc hạn chế truyền giáo ở Trung Hoa · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE17",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE17-10": {
+   "id": "CH08-CE17-10",
+   "name_vi": "Nzinga Mbande",
+   "name_orig": "Njinga Mbandi, Nzingha Mbande, Ana de Sousa",
+   "labels": [],
+   "years_raw": "k. 1582–1663 CN",
+   "born": 1582,
+   "died": 1663,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Ndongo và Matamba",
+   "region": "Châu Phi hạ Sahara",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Quân sự"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q467650",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Năm 1622 bà tới Luanda thương thuyết với toàn quyền Bồ Đào Nha và buộc được phía kia nhận Ndongo là nước có chủ quyền chứ không phải chư hầu. Khi hoà ước bị phá, bà dời sang Matamba, lập ở đó một nhà nước mới, và đánh nhau với Bồ Đào Nha suốt ba mươi năm — liên minh với Hà Lan giai đoạn 1641–1648, thu nhận nô lệ chạy trốn và chiến binh Imbangala làm lực lượng. Đóng góp bền nhất là **thiết chế**: Matamba đứng được tới thế kỷ 19 và kiểm soát chính tuyến buôn người mà Bồ Đào Nha cần.",
+   "why": "Ứng viên cùng ô là Garcia II của Kongo, người cũng liên minh với Hà Lan chống Bồ Đào Nha cùng thời, và Ngola Mbandi, anh bà, vua Ndongo trước bà. Garcia II bị loại theo độ bền (b): Kongo suy sụp sau trận Mbwila năm 1665. Ngola Mbandi bị loại theo tính nguyên bản (c): ông thua cả về quân sự lẫn ngoại giao. Nzinga được chọn theo (b) và counterfactual (d): bà là lý do việc chiếm Angola của Bồ Đào Nha chậm lại hàng chục năm.",
+   "sources": "Linda M. Heywood, *Njinga of Angola: Africa's Warrior Queen* (Harvard University Press, 2017); Giovanni Antonio Cavazzi, *Istorica descrizione de' tre regni Congo, Matamba et Angola* (Bologna, 1687) — nguồn sơ cấp do giáo sĩ châu Âu chép, dùng có dè dặt.",
+   "inherits": [
+    {
+     "target": "Thiết chế vương quyền Ndongo và tước hiệu ngola",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Thiết chế vương quyền Ndongo và tước hiệu ngola · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Tổ chức quân sự Imbangala",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Tổ chức quân sự Imbangala · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Vương quốc Matamba tồn tại tới thế kỷ 19",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Vương quốc Matamba tồn tại tới thế kỷ 19 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Biểu tượng kháng cự trong chủ nghĩa dân tộc Angola thế kỷ 20",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "Biểu tượng kháng cự trong chủ nghĩa dân tộc Angola thế kỷ 20 · kế thừa · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "group": "CE17",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE17-11": {
+   "id": "CH08-CE17-11",
+   "name_vi": "Sor Juana Inés de la Cruz",
+   "name_orig": "Juana de Asbaje y Ramírez",
+   "labels": [],
+   "years_raw": "1651–1695 CN",
+   "born": 1651,
+   "died": 1695,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Nueva España (Mexico)",
+   "region": "Châu Mỹ",
+   "fields": [
+    "Văn học",
+    "Triết học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q183074",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "*Respuesta a Sor Filotea* (1691) là một bản biện hộ cho **quyền học của phụ nữ**, lập luận bằng hai đường: một danh mục các nữ học giả từ cổ đại trở đi, và một lý lẽ rằng không thể đọc thần học nếu chưa qua logic, vật lý, số học và âm nhạc. Trường ca *Primero sueño* kể chuyện linh hồn thử nắm toàn bộ vũ trụ trong một lần nhìn, thất bại, rồi chọn đi từng bậc — một bài thơ về giới hạn của nhận thức. Năm 1693 bà bị buộc im lặng và bán đi thư viện của mình.",
+   "why": "Ứng viên cùng ô là Carlos de Sigüenza y Góngora, nhà toán học kiêm sử gia cùng thời ở Mexico, và Juan de Palafox y Mendoza, giám mục Puebla. Sigüenza bị loại theo độ bền (b): phần lớn công trình của ông thất lạc và ảnh hưởng dừng ở địa phương. Palafox bị loại theo tính nguyên bản (c). Sor Juana được chọn theo (c) và (b): *Respuesta* là một trong những văn bản sớm nhất ở Tân Thế giới lập luận có hệ thống cho quyền trí tuệ của phụ nữ, và nó vẫn được đọc.",
+   "sources": "*Respuesta de la poetisa a la muy ilustre Sor Filotea de la Cruz* (1691); *Primero sueño* (1692); Octavio Paz, *Sor Juana Inés de la Cruz o las trampas de la fe* (Fondo de Cultura Económica, 1982).",
+   "inherits": [
+    {
+     "target": "Thơ Baroque Tây Ban Nha của Góngora và Calderón",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Thơ Baroque Tây Ban Nha của Góngora và Calderón · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Triết học kinh viện dạy ở các trường dòng tại Nueva España",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Triết học kinh viện dạy ở các trường dòng tại Nueva España · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Sách của Athanasius Kircher gửi từ Roma tới Mexico",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Sách của Athanasius Kircher gửi từ Roma tới Mexico · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Văn học Mỹ Latinh và điển phạm Baroque thuộc địa",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Văn học Mỹ Latinh và điển phạm Baroque thuộc địa · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Phong trào nữ quyền Mexico thế kỷ 20 đọc lại bà",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "Phong trào nữ quyền Mexico thế kỷ 20 đọc lại bà · kế thừa · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "group": "CE17",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE17-12": {
+   "id": "CH08-CE17-12",
+   "name_vi": "Sultan Agung",
+   "name_orig": "Sultan Agung Adi Prabu Hanyakrakusuma",
+   "labels": [],
+   "years_raw": "k. 1593–1645 CN",
+   "born": 1593,
+   "died": 1645,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Mataram, Java",
+   "region": "Đông Nam Á",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q1771129",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Ông thống nhất phần lớn Java dưới Mataram và hai lần vây Batavia (1628 và 1629), cả hai lần thất bại vì đường tiếp tế quá dài — đó là lúc rõ rằng một cường quốc nội địa Java không đẩy được công ty Hà Lan ra khỏi bờ biển. Di sản bền hơn là văn hoá: năm 1633 ông ban **lịch Java**, ghép hệ tháng âm Hồi giáo lên cách đếm năm Saka đã có, nên niên hiệu không bị đứt. Triều ông đặt khuôn cho một thứ Hồi giáo Java hoà với nền Hindu – Phật cũ, và lịch ấy vẫn dùng.",
+   "why": "Ứng viên cùng ô là Iskandar Muda, quốc vương Aceh đưa vương quốc ấy lên đỉnh cao giai đoạn 1607–1636, và Amangkurat I, con trai kế vị ông. Iskandar Muda là ca sát nhất và bị loại theo độ bền (b): Aceh suy nhanh sau khi ông mất, còn lịch và khuôn văn hoá của Agung thì ở lại. Amangkurat I bị loại theo tính nguyên bản (c): ông làm hệ cha để lại yếu đi. Sultan Agung được chọn theo độ bền (b) và tính nguyên bản (c).",
+   "sources": "M. C. Ricklefs, *A History of Modern Indonesia since c. 1200* (Palgrave Macmillan, 2008); Merle C. Ricklefs, *Mystic Synthesis in Java* (EastBridge, 2006).",
+   "inherits": [
+    {
+     "target": "Truyền thống vương quyền Mataram và Majapahit ở Java",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống vương quyền Mataram và Majapahit ở Java · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Hồi giáo truyền qua các thương cảng bắc Java",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hồi giáo truyền qua các thương cảng bắc Java · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Lịch Java dùng đến nay",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Lịch Java dùng đến nay · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Các triều kế thừa Surakarta và Yogyakarta",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Các triều kế thừa Surakarta và Yogyakarta · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE17",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE18-01": {
+   "id": "CH08-CE18-01",
+   "name_vi": "Voltaire",
+   "name_orig": "François-Marie Arouet",
+   "labels": [],
+   "years_raw": "1694–1778 CN",
+   "born": 1694,
+   "died": 1778,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Paris, Luân Đôn và Ferney",
+   "region": "Châu Âu",
+   "fields": [
+    "Văn học",
+    "Triết học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q9068",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "*Lettres philosophiques* (1734) khen nước Anh — dung nạp tôn giáo, Locke, Newton, thương nhân được trọng — để chỉ trích nước Pháp mà không nói thẳng; sách bị đốt công khai. Đóng góp riêng của ông không phải một học thuyết mà là một **cách dùng dư luận**: trong vụ Jean Calas, một người Tin Lành bị xử tử năm 1762 vì một bản án dựng lên, ông viết liên tục ba năm cho tới khi bản án bị huỷ, rồi rút kinh nghiệm ấy thành *Traité sur la tolérance*. *Candide* (1759) thì chế nhạo lối biện minh rằng mọi sự đã là tốt nhất.",
+   "why": "Ứng viên cùng ô là Montesquieu, tác giả *De l'esprit des lois* (1748) với thuyết phân quyền, và Denis Diderot, chủ biên *Encyclopédie*. Montesquieu là ca sát nhất và bị loại theo phạm vi (a) rất sát: ảnh hưởng hiến chế của ông lớn nhưng tập trung vào thiết kế nhà nước. Diderot bị loại theo tính nguyên bản (c): công lao lớn của ông là tổ chức. Voltaire được chọn theo (b) và (d): ông tạo ra vai trò trí thức công can thiệp vào án, một vai trò còn nguyên.",
+   "sources": "*Lettres philosophiques* (1734); *Traité sur la tolérance* (Genève, 1763); Roger Pearson, *Voltaire Almighty* (Bloomsbury, 2005).",
+   "inherits": [
+    {
+     "target": "CH08-CE17-05",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH08-CE17-05 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH08-CE17-03",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH08-CE17-03 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Pierre Bayle và *Dictionnaire historique et critique*",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Pierre Bayle và *Dictionnaire historique et critique* · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH08-CE18-02",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH08-CE18-02 · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Cách mạng Pháp và phong trào bài giáo quyền thế kỷ 19",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Cách mạng Pháp và phong trào bài giáo quyền thế kỷ 19 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Tự do ngôn luận và cải cách tư pháp hình sự châu Âu",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Tự do ngôn luận và cải cách tư pháp hình sự châu Âu · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE18",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE18-02": {
+   "id": "CH08-CE18-02",
+   "name_vi": "Jean-Jacques Rousseau",
+   "name_orig": "Ioannes-Iacobus Rousseau",
+   "labels": [],
+   "years_raw": "1712–1778 CN",
+   "born": 1712,
+   "died": 1778,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Genève, Paris và Môtiers",
+   "region": "Châu Âu",
+   "fields": [
+    "Triết học",
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q6527",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "*Discours sur l'origine de l'inégalité* (1755) lật ngược một giả định cũ: bất bình đẳng không phải trật tự tự nhiên mà là **sản phẩm lịch sử**, bắt đầu từ lúc có người rào một mảnh đất và nói nó là của mình. *Du contrat social* (1762) đặt chủ quyền ở nơi toàn thể dân chúng, không ở người cai trị, và mở câu \"con người sinh ra tự do, mà đâu đâu cũng trong xiềng\". *Émile* dựng một lối giáo dục theo nhịp phát triển của trẻ. Chính ông gửi cả năm đứa con mình vào viện dục anh.",
+   "why": "Ứng viên cùng ô là Gabriel Bonnot de Mably, người cũng viết về bình đẳng và sở hữu, và Claude Adrien Helvétius, tác giả *De l'esprit* (1758). Voltaire có mục riêng ở nhóm CE18 nên không phải ứng viên bị loại. Mably bị loại theo độ bền (b): ông được đọc nhiều lúc sinh thời rồi mất hút. Helvétius bị loại theo tính nguyên bản (c). Rousseau được chọn theo (d): không có ông thì cả chủ quyền nhân dân lẫn cách nhìn trẻ em hiện đại đều thiếu một mắt xích.",
+   "sources": "*Discours sur l'origine et les fondements de l'inégalité parmi les hommes* (Amsterdam, 1755); *Du contrat social* (Amsterdam, 1762); Leo Damrosch, *Jean-Jacques Rousseau: Restless Genius* (Houghton Mifflin, 2005).",
+   "inherits": [
+    {
+     "target": "CH08-CE18-01",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "CH08-CE18-01 · phản bác · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH08-CE17-05",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "CH08-CE17-05 · phản bác · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống cộng hoà Genève và sách Plutarchus đọc thời trẻ",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống cộng hoà Genève và sách Plutarchus đọc thời trẻ · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "CH08-CE18-03",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH08-CE18-03 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Cách mạng Pháp, đặc biệt phái Jacobin",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Cách mạng Pháp, đặc biệt phái Jacobin · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Chủ nghĩa lãng mạn châu Âu",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Chủ nghĩa lãng mạn châu Âu · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE18",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE18-03": {
+   "id": "CH08-CE18-03",
+   "name_vi": "Immanuel Kant",
+   "name_orig": "Emmanuel Kant",
+   "labels": [],
+   "years_raw": "1724–1804 CN",
+   "born": 1724,
+   "died": 1804,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Königsberg",
+   "region": "Châu Âu",
+   "fields": [
+    "Triết học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q9312",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "*Phê phán lý tính thuần tuý* (1781) đổi chiều câu hỏi nhận thức: thay vì hỏi trí óc làm sao bám được vào thế giới, ông hỏi thế giới-như-ta-biết đã bị chính cấu trúc của trí óc định hình ra sao. Không gian, thời gian và các phạm trù là điều kiện của kinh nghiệm, nên ta biết hiện tượng chứ không biết vật tự thân. Trong đạo đức học, ông đặt **mệnh lệnh nhất quyết** và yêu cầu coi mỗi người là mục đích. Ông cũng công bố một thang bậc chủng tộc, điều các bản đọc hiện nay không bỏ qua nữa.",
+   "why": "Ứng viên cùng ô là David Hume, người mà chính Kant nói đã đánh thức ông khỏi giấc ngủ giáo điều, Christian Wolff và Moses Mendelssohn. Hume là ca sát nhất và bị loại theo (d) rất sát: phép hoài nghi của ông đặt ra bài toán, còn lời giải đổi hướng cả ngành thì là của Kant. Wolff bị loại theo tính nguyên bản (c). Mendelssohn bị loại theo phạm vi (a). Kant được chọn theo độ bền (b): triết học châu Âu sau ông chia theo cách trả lời ông.",
+   "sources": "*Kritik der reinen Vernunft* (Riga, 1781; bản sửa 1787); *Beantwortung der Frage: Was ist Aufklärung?* (1784); mục \"Immanuel Kant\", *Stanford Encyclopedia of Philosophy*.",
+   "inherits": [
+    {
+     "target": "CH08-CE18-02",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH08-CE18-02 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "CH08-CE17-03",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH08-CE17-03 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "David Hume",
+     "relation": "phản bác",
+     "evidence": "trực tiếp",
+     "raw": "David Hume · phản bác · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Chủ nghĩa duy tâm Đức và triết học lục địa thế kỷ 19",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Chủ nghĩa duy tâm Đức và triết học lục địa thế kỷ 19 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Khung nghĩa vụ luận trong luật nhân quyền hiện đại",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Khung nghĩa vụ luận trong luật nhân quyền hiện đại · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Ý tưởng liên bang hoà bình trong *Zum ewigen Frieden* (1795)",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "Ý tưởng liên bang hoà bình trong *Zum ewigen Frieden* (1795) · kế thừa · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "group": "CE18",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE18-04": {
+   "id": "CH08-CE18-04",
+   "name_vi": "Adam Smith",
+   "name_orig": "Adamus Smith",
+   "labels": [],
+   "years_raw": "1723–1790 CN",
+   "born": 1723,
+   "died": 1790,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Glasgow và Edinburgh",
+   "region": "Châu Âu",
+   "fields": [
+    "Kinh tế",
+    "Triết học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q9381",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "*The Wealth of Nations* (1776) mở bằng xưởng kim găm: chia một việc thành mười tám thao tác làm năng suất tăng gấp hàng trăm lần. Từ đó ông lập luận rằng trao đổi tự nguyện có thể điều phối một nền kinh tế mà không cần ai chỉ huy. Nhưng cuốn sách cũng là một bản công kích: nhắm vào chủ nghĩa trọng thương, vào các công ty độc quyền đặc hứa, và vào việc thương nhân hễ gặp nhau là bàn cách nâng giá. *The Theory of Moral Sentiments* (1759) đặt nền đạo đức ở năng lực đặt mình vào chỗ người khác.",
+   "why": "Ứng viên cùng ô là François Quesnay, người lập bảng kinh tế trọng nông, và Anne-Robert-Jacques Turgot, bộ trưởng tài chính Pháp kiêm lý thuyết gia. Quesnay bị loại theo phạm vi (a): hệ của ông coi chỉ nông nghiệp sinh ra giá trị, nên sai chỗ then chốt. Turgot bị loại theo độ bền (b): cải cách của ông bị đảo ngược sau hai năm. Smith được chọn theo (a) và (b): ông dựng khung mà kinh tế học sau đó tranh luận bên trong.",
+   "sources": "*An Inquiry into the Nature and Causes of the Wealth of Nations* (London, 1776); *The Theory of Moral Sentiments* (London, 1759); Nicholas Phillipson, *Adam Smith: An Enlightened Life* (Yale University Press, 2010).",
+   "inherits": [
+    {
+     "target": "David Hume",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "David Hume · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Francis Hutcheson",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Francis Hutcheson · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "François Quesnay",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "François Quesnay · kế thừa · trực tiếp",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Kinh tế học chính trị cổ điển từ Ricardo tới Mill",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Kinh tế học chính trị cổ điển từ Ricardo tới Mill · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Lập luận ủng hộ tự do thương mại trong chính sách Anh thế kỷ 19",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Lập luận ủng hộ tự do thương mại trong chính sách Anh thế kỷ 19 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE18",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE18-05": {
+   "id": "CH08-CE18-05",
+   "name_vi": "Antoine Lavoisier",
+   "name_orig": "Antoine-Laurent de Lavoisier",
+   "labels": [],
+   "years_raw": "1743–1794 CN",
+   "born": 1743,
+   "died": 1794,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Paris",
+   "region": "Châu Âu",
+   "fields": [
+    "Khoa học tự nhiên"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q39607",
+   "big_questions": [
+    "Thực tại"
+   ],
+   "ideas": "Ông giết thuyết nhiên tố bằng **cái cân**: đốt kim loại trong bình kín rồi cân cả bình, và thấy khối lượng tổng không đổi còn kim loại thì nặng thêm đúng phần khí mất đi. Từ đó: cháy là kết hợp với dưỡng khí, hô hấp cũng vậy, và vật chất không sinh không mất trong phản ứng. Năm 1787 ông cùng ba đồng nghiệp đặt lại toàn bộ tên gọi hoá chất theo thành phần, bỏ lối gọi theo truyền thống giả kim. Marie-Anne Paulze Lavoisier dịch, vẽ hình và ghi chép cho phần lớn công trình ấy.",
+   "why": "Ứng viên cùng ô là Joseph Priestley và Carl Wilhelm Scheele, hai người tách được dưỡng khí trước ông hoặc độc lập với ông, và Henry Cavendish. Priestley bị loại theo tính nguyên bản (c): ông tìm ra chất nhưng giữ khung nhiên tố đến cuối đời. Scheele bị loại theo phạm vi (a): ông công bố muộn. Cavendish cũng vậy. Lavoisier được chọn theo (d): cái quyết định không phải việc tách khí mà là việc **bỏ cả hệ khái niệm cũ** và lập hệ tên gọi mới.",
+   "sources": "*Méthode de nomenclature chimique* (Paris, 1787); *Traité élémentaire de chimie* (Paris, 1789); Arthur Donovan, *Antoine Lavoisier: Science, Administration and Revolution* (Cambridge University Press, 1993).",
+   "inherits": [
+    {
+     "target": "Joseph Priestley",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Joseph Priestley · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Thuyết nhiên tố của Georg Ernst Stahl",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "Thuyết nhiên tố của Georg Ernst Stahl · phản bác · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống hoá học định lượng thế kỷ 18",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống hoá học định lượng thế kỷ 18 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Hoá học định lượng và danh pháp hoá học hiện đại",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hoá học định lượng và danh pháp hoá học hiện đại · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Thuyết nguyên tử của Dalton",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Thuyết nguyên tử của Dalton · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE18",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE18-06": {
+   "id": "CH08-CE18-06",
+   "name_vi": "Đới Chấn",
+   "name_orig": "戴震 Dài Zhèn, Đông Nguyên",
+   "labels": [],
+   "years_raw": "1724–1777 CN",
+   "born": 1724,
+   "died": 1777,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Huy Châu và Bắc Kinh",
+   "region": "Đông Á",
+   "fields": [
+    "Triết học",
+    "Ngôn ngữ học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q714369",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Ông đưa phép **khảo chứng** tới chỗ nó trở thành một lập trường triết học, không chỉ một kỹ thuật đọc sách: muốn biết kinh điển nói gì thì phải qua âm vận học, huấn hỗ và toán pháp đời Hán, chứ không qua chú giải đời Tống. Dùng chính phương pháp ấy, *Mạnh Tử tự nghĩa sớ chứng* bác thuyết lý – khí của Tống Nho và cái hệ quả đạo đức của nó: khi dục vọng bị coi là trái lý, người ta **lấy lý mà giết người**. Ông tham gia biên *Tứ khố toàn thư*.",
+   "why": "Ứng viên cùng ô là Huệ Đống, người dựng phái Ngô của khảo chứng học, và Chương Học Thành, người lập lý thuyết về sử học. Chu Hy có mục riêng ở nhóm CE12 nên không phải ứng viên bị loại. Huệ Đống bị loại theo tính nguyên bản (c): ông đòi quay về chú giải đời Hán nhưng không rút ra mệnh đề triết học nào. Chương Học Thành bị loại theo phạm vi (a). Đới Chấn được chọn theo (c): ông biến một phương pháp ngữ văn thành lập luận đạo đức.",
+   "sources": "*Mạnh Tử tự nghĩa sớ chứng* (孟子字義疏證); Benjamin A. Elman, *From Philosophy to Philology* (Harvard University Asia Center, 1984).",
+   "inherits": [
+    {
+     "target": "CH06-CE12-04",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "CH06-CE12-04 · phản bác · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Huệ Đống",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Huệ Đống · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Học phái khảo chứng do Cố Viêm Vũ mở",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Học phái khảo chứng do Cố Viêm Vũ mở · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Khảo chứng học đời Thanh và ngữ văn học Trung Hoa hiện đại",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Khảo chứng học đời Thanh và ngữ văn học Trung Hoa hiện đại · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Phê phán Tống Nho trong tư tưởng Trung Quốc cuối thế kỷ 19",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phê phán Tống Nho trong tư tưởng Trung Quốc cuối thế kỷ 19 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE18",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE18-07": {
+   "id": "CH08-CE18-07",
+   "name_vi": "Sugita Genpaku",
+   "name_orig": "杉田玄白",
+   "labels": [],
+   "years_raw": "1733–1817 CN",
+   "born": 1733,
+   "died": 1817,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Edo",
+   "region": "Đông Á",
+   "fields": [
+    "Y học",
+    "Ngôn ngữ học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q1385286",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Năm 1771 ông dự một cuộc mổ xác tử tù ở Kotsukappara, tay cầm cuốn giải phẫu Hà Lan mua được, và đối chiếu từng cơ quan. Kết quả làm ông choáng: hình vẽ Hà Lan khớp với xác, còn sách y Trung Hoa mà giới ông học suốt đời thì không. Cùng Maeno Ryōtaku và vài người nữa, ông mất ba năm rưỡi dịch cuốn ấy ra *Giải thể tân thư* (1774) gần như không có từ điển. Điều ông làm không phải nhập một quyển sách, mà là **đặt quan sát lên trên thẩm quyền văn bản** trước mặt giới y học Nhật.",
+   "why": "Ứng viên cùng ô là Maeno Ryōtaku, người giỏi tiếng Hà Lan hơn hẳn và gánh phần dịch nặng nhất, Yamawaki Tōyō, người tổ chức cuộc mổ xác có ghi chép đầu tiên năm 1754, và Ōtsuki Gentaku. Maeno bị loại theo phạm vi (a): ông từ chối đứng tên và không truyền bá. Yamawaki bị loại theo counterfactual (d): ông quan sát mà không đổi khung. Ōtsuki là học trò. Sugita được chọn theo (b): ông biến một lần dịch thành một ngành.",
+   "sources": "*Giải thể tân thư* (解体新書, Edo, 1774); *Lan học sự thuỷ* (蘭学事始, 1815); Grant K. Goodman, *Japan and the Dutch 1600–1853* (Routledge, 2000).",
+   "inherits": [
+    {
+     "target": "Maeno Ryōtaku",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Maeno Ryōtaku · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "*Ontleedkundige Tafelen*, bản Hà Lan dịch từ Kulmus",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "*Ontleedkundige Tafelen*, bản Hà Lan dịch từ Kulmus · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Chính sách nới lỏng nhập sách Hà Lan từ thời Tokugawa Yoshimune",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Chính sách nới lỏng nhập sách Hà Lan từ thời Tokugawa Yoshimune · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Lan học và việc tiếp nhận khoa học phương Tây ở Nhật trước Minh Trị",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Lan học và việc tiếp nhận khoa học phương Tây ở Nhật trước Minh Trị · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Y học hiện đại Nhật Bản",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Y học hiện đại Nhật Bản · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE18",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE18-08": {
+   "id": "CH08-CE18-08",
+   "name_vi": "Shah Waliullah Dehlawi",
+   "name_orig": "شاه ولی اللہ دہلوی, Qutb al-Din Ahmad",
+   "labels": [],
+   "years_raw": "1703–1762 CN",
+   "born": 1703,
+   "died": 1762,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Delhi",
+   "region": "Nam Á",
+   "fields": [
+    "Tôn giáo/Tâm linh",
+    "Triết học"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q392835",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "Ông dịch Kinh Qur'an sang tiếng Ba Tư — việc mà giới ulama Delhi lúc ấy coi là xúc phạm — để người đọc không phải qua trung gian. Trong *Hujjat Allāh al-bāligha* ông lập luận rằng các quy định của sharia đều có **lý do xã hội tìm ra được**, chứ không phải mệnh lệnh thuần tuý, và từ đó thử hoà giải bốn học phái luật cũng như hai dòng thần bí đối chọi. Ông cũng phân tích suy thoái Mughal bằng nguyên nhân thuế khoá và ruộng đất. Việc ông mời Ahmad Shah Durrani vào Ấn Độ thì bị tranh cãi tới nay.",
+   "why": "Ứng viên cùng ô là Mirza Mazhar Jan-i-Janan, nhà thần bí Delhi cùng thời có thái độ hoà hoãn với Ấn giáo, và Khwaja Mir Dard. Muhammad ibn Abd al-Wahhab có mục riêng ở nhóm CE18 nên không phải ứng viên bị loại. Mirza Mazhar bị loại theo phạm vi (a): ảnh hưởng của ông nằm trong một dòng tu. Mir Dard bị loại theo tính nguyên bản (c). Shah Waliullah được chọn theo độ bền (b): gần như mọi phong trào Hồi giáo Nam Á sau ông đều nhận ông làm gốc.",
+   "sources": "*Ḥujjat Allāh al-bāligha*; Marcia K. Hermansen, *The Conclusive Argument from God* (Brill, 1996) — bản dịch kèm dẫn luận.",
+   "inherits": [
+    {
+     "target": "Ibn Taymiyya và truyền thống Hanbali",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Ibn Taymiyya và truyền thống Hanbali · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Ahmad Sirhindi và dòng phản ứng chống hoà đồng tôn giáo thời Akbar",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Ahmad Sirhindi và dòng phản ứng chống hoà đồng tôn giáo thời Akbar · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Học giới hadith ở Hijaz nơi ông du học đầu thập niên 1730",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Học giới hadith ở Hijaz nơi ông du học đầu thập niên 1730 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Phong trào Deoband và Ahl-i Hadith ở Nam Á",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phong trào Deoband và Ahl-i Hadith ở Nam Á · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Tư tưởng cải cách Hồi giáo Ấn Độ thế kỷ 19–20",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Tư tưởng cải cách Hồi giáo Ấn Độ thế kỷ 19–20 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE18",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE18-09": {
+   "id": "CH08-CE18-09",
+   "name_vi": "Muhammad ibn Abd al-Wahhab",
+   "name_orig": "محمد بن عبد الوهاب",
+   "labels": [],
+   "years_raw": "k. 1703–1792 CN",
+   "born": 1703,
+   "died": 1792,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Najd, bán đảo Arabia",
+   "region": "Trung Đông/Bắc Phi",
+   "fields": [
+    "Tôn giáo/Tâm linh"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q69351",
+   "big_questions": [
+    "Con người"
+   ],
+   "ideas": "*Kitāb al-tawḥīd* rút toàn bộ đạo xuống một mệnh đề: chỉ thờ một Thượng đế, và mọi thứ chen vào giữa người cầu nguyện với Thượng đế — cầu khấn ở mộ thánh, xin người đã khuất chuyển lời — đều là đa thần. Ông áp phán quyết ấy không chỉ lên người ngoài đạo mà lên chính cộng đồng Hồi giáo đương thời, điều làm ông bị đuổi khỏi nhiều nơi. Năm 1744 ông lập giao ước với Muhammad ibn Saud ở Dirʿiyya: ông lo giáo lý, nhà Saud lo quân sự và cai trị.",
+   "why": "Ứng viên cùng ô là Muhammad ibn Saud, người cung cấp lực lượng cho giao ước năm 1744, và Muhammad ibn Ismail al-Sanani, học giả Yemen cùng thời có lập trường gần. Shah Waliullah có mục riêng ở nhóm CE18 nên không phải ứng viên bị loại. Ibn Saud bị loại theo tính nguyên bản (c): ông góp quyền lực, không góp học thuyết. Al-Sanani bị loại theo độ bền (b). Ibn Abd al-Wahhab được chọn theo (b): học thuyết của ông vẫn là tín điều nhà nước của Saudi Arabia.",
+   "sources": "*Kitāb al-tawḥīd*; Michael Crawford, *Ibn ʿAbd al-Wahhab* (Oneworld, 2014).",
+   "inherits": [
+    {
+     "target": "Ibn Taymiyya và trường phái Hanbali",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Ibn Taymiyya và trường phái Hanbali · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Học giới hadith ở Medina và Basra nơi ông du học",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Học giới hadith ở Medina và Basra nơi ông du học · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Nhà nước Saudi và tín điều chính thức của Saudi Arabia",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Nhà nước Saudi và tín điều chính thức của Saudi Arabia · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Các phong trào Salafi thế kỷ 20",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Các phong trào Salafi thế kỷ 20 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE18",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE18-10": {
+   "id": "CH08-CE18-10",
+   "name_vi": "Túpac Amaru II",
+   "name_orig": "José Gabriel Condorcanqui",
+   "labels": [],
+   "years_raw": "1738–1781 CN",
+   "born": 1738,
+   "died": 1781,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Tinta và Cusco, Phó vương quốc Peru",
+   "region": "Châu Mỹ",
+   "fields": [
+    "Chính trị/Nhà nước",
+    "Quân sự"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q315937",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Trước khi cầm vũ khí ông đi kiện nhiều năm, yêu cầu bãi chế độ *mita* bắt người bản địa lao dịch ở mỏ, và thua ở mọi cấp toà. Khởi nghĩa ông phát động năm 1780 lan khắp nam Andes và là cuộc nổi dậy chống thực dân lớn nhất châu Mỹ trước thời độc lập. Trong sắc lệnh tháng 11 năm ấy ông tuyên bố **xoá chế độ nô lệ** trên vùng mình kiểm soát — một trong những văn bản bãi nô sớm nhất ở Tây bán cầu. Sau khi ông bị hành hình, người Tây Ban Nha cấm cả trang phục lẫn sách vở Inca.",
+   "why": "Ứng viên cùng ô là Micaela Bastidas, vợ ông và là người chỉ huy thực tế phần hậu cần cùng một cánh quân, và Túpac Katari, người vây La Paz năm 1781. Micaela Bastidas là ca sát nhất và bị loại theo phạm vi (a), không theo năng lực: vai trò bà lớn nhưng gắn liền với cùng một cuộc khởi nghĩa. Túpac Katari bị loại theo phạm vi (a). Túpac Amaru II được chọn theo độ bền (b): tên ông thành biểu tượng của phong trào bản địa Andes suốt hai thế kỷ sau.",
+   "sources": "Charles F. Walker, *The Tupac Amaru Rebellion* (Harvard University Press, 2014); Sergio Serulnikov, *Revolution in the Andes* (Duke University Press, 2013).",
+   "inherits": [
+    {
+     "target": "CH07-CE16-12",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH07-CE16-12 · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Ký ức về Túpac Amaru I bị xử tử năm 1572",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Ký ức về Túpac Amaru I bị xử tử năm 1572 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống kiện tụng của tầng lớp kuraka trước toà thuộc địa",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống kiện tụng của tầng lớp kuraka trước toà thuộc địa · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Chủ nghĩa dân tộc bản địa Andes thế kỷ 20",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Chủ nghĩa dân tộc bản địa Andes thế kỷ 20 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Các phong trào độc lập Mỹ Latinh đầu thế kỷ 19",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "Các phong trào độc lập Mỹ Latinh đầu thế kỷ 19 · kế thừa · suy đoán học giả",
+     "undetermined": false
+    }
+   ],
+   "group": "CE18",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE18-11": {
+   "id": "CH08-CE18-11",
+   "name_vi": "Olaudah Equiano",
+   "name_orig": "Gustavus Vassa, أولوداه اكيوانو",
+   "labels": [],
+   "years_raw": "k. 1745–1797 CN",
+   "born": 1745,
+   "died": 1797,
+   "approx": true,
+   "alive": false,
+   "years_ok": true,
+   "place": "Caribe, Bắc Mỹ và Luân Đôn",
+   "region": "Châu Phi hạ Sahara",
+   "fields": [
+    "Văn học",
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Trung bình",
+   "wikidata": "Q379887",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "*The Interesting Narrative* (1789) là tự truyện của một người từng bị bán làm nô lệ, tự mua lại tự do năm 1766 rồi thành nhà vận động ở Anh — và là cuốn sách bán chạy, in chín lần lúc ông còn sống. Giá trị của nó nằm ở chỗ nó đưa một **tiếng nói ngôi thứ nhất** vào cuộc tranh luận mà trước đó chỉ có người da trắng nói. Ông vận động trong nhóm Sons of Africa, đưa vụ tàu Zong ra công luận. Nơi sinh của ông đang tranh cãi: hồ sơ rửa tội và hải quân ghi South Carolina, sách ghi vùng Igbo.",
+   "why": "Ứng viên cùng ô là Ottobah Cugoano, tác giả *Thoughts and Sentiments on the Evil of Slavery* (1787) đòi bãi nô ngay lập tức và triệt để hơn ông, và Ignatius Sancho. Cugoano là ca sát nhất và bị loại theo phạm vi (a): sách ông bán ít hơn hẳn và không được tái bản. Sancho bị loại theo tính nguyên bản (c). Equiano được chọn theo (a) và (d): chính độ phủ của cuốn sách làm nó thành bằng chứng mà phe bãi nô dùng được trước quốc hội.",
+   "sources": "*The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, the African* (London, 1789); Vincent Carretta, *Equiano, the African: Biography of a Self-Made Man* (University of Georgia Press, 2005) — nguồn nêu bằng chứng về nơi sinh ngược với sách.",
+   "inherits": [
+    {
+     "target": "Ottobah Cugoano",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "Ottobah Cugoano · kế thừa · trực tiếp",
+     "undetermined": false
+    },
+    {
+     "target": "Truyền thống tự truyện cải đạo Tin Lành ở Anh",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Truyền thống tự truyện cải đạo Tin Lành ở Anh · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Phong trào bãi nô Quaker và Anh quốc thập niên 1780",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Phong trào bãi nô Quaker và Anh quốc thập niên 1780 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Đạo luật cấm buôn nô lệ của Anh năm 1807",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Đạo luật cấm buôn nô lệ của Anh năm 1807 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Thể loại tự thuật của người từng bị nô lệ ở Mỹ thế kỷ 19",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Thể loại tự thuật của người từng bị nô lệ ở Mỹ thế kỷ 19 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE18",
+   "chapter": 8,
+   "file": "ch08.md",
+   "image": null
+  },
+  "CH08-CE18-12": {
+   "id": "CH08-CE18-12",
+   "name_vi": "Benjamin Franklin",
+   "name_orig": "Richard Saunders, Poor Richard",
+   "labels": [],
+   "years_raw": "1706–1790 CN",
+   "born": 1706,
+   "died": 1790,
+   "approx": false,
+   "alive": false,
+   "years_ok": true,
+   "place": "Boston, Philadelphia, Luân Đôn và Paris",
+   "region": "Châu Mỹ",
+   "fields": [
+    "Khoa học tự nhiên",
+    "Chính trị/Nhà nước"
+   ],
+   "confidence": "Cao",
+   "wikidata": "Q34969",
+   "big_questions": [
+    "Không áp dụng"
+   ],
+   "ideas": "Ông đề xuất rằng điện là **một chất duy nhất**: vật không sinh ra điện mà chỉ thừa hoặc thiếu, nên tổng điện tích được bảo toàn — và chính ông đặt hai từ dương với âm. Thí nghiệm hộp canh và thả diều năm 1752 chứng minh sét là hiện tượng điện, từ đó ra cột thu lôi, một trong những lần đầu lý thuyết mới cho ngay ra thiết bị an toàn. Ông cũng lập thư viện cho mượn, đội cứu hoả và bệnh viện ở Philadelphia, rồi thương thuyết được liên minh Pháp năm 1778. Ông từng giữ người nô lệ, về cuối đời chủ trì một hội bãi nô.",
+   "why": "Ứng viên cùng ô là Thomas Jefferson, người soạn Tuyên ngôn Độc lập, Thomas Paine, tác giả *Common Sense* (1776), và David Rittenhouse. Jefferson bị loại theo tính nguyên bản (c): văn bản ông soạn lấy lập luận từ Locke. Paine bị loại theo phạm vi (a): tác động của ông nằm trong tuyên truyền chính trị. Rittenhouse bị loại theo phạm vi (a). Franklin được chọn theo (a): hiếm người cùng lúc đóng góp một lý thuyết vật lý dùng được và một liên minh quyết định cuộc chiến.",
+   "sources": "*Experiments and Observations on Electricity* (London, 1751); Edmund S. Morgan, *Benjamin Franklin* (Yale University Press, 2002).",
+   "inherits": [
+    {
+     "target": "CH08-CE17-05",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH08-CE17-05 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Thí nghiệm điện của Stephen Gray và Charles Du Fay",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Thí nghiệm điện của Stephen Gray và Charles Du Fay · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Hội Hoàng gia Luân Đôn, nơi công bố thư từ về điện của ông",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hội Hoàng gia Luân Đôn, nơi công bố thư từ về điện của ông · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "influences": [
+    {
+     "target": "Nghiên cứu điện học châu Âu cuối thế kỷ 18",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Nghiên cứu điện học châu Âu cuối thế kỷ 18 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "Hiến pháp Hoa Kỳ 1787",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "Hiến pháp Hoa Kỳ 1787 · kế thừa · qua trường phái",
+     "undetermined": false
+    }
+   ],
+   "group": "CE18",
+   "chapter": 8,
+   "file": "ch08.md",
    "image": null
   },
   "CH90-BCE03_01-01": {
