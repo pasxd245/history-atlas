@@ -29,6 +29,8 @@ output đang nằm trong git; nâng nó là một quyết định riêng, phải
 
 Không cần Node, không cần server. Mở `index.html` bằng `file://` là chạy.
 
+**Một cảnh báo lint đáng nói riêng: `lặp liền kề một cụm N từ`.** Nó bắt loại hỏng sinh ra khi sửa văn bản bằng phép thay chuỗi: thay một **mảnh** của trường thay vì thay cả trường, khiến bản cũ và bản mới nằm cạnh nhau. Trần chữ không bắt được vì bản hỏng thường vẫn dưới trần — `CH05-CE08-09` từng là 120/130 với "Về nội dung, Về nội dung," mà lint báo sạch. Phép quét chạy trên `Giới thiệu chapter`, `Ghi chú biên tập`, `Bối cảnh`, `ideas`, `why` và `Nguồn`, ngưỡng **2 từ** (ngưỡng 1 từ vướng láy đôi tiếng Việt như "song song"). Cảnh báo này gần như luôn là lỗi thật — đọc lại cả trường, đừng chỉ xoá phần lặp.
+
 ## Quy tắc nội dung
 
 Template và từ vựng cố định nằm ở `prompts/atlas-prompt.md` (§5) và `atlaslib/common.py`. Lint chặn build nếu sai, nên cứ chạy `build.py --offline` là biết.

@@ -13,6 +13,27 @@ def words(s: str) -> int:
     return len([w for w in s.split() if w])
 
 
+# Thay một mảnh thay vì thay cả trường thì sinh cụm lặp liền kề, và trần chữ không bắt được
+# vì bản hỏng vẫn dưới trần (CH05-CE08-09 từng là 120/130). Ngưỡng 2 từ: trên toàn content/
+# hiện tại nó không báo nhầm ca nào, còn ngưỡng 1 từ vướng láy đôi ("song song").
+REPEAT_MIN, REPEAT_MAX = 2, 12
+
+
+def repeats(s: str) -> list[str]:
+    toks, out, covered = s.split(), [], set()
+    for k in range(REPEAT_MAX, REPEAT_MIN - 1, -1):
+        for i in range(len(toks) - 2 * k + 1):
+            if i not in covered and toks[i:i + k] == toks[i + k:i + 2 * k]:
+                out.append(" ".join(toks[i:i + k]))
+                covered.update(range(i, i + 2 * k))
+    return out
+
+
+def check_repeats(rep: Report, where: str, label: str, s: str) -> None:
+    for frag in repeats(s or ""):
+        rep.warn(where, f"'{label}' lặp liền kề một cụm {len(frag.split())} từ: {frag[:60]}")
+
+
 class Report:
     def __init__(self):
         self.items: list[tuple[str, str, str]] = []
@@ -40,9 +61,11 @@ def lint_chapter(ch: dict, all_persons: dict[str, dict], images: dict | None, re
         rep.error(w, "thiếu 'Giới thiệu chapter'")
     elif words(ch["intro"]) > 130:
         rep.warn(w, f"'Giới thiệu chapter' {words(ch['intro'])} chữ (≤ 100)")
+    check_repeats(rep, w, "Giới thiệu chapter", ch["intro"])
     if not ch["editorial"]:
         rep.error(w, "thiếu '## Ghi chú biên tập'")
     else:
+        check_repeats(rep, w, "Ghi chú biên tập", "\n".join(ch["editorial"]))
         txt = C.norm_name(" ".join(ch["editorial"]))
         if "viet" not in txt and "vietnam" not in txt:
             rep.warn(w, "Ghi chú biên tập không nhắc ứng viên Việt Nam (D5 yêu cầu nêu, kể cả khi không có)")
@@ -59,6 +82,7 @@ def lint_chapter(ch: dict, all_persons: dict[str, dict], images: dict | None, re
             rep.warn(gw, "thiếu 'Bối cảnh'")
         elif words(g["context"]) > 80:
             rep.warn(gw, f"'Bối cảnh' {words(g['context'])} chữ (≤ 60)")
+        check_repeats(rep, gw, "Bối cảnh", g["context"])
         if len(g["persons"]) > C.PROJECT["max_per_group"]:
             rep.error(gw, f"{len(g['persons'])} nhân vật (> {C.PROJECT['max_per_group']})")
         if not g["persons"]:
@@ -132,8 +156,11 @@ def lint_chapter(ch: dict, all_persons: dict[str, dict], images: dict | None, re
                     n, t = words(p[k]), WORD_TARGET[k]
                     if abs(n - t) > 0.3 * t:
                         rep.warn(pw, f"'{k}' {n} chữ, lệch > 30% so với ~{t}")
+                    check_repeats(rep, pw, k, p[k])
             if not p["sources"]:
                 rep.error(pw, "thiếu 'Nguồn'")
+            else:
+                check_repeats(rep, pw, "Nguồn", p["sources"])
             for kind in ("inherits", "influences"):
                 links = p[kind]
                 if not links:
