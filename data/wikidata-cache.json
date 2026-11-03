@@ -17868,5 +17868,508 @@
    "enwiki": "Adam Smith"
   },
   "fetched": 1793718889
+ },
+ "wd:Q1035": {
+  "id": "Q1035",
+  "labels": {
+   "en": "Charles Darwin"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1809,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1882,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1882,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Charles Darwin portrait.jpg",
+  "sitelinks": {
+   "viwiki": "Charles Darwin",
+   "enwiki": "Charles Darwin"
+  },
+  "fetched": 1793719785
+ },
+ "wd:Q1500": {
+  "id": "Q1500",
+  "labels": {
+   "en": "José Rizal",
+   "vi": "José Rizal"
+  },
+  "aliases": {
+   "en": [
+    "Dimasalang",
+    "Laong Laan",
+    "José P. Rizal",
+    "José Protasio Rizal"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1861,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1896,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Jose Rizal full.jpg",
+  "sitelinks": {
+   "viwiki": "José Rizal",
+   "enwiki": "José Rizal"
+  },
+  "fetched": 1793719785
+ },
+ "wd:Q182781": {
+  "id": "Q182781",
+  "labels": {
+   "vi": "Muhammad Ali của Ai Cập",
+   "en": "Muhammad Ali"
+  },
+  "aliases": {
+   "vi": [
+    "Muhammad Ali Pasha",
+    "Kavali Mehmet Ali Pasha",
+    "Kavali Mehmet Pasha",
+    "Mehemet Ali"
+   ],
+   "en": [
+    "Mohammed ali",
+    "Mohamed ali",
+    "mohamed ali",
+    "Mehemet Ali"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1769,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1769,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 1770,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1849,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1849,
+    "precision": 9,
+    "rank": "normal"
+   },
+   {
+    "year": 1849,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "ModernEgypt, Muhammad Ali by Auguste Couder, BAP 17996.jpg",
+  "sitelinks": {
+   "viwiki": "Muhammad Ali của Ai Cập",
+   "enwiki": "Muhammad Ali of Egypt"
+  },
+  "fetched": 1793719785
+ },
+ "wd:Q244748": {
+  "id": "Q244748",
+  "labels": {
+   "en": "Menilek II",
+   "vi": "Menelik II"
+  },
+  "aliases": {
+   "en": [
+    "Menelek II of Ethiopia",
+    "Sahle Mariam",
+    "Sahle Maryam",
+    "Menelik II",
+    "Aba Dagnew"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1844,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1913,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Menelik II in coronation garb, Emperor of Ethiopia.jpg",
+  "sitelinks": {
+   "viwiki": "Menelik II",
+   "enwiki": "Menelik II"
+  },
+  "fetched": 1793719785
+ },
+ "wd:Q304890": {
+  "id": "Q304890",
+  "labels": {
+   "en": "Abay Kunanbaiuly"
+  },
+  "aliases": {
+   "en": [
+    "Abai Kunanbaev",
+    "Abai Kunanbaiuli",
+    "Abaj Kunanbajev",
+    "Abay Kunanbayev",
+    "Abay Kunanbaev",
+    "Abay Qunanbayuli",
+    "Abai Kunanbayev",
+    "Abay Ibrahim Qunanbayuli"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1845,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 1845,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1904,
+    "precision": 11,
+    "rank": "normal"
+   },
+   {
+    "year": 1904,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Abai Kunanbaev.jpg",
+  "sitelinks": {
+   "enwiki": "Abai Qunanbaiuly"
+  },
+  "fetched": 1793719785
+ },
+ "wd:Q335269": {
+  "id": "Q335269",
+  "labels": {
+   "en": "Ram Mohan Roy"
+  },
+  "aliases": {
+   "en": [
+    "Rammohun Roy",
+    "Rammohan Roy"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1772,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1833,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Portrait of Raja Ram Mohun Roy, 1833.jpg",
+  "sitelinks": {
+   "enwiki": "Raja Ram Mohan Roy"
+  },
+  "fetched": 1793719785
+ },
+ "wd:Q355447": {
+  "id": "Q355447",
+  "labels": {
+   "en": "Fukuzawa Yukichi",
+   "vi": "Fukuzawa Yukichi"
+  },
+  "aliases": {
+   "vi": [
+    "Phúc Trạch Dụ Cát",
+    "Phúc-trạch Dụ-cát",
+    "Phước trạch dụ kiết",
+    "Yukichi Fukuzawa"
+   ],
+   "en": [
+    "Yukichi Fukuzawa"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1835,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1901,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Fukuzawa Yukichi 1891.jpg",
+  "sitelinks": {
+   "viwiki": "Fukuzawa Yukichi",
+   "enwiki": "Fukuzawa Yukichi"
+  },
+  "fetched": 1793719785
+ },
+ "wd:Q529": {
+  "id": "Q529",
+  "labels": {
+   "en": "Louis Pasteur",
+   "vi": "Louis Pasteur"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1822,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1895,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Louis Pasteur (1822 - 1895), microbiologist and chemist Wellcome V0026980.jpg",
+  "sitelinks": {
+   "viwiki": "Louis Pasteur",
+   "enwiki": "Louis Pasteur"
+  },
+  "fetched": 1793719785
+ },
+ "wd:Q7691036": {
+  "id": "Q7691036",
+  "labels": {
+   "en": "Te Whiti o Rongomai"
+  },
+  "aliases": {
+   "en": [
+    "Te Whiti o Rongomai III",
+    "Te Whiti"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1830,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1907,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Whiti.jpg",
+  "sitelinks": {
+   "enwiki": "Te Whiti o Rongomai"
+  },
+  "fetched": 1793719785
+ },
+ "wd:Q8605": {
+  "id": "Q8605",
+  "labels": {
+   "en": "Simón Bolívar",
+   "vi": "Simón Bolívar"
+  },
+  "aliases": {
+   "en": [
+    "Simón José Antonio de la Santísima Trinidad Bolívar Palacios Ponte y Blanco",
+    "Bolívar",
+    "Simon Bolivar"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1783,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1830,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1830,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Simón Bolívar by Acevedo Bernal, 1922.jpg",
+  "sitelinks": {
+   "viwiki": "Simón Bolívar",
+   "enwiki": "Simón Bolívar"
+  },
+  "fetched": 1793719785
+ },
+ "wd:Q8750": {
+  "id": "Q8750",
+  "labels": {
+   "en": "Michael Faraday",
+   "vi": "Michael Faraday"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1791,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1791,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1867,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1867,
+    "precision": 11,
+    "rank": "deprecated"
+   },
+   {
+    "year": 1867,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P18": "M Faraday Th Phillips oil 1842.jpg",
+  "sitelinks": {
+   "viwiki": "Michael Faraday",
+   "enwiki": "Michael Faraday"
+  },
+  "fetched": 1793719785
+ },
+ "wd:Q9061": {
+  "id": "Q9061",
+  "labels": {
+   "en": "Karl Marx"
+  },
+  "aliases": {
+   "vi": [
+    "Mác",
+    "Các Mác",
+    "C. Mác",
+    "Mã Khắc Tư"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1818,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 1883,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Karl Marx 001 restored.jpg",
+  "sitelinks": {
+   "viwiki": "Karl Marx",
+   "enwiki": "Karl Marx"
+  },
+  "fetched": 1793719785
  }
 }
