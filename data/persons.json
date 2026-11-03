@@ -730,7 +730,7 @@
     "**Một khoảng trống trong chính phụ lục Việt Nam, ghi lại cho P4**",
     "Kiểm quy tắc 6 cho khối trên làm lộ ra một việc khác: `content/ch90.md` nhảy từ `CH90-CE01_09-08 · Khương Công Phụ` (731–805) thẳng tới `CH90-CE10_14-01 · Ngô Quyền` (938). **Thế kỷ 9 là một khoảng trống trong chính phụ lục Việt Nam** — và không phải vì khung nhóm chặn: tiêu đề nhóm ghi `## Nhóm CE01_09 · TK 1–9 (1 – 900)`, tức cả thế kỷ 9 nằm trong khung; nhóm mới dùng 8/12 chỗ; và mục cuối nhóm, Khương Công Phụ, mất năm 805, tức đã trong thế kỷ ấy. Khoảng trống là một **lựa chọn đã ghi**: mục `CH90-CE01_09-07 · Phùng Hưng` nêu Dương Thanh làm ứng viên cùng giai đoạn rồi chọn Phùng Hưng, nên điểm vào của P4 là chính dòng ấy. Nếu P4 muốn lấp, ứng viên số một là Dương Thanh, và phải xử trước lỗi `Q6771941` hoặc chấp nhận để trường `wikidata:` trống kèm chú. Việc này **không** thuộc vòng CE09 và không được làm lẫn vào đây.",
     "**Một liên kết tự do được nâng thành ID, và vì sao điều đó đáng ghi**",
-    "Mục `CH05-CE07-08 · Brahmagupta` trước đây có đích ảnh hưởng ghi dưới dạng văn bản tự do: \"al-Khwārizmī và toán học Ả Rập\". Khi `CH05-CE09-04` ra đời, dòng ấy được đổi thành ID. Đây là một thao tác bảo trì mà lint chỉ nhắc được **một nửa**: vòng đối xứng (`atlaslib/lint.py:224-232`) in INFO khi đầu kia đã dùng ID, nhưng khi **cả hai** đầu còn là văn bản tự do thì không có dòng nào — lint không biết một chuỗi văn bản tự do nào đó vừa trở thành một mục có thật. Hệ quả cho các vòng sau: mỗi khi thêm một nhóm mới, phải `grep` tên những người vừa thêm trong toàn bộ `content/` để tìm các đích tự do cần nâng cấp. Các đích tự do **vẫn vào thống kê** — `reports/stats.txt` đếm đủ, ở ch05 là 258 dòng quan hệ trong khi chỉ 77 dòng trỏ ID, **đo trên `content/ch05.md` sau vòng CE10**. Cái mất không phải con số mà là **cạnh**: một đích tự do không giải được về mục nào, nên không sinh quan hệ hai chiều và nằm ngoài tầm phép kiểm ID của lint.",
+    "Mục `CH05-CE07-08 · Brahmagupta` trước đây có đích ảnh hưởng ghi dưới dạng văn bản tự do: \"al-Khwārizmī và toán học Ả Rập\". Khi `CH05-CE09-04` ra đời, dòng ấy được đổi thành ID. Đây là một thao tác bảo trì mà lint chỉ nhắc được **một nửa**: vòng đối xứng (`atlaslib/lint.py:224-232`) in INFO khi đầu kia đã dùng ID, nhưng khi **cả hai** đầu còn là văn bản tự do thì không có dòng nào — lint không biết một chuỗi văn bản tự do nào đó vừa trở thành một mục có thật. Hệ quả cho các vòng sau: mỗi khi thêm một nhóm mới, phải `grep` tên những người vừa thêm trong toàn bộ `content/` để tìm các đích tự do cần nâng cấp — và phải chạy **cả hai chiều**, vì một người mới ở nhóm sau làm hở các đích tự do ở những nhóm đã viết xong từ lâu. Các đích tự do **vẫn vào thống kê** — `reports/stats.txt` đếm đủ, ở ch05 là 258 dòng quan hệ trong khi chỉ 77 dòng trỏ ID, **đo trên `content/ch05.md` sau vòng CE10**. Cái mất không phải con số mà là **cạnh**: một đích tự do không giải được về mục nào, nên không sinh quan hệ hai chiều và nằm ngoài tầm phép kiểm ID của lint.",
     "**Sáu người cai trị trong mười hai, và vì sao nguyên tắc của nhóm CE09 không áp được ở đây**",
     "Nhóm CE09 áp nguyên tắc \"loại người bảo trợ, giữ người làm ra tri thức\" và kết quả là `Chính trị/Nhà nước` chỉ chiếm 3/24 ô. Nhóm này đi ngược: 7 trong 22 ô, tức 31,8% — so với 23,8% của toàn atlas **đo trên 245 mục sau khi dựng nhóm này**. Phải khai lý do thay vì để người đọc tự đoán. Nguyên tắc ấy chưa bao giờ là \"không nhận vua\"; nó là \"đừng chỉ mục một người bảo trợ cho công trình người khác làm\". **Bốn** trong sáu mục vua được chỉ mục vì **thể chế chính họ lập**: ngôi vua cha truyền con nối và hai hệ quan chế bắc–nam (`CH05-CE10-08`), lối thống nhất bằng hôn nhân giữa các dòng họ (`CH05-CE10-09`), danh hiệu caliph thứ ba (`CH05-CE10-11`), và sắc lập sima gắn làng vào nhà nước bằng nghĩa vụ (`CH05-CE10-06`). Hai mục còn lại vào vì lý do khác, và phải gọi đúng tên nó: `CH05-CE10-05` không lập ra chức tiết độ sứ — đó là thể chế nhà Đường — mà là người bản địa đầu tiên giữ nó; còn `CH05-CE10-04` giữ được một triều đình Transoxiana vận hành bằng bộ máy riêng trong khi vẫn nhận sắc phong Baghdad. Nhưng còn một nửa lý do nữa, và nó không dễ chịu: ở Trung Á, Đông Nam Á và vùng Đông Á ngoài Trung Hoa, người thế kỷ 10 để lại đủ tư liệu để chấm theo bốn tiêu chí **gần như chỉ có người lập nhà nước**. Đó là cùng một hiện tượng văn khố mà khối ứng viên Việt Nam của nhóm CE09 đã mô tả, chỉ hiện ra ở chiều khác.",
     "**Mục sát ranh giới nhất của nhóm, và nó tự khai: Ismāʿīl Samānī**",
@@ -14904,10 +14904,10 @@
    ],
    "influences": [
     {
-     "target": "Chế độ quân điền ở nhà Tuỳ, Đường, Nhật Bản và Việt Nam",
+     "target": "CH05-CE06-06",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Chế độ quân điền ở nhà Tuỳ, Đường, Nhật Bản và Việt Nam · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE06-06 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -14992,8 +14992,8 @@
     {
      "target": "Đại học luật Bologna thế kỷ 11",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Đại học luật Bologna thế kỷ 11 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Đại học luật Bologna thế kỷ 11 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -15024,7 +15024,7 @@
    "big_questions": [
     "Con người"
    ],
-   "ideas": "Ông soạn Regula Benedicti, bản quy tắc bảy mươi ba chương cho đời sống tu viện. Thứ làm nó lan xa không phải khổ hạnh mà là sự vừa phải: ngày chia cho cầu nguyện, lao động chân tay và đọc sách; viện trưởng do cộng đoàn bầu và phải hỏi ý cả người trẻ nhất. Quy tắc buộc mỗi tu viện tự nuôi mình, nên tu viện thành một đơn vị kinh tế có phòng chép sách. Hệ quả ngoài ý định là phần lớn văn học Latin cổ điển còn tới nay đã đi qua các phòng chép ấy.",
+   "ideas": "Bản quy tắc mang tên ông, Regula Benedicti, gồm bảy mươi ba chương cho đời sống tu viện. Thứ làm nó lan xa không phải khổ hạnh mà là sự vừa phải: ngày chia cho cầu nguyện, lao động chân tay và đọc sách; viện trưởng do cộng đoàn bầu và phải hỏi ý cả người trẻ nhất. Quy tắc buộc mỗi tu viện tự nuôi mình, nên tu viện thành một đơn vị kinh tế có phòng chép sách. Hệ quả ngoài ý định là phần lớn văn học Latin cổ điển còn tới nay đã đi qua các phòng chép ấy.",
    "why": "Ứng viên cùng thời là Cassiodorus, người lập Vivarium và cũng chủ trương chép sách, và Caesarius xứ Arles. Biển Đức được chọn theo độ bền (b): quy tắc của ông vẫn đang được dùng sau mười lăm thế kỷ, còn Vivarium tan ngay sau khi Cassiodorus mất. Niên đại để Thấp vì gần như mọi chi tiết đời ông chỉ có ở quyển II bộ Đối thoại gán cho Gregorius Cả, soạn khoảng năm 593.",
    "sources": "Regula Benedicti; Gregorius Cả, Dialogi quyển II (k. 593); Marilyn Dunn, The Emergence of Monasticism (Blackwell, 2000).",
    "inherits": [
@@ -15047,8 +15047,8 @@
     {
      "target": "Phòng chép sách tu viện và việc bảo tồn văn học Latin",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Phòng chép sách tu viện và việc bảo tồn văn học Latin · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Phòng chép sách tu viện và việc bảo tồn văn học Latin · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -15093,8 +15093,8 @@
     {
      "target": "CH04-CE04-05",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH04-CE04-05 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE04-05 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -15209,7 +15209,7 @@
    "big_questions": [
     "Thực tại"
    ],
-   "ideas": "Pramāṇasamuccaya đặt lại nền nhận thức luận Ấn Độ bằng một mệnh đề cắt gọn: chỉ có hai nguồn tri thức đáng tin, là tri giác trực tiếp và suy luận, và tri giác đúng nghĩa thì không có khái niệm xen vào. Ông nêu \"bánh xe lý do\" gồm ba điều kiện để kiểm một luận chứng đúng hay sai — tức một tiêu chuẩn hình thức thay cho việc viện dẫn uy tín kinh điển. Lý thuyết apoha giải nghĩa của từ theo lối phủ định: \"bò\" nghĩa là \"không phải cái không-bò\".",
+   "ideas": "Pramāṇasamuccaya đặt lại nền nhận thức luận Ấn Độ bằng một mệnh đề cắt gọn: chỉ có hai nguồn tri thức đáng tin, là tri giác trực tiếp và suy luận, và tri giác đúng nghĩa thì không có khái niệm xen vào. Ông nêu ba điều kiện mà một lý do phải thoả, rồi xếp các khả năng của lý do thành \"bánh xe lý do\" — tức một tiêu chuẩn hình thức thay cho việc viện dẫn uy tín kinh điển. Lý thuyết apoha giải nghĩa của từ theo lối phủ định: \"bò\" nghĩa là \"không phải cái không-bò\".",
    "why": "Ứng viên cùng thời là Bhāvaviveka và Sthiramati. Trần-na được chọn theo counterfactual (d): sau ông, tranh luận triết học Ấn Độ đổi hình thức, vì cả phía Phật giáo lẫn phía Nyāya đều phải lập luận theo bộ tiêu chuẩn ông đặt. Niên đại để Thấp: mọi mốc đời ông đều suy từ truyền thống Tây Tạng và Hán muộn, và quan hệ thầy trò với Thế Thân — chi tiết thường được chép — không có xác nhận đương thời.",
    "sources": "Masaaki Hattori, Dignāga, On Perception (Harvard University Press, 1968); Richard Hayes, Dignaga on the Interpretation of Signs (Kluwer, 1988).",
    "inherits": [
@@ -15276,10 +15276,10 @@
    "sources": "Ngụy Trưng và nhóm biên soạn, Tùy thư (636); Arthur F. Wright, The Sui Dynasty: The Unification of China, A.D. 581–617 (Alfred A. Knopf, 1978).",
    "inherits": [
     {
-     "target": "Chế độ quân điền Bắc Ngụy",
+     "target": "CH04-CE05-12",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Chế độ quân điền Bắc Ngụy · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-12 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -15301,8 +15301,8 @@
     {
      "target": "Chế độ khoa cử",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Chế độ khoa cử · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Chế độ khoa cử · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -15333,15 +15333,15 @@
    "big_questions": [
     "Thực tại"
    ],
-   "ideas": "Phật giáo Trung Hoa thế kỷ 6 có một vấn đề rất thực tế: kinh điển từ Ấn Độ đến không theo thứ tự, nhiều bộ mâu thuẫn nhau, mà tất cả đều xưng là lời Phật. Trí Di giải bằng phán giáo — xếp toàn bộ kinh vào năm thời và tám giáo, coi mâu thuẫn là do Phật giảng tuỳ căn cơ người nghe chứ không phải do kinh sai — và đặt Kinh Pháp Hoa ở đỉnh. Ông viết Ma-ha chỉ quán, bộ chỉ dẫn thiền quán chi tiết, và nêu \"nhất niệm tam thiên\": một niệm chứa đủ ba nghìn cõi.",
+   "ideas": "Phật giáo Trung Hoa thế kỷ 6 có một vấn đề rất thực tế: kinh điển từ Ấn Độ đến không theo thứ tự, nhiều bộ mâu thuẫn nhau, mà tất cả đều xưng là lời Phật. Trí Di giải bằng phán giáo — xếp kinh theo thời giảng và theo cách giảng, coi mâu thuẫn là do Phật giảng tuỳ căn cơ người nghe chứ không phải do kinh sai — và đặt Kinh Pháp Hoa ở đỉnh; công thức \"năm thời tám giáo\" quen thuộc là bản hệ thống hoá đời sau. Ông viết Ma-ha chỉ quán, bộ chỉ dẫn thiền quán chi tiết, và nêu \"nhất niệm tam thiên\": một niệm chứa đủ ba nghìn cõi.",
    "why": "Ứng viên cùng thời là Cát Tạng, người hệ thống hoá Tam luận tông, và Tuệ Tư, thầy của chính ông. Trí Di được chọn theo tính nguyên bản (c): phán giáo giải một vấn đề mà Phật giáo Ấn Độ không gặp, vì ở Ấn Độ kinh không đến cùng lúc và lộn xộn như vậy. Nó là sản phẩm của Trung Hoa chứ không phải bản dịch. Thiên Thai về sau thành Tendai ở Nhật, nền đào tạo của hầu hết các tổ phái Kamakura.",
    "sources": "Trí Di, Ma-ha chỉ quán; Paul Swanson, Foundations of T'ien-T'ai Philosophy (Asian Humanities Press, 1989).",
    "inherits": [
     {
      "target": "CH04-CE05-07",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "CH04-CE05-07 · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-07 · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -15395,7 +15395,7 @@
     "Con người"
    ],
    "ideas": "Nguồn sớm nhất nhắc ông là Lạc Dương già lam ký của Dương Huyễn Chi, soạn khoảng năm 547, và nó chỉ nói một tăng sĩ Tây Vực tên Bồ-đề-đạt-ma trầm trồ trước chùa Vĩnh Ninh. Văn bản gán cho ông, Nhị nhập tứ hạnh luận, dạy hai lối vào: vào bằng lý qua \"bích quán\", và vào bằng hạnh qua bốn cách ứng xử với nghịch cảnh. Những chi tiết nổi tiếng hơn — đối đáp với Lương Vũ Đế, chín năm ngó vách, truyền y bát cho Huệ Khả — đều chỉ xuất hiện trong các tập đăng lục soạn từ thế kỷ 8 trở đi.",
-   "why": "Ứng viên cùng thời là Huệ Khả và Tăng Xán. Bồ-đề-đạt-ma được chọn theo counterfactual (d): dù phần lớn tiểu sử là xây muộn, chính cái tên ông là thứ Thiền tông dùng để tự neo vào một dòng truyền từ Ấn Độ, nên ông định hình cách cả một truyền thống tự hiểu mình. Niên đại để Thấp, và mục này cố ý tách nguồn thế kỷ 6 khỏi truyền thuyết thế kỷ 8. Vùng để Đông Á theo quy ước nơi hoạt động chính, dù ông sinh ở Nam Ấn.",
+   "why": "Ứng viên cùng thời là Huệ Khả và Tăng Xán. Bồ-đề-đạt-ma được chọn theo counterfactual (d): dù phần lớn tiểu sử là xây muộn, chính cái tên ông là thứ Thiền tông dùng để tự neo vào một dòng truyền từ Ấn Độ, nên ông định hình cách cả một truyền thống tự hiểu mình. Niên đại để Thấp, và mục này cố ý tách nguồn thế kỷ 6 khỏi truyền thuyết thế kỷ 8. Vùng để Đông Á theo quy ước nơi hoạt động chính; xuất thân Nam Ấn không có trong nguồn thế kỷ 6 mà đến từ nguồn muộn hơn.",
    "sources": "Dương Huyễn Chi, Lạc Dương già lam ký (k. 547); John McRae, Seeing Through Zen (University of California Press, 2003); Bernard Faure, \"Bodhidharma as Textual and Religious Paradigm\", History of Religions 25 (1986).",
    "inherits": [
     {
@@ -15511,9 +15511,9 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Chu thư quyển 50 chép một chuỗi mốc Tây Ngụy quy đổi được chính xác: 545 sứ bộ tới chỗ ông, 551 ông được gả công chúa, đầu 552 ông đánh bại Nhu Nhiên và tự xưng Y Lợi khả hãn. Trước đó chúa Nhu Nhiên A Na Quỳ còn mắng 「爾是我鍛奴」 — \"mày là nô lệ thợ rèn của tao\". Ông làm khả hãn nhiều nhất một năm, nên phần lớn chiến công gán cho ông lại chép dưới tên người khác: diệt nốt tàn dư Nhu Nhiên (鄧叔子) và phá Hiệt Đát đều dưới tên Mộc Hãn khả hãn, sau khi ông chết; còn đường tới Byzantium thì chính sử không chép một dòng: hai sứ đoàn 563 và 568 chỉ biết qua Menander Protector, thuộc cánh Tây.",
+   "ideas": "Chu thư quyển 50 chép một chuỗi mốc Tây Ngụy quy đổi được chính xác: 545 sứ bộ tới chỗ ông, 551 ông được gả công chúa, đầu 552 ông đánh bại Nhu Nhiên và tự xưng Y Lợi khả hãn. Trước đó chúa Nhu Nhiên A Na Quỳ còn mắng 「爾是我鍛奴」 — \"mày là nô lệ thợ rèn của tao\". Ông làm khả hãn nhiều nhất một năm, nên phần lớn chiến công gán cho ông lại chép dưới tên người khác: diệt nốt tàn dư Nhu Nhiên (鄧叔子) và phá Hiệt Đát đều dưới tên Mộc Hãn khả hãn, sau khi ông chết; còn đường tới Byzantium thì chính sử không chép một dòng: sứ đoàn năm 568 chỉ biết qua Menander Protector, và nó thuộc cánh Tây.",
    "why": "Chọn ông không vì chinh phục mà vì một đảo lộn thứ bậc trong bảy năm: dòng A Sử Na đi từ thợ rèn thần thuộc tới chỗ xưng khả hãn và được một triều đình Trung Hoa gả công chúa. Tước khả hãn và cái khuôn nhà nước thảo nguyên ấy tồn tại nhiều thế kỷ sau. Vùng để Đông Á theo tiền lệ Mặc Đốn ở `CH03-BCE02-12`, vì REGIONS không có ô cho thảo nguyên Nội Á.",
-   "sources": "周書 quyển 50, liệt truyện 42, Dị vực hạ (Lệnh Hồ Đức Phân, hoàn thành 636); 北史 quyển 99; Denis Sinor, chương 14 trong *History of Civilizations of Central Asia*, tập III (UNESCO), tr. 328.",
+   "sources": "周書 quyển 50, liệt truyện 42, Dị vực hạ (Lệnh Hồ Đức Phân, hoàn thành 636); 北史 quyển 99; Denis Sinor và S. G. Klyashtorny, chương 14 trong *History of Civilizations of Central Asia*, tập III (UNESCO), tr. 328.",
    "inherits": [
     {
      "target": "CH03-BCE02-12",
@@ -15555,7 +15555,7 @@
    "approx": true,
    "alive": false,
    "years_ok": true,
-   "place": "lưu vực Mekong ở Campuchia, từ Sambor Prei Kuk (Kompong Thom) tới Ba Phnom (Prey Veng)",
+   "place": "lưu vực Mekong ở Campuchia, từ Sambor Prei Kuk (Kompong Thom) tới Kdei Ang (Prey Veng)",
    "region": "Đông Nam Á",
    "fields": [
     "Chính trị/Nhà nước",
@@ -15566,7 +15566,7 @@
    "big_questions": [
     "Không áp dụng"
    ],
-   "ideas": "Ông là vị vua đầu tiên ở vùng nội địa Campuchia để lại một cụm bi ký Phạn ngữ tại chỗ đủ dựng lại một triều đại; trước ông, bi ký tại chỗ ở hạ lưu Mekong chỉ cho tên rời rạc vài vua Phù Nam như Gunavarman, Jayavarman và Rudravarman. K.151 và K.439 ở Sambor Prei Kuk, K.53 ở Ba Phnom. K.439 cho thấy thần chính của nhóm đền phía bắc Sambor Prei Kuk là một dạng Śiva tên Gambhireśvara, mà giới nghiên cứu thấy gắn riêng với ông. Mô hình ông để lại là mô hình tồn tại: vua Hindu hóa dùng Phạn ngữ làm ngôn ngữ bi ký và Śiva làm thần bảo trợ, chính là khuôn mà Īśānapura rồi Angkor kế tục.",
+   "ideas": "Ông là vị vua đầu tiên ở vùng nội địa Campuchia để lại một cụm bi ký Phạn ngữ tại chỗ đủ dựng lại một triều đại; trước ông, bi ký tại chỗ ở hạ lưu Mekong chỉ cho tên rời rạc vài vua Phù Nam như Gunavarman, Jayavarman và Rudravarman. K.151 và K.439 ở Sambor Prei Kuk, K.53 ở Kdei Ang. K.439 cho thấy thần chính của nhóm đền phía bắc Sambor Prei Kuk là một dạng Śiva tên Gambhireśvara, mà giới nghiên cứu thấy gắn riêng với ông. Mô hình ông để lại là mô hình tồn tại: vua Hindu hóa dùng Phạn ngữ làm ngôn ngữ bi ký và Śiva làm thần bảo trợ, chính là khuôn mà Īśānapura rồi Angkor kế tục.",
    "why": "Đây là mục Đông Nam Á đầu tiên của atlas chính — Chapter 90 là phụ lục Việt Nam, nằm ngoài thống kê toàn cục. Chọn ông là chọn một mục mỏng một cách có ý thức: niên đại để Thấp vì khung trị vì phần lớn là cổ tự học cộng đếm ngược từ Īśānavarman I — con số 598 mà Coedès rút từ K.151 là mốc duy nhất, và chính Vickery cho thấy Coedès đã dùng nó sai ngữ cảnh.",
    "sources": "Bi ký K.151, K.439, K.53; Michael Vickery, \"What and Where was Chenla?\", trong *Recherches nouvelles sur le Cambodge*, F. Bizot chủ biên (EFEO, 1994), tr. 197–212, <http://michaelvickery.org/vickery1994what.pdf>; Piphal Heng & Paul A. Lavy, \"Pre-Angkorian cities: Ishanapura and Mahendraparvata\", <https://angkordatabase.asia/libs/docs/publications/pre-angkorian-cities-ishanapura-and-mahendraparvata/Pre_Angkorian_cities_Ishanapura_and_Mahe.pdf>.",
    "inherits": [
@@ -15622,7 +15622,7 @@
     "Thực tại"
    ],
    "ideas": "Ông chọn không viết triết học riêng mà đổ gần cả đời vào việc dịch và chú giải bộ Organon của Aristotle sang Latinh. Lựa chọn ấy quyết định Tây Âu nghĩ bằng cái gì trong hơn sáu thế kỷ sau: tới thế kỷ 11, chương trình logic Latinh — logica vetus — chỉ gồm hai tác phẩm Aristotle, Porphyry và chính ông; phần Organon còn lại phải tới cuối thế kỷ 12 mới lưu hành rộng, vẫn qua bản dịch Latinh của ông được tìm lại. Kế hoạch dịch trọn Plato lẫn Aristotle thì không xong, bản Phân tích hậu đã mất. Viết trong tù chờ án tử, De consolatione philosophiae dựng cuộc đối thoại với Triết học nhân cách hoá mà không viện một giáo lý Kitô nào.",
-   "why": "Phần lớn mười một mục còn lại của nhóm CE06 phải rào niên đại hoặc rào quy thuộc; Boethius thì tác phẩm còn nguyên vẹn. Chọn ông cũng là sửa một lỗi nội tại: tên ông đã hai lần xuất hiện trong atlas như cơ chế truyền cho Porphyry ở `CH04-CE03-03`, một lần ngay trong dòng quan hệ, mà chưa bao giờ có mục riêng. Niên đại để Trung bình vì nguồn ghi sinh khoảng 475–477 và đặt dấu hỏi sau năm mất 526.",
+   "why": "Phần lớn mười một mục còn lại của nhóm CE06 phải rào niên đại hoặc rào quy thuộc; Boethius thì tác phẩm còn nguyên vẹn. Chọn ông cũng là sửa một lỗi nội tại: mục Porphyry `CH04-CE03-03` từng dùng tên ông làm cơ chế truyền ngay trong dòng quan hệ, mà ông chưa bao giờ có mục riêng; dòng ấy nay đã trỏ về mục này. Ứng viên bị loại ở suất này là Gregory xứ Tours, người viết sử người Frank. Niên đại để Trung bình vì nguồn ghi sinh khoảng 475–477 và đặt dấu hỏi sau năm mất 526.",
    "sources": "Boethius, *De consolatione philosophiae*; hai bình luận *Isagoge* và các bình luận *Organon*; Stanford Encyclopedia of Philosophy, \"Anicius Manlius Severinus Boethius\" (John Marenbon), <https://plato.stanford.edu/entries/boethius/>; Stanford Encyclopedia of Philosophy, \"Literary Forms of Medieval Philosophy\", <https://plato.stanford.edu/entries/medieval-literary/>.",
    "inherits": [
     {
