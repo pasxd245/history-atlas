@@ -1555,8 +1555,8 @@
     {
      "target": "Apophis và giai đoạn Hyksos muộn",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Apophis và giai đoạn Hyksos muộn · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Apophis và giai đoạn Hyksos muộn · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -4574,8 +4574,8 @@
     {
      "target": "Horace (Quintus Horatius Flaccus)",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Horace (Quintus Horatius Flaccus) · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Horace (Quintus Horatius Flaccus) · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -5836,15 +5836,15 @@
     {
      "target": "Catullus (Gaius Valerius Catullus)",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Catullus (Gaius Valerius Catullus) · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Catullus (Gaius Valerius Catullus) · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
      "target": "Horace (Quintus Horatius Flaccus)",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Horace (Quintus Horatius Flaccus) · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Horace (Quintus Horatius Flaccus) · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -6154,8 +6154,8 @@
     {
      "target": "Hecataeus xứ Miletus",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Hecataeus xứ Miletus · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Hecataeus xứ Miletus · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -6170,8 +6170,8 @@
     {
      "target": "Thucydides (Θουκυδίδης)",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "Thucydides (Θουκυδίδης) · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Thucydides (Θουκυδίδης) · phản bác · qua trường phái",
      "undetermined": false
     },
     {
@@ -6471,8 +6471,8 @@
     {
      "target": "Mạnh Tử (孟子)",
      "relation": "phản bác",
-     "evidence": "trực tiếp",
-     "raw": "Mạnh Tử (孟子) · phản bác · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Mạnh Tử (孟子) · phản bác · qua trường phái",
      "undetermined": false
     },
     {
@@ -6534,8 +6534,8 @@
     {
      "target": "Yāska",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Yāska · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Yāska · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -6550,8 +6550,8 @@
     {
      "target": "Patañjali",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Patañjali · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Patañjali · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -6623,8 +6623,8 @@
     {
      "target": "Tào Tháo (曹操)",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Tào Tháo (曹操) · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Tào Tháo (曹操) · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -8848,8 +8848,8 @@
     {
      "target": "Ptolemy và Almagest",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Ptolemy và Almagest · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Ptolemy và Almagest · kế thừa · qua trường phái",
      "undetermined": false
     },
     {
@@ -9067,8 +9067,8 @@
     {
      "target": "Kātyāyana",
      "relation": "kế thừa",
-     "evidence": "trực tiếp",
-     "raw": "Kātyāyana · kế thừa · trực tiếp",
+     "evidence": "qua trường phái",
+     "raw": "Kātyāyana · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
