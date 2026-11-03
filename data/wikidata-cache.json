@@ -18884,5 +18884,415 @@
    "enwiki": "Albert Einstein"
   },
   "fetched": 1793720816
+ },
+ "wd:Q170342": {
+  "id": "Q170342",
+  "labels": {
+   "en": "Svante Pääbo",
+   "vi": "Svante Pääbo"
+  },
+  "aliases": {},
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1955,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1955,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [],
+  "P18": "Professor Svante Paabo ForMemRS (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Svante Pääbo",
+   "enwiki": "Svante Pääbo"
+  },
+  "fetched": 1793722993
+ },
+ "wd:Q201452": {
+  "id": "Q201452",
+  "labels": {
+   "vi": "Brian P. Schmidt",
+   "en": "Brian Schmidt"
+  },
+  "aliases": {
+   "en": [
+    "Brian P Schmidt",
+    "Brian P. Schmidt",
+    "B. P. Schmidt",
+    "Brian Paul Schmidt",
+    "B P Schmidt",
+    "B.P. Schmidt"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1967,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [],
+  "P18": "Brian Schmidt portrait 1.jpg",
+  "sitelinks": {
+   "viwiki": "Brian P. Schmidt",
+   "enwiki": "Brian Schmidt"
+  },
+  "fetched": 1793722993
+ },
+ "wd:Q2484404": {
+  "id": "Q2484404",
+  "labels": {
+   "en": "Yuval Noah Harari",
+   "vi": "Yuval Noah Harari"
+  },
+  "aliases": {
+   "en": [
+    "Yuval N. Harari"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1976,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [],
+  "P18": "MKr364751 Yuval Noah Harari (Frankfurter Buchmesse 2024).jpg",
+  "sitelinks": {
+   "viwiki": "Yuval Noah Harari",
+   "enwiki": "Yuval Noah Harari"
+  },
+  "fetched": 1793722993
+ },
+ "wd:Q3022141": {
+  "id": "Q3022141",
+  "labels": {
+   "en": "Demis Hassabis"
+  },
+  "aliases": {
+   "en": [
+    "Hassabis",
+    "Sir Demis Hassabis"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1976,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [],
+  "P18": "Demis Hassabis, 2024 Nobel Prize Laureate in Chemistry 7 (cropped).jpg",
+  "sitelinks": {
+   "enwiki": "Demis Hassabis"
+  },
+  "fetched": 1793722993
+ },
+ "wd:Q43969": {
+  "id": "Q43969",
+  "labels": {
+   "vi": "Muhammad Yunus",
+   "en": "Muhammad Yunus"
+  },
+  "aliases": {
+   "vi": [
+    "Mohammad Yunus",
+    "Muhammod Iunus"
+   ],
+   "en": [
+    "Professor Muhammad Yunus",
+    "Muhammad Iunus"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1940,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [],
+  "P18": "Muhammad Yunus (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Muhammad Yunus",
+   "enwiki": "Muhammad Yunus"
+  },
+  "fetched": 1793722993
+ },
+ "wd:Q462843": {
+  "id": "Q462843",
+  "labels": {
+   "en": "Tu Youyou",
+   "vi": "Đồ U U"
+  },
+  "aliases": {
+   "en": [
+    "Youyou Tu",
+    "Tú Yōuyōu"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1930,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [],
+  "P18": "D810 4987 Tu Youyou, medicine (22945001843) (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Đồ U U",
+   "enwiki": "Tu Youyou"
+  },
+  "fetched": 1793722993
+ },
+ "wd:Q46795": {
+  "id": "Q46795",
+  "labels": {
+   "vi": "Wangari Muta Maathai",
+   "en": "Wangari Muta Maathai"
+  },
+  "aliases": {
+   "vi": [
+    "Wangari Maathai"
+   ],
+   "en": [
+    "Wangari Maathaï",
+    "Maathai",
+    "WangariMaathai",
+    "Wangari Maathai"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1940,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [
+   {
+    "year": 2011,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P18": "Wangari Matthai 2001 (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Wangari Maathai",
+   "enwiki": "Wangarĩ Maathai"
+  },
+  "fetched": 1793722993
+ },
+ "wd:Q56068": {
+  "id": "Q56068",
+  "labels": {
+   "en": "Jennifer Doudna",
+   "vi": "Jennifer Doudna"
+  },
+  "aliases": {
+   "en": [
+    "Jennifer Anne Doudna",
+    "Jennifer A. Doudna",
+    "Jennifer A Doudna",
+    "J. A. Doudna",
+    "J A Doudna",
+    "J. Doudna",
+    "J Doudna",
+    "Doudna",
+    "Doudna J",
+    "Doudna J.",
+    "Doudna J. A.",
+    "Doudna JA"
+   ],
+   "vi": [
+    "Jennifer Anne Doudna"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1964,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [],
+  "P18": "Professor Jennifer Doudna ForMemRS (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Jennifer Doudna",
+   "enwiki": "Jennifer Doudna"
+  },
+  "fetched": 1793722993
+ },
+ "wd:Q6761526": {
+  "id": "Q6761526",
+  "labels": {
+   "en": "Maria Ressa",
+   "vi": "Maria Ressa"
+  },
+  "aliases": {
+   "en": [
+    "Maria Angelita Aycardo Ressa",
+    "Maria Angelita Ressa",
+    "Maria A. Ressa"
+   ],
+   "vi": [
+    "Maria Angelita Ressa"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1963,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [],
+  "P18": "2025-10-19 Buchmesse Maria Ressa (4).jpg",
+  "sitelinks": {
+   "viwiki": "Maria Ressa",
+   "enwiki": "Maria Ressa"
+  },
+  "fetched": 1793722993
+ },
+ "wd:Q80": {
+  "id": "Q80",
+  "labels": {
+   "en": "Tim Berners-Lee",
+   "vi": "Tim Berners-Lee"
+  },
+  "aliases": {
+   "en": [
+    "Sir Timothy John Berners-Lee",
+    "Timothy John Berners-Lee",
+    "TimBL"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1955,
+    "precision": 11,
+    "rank": "preferred"
+   },
+   {
+    "year": 1955,
+    "precision": 9,
+    "rank": "normal"
+   }
+  ],
+  "P570": [],
+  "P18": "LS3 4919 (cropped).jpg",
+  "sitelinks": {
+   "viwiki": "Tim Berners-Lee",
+   "enwiki": "Tim Berners-Lee"
+  },
+  "fetched": 1793722993
+ },
+ "wd:Q88608397": {
+  "id": "Q88608397",
+  "labels": {
+   "en": "Katalin Karikó",
+   "vi": "Katalin Karikó"
+  },
+  "aliases": {
+   "en": [
+    "Karikó Katalin",
+    "K. Karikó"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1955,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [],
+  "P18": "Katalin Kariko light corrected.jpeg",
+  "sitelinks": {
+   "viwiki": "Katalin Karikó",
+   "enwiki": "Katalin Karikó"
+  },
+  "fetched": 1793722993
+ },
+ "wd:Q92894": {
+  "id": "Q92894",
+  "labels": {
+   "en": "Geoffrey Hinton"
+  },
+  "aliases": {
+   "en": [
+    "Geoff Hinton",
+    "G. E. Hinton"
+   ]
+  },
+  "P31": [
+   "Q5"
+  ],
+  "P279": [],
+  "P569": [
+   {
+    "year": 1947,
+    "precision": 11,
+    "rank": "normal"
+   }
+  ],
+  "P570": [],
+  "P18": "Geoffrey Hinton in 2026.jpg",
+  "sitelinks": {
+   "viwiki": "Geoffrey Hinton",
+   "enwiki": "Geoffrey Hinton"
+  },
+  "fetched": 1793722993
  }
 }

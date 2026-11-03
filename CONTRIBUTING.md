@@ -156,6 +156,22 @@ trong đồ thị (tiền lệ: `CH05-CE06-12` gỡ dòng "Chaucer, Jean de Meun
 trường đó trước**; nếu đã chạm trần thì phải cắt trước khi cộng. Chỗ không cắt được thì viết
 xuống `## Ghi chú biên tập` — khối ấy không có trần chữ.
 
+**Trường `vùng` đo nơi công trình gắn vào, không đo nơi sinh.** Quy ước này được viết ra
+2026-11-03 sau khi ba vòng liên tiếp phải phán đoán mà không có quy tắc (`CH08-CE18-11` Equiano,
+`CH09-CE19-11` Te Whiti, `CH10-CE20-02` Rutherford). `vùng` của một mục là nơi **phần công trình
+được chọn vào atlas** gắn vào, xét theo thứ tự:
+1. **Nơi công trình được làm ra.** Trải nhiều nơi thì lấy nơi nó thành hình.
+2. Nếu công trình làm ở một nơi nhưng **nói về và lấy thẩm quyền từ** một nơi khác, lấy nơi thứ hai.
+3. **Nơi sinh một mình không quyết định.**
+Lý do chọn quy tắc này chứ không lấy nơi sinh: `vùng` tồn tại để đo **phân bố địa lý của đóng góp**
+— `lint` cưỡng chế nó (≥3 vùng mỗi nhóm, cảnh báo khi một vùng chiếm ≥60% chapter, báo vùng trống
+ở mức atlas). Lấy nơi sinh thì ghi công cho một vùng về việc nó không tham gia.
+Kết quả rà lại ba ca: Equiano giữ `Châu Phi hạ Sahara` theo khoản 2 (chất liệu và thẩm quyền của
+*The Interesting Narrative* là gốc gác châu Phi và chuyến tàu nô lệ); Te Whiti giữ `Châu Đại Dương`
+theo khoản 1; **Rutherford đổi `Châu Đại Dương` → `Châu Âu`** theo khoản 1, vì công trình thành
+hình ở Manchester và không nói về New Zealand. Quy tắc có giá: nó làm ô `Châu Đại Dương` tụt từ 2
+mục xuống 1. Đó là dấu hiệu nó không phải lời biện minh viết sau.
+
 **Tên gốc trong ngoặc cũng là công cụ so khớp Wikidata, không chỉ để trang trí.** Lint so
 tên mục với `labels`, `aliases` **và** tiêu đề bài viwiki/enwiki của Q-ID (`common.py:wd_names`).
 Tiêu đề bài được đưa vào từ 2026-11-03 vì có mục không có nhãn vi lẫn en — `Q379887` Olaudah
