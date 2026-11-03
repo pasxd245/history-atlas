@@ -83,7 +83,22 @@ Lệnh khác: `--lint-only [FILE]` (chỉ lint; FILE bất kỳ → báo cáo v�
 
 **Cảnh báo:** số chữ lệch > 30% (~100 / ~80 / ≤100 / ≤60); nhóm < 4 lĩnh vực hoặc < 3 vùng; liên kết tới ID chưa tồn tại; cùng tên / cùng Wikidata ở nhiều chapter; `wikidata: ?`; nhãn Wikidata không khớp tên; **niên đại lệch Wikidata** (P569/P570) quá 5 năm với độ tin cậy Cao, 25 năm với Trung bình, bỏ qua Thấp (dung sai tự nới khi Wikidata chỉ ghi thập kỷ/thế kỷ); ghi còn sống nhưng Wikidata có năm mất; đời sống không giao với nhóm; Ghi chú biên tập không nhắc ứng viên Việt Nam (D5).
 
-**Ghi chú (INFO):** liên kết một chiều (P4 đồng bộ), người còn sống (D4), độ tin cậy Thấp bỏ qua đối chiếu.
+**Ghi chú (INFO):** liên kết một chiều, người còn sống (D4), độ tin cậy Thấp bỏ qua đối chiếu.
+
+### `Ảnh hưởng tới` là một lựa chọn top-3, không phải đồ thị ảnh hưởng đầy đủ
+
+Mỗi mục chỉ được ghi **tối đa 3** dòng ở `Ảnh hưởng tới`, nên với những người có nhiều hậu
+duệ tư tưởng, trường ấy **buộc phải cắt**. Đo ngày 2026-11-03: sau khi đã thêm mọi cạnh
+ngược còn chỗ, **91 cạnh ở 40 mục** vẫn không ghi lại được — Plato và Aristotle mỗi người
+thiếu 6, Augustinô 5, Euclid, Zeno xứ Citium và Đức Phật mỗi người 4.
+
+Đây là **ràng buộc thiết kế, không phải lỗi dữ liệu**. Nới trần lên 4–6 sẽ phá một quy ước
+đã áp xuyên toàn bộ atlas và vẫn không đủ cho Plato. Vì vậy: **chiều đọc đầy đủ là gom
+`Kế thừa từ` của mọi mục sau**, không phải đọc `Ảnh hưởng tới` của mục trước. `Kế thừa từ`
+cũng trần 3, nhưng nó nhìn ngược về quá khứ nên hiếm khi chạm trần.
+
+Lint in INFO khi một cạnh chỉ có một chiều. Những dòng ấy là **thông tin, không phải việc
+tồn đọng**: phần lớn trong số chúng không đóng được.
 
 ## Ảnh & giấy phép (PLAN §7)
 

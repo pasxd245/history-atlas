@@ -645,6 +645,7 @@
     "**Bốn điều không được viết về Boethius**",
     "Ghi trước để vòng sau khỏi \"sửa\" mục này theo sách phổ thông. (1) Không viết \"480–524\" trần trụi: đó là cặp số Wikidata để ở rank preferred, nhưng nguồn chuyên ngành ghi sinh khoảng 475–477 và đặt **dấu hỏi** sau năm mất 526. Mức Trung bình không phải để lách lint — với lệch 2 năm thì cả mức Cao cũng qua — mà để **không phát biểu chắc hơn nguồn**: mức Cao sẽ là một tuyên bố chắc chắn mà nguồn, vốn còn đặt dấu hỏi sau 526, không cho phép. (2) Không viết \"ông dịch toàn bộ Aristotle\": ông dịch *Organon*, bản *Phân tích hậu* đã mất, và kế hoạch dịch trọn Plato lẫn Aristotle không hoàn thành. (3) Không viết ông tử đạo vì đức tin Công giáo chống Arian — cáo buộc trong hồ sơ là **phản nghịch và hành nghề ma thuật**; cách đọc tử đạo là hagiography đời sau. (4) Không khép tranh luận *Consolatio* có phải tác phẩm Kitô giáo hay không; chính sự vắng mặt ấy là điều làm nó thành một bài toán của giới nghiên cứu.",
     "Một sắc thái không nhét vừa mục: cái Boethius truyền lại không phải Aristotle nguyên sơ, mà là **Aristotle đọc qua Porphyry** — ông chọn Porphyry làm thẩm quyền logic chính và bám sát bản chú giải của Porphyry. Theo Marenbon (SEP), chính lựa chọn ấy khiến các bình luận của ông **gần Aristotle hơn** những gì đang được viết bằng tiếng Hy Lạp cùng thời, vốn đi tìm giáo lý Tân Plato ngay trong văn bản logic; có chỗ ông còn bỏ qua cả phần Porphyry tự thêm vào sau Aristotle. Vậy nếu muốn nói về \"lăng kính\" thì lăng kính ấy là **Porphyry**, và nó kéo về phía Aristotle chứ không đẩy ra xa. Ông mang sang cho thời trung cổ cả những biến dạng Tân Plato của bộ Aristotle, và chính ông lặp lại tham vọng của Porphyry là chứng minh Plato với Aristotle hoà hợp. Tức châu Âu trung cổ đọc Aristotle **qua lăng kính Tân Plato**, và lăng kính đó là của ông.",
+    "Và một đánh đổi trong trường `Ảnh hưởng tới` của mục, ghi lại để vòng sau khỏi tưởng là bỏ sót: dòng tự do *\"Chaucer, Jean de Meun và các bản dịch Consolatio sang ngôn ngữ bản địa\"* đã **bị gỡ** để nhường chỗ cho `CH05-CE09-10` và `CH05-CE10-12`, hai mục ghi kế thừa từ ông mà ông không ghi lại. Trần ba dòng không cho giữ cả ba, và hai cạnh có ID thì giải được về mục thật, còn dòng tự do thì không — nó không sinh cạnh nào trong đồ thị. Mảng tiếp nhận bản ngữ vì vậy **không mất**, nó nằm ở đây: *Consolatio* được dịch sang tiếng Anh, Pháp và Đức suốt thời trung cổ muộn, trong đó Chaucer dịch *Boece* và Jean de Meun dịch sang tiếng Pháp — một mạch tiếp nhận rộng hơn mạch logic kinh viện, nhưng không nối tới một mục nào của atlas. Thân mục không nhận thêm được chữ nào: `ideas` đang **130/130**.",
     "**Một câu hỏi thủ tục đã được quyết: mục ở phụ lục có tính là \"đã có mục\" không**",
     "Vòng bình duyệt kiểm quy tắc 6 bằng script đối chiếu **Q-ID**, chứ không chỉ đối chiếu tên — nên giữ, nhưng phải chạy **cả hai** như `atlaslib/lint.py` đang làm (`by_name` lẫn `by_q`): đối chiếu Q-ID miễn nhiễm với biến thể chính tả, còn đối chiếu tên là thứ duy nhất bắt được người chỉ được nêu bằng tên trong văn xuôi — và gặp đúng một ca biên: **Tì-ni-đa-lưu-chi `Q4111528` đã có mục ở `CH90-CE01_09-04`**, tức ở phụ lục Việt Nam, vốn nằm ngoài thống kê toàn cục. Phán quyết: **có tính**. Quy tắc 6 nói về việc không gọi một người là \"ứng viên bị loại\" khi họ đã có mục riêng ở nơi khác trong atlas, và phụ lục vẫn là atlas; việc nó bị loại khỏi thống kê là chuyện của phép đếm vùng, không phải chuyện của phép đếm người. Ông vì vậy không xuất hiện trong danh sách bị loại của nhóm này. Việc có nên chuyển ông từ phụ lục lên atlas chính vẫn để P4 quyết, như đã ghi ở trên.",
     "**Hai đính chính cho chính ghi chú này, và năm cái bẫy URL mới**",
@@ -761,7 +762,7 @@
     "**Ba việc ở tầng chapter, ghi lại cho P4**",
     "Một, **thể thức nêu ứng viên bị loại không ổn định và đang ở mức thấp**. Template §5 yêu cầu mỗi mục nêu đích danh ứng viên bị loại cùng ô; đo trên Chapter 5 **trước khi áp bình duyệt CE10**, tỉ lệ là CE06 8/12, CE07 12/12, CE08 6/12, CE09 4/12, CE10 3/12 — một đỉnh ở CE07 rồi bốn vòng dưới mức ấy, không phải một dốc đều. Sau khi áp bình duyệt, CE10 lên 5/12, trong đó hai mục nêu tên chỉ để nói người ấy không đủ điều kiện. Đây không phải lỗi của một nhóm, nên phải xử ở tầng chapter chứ không vá từng mục. Nhóm CE10 bù bằng một khối riêng liệt kê người bị cắt ở Ghi chú biên tập, nhưng đó là bù chứ không phải thay.",
     "Hai, **mức bằng chứng `trực tiếp` từng mang hai nghĩa — đã xử xong.** Vòng này ghi nhận rằng nó được dùng vừa cho quan hệ người–người (thầy trò, đương thời) vừa cho quan hệ **văn bản** (đọc thẳng tác phẩm người trước), và nghĩa văn bản mới là nghĩa chiếm đa số: trong **19 dòng `trực tiếp`** của nhóm CE10 lúc ấy, chỉ khoảng ba dòng chỉ người thật sự gặp nhau. Ca xa nhất là `CH05-CE10-12 · Gerbert` kế thừa `CH05-CE06-12 · Boethius` qua khoảng bốn trăm hai mươi năm. Đo trên toàn atlas chính thì diện rộng hơn nhiều: **346 trên 928 quan hệ, 37,3%**, mang nhãn ấy. `CONTRIBUTING.md` nay có định nghĩa (quy tắc 9 và khối \"Quy ước mức bằng chứng\"), và định nghĩa chọn nghĩa người–người: `trực tiếp` đòi tiếp xúc chứng minh được **và** đời hai người chồng lấn; đích không phải một con người thì luôn là `qua trường phái`. Áp định nghĩa ấy đã hạ **152** quan hệ, đưa `trực tiếp` toàn atlas xuống **194 (21,3%)** và nhóm CE10 từ 19 xuống **7**. Ca Gerbert ← Boethius nằm trong số bị hạ. Bốn cạnh đích-là-ID còn lại không chồng đời đều ở Chapter 1 và đều được giữ có chủ đích, vì trường `năm:` của chúng ghi **trị vì** chứ không phải sinh–mất: Ashurnasirpal II ↔ Shalmaneser III là cha–con, Shamshi-Adad I ↔ Zimri-Lim là hai đối thủ cùng thời. Việc còn lại: **76 đích văn bản tự do có nêu tên người** vẫn giữ `trực tiếp` chờ xác minh từng ca — mỗi ca đòi hai phép kiểm, người ấy có chồng đời không và tiếp xúc có nguồn không, nên không gộp vào một lượt quét được.",
-    "Ba, **tỉ lệ phần trăm trích trong ghi chú biên tập mục rữa mỗi khi thêm một nhóm**. Mỗi vòng mới đổi mẫu số, nên một con số viết ở thì hiện tại sẽ sai sau vòng sau mà không lint nào bắt được. Vòng này tìm thấy hai ca đã rữa và sửa theo cách không rữa lại được: con số của ô Châu Mỹ bỏ hẳn đi, và `23,4%` của khối lĩnh vực CE09 được ghi thành \"toàn atlas **khi ấy**\". Quy ước nên giữ từ đây: con số trong ghi chú biên tập phải tự khai nó đo ở thời điểm nào, hoặc không nêu số. Và quy ước ấy đã được áp ngược vào chính vòng đặt ra nó: hai con số toàn cục còn ở thì hiện tại — `23,8%` ở khối người cai trị và `1,6% → 1,2%` ở khối thang đo Khúc Thừa Dụ — nay đều ghi kèm mốc \"245 mục atlas chính sau vòng CE10\"."
+    "Ba, **tỉ lệ phần trăm trích trong ghi chú biên tập mục rữa mỗi khi thêm một nhóm**. Mỗi vòng mới đổi mẫu số, nên một con số viết ở thì hiện tại sẽ sai sau vòng sau mà không lint nào bắt được. Vòng này tìm thấy hai ca đã rữa và sửa theo cách không rữa lại được: con số của ô Châu Mỹ bỏ hẳn đi, và `23,4%` của khối lĩnh vực CE09 được ghi thành \"toàn atlas **khi ấy**\". Quy ước nên giữ từ đây: con số trong ghi chú biên tập phải tự khai nó đo ở thời điểm nào, hoặc không nêu số. Và quy ước ấy đã được áp ngược vào chính vòng đặt ra nó: hai con số toàn cục còn ở thì hiện tại — `23,8%` ở khối người cai trị và `1,6% → 1,2%` ở khối thang đo Khúc Thừa Dụ — nay đều ghi kèm mốc \"245 mục atlas chính sau vòng CE10\". Một ngoại lệ, ghi luôn để khỏi phải xử lại: **con số `0,0%` không cần khai mốc đo**, vì nó không rữa âm thầm — ngày ô ấy có người thì cả khối lập luận quanh nó phải viết lại chứ không chỉ con số, nên cái sai sẽ tự lộ. Mọi con số khác, kể cả con số nhỏ, vẫn theo quy ước trên."
    ],
    "groups": [
     {
@@ -2401,6 +2402,13 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "Hình ảnh pharaoh trong văn hoá hậu thế · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH01-BCE14_12-09",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH01-BCE14_12-09 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -5464,6 +5472,13 @@
      "evidence": "qua trường phái",
      "raw": "CH03-BCE04-01 · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH03-BCE04-09",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE04-09 · kế thừa · qua trường phái",
+     "undetermined": false
     }
    ],
    "group": "BCE06",
@@ -6180,6 +6195,13 @@
      "evidence": "qua trường phái",
      "raw": "Dân tộc chí học hiện đại · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH03-BCE02-04",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE02-04 · kế thừa · qua trường phái",
+     "undetermined": false
     }
    ],
    "group": "BCE05",
@@ -6330,6 +6352,13 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "CH03-BCE01-04 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH03-BCE04-02",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE04-02 · phản bác · qua trường phái",
      "undetermined": false
     }
    ],
@@ -6633,6 +6662,13 @@
      "evidence": "qua trường phái",
      "raw": "Mao Trạch Đông (毛澤東) · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH04-CE03-11",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE03-11 · kế thừa · qua trường phái",
+     "undetermined": false
     }
    ],
    "group": "BCE05",
@@ -6718,6 +6754,13 @@
      "relation": "kế thừa",
      "evidence": "suy đoán học giả",
      "raw": "Hệ hành chính tỉnh La Mã · kế thừa · suy đoán học giả",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE03-05",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE03-05 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -8074,6 +8117,13 @@
      "evidence": "qua trường phái",
      "raw": "CH03-BCE02-03 · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH03-BCE02-08",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH03-BCE02-08 · kế thừa · qua trường phái",
+     "undetermined": false
     }
    ],
    "group": "BCE03",
@@ -8537,6 +8587,13 @@
      "evidence": "trực tiếp",
      "raw": "CH03-BCE03-10 · kế thừa · trực tiếp",
      "undetermined": false
+    },
+    {
+     "target": "CH04-CE01-10",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE01-10 · kế thừa · qua trường phái",
+     "undetermined": false
     }
    ],
    "group": "BCE03",
@@ -8772,6 +8829,13 @@
      "evidence": "trực tiếp",
      "raw": "CH03-BCE01-06 · kế thừa · trực tiếp",
      "undetermined": false
+    },
+    {
+     "target": "CH04-CE05-12",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-12 · kế thừa · qua trường phái",
+     "undetermined": false
     }
    ],
    "group": "BCE02",
@@ -8857,6 +8921,13 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "Thiên văn học Hồi giáo và Copernicus · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE02-05",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE02-05 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -9085,6 +9156,13 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "Ngôn ngữ học so sánh châu Âu thế kỷ 19 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE02-04",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE02-04 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -9777,6 +9855,13 @@
      "evidence": "qua trường phái",
      "raw": "Lý thuyết luật tự nhiên tới Grotius và Locke · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH04-CE02-10",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE02-10 · kế thừa · qua trường phái",
+     "undetermined": false
     }
    ],
    "group": "BCE01",
@@ -10083,6 +10168,13 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "Mishnah, Talmud và Do Thái giáo rabbi · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE01-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE01-01 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -10457,6 +10549,13 @@
      "evidence": "qua trường phái",
      "raw": "Seneca và Khắc kỷ La Mã · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH04-CE01-05",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE01-05 · kế thừa · qua trường phái",
+     "undetermined": false
     }
    ],
    "group": "BCE01",
@@ -10613,6 +10712,13 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "Thần học Kitô giáo và Cải cách Tin Lành · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH04-CE02-09",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE02-09 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -11263,6 +11369,13 @@
      "evidence": "qua trường phái",
      "raw": "Thể chính sử một triều ở Đông Á · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH04-CE05-10",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH04-CE05-10 · kế thừa · qua trường phái",
+     "undetermined": false
     }
    ],
    "group": "CE01",
@@ -11774,6 +11887,13 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "Y học Byzantine, Hồi giáo và châu Âu tới Vesalius · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE09-06",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE09-06 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -12700,6 +12820,13 @@
      "evidence": "qua trường phái",
      "raw": "CH04-CE04-05 · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH05-CE06-03",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE06-03 · kế thừa · qua trường phái",
+     "undetermined": false
     }
    ],
    "group": "CE03",
@@ -12828,6 +12955,13 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "Đại số Hồi giáo và lý thuyết số châu Âu qua Fermat · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE09-04",
+     "relation": "tương đồng độc lập",
+     "evidence": "suy đoán học giả",
+     "raw": "CH05-CE09-04 · tương đồng độc lập · suy đoán học giả",
      "undetermined": false
     }
    ],
@@ -13509,6 +13643,13 @@
      "evidence": "qua trường phái",
      "raw": "Thế cân bằng Rome–Ba Tư tới thế kỷ 7 · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH05-CE06-03",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE06-03 · kế thừa · qua trường phái",
+     "undetermined": false
     }
    ],
    "group": "CE04",
@@ -13805,6 +13946,13 @@
      "evidence": "qua trường phái",
      "raw": "Chữ Ge'ez có nguyên âm hoá · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH05-CE06-09",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE06-09 · kế thừa · qua trường phái",
+     "undetermined": false
     }
    ],
    "group": "CE04",
@@ -13883,6 +14031,13 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "Phật giáo Duy thức ở Đông Á và Tây Tạng · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE07-06",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE07-06 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -14274,6 +14429,13 @@
      "evidence": "qua trường phái",
      "raw": "Huyền học Kitô giáo qua Pseudo-Dionysius · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH05-CE09-10",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE09-10 · kế thừa · qua trường phái",
+     "undetermined": false
     }
    ],
    "group": "CE05",
@@ -14416,6 +14578,13 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "Truyền thống dân luật châu Âu · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE06-01",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE06-01 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -14574,6 +14743,13 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "CH90-CE01_09-04 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE06-07",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE06-07 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -14965,7 +15141,7 @@
     "Không áp dụng"
    ],
    "ideas": "Năm 528, một năm sau khi lên ngôi, ông lập một hội đồng mười người rà toàn bộ luật La Mã tích tụ gần một nghìn năm; Tribonianus khi ấy là một ủy viên, và từ năm 530 mới đứng đầu hội đồng soạn *Digesta*. Kết quả gồm bốn phần — Codex, Digesta, Institutiones và các Novellae ban về sau — mà hậu thế gọi chung là Corpus Juris Civilis. Riêng phần Digesta nén khoảng hai nghìn cuốn của các luật gia cổ điển xuống một bộ, và chính nó giữ gần như toàn bộ những gì ngày nay còn biết về họ. Bộ ấy được đọc lại ở Bologna thế kỷ 11 và thành nền của truyền thống dân luật lục địa châu Âu.",
-   "why": "Ứng viên cùng thời là Tribonianus, người thật sự chủ trì việc biên soạn, và Theodora. Tribonianus bị loại vì luận điểm trùng hoàn toàn với mục này. Justinianus được chọn theo độ bền (b) và counterfactual (d): rà luật là một quyết định chính trị, và không có quyền lực tập trung ấy thì khối luật rời rạc khó được đóng thành một bộ dùng lại được. Phần tái chiếm Ý và Bắc Phi thì ngắn hạn và rất đắt, nên không phải lý do chọn.",
+   "why": "Ứng viên cùng thời là Tribonianus, người chủ trì việc biên soạn, và Theodora. Tribonianus bị loại vì luận điểm trùng với mục này; Theodora theo (b), vì ảnh hưởng của bà nằm ở quyết định triều đình chứ không ở thiết chế. Justinianus được chọn theo độ bền (b) và counterfactual (d): rà luật là một quyết định chính trị, và không có quyền lực tập trung ấy thì khối luật rời rạc khó được đóng thành một bộ dùng lại được. Phần tái chiếm Ý và Bắc Phi thì ngắn hạn và rất đắt, nên không phải lý do chọn.",
    "sources": "Corpus Juris Civilis; Procopius, Lịch sử các cuộc chiến và Dật sử; Caroline Humfress, trong The Cambridge Companion to the Age of Justinian (Cambridge University Press, 2005).",
    "inherits": [
     {
@@ -15121,6 +15297,13 @@
      "evidence": "qua trường phái",
      "raw": "Hình mẫu \"vua công chính\" trong văn chương Ba Tư và Ả Rập · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH05-CE07-02",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE07-02 · kế thừa · qua trường phái",
+     "undetermined": false
     }
    ],
    "group": "CE06",
@@ -15182,6 +15365,13 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "Hiểu biết hiện đại về thiên văn Ấn Độ trước thế kỷ 5 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE07-08",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE07-08 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -15539,6 +15729,13 @@
      "evidence": "qua trường phái",
      "raw": "Bi ký Orkhon thế kỷ 8 · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH05-CE10-08",
+     "relation": "tương đồng độc lập",
+     "evidence": "suy đoán học giả",
+     "raw": "CH05-CE10-08 · tương đồng độc lập · suy đoán học giả",
+     "undetermined": false
     }
    ],
    "group": "CE06",
@@ -15593,6 +15790,13 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "Vương quyền Angkor · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE09-01",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "CH05-CE09-01 · kế thừa · suy đoán học giả",
      "undetermined": false
     }
    ],
@@ -15651,10 +15855,17 @@
      "undetermined": false
     },
     {
-     "target": "Chaucer, Jean de Meun và các bản dịch Consolatio sang ngôn ngữ bản địa",
+     "target": "CH05-CE09-10",
      "relation": "kế thừa",
      "evidence": "qua trường phái",
-     "raw": "Chaucer, Jean de Meun và các bản dịch Consolatio sang ngôn ngữ bản địa · kế thừa · qua trường phái",
+     "raw": "CH05-CE09-10 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE10-12",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE10-12 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -15889,6 +16100,13 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "Chế độ luật lệnh ở Nhật Bản, Triều Tiên và Việt Nam · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE07-11",
+     "relation": "tương đồng độc lập",
+     "evidence": "trực tiếp",
+     "raw": "CH05-CE07-11 · tương đồng độc lập · trực tiếp",
      "undetermined": false
     }
    ],
@@ -16153,7 +16371,7 @@
     "Không áp dụng"
    ],
    "ideas": "Etymologiae gom phần học thuật cổ điển ông với tới được thành một bộ sắp theo chủ đề, lối giải thích xuyên suốt là truy nguyên từ — việc chia thành quyển là do Braulio, học trò ông, làm sau, còn con số hai mươi có lẽ của khâu sao chép: ông tin rằng biết gốc một từ là biết bản chất của vật mà từ ấy gọi tên. Phương pháp đó sai, nhưng kết quả là một bộ bách khoa bao trùm ngữ pháp, y học, luật, địa lý và nông nghiệp — và với phần lớn Tây Âu năm thế kỷ sau, nó là chỗ gần nhất với một thư viện. Gần một nghìn bản chép tay còn lại, rất lớn với văn bản trung cổ sớm.",
-   "why": "Gregorius thành Tours đã được chấm ở nhóm CE06 nên không phải ứng viên bị loại của nhóm này; mục này không nêu được ứng viên cùng ô nào khác trong thế kỷ 7. Isiđôrô được chọn theo tính nguyên bản (c) hiểu theo nghĩa tư liệu — cùng tiêu chuẩn atlas đã dùng cho Wulfila: nhiều đoạn của tác giả cổ điển ngày nay còn lại chỉ vì ông chép. Giá trị nằm ở chỗ không thay thế được chứ không ở phát kiến, và mục này nói rõ như vậy thay vì khen quá lời.",
+   "why": "Gregorius thành Tours đã được chấm và bị loại ở suất 12 của nhóm CE06; mục này không nêu được ứng viên cùng ô nào khác trong thế kỷ 7. Isiđôrô được chọn theo tính nguyên bản (c) hiểu theo nghĩa tư liệu — cùng tiêu chuẩn atlas đã dùng cho Wulfila: nhiều đoạn của tác giả cổ điển ngày nay còn lại chỉ vì ông chép. Giá trị nằm ở chỗ không thay thế được chứ không ở phát kiến, và mục này nói rõ như vậy thay vì khen quá lời.",
    "sources": "Isidore of Seville, The Etymologies, bản dịch Stephen A. Barney và nhóm (Cambridge University Press, 2006); Jacques Fontaine, Isidore de Séville (Brepols, 2000).",
    "inherits": [
     {
@@ -16184,6 +16402,13 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "Phục hưng Carolingian · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE08-07",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE08-07 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -16245,6 +16470,13 @@
      "relation": "phản bác",
      "evidence": "qua trường phái",
      "raw": "Nyāya và Mīmāṃsā (qua tranh luận đối kháng) · phản bác · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE08-11",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE08-11 · phản bác · qua trường phái",
      "undetermined": false
     }
    ],
@@ -16308,6 +16540,13 @@
      "evidence": "qua trường phái",
      "raw": "Đế quốc Thổ Phồn thế kỷ 8–9 · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH05-CE08-10",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE08-10 · kế thừa · qua trường phái",
+     "undetermined": false
     }
    ],
    "group": "CE07",
@@ -16369,6 +16608,13 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "Ngành giải mã chữ Maya thế kỷ 20 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE09-12",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "CH05-CE09-12 · kế thừa · suy đoán học giả",
      "undetermined": false
     }
    ],
@@ -16492,6 +16738,13 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "Phong trào dịch thuật Hy Lạp–Ả Rập · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE10-11",
+     "relation": "phản bác",
+     "evidence": "qua trường phái",
+     "raw": "CH05-CE10-11 · phản bác · qua trường phái",
      "undetermined": false
     }
    ],
@@ -16623,6 +16876,13 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "Hệ toà án Ottoman và Mughal · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE09-07",
+     "relation": "phản bác",
+     "evidence": "suy đoán học giả",
+     "raw": "CH05-CE09-07 · phản bác · suy đoán học giả",
      "undetermined": false
     }
    ],
@@ -17174,6 +17434,13 @@
      "evidence": "qua trường phái",
      "raw": "Ngành giải mã bi ký Maya thế kỷ 20 · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH05-CE09-12",
+     "relation": "tương đồng độc lập",
+     "evidence": "suy đoán học giả",
+     "raw": "CH05-CE09-12 · tương đồng độc lập · suy đoán học giả",
+     "undetermined": false
     }
    ],
    "group": "CE08",
@@ -17235,6 +17502,13 @@
      "relation": "kế thừa",
      "evidence": "suy đoán học giả",
      "raw": "Yaśovarman I và việc dời đô về Yaśodharapura 889 · kế thừa · suy đoán học giả",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE10-06",
+     "relation": "tương đồng độc lập",
+     "evidence": "suy đoán học giả",
+     "raw": "CH05-CE10-06 · tương đồng độc lập · suy đoán học giả",
      "undetermined": false
     }
    ],
@@ -17581,6 +17855,13 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "Thuật ngữ y học và triết học Ả Rập về sau · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH05-CE10-02",
+     "relation": "kế thừa",
+     "evidence": "trực tiếp",
+     "raw": "CH05-CE10-02 · kế thừa · trực tiếp",
      "undetermined": false
     }
    ],
@@ -19085,6 +19366,13 @@
      "evidence": "qua trường phái",
      "raw": "Khương Tăng Hội (康僧會) · kế thừa · qua trường phái",
      "undetermined": false
+    },
+    {
+     "target": "CH90-CE01_09-08",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH90-CE01_09-08 · kế thừa · qua trường phái",
+     "undetermined": false
     }
    ],
    "group": "CE01_09",
@@ -19212,6 +19500,13 @@
      "relation": "kế thừa",
      "evidence": "qua trường phái",
      "raw": "CH90-CE10_14-01 · kế thừa · qua trường phái",
+     "undetermined": false
+    },
+    {
+     "target": "CH90-CE01_09-06",
+     "relation": "kế thừa",
+     "evidence": "qua trường phái",
+     "raw": "CH90-CE01_09-06 · kế thừa · qua trường phái",
      "undetermined": false
     }
    ],
@@ -20086,6 +20381,13 @@
      "relation": "kế thừa",
      "evidence": "suy đoán học giả",
      "raw": "CH90-CE15_18-03 · kế thừa · suy đoán học giả",
+     "undetermined": false
+    },
+    {
+     "target": "CH90-CE15_18-10",
+     "relation": "kế thừa",
+     "evidence": "suy đoán học giả",
+     "raw": "CH90-CE15_18-10 · kế thừa · suy đoán học giả",
      "undetermined": false
     }
    ],

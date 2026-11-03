@@ -90,6 +90,17 @@ Vì sao chọn cách đọc chặt: ba mức này đo **đường truyền**, n�
 
 **Hiện trạng cần dọn**, đo lúc viết điều này. Trong 346 quan hệ `trực tiếp`: **183 có đích là văn bản tự do** chứ không phải một mục trong atlas, phần lớn thuộc nhóm 2 theo định nghĩa trên. Trong 163 quan hệ đích-là-ID còn lại, **50 cặp không chồng đời** — xa nhất `CH05-CE09-02 → CH02-BCE06-03` cách **1251 năm**, rồi `CH05-CE09-02 → CH03-BCE04-04` cách 1057 năm và `CH04-CE03-10 → CH02-BCE06-02` cách 716 năm. Lint mù trước cả nhóm này: nó chỉ báo nghịch niên đại khi người tác động sinh sau khi người kia đã mất, nên một `trực tiếp` "đúng thứ tự" mà cách nhau mười thế kỷ vẫn qua sạch.
 
+**Đích hỗn hợp: hạ mức, không tách dòng.** Một dòng quan hệ ghi *"Alcuin xứ York và cải cách
+học thuật Carolingian"* có hai đích khác loại trong một dòng — một con người và một phong trào
+định chế. Vòng bình duyệt đề xuất tách mỗi ca như thế làm hai dòng, để vế người giữ `trực tiếp`
+còn vế định chế xuống `qua trường phái`. **Đã cân nhắc và bác**, vì trần 3 dòng không cho làm
+đều tay: trong 15 ca được đề xuất tách, đo 2026-11-03 chỉ **6 ca còn chỗ**, 9 ca hết chỗ. Tách
+6 và bỏ 9 là xử cùng một vấn đề theo hai cách tuỳ chỗ còn slot, tức biến một ràng buộc kỹ thuật
+thành một phán đoán nội dung. Quyết định: **đích hỗn hợp luôn lấy mức của vế yếu nhất** —
+trong thực tế là `qua trường phái` theo điều 2. Khi *viết mới*, đừng tạo ra đích hỗn hợp ngay
+từ đầu: nếu vế người đáng `trực tiếp` thì cho nó một dòng riêng, còn nếu không đủ chỗ thì vế
+người thuộc về thân mục chứ không thuộc về dòng quan hệ.
+
 **Không thêm mức thứ tư.** Phương án tách nghĩa bằng một mức `qua văn bản` mới đã được cân nhắc và gác lại: đổi `EVIDENCE_LEVELS` trong `atlaslib/common.py` kéo theo lint, thống kê và cả sáu chapter cùng lúc. Việc ấy chỉ đáng làm **sau** khi đã có định nghĩa, không phải thay cho nó.
 
 **Quy ước tiêu chí (a) phạm vi** — đo **trong mạng lưới tiếp xúc tồn tại ở thời điểm ấy**, không đo trên bản đồ thế giới hiện đại.
@@ -103,6 +114,22 @@ Viết ra rồi thì Yikʼin Chan Kʼawiil (`CH05-CE08-12`) đứng được b�
 1. **Bốn tiêu chí (a)–(d) được chấm trong hệ quy chiếu của track đang xét.** Cùng một tiêu chí cho hai kết quả khác nhau ở hai track **không phải mâu thuẫn**, nhưng mục nào rơi vào tình huống đó thì **phải nói ra hệ quy chiếu**, nếu không người đọc chỉ thấy hai file xếp hạng ngược nhau. Ca đang có: `CH05-CE10-05` Khúc Thừa Dụ và `CH90-CE10_14-01` Ngô Quyền.
 2. **Một nhân vật Việt Nam đạt thang đo toàn cầu thì ở mạch chính, và vẫn được phụ lục nhắc tới.** Hai track không loại trừ nhau; lint cố tình chỉ báo `INFO` khi trùng tên hoặc trùng Wikidata giữa hai bên. Khi điều đó xảy ra, phụ lục dùng đúng câu của quy tắc 6: *"có mục riêng ở `CHxx-…` nên không phải ứng viên bị loại"*.
 3. **Liên kết mạch chính → phụ lục dùng ID; liên kết phụ lục → mạch chính giữ nguyên văn bản tự do.** Tiền lệ chiều thuận: `CH05-CE08-09 → CH90-CE19_20-01`. Chiều ngược **cố ý không nâng** (`ch90.md:148` vẫn ghi `- Khúc Thừa Dụ · kế thừa · qua trường phái` dù ông đã có `CH05-CE10-05`): một cạnh có ID ở chiều ngược sẽ kéo phụ lục vào mạng lưới mà `render.py` cố tình cô lập khỏi thống kê toàn cục. Muốn đổi điều này thì phải sửa `render.py` trước, không sửa file nội dung trước.
+
+**Quy ước `Ảnh hưởng tới`: top-3, không phải đồ thị đầy đủ.** Trần 3 dòng khiến mọi mục có
+nhiều hậu duệ tư tưởng buộc phải cắt; đo 2026-11-03 còn **91 cạnh ở 40 mục** không ghi lại
+được, Plato và Aristotle mỗi người thiếu 6. Hệ quả cho người viết: (1) đừng coi dòng INFO
+"liên kết một chiều" của lint là việc tồn đọng — phần lớn không đóng được; (2) khi phải chọn
+giữ dòng nào, **một đích có ID hơn một đích văn bản tự do**, vì chỉ đích có ID mới sinh cạnh
+trong đồ thị (tiền lệ: `CH05-CE06-12` gỡ dòng "Chaucer, Jean de Meun…" để nhận
+`CH05-CE09-10` và `CH05-CE10-12`, phần bị gỡ chuyển xuống Ghi chú biên tập); (3) chiều đọc
+đầy đủ là gom `Kế thừa từ` của mọi mục sau, không phải đọc `Ảnh hưởng tới` của mục trước.
+
+**Đếm chữ TRƯỚC khi thêm chữ.** `lint.py` chỉ cảnh báo khi **vượt** trần (`ideas` > 130,
+`why` > 104), nên nó không bảo vệ được mục đang **đúng** trần — và **18 mục đang ở đúng trần**,
+52 mục nằm trong 2 chữ của trần (đo 2026-11-03) — Taharqa, Patañjali, Galen, Boethius, Umar,
+Đường Thái Tông, Mpu Sindok, Võ Nguyên Giáp trong số đó. Trước khi thêm một mệnh đề vào bất kỳ trường nào, **đếm
+trường đó trước**; nếu đã chạm trần thì phải cắt trước khi cộng. Chỗ không cắt được thì viết
+xuống `## Ghi chú biên tập` — khối ấy không có trần chữ.
 
 **Khối minh bạch bắt buộc.** Mỗi chapter phải mở đầu `## Ghi chú biên tập` bằng khối "Cách chapter này được soạn" (nguyên văn ở cuối `prompts/atlas-prompt.md`). Build không kiểm tự động — đây là việc của người biên tập.
 
