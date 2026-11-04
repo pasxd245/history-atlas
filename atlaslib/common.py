@@ -5,6 +5,7 @@ Chỉ dùng thư viện chuẩn. Python 3.11+.
 from __future__ import annotations
 
 import json
+import os
 import re
 import sys
 import time
@@ -25,8 +26,18 @@ PROJECT = {
     "reference_year": 2026,
     "max_per_group": 12,
     "living_min_influence_years": 10,
-    "user_agent": "history-atlas/0.1 (research)",
 }
+
+# Mặc định UA trung lập, không kèm liên hệ — quyết định có chủ ý (reviews/README.md, 2026-11-03).
+# Chính sách Wikimedia khuyến nghị kèm liên hệ; nếu muốn, đặt HISTORY_ATLAS_CONTACT khi chạy
+# (nên là URL repo công khai, KHÔNG phải email cá nhân). Không bao giờ ghi cứng vào repo.
+def user_agent() -> str:
+    contact = os.environ.get("HISTORY_ATLAS_CONTACT", "").strip()
+    ver = PROJECT["version"].lstrip("v")
+    return f"history-atlas/{ver} (personal research project" + (f"; {contact})" if contact else ")")
+
+
+PROJECT["user_agent"] = user_agent()
 
 # ---- PLAN §4: chapter → nhóm. Nhóm = 1 thế kỷ, trước TK 8 TCN gộp 3 thế kỷ.
 CHAPTERS = [
@@ -125,7 +136,9 @@ def year_label(y: int | None) -> str:
     return f"{abs(y)} TCN" if y < 0 else str(y)
 
 
-_APPROX_RE = re.compile(r"\b(k\.|kh\.|khoảng|c\.|ca\.|circa|fl\.|~|≈)", re.I)
+# `~` và `≈` không phải ký tự chữ nên không đứng sau \b được: để chúng trong nhóm \b(...)
+# thì "~500 – 430 TCN" không bao giờ được nhận là xấp xỉ. Tách ra ngoài \b.
+_APPROX_RE = re.compile(r"\b(?:k\.|kh\.|khoảng|c\.|ca\.|circa|fl\.)|[~≈]", re.I)
 
 
 # 'năm:' ghi theo thời gian trị vì hoặc theo floruit — các số trong đó không phải
@@ -208,8 +221,8 @@ def slug(s: str) -> str:
 class Http:
     """GET với User-Agent rõ ràng, giãn cách tối thiểu, tôn trọng Retry-After, backoff mũ."""
 
-    def __init__(self, user_agent: str = PROJECT["user_agent"], min_interval: float = 1.0, max_retries: int = 4, verbose: bool = True):
-        self.ua, self.min_interval, self.max_retries, self.verbose = user_agent, min_interval, max_retries, verbose
+    def __init__(self, user_agent: str | None = None, min_interval: float = 1.0, max_retries: int = 4, verbose: bool = True):
+        self.ua, self.min_interval, self.max_retries, self.verbose = user_agent or PROJECT["user_agent"], min_interval, max_retries, verbose
         self._last = 0.0
 
     def get(self, url: str, accept: str = "*/*", timeout: int = 60) -> tuple[int, bytes, dict]:

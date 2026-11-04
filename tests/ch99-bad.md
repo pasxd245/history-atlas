@@ -2,7 +2,7 @@
 **Giới thiệu chapter (≤ 100 chữ):** File kiểm thử: mỗi nhân vật cài một hoặc nhiều lỗi để chắc rằng lint bắt được. Chạy `python build.py --lint-only tests/ch99-bad.md` — kỳ vọng mã thoát 1 và danh sách lỗi dưới đây.
 
 ## Nhóm BCE06 · TK 6 TCN (600 – 501 TCN)
-**Bối cảnh (≤ 60 chữ):** Nhóm hợp lệ nhưng chứa 11 nhân vật và nhiều lỗi metadata.
+**Bối cảnh (≤ 60 chữ):** Nhóm hợp lệ nhưng chứa 14 mục (13 ID + 1 ID trùng), vượt trần 12 và nhiều lỗi metadata.
 
 ### CH02-BCE06-01 · Người A (A)
 `năm: 551–479 TCN | nơi: X | vùng: Đông Á | lĩnh vực: Triết học | độ tin cậy niên đại: Cao | wikidata: Q4604 | câu hỏi lớn: Con người`
@@ -81,7 +81,7 @@
 
 ### CH02-BCE06-07 · G (G)
 `năm: 560–480 TCN | nơi: X | vùng: Nam Á | lĩnh vực: Luật | độ tin cậy niên đại: Cao | wikidata: ? | câu hỏi lớn: Con người`
-**Tư tưởng / đóng góp chính (~100 chữ):** Đệm cho đủ 11 người. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa.
+**Tư tưởng / đóng góp chính (~100 chữ):** Đệm cho đủ 13 người. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident sunt in culpa.
 **Vì sao chọn (~80 chữ):** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur sunt in culpa qui.
 **Kế thừa từ:**
 - Không xác định
@@ -121,7 +121,27 @@
 
 ### CH02-BCE06-11 · K (K)
 `năm: 560–480 TCN | nơi: X | vùng: Nam Á | lĩnh vực: Luật | độ tin cậy niên đại: Cao | wikidata: ? | câu hỏi lớn: Con người`
-**Tư tưởng / đóng góp chính (~100 chữ):** Người thứ 11 → nhóm vượt quota. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.
+**Tư tưởng / đóng góp chính (~100 chữ):** Đệm. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.
+**Vì sao chọn (~80 chữ):** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur sunt in culpa qui.
+**Kế thừa từ:**
+- Không xác định
+**Ảnh hưởng tới:**
+- Không xác định
+**Nguồn:** test.
+
+### CH02-BCE06-12 · L (L)
+`năm: 560–480 TCN | nơi: X | vùng: Nam Á | lĩnh vực: Luật | độ tin cậy niên đại: Cao | wikidata: ? | câu hỏi lớn: Con người`
+**Tư tưởng / đóng góp chính (~100 chữ):** Đệm. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.
+**Vì sao chọn (~80 chữ):** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur sunt in culpa qui.
+**Kế thừa từ:**
+- Không xác định
+**Ảnh hưởng tới:**
+- Không xác định
+**Nguồn:** test.
+
+### CH02-BCE06-13 · M (M)
+`năm: 560–480 TCN | nơi: X | vùng: Nam Á | lĩnh vực: Luật | độ tin cậy niên đại: Cao | wikidata: ? | câu hỏi lớn: Con người`
+**Tư tưởng / đóng góp chính (~100 chữ):** Người thứ 13 → nhóm vượt trần 12 (PROJECT max_per_group). Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.
 **Vì sao chọn (~80 chữ):** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur sunt in culpa qui.
 **Kế thừa từ:**
 - Không xác định

@@ -1,6 +1,6 @@
 [project]
 name = "history-atlas"
-version = "0.2.0"
+version = "0.0.1rc1"   # PEP 440 của "v0.0.1-rc.1" (atlaslib/common.py PROJECT["version"]); test giữ hai chỗ khớp nhau
 description = "Atlas nhân vật ảnh hưởng — những người định hình tư tưởng nhân loại, 2000 TCN – 2026"
 readme = "README.md"
 license = { file = "LICENSE" }
@@ -13,13 +13,16 @@ dependencies = [
 
 # Hai gói dưới đây code CÓ xử lý thiếu và chạy tiếp ở mức thấp hơn
 # (atlaslib/render.py:18 và fetch_images.py:65 đều bắt ImportError),
-# nhưng bản dựng chuẩn của dự án — 191 ảnh nhúng — cần cả hai.
+# nhưng bản dựng chuẩn của dự án — 356 ảnh nhúng — cần cả hai.
 # Lệnh cài chuẩn vì vậy là `uv sync --extra images`.
 [project.optional-dependencies]
 images = [
     "PyYAML>=6.0",   # đọc content/images.yaml đầy đủ thay vì parser tối giản
     "Pillow>=10",    # thu nhỏ ảnh gốc khi Commons không trả thumbnail
 ]
+
+[dependency-groups]
+dev = ["pytest>=8"]
 
 # Đây là ứng dụng chạy bằng script (build.py, fetch_images.py ở gốc), không
 # phải thư viện để phát hành, nên uv không cần dựng và cài chính nó vào venv.

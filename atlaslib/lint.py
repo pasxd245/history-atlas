@@ -180,9 +180,12 @@ def lint_chapter(ch: dict, all_persons: dict[str, dict], images: dict | None, re
                     if t == p["id"]:
                         rep.error(pw, "liên kết tới chính mình")
             # ảnh nhúng phải có giấy phép (§6.2)
-            if images and p["id"] in images.get("images", {}):
-                im = images["images"][p["id"]]
-                if im.get("embed") and not im.get("license"):
+            # data/images.json là dict phẳng {pid: {status, license, file, …}} do fetch_images.py
+            # ghi. Bản trước đọc images["images"][pid]["embed"] — một khoá không tồn tại — nên
+            # cổng này chưa bao giờ chạy.
+            im = (images or {}).get(p["id"])
+            if isinstance(im, dict):
+                if im.get("status") == "embedded" and not im.get("license"):
                     rep.error(pw, f"ảnh {im.get('file')} được nhúng nhưng không có thông tin giấy phép")
 
 
@@ -272,6 +275,40 @@ def lint_global(chapters: list[dict], all_persons: dict[str, dict], rep: Report)
                 continue
             if src["born"] is not None and dst["died"] is not None and src["born"] > dst["died"]:
                 rep.warn(p["id"], f"nghịch niên đại: {src_id} sinh {src['born']} sau khi {dst_id} mất {dst['died']} — không thể '{l.get('relation')}'")
+    direct_no_overlap(all_persons, rep)
+
+
+def _life(p: dict) -> tuple[int, int] | None:
+    """Khoảng đời (sinh, mất) dùng được để so chồng đời; None nếu không đủ dữ kiện.
+    'trị vì …' / 'hoạt động …' không phải năm sinh–mất: khoảng trị vì nằm TRONG đời, nên
+    hai khoảng trị vì không giao nhau không chứng minh hai đời không giao nhau — bỏ qua."""
+    if p["born"] is None or C.NON_BIO_YEARS_RE.match((p.get("years_raw") or "").strip()):
+        return None
+    d = p["died"] if p["died"] is not None else (C.PROJECT["reference_year"] if p["alive"] else None)
+    return (p["born"], d) if d is not None else None
+
+
+def direct_no_overlap(all_persons: dict[str, dict], rep: Report) -> None:
+    """CONTRIBUTING quy tắc 9: `trực tiếp` = tiếp xúc người với người, nên hai đời phải giao nhau.
+    Vòng bình duyệt ch06–ch11 (2026-11-04) tìm ra 12 cạnh vi phạm điều này bằng phép cộng trừ năm —
+    loại lỗi máy bắt được, nên bắt bằng máy. Chồng đời là điều kiện CẦN chứ không ĐỦ: cạnh qua
+    được kiểm này vẫn có thể không có tiếp xúc nào được ghi nhận."""
+    seen = set()
+    for p in all_persons.values():
+        edges = [(l["target"], p["id"], l) for l in p["inherits"]] + [(p["id"], l["target"], l) for l in p["influences"]]
+        for src_id, dst_id, l in edges:
+            if l.get("evidence") != "trực tiếp" or (src_id, dst_id) in seen:
+                continue
+            src, dst = all_persons.get(src_id), all_persons.get(dst_id)
+            if not src or not dst:
+                continue
+            a, b = _life(src), _life(dst)
+            if not a or not b:
+                continue
+            if a[1] < b[0] or b[1] < a[0]:
+                seen.add((src_id, dst_id))
+                rep.warn(p["id"], f"`trực tiếp` giữa hai đời không giao nhau: {src_id} ({C.year_label(a[0])}–{C.year_label(a[1])}) "
+                                  f"→ {dst_id} ({C.year_label(b[0])}–{C.year_label(b[1])}) — hạ xuống `qua trường phái` (quy tắc 9)")
 
 
 def lint_wikidata(all_persons: dict[str, dict], rep: Report, http: C.Http | None = None):
@@ -370,10 +407,11 @@ def write_reports(chapters: list[dict], rep: Report, reports_dir: Path):
     tags = tuple(f"ch{ch['no']:02d}" for ch in chapters if ch["no"] is not None)
     tags += tuple(f"CH{ch['no']:02d}-" for ch in chapters if ch["no"] is not None)
     rest = [(l, w, m) for l, w, m in rep.items if not w.startswith(tags)]
-    if rest:
-        lines = ["LINT toàn atlas — mục không thuộc chapter riêng nào", ""]
-        lines += [f"[{l}] {w}: {m}" for level in ("ERROR", "WARN", "INFO") for l, w, m in rest if l == level]
-        (reports_dir / "lint-atlas.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    # Luôn ghi, kể cả khi rỗng: chỉ ghi khi có mục thì một lần chạy sạch để lại
+    # nguyên báo cáo cũ (từng báo "365 mục, Châu Đại Dương (1)" khi thực tế là 377 và 2).
+    lines = ["LINT toàn atlas — mục không thuộc chapter riêng nào", ""]
+    lines += [f"[{l}] {w}: {m}" for level in ("ERROR", "WARN", "INFO") for l, w, m in rest if l == level] or ["(không có mục nào)"]
+    (reports_dir / "lint-atlas.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 def run(chapters: list[dict], images: dict | None, online: bool, reports_dir: Path, http: C.Http | None = None) -> Report:

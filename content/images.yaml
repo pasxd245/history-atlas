@@ -11,7 +11,11 @@
 # sensitive:                             # nhân vật nhạy cảm về hình tượng (aniconism) — không dùng chân dung, chỉ link
 #   - "Q9458"                            # Muhammad (Q-ID) hoặc ID nhân vật trong atlas
 
-overrides: {}
+overrides:
+  CH09-CE19-11:
+    skip: true
+    note: "ảnh Commons duy nhất là chân dung tưởng tượng vẽ năm 2008, không phải chân dung đương thời — gỡ theo quy ước 'mỏng thì được, sai thì không'; chỉ để link tham khảo"
+
 
 sensitive:
   - "Q9458"

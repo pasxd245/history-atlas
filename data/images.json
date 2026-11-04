@@ -6466,22 +6466,11 @@
   "how": "thumbnail 500px"
  },
  "CH09-CE19-11": {
-  "status": "embedded",
-  "title": "File:Whiti.jpg",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Whiti.jpg",
-  "note": "",
-  "via": "api",
-  "author": "G. Sherriff",
-  "license": "Public domain",
-  "license_url": "",
-  "artwork_date": "18 July 2008 (original upload date)",
-  "object_name": "Whiti",
-  "attribution_required": false,
-  "caption": "Chân dung Te Whiti o Rongomai, Whiti, 2008 (tưởng tượng). Ảnh: Wikimedia Commons, Public domain.",
-  "imaginary": true,
-  "file": "CH09-CE19-11.jpg",
-  "width": 500,
-  "how": "thumbnail 500px"
+  "status": "skipped",
+  "title": null,
+  "source_url": null,
+  "note": "ảnh Commons duy nhất là chân dung tưởng tượng vẽ năm 2008, không phải chân dung đương thời — gỡ theo quy ước 'mỏng thì được, sai thì không'; chỉ để link tham khảo",
+  "via": null
  },
  "CH09-CE19-12": {
   "status": "embedded",
