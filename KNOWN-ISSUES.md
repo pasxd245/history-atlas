@@ -188,7 +188,6 @@ Các phần phụ mà nhật ký patch cố ý không áp, cùng các việc REA
 
 - `CH06-CE14-04` Petrarca: thêm **Lovato dei Lovati** vào Ghi chú như ứng viên đã xét (phải tra niên đại và Q-ID trước). — `reviews/patch-ch06-review-notes.md` #34
 - `CH06-CE13-12` Sundiata: hạ dòng "Hiến chương Kurukan Fuga trong luật tục Mande" xuống `suy đoán học giả`; nếu hạ thì phải nêu giả thuyết của ai. — `reviews/patch-ch06-review-notes.md` #29
-- `CH08-CE17-05` Locke: thay đích Hobbes bằng **Filmer** (*Two Treatises* nêu đích danh Filmer). — `reviews/patch-ch08-review-notes.md` #12 · `reviews/review-ch08-CE17.md` #05
 - `CH08-CE17-06` Mulla Sadra: thêm dòng `Shaykh Bahaʾi · kế thừa · trực tiếp` (Kế thừa từ đã đủ 3 dòng). — `reviews/patch-ch08-review-notes.md` #15
 - `CH08-CE18-03` Kant: đổi loại Hume → Kant sang `kế thừa`; giữ hay đổi `phản bác` ở #5. — `reviews/patch-ch08-review-notes.md` #24 · `reviews/review-ch08-CE18.md` #5
 - `CH09-CE19-03` Marx: `phản bác` → `tổng hợp`. — `reviews/patch-ch09-review-notes.md` #3
