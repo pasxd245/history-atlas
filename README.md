@@ -2,9 +2,9 @@
 
 Website tĩnh, mở được bằng `file://`, deploy được lên GitHub Pages/Vercel. Nội dung do model viết dưới dạng Markdown theo template cố định; `build.py` lint, đối chiếu Wikidata và sinh HTML. Ảnh lấy từ Wikimedia Commons theo chính sách giấy phép cứng.
 
-Trạng thái: **v0.0.1-rc.1** — đủ **11/11 chapter · 33/33 nhóm · 377 nhân vật** ở atlas chính, cộng **40 nhân vật** ở phụ lục Việt Nam. Build: 0 lỗi. PLAN đã duyệt nằm trong Project "[Z] MY-PJ" (`claude/history-atlas-PLAN.md`).
+Trạng thái: **v0.0.1** — đủ **11/11 chapter · 33/33 nhóm · 377 nhân vật** ở atlas chính, cộng **40 nhân vật** ở phụ lục Việt Nam. Build: 0 lỗi.
 
-> **Đây là bản ứng viên, không phải bản hoàn chỉnh.** Mọi chapter đã qua bình duyệt độc lập ít nhất một vòng (ch06–ch11 vòng 1 ngày 2026-11-04: 14 báo cáo, toàn bộ mục BẮT BUỘC đã xử lý). Còn lại là các mục NÊN / CÂN NHẮC chờ Owner quyết. Xem *Việc còn lại* ở cuối file.
+> **Bản đầu tiên, không phải bản hoàn chỉnh.** Mọi chapter đã qua bình duyệt độc lập ít nhất một vòng (ch06–ch11 vòng 1 ngày 2026-11-04: 14 báo cáo, toàn bộ mục BẮT BUỘC đã xử lý). Còn lại là các mục NÊN / CÂN NHẮC chờ Owner quyết. Xem *Việc còn lại* ở cuối file.
 
 ## Bản chất và giới hạn của nội dung
 
@@ -21,11 +21,21 @@ Bản đầy đủ của các tuyên bố này nằm ở `overview.html` (mục 
 
 ## Giấy phép
 
-Mã nguồn và văn xuôi của dự án: **MIT** (xem `LICENSE`).
+Repo này trộn ba loại vật liệu khác nhau nên giấy phép cũng tách ba:
 
-Ba nhóm KHÔNG thuộc MIT, giữ nguyên giấy phép riêng: **ảnh** trong `assets/img/` (Public domain / CC0 / CC BY-SA, từng ảnh liệt kê ở `credits.html`), **thư viện bên thứ ba** trong `assets/` (`LICENSE-mermaid.txt`, `LICENSE-d3.txt`), và **dữ liệu Wikidata** (CC0). Chi tiết ở phần PHẠM VI cuối `LICENSE`.
+| Phần | Giấy phép | Tệp |
+|---|---|---|
+| **Mã nguồn** — `build.py`, `fetch_images.py`, `atlaslib/`, `tests/`, cấu hình | MIT | `LICENSE` |
+| **Nội dung** — `content/`, `reviews/`, `prompts/`, các `.md` ở gốc, văn xuôi trong HTML | CC BY-SA 4.0 | `LICENSE-CONTENT` |
+| **Ảnh** — `assets/img/` | giữ giấy phép gốc của từng ảnh trên Commons (Public domain / CC0 / CC BY / CC BY-SA) | từng ảnh ở `credits.html` |
+
+Ngoài ra: **thư viện bên thứ ba** trong `assets/` (`LICENSE-mermaid.txt` MIT, `LICENSE-d3.txt` ISC) và **dữ liệu Wikidata** (CC0).
+
+Chọn CC BY-SA cho nội dung vì repo đang nhúng ảnh CC BY-SA, nên ShareAlike là lựa chọn ít gây xung đột nhất. Giấy phép cho bạn quyền dùng lại; nó **không** bảo đảm nội dung đúng — đọc *Bản chất và giới hạn* ở trên và `KNOWN-ISSUES.md` trước đã.
 
 Đóng góp: xem `CONTRIBUTING.md`.
+
+> **Về các trích dẫn `PLAN §…`.** README, `CONTRIBUTING.md` và trang `credits.html` dẫn tới `PLAN` theo số mục (§5, §6.2, §7.1…). Đó là **tài liệu thiết kế nội bộ, không công bố trong repo này** — nó ghi vì sao các ngưỡng và quy ước lại đặt như vậy. Các trích dẫn được giữ nguyên để dấu vết quyết định không đứt; bạn không cần `PLAN` để dựng hay để đọc atlas, nhưng cũng đừng mất công tìm file đó.
 
 ## Cây thư mục
 

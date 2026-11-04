@@ -1,0 +1,35 @@
+Giấy phép cho PHẦN NỘI DUNG của history-atlas
+=============================================
+
+Phạm vi: content/, reviews/, prompts/, các tệp .md ở thư mục gốc
+(README.md, CONTRIBUTING.md, KNOWN-ISSUES.md), và phần văn xuôi trong
+HTML do build.py dựng ra.
+
+KHÔNG thuộc phạm vi này:
+  - Phần mã nguồn — theo MIT, xem LICENSE.
+  - Ảnh trong assets/img/ — mỗi ảnh giữ giấy phép riêng trên Wikimedia
+    Commons; xem credits.html để biết tác giả và giấy phép từng ảnh.
+  - Thư viện bên thứ ba trong assets/ — xem assets/LICENSE-*.txt.
+
+Bản quyền (c) 2026 xdevteamv2 — history-atlas
+
+Giấy phép: Creative Commons Attribution-ShareAlike 4.0 International
+(CC BY-SA 4.0).
+
+  Bản tóm tắt dễ đọc:  https://creativecommons.org/licenses/by-sa/4.0/deed.vi
+  Toàn văn pháp lý:    https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Tệp này KHÔNG chép lại toàn văn giấy phép — bản có hiệu lực là bản tại
+địa chỉ trên. Chép tay một văn bản pháp lý 7.000 chữ là cách dễ nhất để
+tạo ra một giấy phép sai khác bản gốc ở chỗ không ai để ý.
+
+Tóm tắt nghĩa vụ, không thay thế toàn văn:
+  - Ghi công: nêu tên dự án và dẫn lại giấy phép, nói rõ nếu có sửa đổi.
+  - Chia sẻ tương tự: bản phái sinh phải cùng CC BY-SA 4.0.
+  - Không thêm hạn chế pháp lý hay biện pháp kỹ thuật nào khác.
+
+LƯU Ý QUAN TRỌNG VỀ CHẤT LƯỢNG NỘI DUNG
+Toàn bộ văn xuôi do mô hình ngôn ngữ (Claude của Anthropic) soạn, không có
+nhà sử học nào viết hay bình duyệt. Giấy phép cho phép bạn dùng lại — nó
+KHÔNG bảo đảm nội dung đúng. Đọc phần giới hạn ở README.md và danh sách
+vấn đề còn mở ở KNOWN-ISSUES.md trước khi dùng lại ở đâu.

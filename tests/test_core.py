@@ -110,7 +110,9 @@ def test_user_agent_contact(monkeypatch):
     monkeypatch.setenv("HISTORY_ATLAS_CONTACT", "https://example.org/atlas")
     assert C.user_agent().endswith("; https://example.org/atlas)")
     monkeypatch.delenv("HISTORY_ATLAS_CONTACT")
-    assert "history-atlas/0.0.1-rc.1" in C.user_agent()
+    # Bám PROJECT["version"] chứ không ghim chuỗi: ghim thì mỗi lần bump phiên bản
+    # test đỏ mà không có lỗi thật nào.
+    assert C.user_agent().startswith(f"history-atlas/{C.PROJECT['version'].lstrip('v')} ")
 
 
 # ---------------------------------------------------------------- quy tắc 9

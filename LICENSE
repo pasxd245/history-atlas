@@ -24,27 +24,32 @@ SOFTWARE.
 PHẠM VI — ĐỌC KỸ
 ===========================================================================
 
-Giấy phép MIT ở trên áp dụng cho PHẦN DO DỰ ÁN NÀY TẠO RA:
+Giấy phép MIT ở trên áp dụng cho PHẦN MÃ NGUỒN do dự án này tạo ra:
 
-  - mã nguồn: build.py, fetch_images.py, atlaslib/, assets/app.js,
-    assets/style.css
-  - nội dung văn xuôi: content/*.md và HTML sinh ra từ đó
+  - mã nguồn: build.py, fetch_images.py, atlaslib/, tests/, assets/app.js,
+    assets/theme.js, assets/style.css, và các tệp cấu hình
   - dữ liệu sinh tự động: data/*.json, data/*.js
 
-KHÔNG áp dụng cho ba nhóm sau, vốn giữ nguyên giấy phép riêng:
+KHÔNG áp dụng cho bốn nhóm sau, vốn giữ nguyên giấy phép riêng:
 
-1. ẢNH trong assets/img/ — tải từ Wikimedia Commons, mỗi ảnh giữ giấy phép
+1. NỘI DUNG VĂN XUÔI — content/*.md, reviews/, prompts/, các tệp .md ở thư
+   mục gốc, và phần văn xuôi trong HTML sinh ra từ chúng — theo CC BY-SA 4.0,
+   xem LICENSE-CONTENT. Chọn ShareAlike vì dự án đang nhúng ảnh CC BY-SA.
+   (Trước v0.0.1 phần này cũng thuộc MIT.)
+
+2. ẢNH trong assets/img/ — tải từ Wikimedia Commons, mỗi ảnh giữ giấy phép
    gốc của nó (Public domain, CC0, hoặc CC BY-SA các phiên bản). Trang
    credits.html liệt kê từng ảnh kèm tác giả, giấy phép và link tệp gốc.
    Dùng lại ảnh thì phải theo giấy phép của chính ảnh đó, không phải MIT.
    Riêng ảnh CC BY-SA: nếu bạn tạo tác phẩm phái sinh TỪ ẢNH thì phần phái
    sinh đó phải chia sẻ theo cùng điều khoản.
 
-2. THƯ VIỆN BÊN THỨ BA trong assets/ — mermaid.min.js (MIT, kèm các thành
+3. THƯ VIỆN BÊN THỨ BA trong assets/ — mermaid.min.js (MIT, kèm các thành
    phần được đóng gói: DOMPurify, js-yaml, lodash-es, Cytoscape — xem
    assets/LICENSE-mermaid.txt và khối "Bundled license information" bên
    trong chính tệp) và d3.min.js (ISC, xem assets/LICENSE-d3.txt).
 
-3. DỮ LIỆU WIKIDATA dùng để đối chiếu niên đại và định danh — CC0.
+4. DỮ LIỆU WIKIDATA dùng để đối chiếu niên đại và định danh — CC0.
 
-Nói ngắn: mã và chữ của dự án là MIT; ảnh và thư viện thì không.
+Nói ngắn: mã của dự án là MIT; chữ là CC BY-SA 4.0; ảnh và thư viện giữ
+giấy phép riêng của chúng.
