@@ -4,9 +4,14 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Mục lục · Atlas nhân vật ảnh hưởng</title>
-<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/style.css?v=0.0.1-rc.1">
 <link rel="icon" href="favicon.ico" sizes="any">
 <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+<script>/* đặt theme trước khi vẽ: để sau sẽ nháy nền sáng một nhịp */
+try{var r=document.documentElement,t=localStorage.getItem("ha-theme");
+if(t==="light"||t==="dark")r.setAttribute("data-theme",t);
+if(localStorage.getItem("ha-reading")==="on")r.setAttribute("data-reading","on");}catch(e){}</script>
+<script defer src="assets/theme.js?v=0.0.1-rc.1"></script>
 
 </head>
 <body class="index">
@@ -63,9 +68,9 @@
   </nav>
   <div class="foot">417 nhân vật · bản dựng v0.0.1-rc.1<br><a id="open-new" href="overview.html" target="_blank">Mở trang hiện tại trong tab mới ↗</a></div>
 </aside>
-<main class="main"><div class="framebar"><button id="prev" title="Chapter trước" aria-label="Chapter trước">←</button><span id="crumb"></span><button id="next" title="Chapter sau" aria-label="Chapter sau">→</button></div><iframe id="frame" name="frame" src="overview.html" title="Nội dung"></iframe></main>
+<main class="main"><div class="framebar"><button id="prev" title="Chapter trước" aria-label="Chapter trước">←</button><span id="crumb"></span><button id="next" title="Chapter sau" aria-label="Chapter sau">→</button><span class="tools"><button type="button" class="toolbtn" data-toggle="theme" title="Giao diện sáng / tối / theo hệ thống">◐ Theo hệ thống</button><button type="button" class="toolbtn" data-toggle="reading" aria-pressed="false" title="Chế độ đọc: cột hẹp, giãn dòng, ẩn badge và ảnh">¶ Chế độ đọc</button></span></div><iframe id="frame" name="frame" src="overview.html" title="Nội dung"></iframe></main>
 <script src="data/persons.js"></script>
-<script src="assets/app.js"></script>
+<script src="assets/app.js?v=0.0.1-rc.1"></script>
 
 </body>
 </html>

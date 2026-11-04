@@ -5,7 +5,6 @@ import html
 import json
 import re
 from collections import Counter
-from pathlib import Path
 
 from . import common as C
 
@@ -24,7 +23,6 @@ except ImportError:  # fallback tối thiểu
         return "<p>" + t.replace("\n", "<br>") + "</p>"
 
 E = html.escape
-CSS_PATH = Path(__file__).resolve().parent / "style.css"
 
 
 # ============================================================ tiện ích
@@ -116,6 +114,9 @@ def mermaid_block(code: str, caption: str = "", names: str = "") -> str:
             f'<pre class="mermaid-src">{E(code)}</pre></figure>')
 
 
+ASSET_V = C.PROJECT["version"].lstrip("v")
+
+
 def page(title: str, body: str, depth: int, extra_head: str = "", body_class: str = "", scripts: str = "") -> str:
     rel = "../" * depth
     return f'''<!doctype html>
@@ -124,9 +125,14 @@ def page(title: str, body: str, depth: int, extra_head: str = "", body_class: st
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{E(title)} · {E(C.PROJECT["title"])}</title>
-<link rel="stylesheet" href="{rel}assets/style.css">
+<link rel="stylesheet" href="{rel}assets/style.css?v={ASSET_V}">
 <link rel="icon" href="{rel}favicon.ico" sizes="any">
 <link rel="apple-touch-icon" href="{rel}assets/img/apple-touch-icon.png">
+<script>/* đặt theme trước khi vẽ: để sau sẽ nháy nền sáng một nhịp */
+try{{var r=document.documentElement,t=localStorage.getItem("ha-theme");
+if(t==="light"||t==="dark")r.setAttribute("data-theme",t);
+if(localStorage.getItem("ha-reading")==="on")r.setAttribute("data-reading","on");}}catch(e){{}}</script>
+<script defer src="{rel}assets/theme.js?v={ASSET_V}"></script>
 {extra_head}
 </head>
 <body class="{body_class}">
@@ -149,6 +155,17 @@ MERMAID_SCRIPT = '''<script src="{rel}assets/mermaid.min.js"></script>
 </script>'''
 
 
+# Nút theme/reading. assets/theme.js đọc localStorage rồi vẽ lại nhãn nút theme và
+# aria-pressed của nút chế độ đọc; chữ ở đây chỉ là mặc định khi JS chưa chạy.
+# Nút theme không mang aria-pressed: nó có ba trạng thái, aria-pressed là nhị phân.
+TOOLS = ('<span class="tools">'
+         '<button type="button" class="toolbtn" data-toggle="theme"'
+         ' title="Giao diện sáng / tối / theo hệ thống">◐ Theo hệ thống</button>'
+         '<button type="button" class="toolbtn" data-toggle="reading" aria-pressed="false"'
+         ' title="Chế độ đọc: cột hẹp, giãn dòng, ẩn badge và ảnh">¶ Chế độ đọc</button>'
+         '</span>')
+
+
 def topnav(ch_no: int | None, chapters: list[dict], depth: int) -> str:
     rel = "../" * depth
     parts = [f'<a href="{rel}index.html" target="_top">☰ Mục lục</a>']
@@ -161,7 +178,7 @@ def topnav(ch_no: int | None, chapters: list[dict], depth: int) -> str:
             parts.append(f'<a href="{chapter_tag(nos[i+1])}.html">Ch.{nos[i+1]} {E(chapter_label(nos[i+1]))} →</a>')
     parts.append(f'<a href="{rel}overview.html">Overview</a>')
     parts.append(f'<a href="{rel}credits.html">Credits</a>')
-    return '<nav class="topnav">' + " · ".join(parts) + "</nav>"
+    return '<nav class="topnav">' + " · ".join(parts) + TOOLS + "</nav>"
 
 
 def footer(depth: int) -> str:
@@ -344,9 +361,9 @@ def render_index(chapters: list[dict], persons: dict) -> str:
   </nav>
   <div class="foot">{len(persons)} nhân vật · bản dựng {E(C.PROJECT["version"])}<br><a id="open-new" href="overview.html" target="_blank">Mở trang hiện tại trong tab mới ↗</a></div>
 </aside>
-<main class="main"><div class="framebar"><button id="prev" title="Chapter trước" aria-label="Chapter trước">←</button><span id="crumb"></span><button id="next" title="Chapter sau" aria-label="Chapter sau">→</button></div><iframe id="frame" name="frame" src="overview.html" title="Nội dung"></iframe></main>
+<main class="main"><div class="framebar"><button id="prev" title="Chapter trước" aria-label="Chapter trước">←</button><span id="crumb"></span><button id="next" title="Chapter sau" aria-label="Chapter sau">→</button>{TOOLS}</div><iframe id="frame" name="frame" src="overview.html" title="Nội dung"></iframe></main>
 <script src="data/persons.js"></script>
-<script src="assets/app.js"></script>'''
+<script src="assets/app.js?v={ASSET_V}"></script>'''
     return page("Mục lục", body, depth=0, body_class="index")
 
 

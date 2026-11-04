@@ -15,7 +15,7 @@ import pytest
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT))
 
-from atlaslib import common as C, lint as L, parse as P  # noqa: E402
+from atlaslib import common as C, lint as L, parse as P, render as R  # noqa: E402
 
 
 # ---------------------------------------------------------------- parse_years
@@ -145,3 +145,47 @@ def test_direct_edge_skips_reign_years():
     a = _p("CH05-CE10-01", 900, 920, years_raw="trị vì 900–920", influences=[("CH05-CE10-02", "trực tiếp")])
     b = _p("CH05-CE10-02", 930, 960)
     assert _direct_warns([a, b]) == []
+
+
+# ---------------------------------------------------------------- theme / reading mode
+
+CSS = (ROOT / "assets" / "style.css").read_text(encoding="utf-8")
+
+
+def _tokens(block: str) -> dict[str, str]:
+    return dict(re.findall(r"(--[\w-]+)\s*:\s*([^;]+);", block))
+
+
+def _block_after(selector: str) -> str:
+    """Thân khối CSS ngay sau `selector` (giả định không có ngoặc lồng bên trong)."""
+    i = CSS.index(selector) + len(selector)
+    j = CSS.index("{", i)
+    return CSS[j + 1 : CSS.index("}", j)]
+
+
+def test_dark_khai_bao_hai_lan_phai_giong_het_nhau():
+    """CSS thuần không gộp được @media với selector thường, nên khối dark phải viết hai
+    lần. Sửa một chỗ mà quên chỗ kia thì nút bấm lệch màu so với 'theo hệ thống'."""
+    auto = _tokens(_block_after(':root:not([data-theme="light"])'))
+    tay = _tokens(_block_after(':root[data-theme="dark"]'))
+    assert auto and tay, "không tìm thấy một trong hai khối dark"
+    assert auto == tay
+
+
+def test_moi_token_dark_deu_duoc_khai_bao_o_light():
+    """Token chỉ có ở dark sẽ không có giá trị khi quay lại light."""
+    light = _tokens(_block_after(":root"))
+    dark = _tokens(_block_after(':root[data-theme="dark"]'))
+    assert set(dark) <= set(light), f"token thiếu bản light: {sorted(set(dark) - set(light))}"
+
+
+def test_moi_trang_dat_theme_truoc_khi_ve():
+    """Script đặt data-theme phải nằm trong <head>, trước <body>: để sau thì nháy nền
+    sáng một nhịp rồi mới sang tối."""
+    html = R.page("T", "<p>x</p>", depth=0)
+    assert html.index("ha-theme") < html.index("<body")
+
+
+def test_nut_theme_va_reading_co_mat_tren_trang_chapter():
+    nav = R.topnav(2, [{"no": 2}, {"no": 3}], depth=1)
+    assert 'data-toggle="theme"' in nav and 'data-toggle="reading"' in nav

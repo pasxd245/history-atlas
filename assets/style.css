@@ -7,10 +7,20 @@
   --ev-truc-tiep: #1d6fb8; --ev-qua-truong-phai: #8a5f14; --ev-suy-doan-hoc-gia: #6b6b6b;
   --conf-cao: #216139; --conf-trung-binh: #7d560f; --conf-thap: #5f5f5f;
 }
+/* Dark khai báo hai lần: một cho "theo hệ thống", một cho nút bấm chọn tay.
+   CSS thuần không gộp được @media với selector thường. tests/test_core.py so hai khối
+   này phải khai báo y hệt nhau — sửa một chỗ mà quên chỗ kia thì test đỏ. */
 @media (prefers-color-scheme: dark) {
-  :root { --bg: #171512; --panel: #201d19; --ink: #ece7df; --muted: #a39b91; --line: #352f29;
-    --accent: #e0905c; --accent-soft: #3a2a1f; --chip: #2d2823; --chip-ink: #d8d0c5; --link: #8fbcea;
-    --conf-cao: #7fc79b; --conf-trung-binh: #e0b05a; --conf-thap: #a79e94; }
+  :root:not([data-theme="light"]) {
+  --bg: #171512; --panel: #201d19; --ink: #ece7df; --muted: #a39b91; --line: #352f29;
+  --accent: #e0905c; --accent-soft: #3a2a1f; --chip: #2d2823; --chip-ink: #d8d0c5; --link: #8fbcea;
+  --conf-cao: #7fc79b; --conf-trung-binh: #e0b05a; --conf-thap: #a79e94;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #171512; --panel: #201d19; --ink: #ece7df; --muted: #a39b91; --line: #352f29;
+  --accent: #e0905c; --accent-soft: #3a2a1f; --chip: #2d2823; --chip-ink: #d8d0c5; --link: #8fbcea;
+  --conf-cao: #7fc79b; --conf-trung-binh: #e0b05a; --conf-thap: #a79e94;
 }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
@@ -32,7 +42,9 @@ a.badge:hover { text-decoration: none; filter: brightness(.95); }
 .badge.alive { background: #1d6fb8; color: #fff; }
 .badge.legend-lbl { background: #5f4b8b; color: #fff; }
 .badge.year { background: var(--accent-soft); color: var(--accent); }
-.badge.bq { background: #e8eef5; color: #284b6d; } @media (prefers-color-scheme: dark) { .badge.bq { background: #263241; color: #bcd3ea; } }
+.badge.bq { background: #e8eef5; color: #284b6d; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .badge.bq { background: #263241; color: #bcd3ea; } }
+:root[data-theme="dark"] .badge.bq { background: #263241; color: #bcd3ea; }
 .badge.rel-ke-thua { background: var(--rel-ke-thua); color: #fff; } .badge.rel-tong-hop { background: var(--rel-tong-hop); color: #fff; }
 .badge.rel-phan-bac { background: var(--rel-phan-bac); color: #fff; } .badge.rel-tuong-dong-doc-lap { background: var(--rel-tuong-dong-doc-lap); color: #fff; }
 .badge.ev-truc-tiep { background: var(--ev-truc-tiep); color: #fff; } .badge.ev-qua-truong-phai { background: var(--ev-qua-truong-phai); color: #fff; } .badge.ev-suy-doan-hoc-gia { background: var(--ev-suy-doan-hoc-gia); color: #fff; }
@@ -176,9 +188,11 @@ body.index { display: grid; grid-template-columns: var(--sidebar-w) 1fr; height:
 
 /* Mục 5 — l1/l2 hardcode màu sáng, ở dark mode thành khối hồng chói trên nền tối. */
 @media (prefers-color-scheme: dark) {
-  .grid-groups a.l1 { background: #40301f; color: #e8cdb4; }
-  .grid-groups a.l2 { background: #6b472c; color: #f5e3d4; }
+  :root:not([data-theme="light"]) .grid-groups a.l1 { background: #40301f; color: #e8cdb4; }
+  :root:not([data-theme="light"]) .grid-groups a.l2 { background: #6b472c; color: #f5e3d4; }
 }
+:root[data-theme="dark"] .grid-groups a.l1 { background: #40301f; color: #e8cdb4; }
+:root[data-theme="dark"] .grid-groups a.l2 { background: #6b472c; color: #f5e3d4; }
 
 /* Mục 2 — gợi ý còn nội dung bên phải khi timeline phải cuộn ngang. */
 .mermaid-wrap { overscroll-behavior-x: contain;
@@ -214,3 +228,25 @@ body.index { display: grid; grid-template-columns: var(--sidebar-w) 1fr; height:
 .skip-link { position: absolute; left: -9999px; z-index: 100; padding: 10px 16px;
   background: var(--accent); color: #fff; border-radius: 0 0 8px 0; font-family: "Noto Sans", system-ui, sans-serif; }
 .skip-link:focus { left: 0; top: 0; }
+
+/* ============================================================ nút theme + reading mode
+   Cả hai bật bằng thuộc tính trên <html>, đặt bởi script inline trong <head> trước khi
+   vẽ (tránh nháy trắng). Trạng thái lưu ở localStorage, dùng chung giữa index.html và
+   trang trong iframe nhờ sự kiện `storage`. */
+.toolbtn { font: 600 .78rem/1 "Noto Sans", system-ui, sans-serif; color: var(--muted);
+  background: var(--chip); border: 1px solid var(--line); border-radius: 999px;
+  padding: .36em .7em; cursor: pointer; }
+.toolbtn:hover { color: var(--accent); border-color: var(--accent); }
+.toolbtn[aria-pressed="true"] { background: var(--accent-soft); color: var(--accent); border-color: var(--accent); }
+.topnav .tools { margin-left: auto; display: flex; gap: 6px; }
+
+/* Reading mode: bóp bề ngang về khoảng 34em cho dễ đọc, giãn dòng, và ẩn phần "bộ máy"
+   (badge metadata, ảnh chân dung, khung thẻ) để còn lại văn xuôi. Không ẩn topnav —
+   ẩn đi thì người đọc mắc kẹt, không bấm ra được. */
+:root[data-reading="on"] body:not(.index) { max-width: 36em; font-size: 1.06rem; line-height: 1.75; }
+:root[data-reading="on"] .badges,
+:root[data-reading="on"] figure.portrait { display: none; }
+:root[data-reading="on"] .person { grid-template-columns: 1fr; background: none; border: 0; border-top: 1px solid var(--line);
+  border-radius: 0; padding: 18px 0 0; }
+:root[data-reading="on"] .person .sec > b { color: var(--muted); }
+.framebar .tools { display: flex; gap: 6px; }

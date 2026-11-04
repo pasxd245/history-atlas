@@ -112,7 +112,16 @@
   }
   if (mb) mb.addEventListener("click", function () { setMenu(!body.classList.contains("menu-open")); });
   document.addEventListener("keydown", function (e) {
-    if (e.key === "Escape" && body.classList.contains("menu-open")) setMenu(false);
+    if (e.key === "Escape" && body.classList.contains("menu-open")) { setMenu(false); return; }
+    // ←/→ lật chapter. Chỉ bắt khi tiêu điểm đang ở document này; lúc tiêu điểm nằm
+    // trong iframe thì assets/theme.js bên trong trang chapter xử lý, vì keydown
+    // không vượt qua ranh giới iframe.
+    if (e.altKey || e.ctrlKey || e.metaKey || e.shiftKey) return;
+    if (e.key !== "ArrowLeft" && e.key !== "ArrowRight") return;
+    var el = document.activeElement;
+    if (el && (el.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(el.tagName))) return;
+    var b = e.key === "ArrowLeft" ? btnPrev : btnNext;
+    if (b && !b.disabled) { e.preventDefault(); b.click(); }
   });
   (mq.addEventListener ? mq.addEventListener.bind(mq, "change") : mq.addListener.bind(mq))(syncSidebar);
   syncSidebar();
