@@ -17,5 +17,33 @@ overrides:
     note: "ảnh Commons duy nhất là chân dung tưởng tượng vẽ năm 2008, không phải chân dung đương thời — gỡ theo quy ước 'mỏng thì được, sai thì không'; chỉ để link tham khảo"
 
 
+  CH02-BCE05-02:
+    skip: true
+    note: "Commons gắn mẫu Restrictions ita-mibac (hạn chế sao chụp di sản văn hoá Ý), ngoài giấy phép CC BY-SA 4.0. Owner quyết bỏ ảnh 2026-11-05"
+  CH05-CE07-02:
+    skip: true
+    note: "Commons gắn mẫu Restrictions insignia (huy hiệu có thể được luật ngoài bản quyền bảo hộ), ngoài giấy phép CC BY-SA 3.0. Owner quyết bỏ ảnh 2026-11-05"
+  CH09-CE19-03:
+    skip: true
+    note: "Commons gắn mẫu Restrictions communist (biểu tượng cộng sản bị một số nước hạn chế trưng bày), dù giấy phép là Public domain. Owner quyết bỏ ảnh 2026-11-05"
+  CH10-CE20-07:
+    skip: true
+    note: "Commons gắn mẫu Restrictions communist, dù giấy phép là Public domain. Owner quyết bỏ ảnh 2026-11-05"
+  CH11-CE21-07:
+    skip: true
+    note: "Commons gắn mẫu Restrictions personality (quyền hình ảnh của người còn sống, hạn chế ngoài giấy phép CC BY 2.0). Owner quyết bỏ ảnh 2026-11-05"
+  CH11-CE21-10:
+    skip: true
+    note: "Commons gắn mẫu Restrictions personality, ngoài giấy phép CC BY 4.0. Owner quyết bỏ ảnh 2026-11-05"
+  CH11-CE21-12:
+    skip: true
+    note: "Commons gắn mẫu Restrictions personality, ngoài giấy phép CC BY-SA 4.0. Owner quyết bỏ ảnh 2026-11-05"
+  CH90-CE19_20-07:
+    skip: true
+    note: "Commons gắn mẫu Restrictions cả personality lẫn communist, dù giấy phép là Public domain. Owner quyết bỏ ảnh 2026-11-05"
+  CH90-CE19_20-08:
+    skip: true
+    note: "Commons gắn mẫu Restrictions communist, dù giấy phép là Public domain. Owner quyết bỏ ảnh 2026-11-05"
+
 sensitive:
   - "Q9458"

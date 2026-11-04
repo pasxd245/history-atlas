@@ -66,7 +66,7 @@ uv sync --extra images
 uv run python build.py
 ```
 
-Gói bắt buộc là `markdown`. Extra `images` thêm `PyYAML` (đọc `images.yaml` đầy đủ hơn) và `Pillow` (thu nhỏ ảnh gốc khi Commons không trả thumbnail); thiếu hai gói này thì code vẫn chạy ở mức thấp hơn, nhưng bản dựng chuẩn với 356 ảnh nhúng thì cần. Không cần Node, không cần server.
+Gói bắt buộc là `markdown`. Extra `images` thêm `PyYAML` (đọc `images.yaml` đầy đủ hơn) và `Pillow` (thu nhỏ ảnh gốc khi Commons không trả thumbnail); thiếu hai gói này thì code vẫn chạy ở mức thấp hơn, nhưng bản dựng chuẩn với 355 ảnh nhúng thì cần. Không cần Node, không cần server.
 
 Trang **cố ý không gọi `fetch()`**: nội dung hiển thị qua `<iframe>`, dữ liệu tìm kiếm nạp bằng thẻ `<script src="data/persons.js">` — cả hai đều chạy được dưới `file://`. (`data/persons.json` 1,2 MB là sản phẩm cho công cụ khác, trang không đụng tới.) Một điểm **suy giảm đã biết** dưới `file://`: Chrome coi mỗi file là một origin riêng nên chặn đọc `contentWindow` của iframe, khiến việc bấm link **bên trong** khung nội dung không đồng bộ hash và menu trái — `assets/app.js:77` bắt lỗi ấy rồi bỏ qua, nên không có thông báo nào. Muốn nav đầy đủ thì chạy một server tĩnh:
 

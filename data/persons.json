@@ -6620,16 +6620,11 @@
    "chapter": 2,
    "file": "ch02.md",
    "image": {
-    "status": "review",
-    "title": "File:Busto di Parmenide (cropped).jpg",
-    "source_url": "https://commons.wikimedia.org/wiki/File:Busto_di_Parmenide_(cropped).jpg",
-    "note": "Restrictions: ita-mibac; giấy phép: CC BY-SA 4.0",
-    "via": "api",
-    "author": "Sergio Spolti",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "artwork_date": "2016-08-23 12:45:23",
-    "object_name": "Busto di Parmenide (cropped)"
+    "status": "skipped",
+    "title": null,
+    "source_url": null,
+    "note": "Commons gắn mẫu Restrictions ita-mibac (hạn chế sao chụp di sản văn hoá Ý), ngoài giấy phép CC BY-SA 4.0. Owner quyết bỏ ảnh 2026-11-05",
+    "via": null
    }
   },
   "CH02-BCE05-03": {
@@ -16665,16 +16660,11 @@
    "chapter": 5,
    "file": "ch05.md",
    "image": {
-    "status": "review",
-    "title": "File:Rashidun Caliphs Umar ibn Al-Khattāb - عُمر بن الخطّاب ثاني الخلفاء الراشدين.svg",
-    "source_url": "https://commons.wikimedia.org/wiki/File:Rashidun_Caliphs_Umar_ibn_Al-Khatt%C4%81b_-_%D8%B9%D9%8F%D9%85%D8%B1_%D8%A8%D9%86_%D8%A7%D9%84%D8%AE%D8%B7%D9%91%D8%A7%D8%A8_%D8%AB%D8%A7%D9%86%D9%8A_%D8%A7%D9%84%D8%AE%D9%84%D9%81%D8%A7%D8%A1_%D8%A7%D9%84%D8%B1%D8%A7%D8%B4%D8%AF%D9%8A%D9%86.svg",
-    "note": "Restrictions: insignia; giấy phép: CC BY-SA 3.0",
-    "via": "api",
-    "author": "Petermaleh",
-    "license": "CC BY-SA 3.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-    "artwork_date": "2013-05-07",
-    "object_name": "Rashidun Caliphs Umar ibn Al-Khattāb - عُمر بن الخطّاب ثاني الخلفاء الراشدين"
+    "status": "skipped",
+    "title": null,
+    "source_url": null,
+    "note": "Commons gắn mẫu Restrictions insignia (huy hiệu có thể được luật ngoài bản quyền bảo hộ), ngoài giấy phép CC BY-SA 3.0. Owner quyết bỏ ảnh 2026-11-05",
+    "via": null
    }
   },
   "CH05-CE07-03": {
@@ -28605,16 +28595,11 @@
    "chapter": 9,
    "file": "ch09.md",
    "image": {
-    "status": "review",
-    "title": "File:Karl Marx 001 restored.jpg",
-    "source_url": "https://commons.wikimedia.org/wiki/File:Karl_Marx_001_restored.jpg",
-    "note": "Restrictions: communist; giấy phép: Public domain",
-    "via": "api",
-    "author": "John Jabez Edwin Mayall",
-    "license": "Public domain",
-    "license_url": "",
-    "artwork_date": "before 24th August 1875",
-    "object_name": "Karl Marx 001 restored"
+    "status": "skipped",
+    "title": null,
+    "source_url": null,
+    "note": "Commons gắn mẫu Restrictions communist (biểu tượng cộng sản bị một số nước hạn chế trưng bày), dù giấy phép là Public domain. Owner quyết bỏ ảnh 2026-11-05",
+    "via": null
    }
   },
   "CH09-CE19-04": {
@@ -30017,16 +30002,11 @@
    "chapter": 10,
    "file": "ch10.md",
    "image": {
-    "status": "review",
-    "title": "File:Mao Tse Tung.jpg",
-    "source_url": "https://commons.wikimedia.org/wiki/File:Mao_Tse_Tung.jpg",
-    "note": "Restrictions: communist; giấy phép: Public domain",
-    "via": "api",
-    "author": "Chen Zhengqing (1917–1966)",
-    "license": "Public domain",
-    "license_url": "",
-    "artwork_date": "1950-11-10",
-    "object_name": "Mao Tse Tung"
+    "status": "skipped",
+    "title": null,
+    "source_url": null,
+    "note": "Commons gắn mẫu Restrictions communist, dù giấy phép là Public domain. Owner quyết bỏ ảnh 2026-11-05",
+    "via": null
    }
   },
   "CH10-CE20-08": {
@@ -31073,16 +31053,11 @@
    "chapter": 11,
    "file": "ch11.md",
    "image": {
-    "status": "review",
-    "title": "File:D810 4987 Tu Youyou, medicine (22945001843) (cropped).jpg",
-    "source_url": "https://commons.wikimedia.org/wiki/File:D810_4987_Tu_Youyou,_medicine_(22945001843)_(cropped).jpg",
-    "note": "Restrictions: personality; giấy phép: CC BY 2.0",
-    "via": "api",
-    "author": "Bengt Nyman from Vaxholm, Sweden",
-    "license": "CC BY 2.0",
-    "license_url": "https://creativecommons.org/licenses/by/2.0",
-    "artwork_date": "2015-12-06 15:05",
-    "object_name": "D810 4987 Tu Youyou, medicine (22945001843) (cropped)"
+    "status": "skipped",
+    "title": null,
+    "source_url": null,
+    "note": "Commons gắn mẫu Restrictions personality (quyền hình ảnh của người còn sống, hạn chế ngoài giấy phép CC BY 2.0). Owner quyết bỏ ảnh 2026-11-05",
+    "via": null
    }
   },
   "CH11-CE21-08": {
@@ -31324,16 +31299,11 @@
    "chapter": 11,
    "file": "ch11.md",
    "image": {
-    "status": "review",
-    "title": "File:2025-10-19 Buchmesse Maria Ressa (4).jpg",
-    "source_url": "https://commons.wikimedia.org/wiki/File:2025-10-19_Buchmesse_Maria_Ressa_(4).jpg",
-    "note": "Restrictions: personality; giấy phép: CC BY 4.0",
-    "via": "api",
-    "author": "Jaramo81",
-    "license": "CC BY 4.0",
-    "license_url": "https://creativecommons.org/licenses/by/4.0",
-    "artwork_date": "2025-10-19 13:00:38",
-    "object_name": "2025-10-19 Buchmesse Maria Ressa (4)"
+    "status": "skipped",
+    "title": null,
+    "source_url": null,
+    "note": "Commons gắn mẫu Restrictions personality, ngoài giấy phép CC BY 4.0. Owner quyết bỏ ảnh 2026-11-05",
+    "via": null
    }
   },
   "CH11-CE21-11": {
@@ -31489,16 +31459,11 @@
    "chapter": 11,
    "file": "ch11.md",
    "image": {
-    "status": "review",
-    "title": "File:MKr364751 Yuval Noah Harari (Frankfurter Buchmesse 2024).jpg",
-    "source_url": "https://commons.wikimedia.org/wiki/File:MKr364751_Yuval_Noah_Harari_(Frankfurter_Buchmesse_2024).jpg",
-    "note": "Restrictions: personality; giấy phép: CC BY-SA 4.0",
-    "via": "api",
-    "author": "Martin Kraft",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-    "artwork_date": "2024-10-16",
-    "object_name": "MKr364751 Yuval Noah Harari (Frankfurter Buchmesse 2024)"
+    "status": "skipped",
+    "title": null,
+    "source_url": null,
+    "note": "Commons gắn mẫu Restrictions personality, ngoài giấy phép CC BY-SA 4.0. Owner quyết bỏ ảnh 2026-11-05",
+    "via": null
    }
   },
   "CH90-BCE03_01-01": {
@@ -34104,16 +34069,11 @@
    "chapter": 90,
    "file": "ch90.md",
    "image": {
-    "status": "review",
-    "title": "File:Ho Chi Minh 1946.jpg",
-    "source_url": "https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_1946.jpg",
-    "note": "Restrictions: personality|communist; giấy phép: Public domain",
-    "via": "api",
-    "author": "Unknown author Unknown author",
-    "license": "Public domain",
-    "license_url": "",
-    "artwork_date": "circa 1946 date QS:P,+1946-00-00T00:00:00Z/9,P1480,Q5727902",
-    "object_name": "Ho Chi Minh 1946"
+    "status": "skipped",
+    "title": null,
+    "source_url": null,
+    "note": "Commons gắn mẫu Restrictions cả personality lẫn communist, dù giấy phép là Public domain. Owner quyết bỏ ảnh 2026-11-05",
+    "via": null
    }
   },
   "CH90-CE19_20-08": {
@@ -34176,16 +34136,11 @@
    "chapter": 90,
    "file": "ch90.md",
    "image": {
-    "status": "review",
-    "title": "File:Mr. Vo Nguyen Giap.jpg",
-    "source_url": "https://commons.wikimedia.org/wiki/File:Mr._Vo_Nguyen_Giap.jpg",
-    "note": "Restrictions: communist; giấy phép: Public domain",
-    "via": "api",
-    "author": "Unknown author Unknown author",
-    "license": "Public domain",
-    "license_url": "",
-    "artwork_date": "1957-05-12",
-    "object_name": "Mr. Vo Nguyen Giap"
+    "status": "skipped",
+    "title": null,
+    "source_url": null,
+    "note": "Commons gắn mẫu Restrictions communist, dù giấy phép là Public domain. Owner quyết bỏ ảnh 2026-11-05",
+    "via": null
    }
   },
   "CH90-CE19_20-09": {

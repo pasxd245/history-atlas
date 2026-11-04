@@ -529,7 +529,7 @@ def render_overview(chapters: list[dict], persons: dict, st: dict) -> str:
 
 
 def render_credits(chapters: list[dict], persons: dict, images: dict) -> str:
-    rows, review, nolic, none = [], [], [], []
+    rows, review, nolic, boqua, none = [], [], [], [], []
     for p in sorted(persons.values(), key=lambda x: (x["chapter"], x["group"], x["id"])):
         im = images.get(p["id"]) if images else None
         link = anchor_link(p["id"], persons, True)
@@ -538,18 +538,21 @@ def render_credits(chapters: list[dict], persons: dict, images: dict) -> str:
             rows.append(f'<tr><td><img src="assets/img/{E(im["file"])}" alt="" class="thumb"></td><td>{link}</td><td><a href="{E(im["source_url"])}" rel="noopener">{E(im["title"][5:])}</a></td><td>{E(im.get("author") or "—")}</td><td>{lic}{" <span class=badge>ghi công bắt buộc</span>" if im.get("attribution_required") else ""}</td><td class="small">{E(im.get("caption") or "")}</td></tr>')
         elif im and im.get("status") == "review":
             review.append(f'<li>{link} — <a href="{E(im["source_url"])}" rel="noopener">{E(im["title"])}</a>: {E(im.get("note") or "")}</li>')
+        elif im and im.get("status") == "skipped":
+            boqua.append(f'<li>{link} — {E(im.get("note") or "bỏ theo content/images.yaml")}</li>')
         elif im and im.get("status") == "no-license":
             nolic.append(f'<li>{link} — <a href="{E(im["source_url"])}" rel="noopener">{E(im["title"])}</a>: {E(im.get("note") or "không rõ giấy phép")}</li>')
         else:
             none.append(link)
     body = topnav(None, chapters, 0) + f'''
-<header class="chapter-head"><div class="kicker">Credits</div><h1>Ảnh &amp; giấy phép</h1><div class="meta">{len(rows)} ảnh nhúng · {len(review)} chờ xem xét · {len(nolic)} thiếu giấy phép · {len(none)} không có ảnh</div></header>
+<header class="chapter-head"><div class="kicker">Credits</div><h1>Ảnh &amp; giấy phép</h1><div class="meta">{len(rows)} ảnh nhúng · {len(review)} chờ xem xét · {len(nolic)} thiếu giấy phép · {len(boqua)} bỏ có chủ đích · {len(none)} không có ảnh</div></header>
 <div class="note"><p><b>Chính sách (PLAN §7.2).</b> Public domain / CC0: nhúng, vẫn ghi nguồn. CC BY / CC BY-SA: nhúng kèm tác giả, tên giấy phép có link, link tệp gốc và ghi chú "đã thu nhỏ". Ảnh có hạn chế quyền (quyền nhân thân, nhãn hiệu…): không nhúng tự động, chờ Owner. Thiếu hoặc không rõ giấy phép: không nhúng, chỉ đặt link tham khảo. Không có P18: link tới Wikipedia/Wikidata. Ảnh được tải về <code>assets/img/</code> (không hotlink) từ Wikimedia Commons theo P18 của <a href="https://www.wikidata.org" rel="noopener">Wikidata</a> (dữ liệu CC0). Override thủ công: <code>content/images.yaml</code>.</p></div>
 <div class="tbl-wrap"><table class="tbl">
 <thead><tr><th scope="col"><span class="vh">Ảnh</span></th><th scope="col">Nhân vật</th><th scope="col">Tệp gốc trên Commons</th><th scope="col">Tác giả</th><th scope="col">Giấy phép</th><th scope="col">Chú thích</th></tr></thead>
 <tbody>{"".join(rows) or '<tr><td colspan=6 class=muted>chưa có ảnh</td></tr>'}</tbody></table></div>
 {"<h2>Chờ Owner xem xét</h2><ul>" + "".join(review) + "</ul>" if review else ""}
 {"<h2>Thiếu hoặc không rõ giấy phép (không nhúng)</h2><ul>" + "".join(nolic) + "</ul>" if nolic else ""}
+{"<h2>Bỏ ảnh có chủ đích</h2><p class=small>Ảnh có tồn tại và giấy phép thường là dùng được, nhưng Owner quyết không nhúng. Lý do ghi ở <code>content/images.yaml</code> và chép lại dưới đây.</p><ul>" + "".join(boqua) + "</ul>" if boqua else ""}
 {"<h2>Không có ảnh (thiếu P18 hoặc chưa fetch)</h2><p class=small>" + " · ".join(none) + "</p>" if none else ""}
 <h2>Thư viện</h2><p class="small">Mermaid 11.4.1 (MIT, <code>assets/LICENSE-mermaid.txt</code>) · D3 7.9.0 (ISC, <code>assets/LICENSE-d3.txt</code>) · Python-Markdown. Không dùng CDN.</p>
 ''' + footer(0)

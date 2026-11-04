@@ -189,3 +189,21 @@ def test_moi_trang_dat_theme_truoc_khi_ve():
 def test_nut_theme_va_reading_co_mat_tren_trang_chapter():
     nav = R.topnav(2, [{"no": 2}, {"no": 3}], depth=1)
     assert 'data-toggle="theme"' in nav and 'data-toggle="reading"' in nav
+
+
+def test_credits_tach_anh_bo_co_chu_dich_khoi_nhom_thieu_P18():
+    """Ảnh bỏ có chủ đích có lý do ghi lại; xếp chung với 'thiếu P18 hoặc chưa fetch'
+    là nói sai và giấu mất lý do."""
+    persons = {
+        "CH01-BCE20_18-01": {"id": "CH01-BCE20_18-01", "chapter": 1, "group": "BCE20_18",
+                             "name_vi": "A", "slug": "a"},
+        "CH01-BCE20_18-02": {"id": "CH01-BCE20_18-02", "chapter": 1, "group": "BCE20_18",
+                             "name_vi": "B", "slug": "b"},
+    }
+    images = {
+        "CH01-BCE20_18-01": {"status": "skipped", "note": "lý do riêng của ca này"},
+        # CH01-BCE20_18-02 không có bản ghi → đúng nghĩa "không có ảnh"
+    }
+    html = R.render_credits([{"no": 1}], persons, images)
+    assert "1 bỏ có chủ đích · 1 không có ảnh" in html
+    assert "lý do riêng của ca này" in html, "lý do phải hiện ra, không chỉ đếm"
