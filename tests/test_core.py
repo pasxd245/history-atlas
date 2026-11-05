@@ -209,3 +209,14 @@ def test_credits_tach_anh_bo_co_chu_dich_khoi_nhom_thieu_P18():
     html = R.render_credits([{"no": 1}], persons, images)
     assert "1 bỏ có chủ đích · 1 không có ảnh" in html
     assert "lý do riêng của ca này" in html, "lý do phải hiện ra, không chỉ đếm"
+
+
+def test_uv_lock_khop_phien_ban_pyproject():
+    """`uv sync` tự viết lại uv.lock khi phiên bản lệch, nên lockfile cũ làm cây bẩn
+    ngay sau khi clone. Mọi lệnh trong dự án đều chạy `--frozen` nên uv không bao giờ
+    tự báo — phải kiểm ở đây."""
+    ver = tomllib.loads((ROOT / "pyproject.toml").read_text(encoding="utf-8"))["project"]["version"]
+    lock = (ROOT / "uv.lock").read_text(encoding="utf-8")
+    m = re.search(r'name = "history-atlas"\nversion = "([^"]+)"', lock)
+    assert m, "không tìm thấy mục history-atlas trong uv.lock"
+    assert m.group(1) == ver, f"uv.lock ghi {m.group(1)}, pyproject ghi {ver} — chạy `uv lock`"
