@@ -4,13 +4,19 @@
 >
 > Dự án này hỏi một câu về **AI**, không phải một câu về **lịch sử**: dưới một bộ ràng buộc chặt — trần chữ, từ vựng đóng, tiêu chí chọn công khai, lint tự động và một vòng bình duyệt — thì một mô hình ngôn ngữ viết được tới đâu, và hỏng ở đâu. Lịch sử tư tưởng ở đây là **vật liệu đem ra thử**, không phải sản phẩm được bảo chứng.
 >
-> Sử học là một ngành có phương pháp: đọc sử liệu gốc, phê phán nguồn, biết một luận điểm đang đứng ở đâu trong tranh luận chuyên môn, và chịu trách nhiệm trước đồng nghiệp trong ngành. **Không khâu nào trong số đó có ở đây.** Nên nói thẳng ba điều:
+> **Sử học là một ngành có phương pháp, và chính phương pháp ấy làm nên giá trị của nó.** Đọc sử liệu gốc trong ngôn ngữ của nó. Phê phán nguồn: ai viết, viết cho ai, giấu gì, lợi gì. Biết một luận điểm đang đứng ở đâu giữa những cách đọc đang tranh nhau. Rồi đặt tên mình dưới kết luận và chịu phản biện của đồng nghiệp trong ngành. Đó là công việc của nhiều năm, thường là của cả một đời, và nó là lý do một mệnh đề về quá khứ có thể đáng tin. **Atlas này không làm khâu nào trong số đó.**
+>
+> Câu trên không phải lời khiêm tốn xã giao. Nó là thứ chính dự án đo được. Vòng bình duyệt tìm ra đúng những lỗi mà chỉ mở văn bản gốc ra đọc mới thấy: mục Locke ghi *Two Treatises* phản bác Hobbes, trong khi quyển 1 của tác phẩm nhắm đích danh Robert Filmer và không nêu tên Hobbes ở đâu; mục Sor Juana nêu nhầm vị giám mục Puebla trong câu chuyện *Respuesta*, nêu một người đã mất trước đó hơn ba mươi năm. Và còn 334 dòng `[KHÔNG KIỂM ĐƯỢC]` nằm trong `reviews/`, trải 44 trên 91 báo cáo — những câu chỉ ngã ngũ được bằng sách in cùng một người đọc được chúng. **Mỗi lỗi như thế là một lần cho thấy vì sao phương pháp kia tồn tại.**
+>
+> Nên ba điều dưới đây không phải rào chắn pháp lý. Nó là chỗ dự án biết mình đang đứng:
 >
 > - **Đừng dùng thay cho việc nghiên cứu lịch sử.** Nó không thay được, và không nhằm thay.
 > - **Đừng trích dẫn nó làm chứng cứ** — trong bài vở, bài báo, bài viết, hay một cuộc tranh luận.
-> - **Đừng coi nó là tài liệu tham khảo.** Mục *Nguồn* của mỗi nhân vật là chỗ để đi tiếp, không phải chỗ để dừng lại.
+> - **Đừng coi nó là tài liệu tham khảo.** Mục *Nguồn* của mỗi nhân vật là chỗ để đi tiếp, không phải chỗ để dừng lại. Hãy đọc người đã bỏ đời ra viết chúng.
 >
-> Việc nó làm được: cho bạn một điểm khởi hành và một cái cớ để tò mò, rồi đẩy bạn tới nguồn thật. Và cho người làm AI một mẫu vật để xem mô hình viết hỏng kiểu gì khi bị ép vào ràng buộc — mọi chỗ hỏng tìm được đều ghi lại công khai ở `reviews/` và `KNOWN-ISSUES.md`, không xoá dấu.
+> Việc nó làm được: cho bạn một điểm khởi hành và một cái cớ để tò mò, rồi đẩy bạn tới nguồn thật. Và cho người làm AI một mẫu vật để xem mô hình viết hỏng kiểu gì khi bị ép vào ràng buộc — mọi chỗ hỏng tìm được đều ghi công khai ở `reviews/` và `KNOWN-ISSUES.md`, không xoá dấu.
+>
+> Nếu bạn làm nghiên cứu lịch sử và thấy một chỗ sai ở đây: chỗ sai ấy là của dự án, không phải của ngành bạn. Báo lại thì dự án khá lên — và cách dự án ghi nhận là sửa công khai, để nguyên vết sửa, chứ không lặng lẽ xoá.
 >
 > Mô tả trên ứng với bản hiện tại. Nếu sau này có chuyên gia thật bình duyệt thì đoạn này sẽ phải viết lại.
 
@@ -178,7 +184,7 @@ Hai điểm kỹ thuật lệch nhẹ so với PLAN §7.1 (không đụng §2):
 3. **Phép đếm Thích Nhất Hạnh** — so độ phủ đường truyền với `CH11-CE21-12` Harari để quyết việc chuyển từ phụ lục sang mạch chính. Là một phép đếm, không phải một cuộc tranh luận.
 4. **Hai ô vùng mỏng** — `Trung Á` 8/377 (vắng ở cả CE20 lẫn CE21), `Châu Đại Dương` còn 2 mục (`CH09-CE19-11`, `CH11-CE21-11`) sau khi quy tắc `vùng` chuyển Rutherford sang Châu Âu.
 5. **`ch01` thiên lệch vùng 79%** (Trung Đông/Bắc Phi 30/38); nhóm `BCE20_18` chỉ 1 vùng. Có thể là khoảng trống hồ sơ thật của giai đoạn 2000–1700 TCN — nhưng ch01 hiện **chưa có dòng nào nói điều đó**.
-6. **Vụn** — ~127 dòng `[KHÔNG KIỂM ĐƯỢC]` trong `reviews/` cần nguồn ngoại tuyến · `ch90/BCE03_01` chỉ 2 lĩnh vực · Mahāvīra `Q9422` P31 (giữ có chủ đích) · ch02 còn treo (Zarathustra, Tôn Tử, lỗ hổng từ vựng §5) · Tì-ni-đa-lưu-chi phụ lục → mạch chính.
+6. **Vụn** — 334 dòng `[KHÔNG KIỂM ĐƯỢC]` trong `reviews/` (44/91 báo cáo) cần nguồn ngoại tuyến · `ch90/BCE03_01` chỉ 2 lĩnh vực · Mahāvīra `Q9422` P31 (giữ có chủ đích) · ch02 còn treo (Zarathustra, Tôn Tử, lỗ hổng từ vựng §5) · Tì-ni-đa-lưu-chi phụ lục → mạch chính.
 
 - ~~**Giao diện đọc**~~ — xong 2026-11-05: nút chọn sáng / tối / theo hệ thống (trước đó chỉ bám `prefers-color-scheme`, không đổi được trên trang), chế độ đọc (cột 36em, giãn dòng, ẩn badge và ảnh — **nguồn luôn hiện**), phím `←` `→` lật chapter. Trạng thái lưu ở `localStorage`, dùng chung giữa `index.html` và trang trong iframe. URL của `style.css`/`app.js`/`theme.js` nay mang `?v=<phiên bản>` để người đọc cũ không dính cache sau mỗi lần phát hành.
 - **P5** Overview: timeline toàn cục + graph dòng chảy tư tưởng bằng D3, bộ lọc, thống kê xuyên vùng, (bản đồ).
