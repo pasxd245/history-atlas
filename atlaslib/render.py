@@ -184,10 +184,10 @@ def topnav(ch_no: int | None, chapters: list[dict], depth: int) -> str:
 def footer(depth: int) -> str:
     rel = "../" * depth
     return (f'<div class="footer">{E(C.PROJECT["title"])} · bản dựng {E(C.PROJECT["version"])} · HTML sinh bởi build.py từ content/*.md<br>'
-            f'<b>Văn xuôi do mô hình AI (Claude) soạn theo prompt cố định, chưa qua bình duyệt chuyên môn</b> — '
-            f'<a href="{rel}overview.html#ve-du-an">đọc giới hạn của dự án</a> · '
+            f'<b>Phép thử năng lực viết của AI, không phải công trình sử học. Đừng trích dẫn làm chứng cứ.</b> '
+            f'<a href="{rel}overview.html#ve-du-an">Đọc giới hạn của dự án</a> · '
             f'Dữ liệu danh tính/niên đại: <a href="https://www.wikidata.org" rel="noopener">Wikidata</a> (CC0) · '
-            f'Ảnh: <a href="{rel}credits.html">Credits</a> · Mã và văn bản: MIT</div>')
+            f'Ảnh: <a href="{rel}credits.html">Credits</a> · Mã: MIT · Nội dung: CC BY-SA 4.0</div>')
 
 
 # ============================================================ ảnh
@@ -473,7 +473,14 @@ def render_overview(chapters: list[dict], persons: dict, st: dict) -> str:
 <div class="meta">{st["total_persons"]} nhân vật · {n_main_ch}/{len(C.CHAPTERS)} chapter có dữ liệu{app_meta} · <span class="badge sample">P5 — bản khung</span> graph D3 có bộ lọc sẽ hoàn thiện ở P5</div></header>
 <section class="note" id="ve-du-an">
 <h2>Về dự án — đọc trước khi dùng</h2>
-<p><b>Đây là dự án nghiên cứu cá nhân, không phải bách khoa thư.</b> Mục đích là dựng một bản đồ có cấu trúc về dòng chảy tư tưởng để tự học và để thảo luận, không phải để trích dẫn như tài liệu tham khảo học thuật.</p>
+<p><b>Đây là một phép thử năng lực viết của mô hình ngôn ngữ, không phải một công trình sử học.</b> Câu hỏi mà dự án đặt ra là: dưới một bộ ràng buộc chặt — trần chữ, từ vựng đóng, tiêu chí chọn công khai, lint và một vòng bình duyệt — thì một mô hình ngôn ngữ viết được tới đâu, và hỏng ở đâu. Lịch sử tư tưởng ở đây là <b>vật liệu đem ra thử</b>, không phải sản phẩm được bảo chứng.</p>
+<p><b>Sử học là một ngành có phương pháp, và atlas này không làm theo phương pháp đó.</b> Nghiên cứu lịch sử tử tế đòi đọc sử liệu gốc, phê phán nguồn, biết một luận điểm đang đứng ở đâu trong tranh luận chuyên môn, và chịu trách nhiệm trước đồng nghiệp trong ngành. Không khâu nào trong số đó có ở đây. Vì vậy, nói thẳng ba điều:</p>
+<ul>
+<li><b>Đừng dùng thay cho việc nghiên cứu lịch sử.</b> Nó không thay được, và không nhằm thay.</li>
+<li><b>Đừng trích dẫn nó làm chứng cứ</b> — trong bài vở, bài báo, bài viết, hay một cuộc tranh luận.</li>
+<li><b>Đừng coi nó là tài liệu tham khảo.</b> Mục "Nguồn" là chỗ để bạn đi tiếp, không phải chỗ để dừng lại.</li>
+</ul>
+<p>Việc nó làm được: cho bạn một điểm khởi hành và một cái cớ để tò mò, rồi đẩy bạn tới nguồn thật. Và cho người làm AI một mẫu vật để xem mô hình viết hỏng kiểu gì khi bị ép vào ràng buộc — những chỗ hỏng tìm được đều ghi lại công khai, không xoá dấu. Mô tả trên ứng với bản này; nếu sau này có chuyên gia thật bình duyệt thì đoạn này sẽ phải viết lại.</p>
 <p><b>Phần văn xuôi do mô hình AI viết.</b> Toàn bộ phần "Tư tưởng / đóng góp chính", "Vì sao chọn", bối cảnh nhóm, giới thiệu chapter và ghi chú biên tập đều do mô hình ngôn ngữ (Claude của Anthropic) soạn theo một prompt cố định lưu tại <code>prompts/atlas-prompt.md</code>. Không có nhà sử học hay chuyên gia nào viết hoặc bình duyệt những đoạn này. Văn bản là <i>tổng hợp</i> do model thực hiện, không phải nghiên cứu sơ cấp.</p>
 <p><b>Phần nào KHÔNG do model quyết định.</b> Tên, năm sinh, năm mất, định danh nhân vật và liên kết ảnh được đối chiếu tự động với <a href="https://www.wikidata.org" rel="noopener">Wikidata</a> (CC0) bằng <code>build.py</code>; chênh lệch niên đại vượt ngưỡng sẽ bị báo và phải xử lý tay. Ảnh lấy từ Wikimedia Commons theo chính sách giấy phép cứng trong <code>fetch_images.py</code>. Cấu trúc chapter, từ vựng lĩnh vực/vùng/quan hệ và mọi ngưỡng kiểm tra là do người đặt ra.</p>
 <p><b>Về mục "Nguồn".</b> Mỗi nhân vật có 1–2 nguồn tham khảo do model liệt kê. Với nguồn có đường dẫn, sự tồn tại của trang đã được kiểm tự động trước khi đưa vào; với sách và mục từ bách khoa thì chỉ kiểm ở mức tên tài liệu. <b>Nội dung bên trong nguồn chưa được đối chiếu từng câu với phần văn xuôi.</b> Hãy coi mục Nguồn là điểm khởi đầu để tự kiểm tra, không phải bằng chứng đã được xác minh — trích dẫn sai hoặc bịa là lỗi đã biết của mô hình ngôn ngữ.</p>

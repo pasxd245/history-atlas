@@ -29,7 +29,17 @@ Tóm tắt nghĩa vụ, không thay thế toàn văn:
   - Không thêm hạn chế pháp lý hay biện pháp kỹ thuật nào khác.
 
 LƯU Ý QUAN TRỌNG VỀ CHẤT LƯỢNG NỘI DUNG
-Toàn bộ văn xuôi do mô hình ngôn ngữ (Claude của Anthropic) soạn, không có
-nhà sử học nào viết hay bình duyệt. Giấy phép cho phép bạn dùng lại — nó
-KHÔNG bảo đảm nội dung đúng. Đọc phần giới hạn ở README.md và danh sách
-vấn đề còn mở ở KNOWN-ISSUES.md trước khi dùng lại ở đâu.
+Dự án này là một PHÉP THỬ NĂNG LỰC VIẾT CỦA MÔ HÌNH NGÔN NGỮ, không phải
+một công trình sử học. Toàn bộ văn xuôi do mô hình (Claude của Anthropic)
+soạn; không có nhà sử học nào viết hay bình duyệt.
+
+Giấy phép cho bạn quyền dùng lại. Nó KHÔNG bảo đảm nội dung đúng, và quyền
+dùng lại không biến văn bản này thành nguồn dẫn được:
+
+  - đừng dùng thay cho việc nghiên cứu lịch sử;
+  - đừng trích dẫn làm chứng cứ;
+  - đừng coi là tài liệu tham khảo.
+
+Nếu bạn phát hành lại theo CC BY-SA, xin giữ nguyên cả lưu ý này — người
+nhận bản phái sinh cần biết văn bản đến từ đâu. Đọc README.md và
+KNOWN-ISSUES.md trước khi dùng lại ở đâu.

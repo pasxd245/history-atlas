@@ -1,5 +1,19 @@
 # history-atlas — Atlas nhân vật ảnh hưởng (2000 TCN – 2026)
 
+> ## Đọc trước đã: đây là phép thử năng lực viết của AI, không phải công trình sử học
+>
+> Dự án này hỏi một câu về **AI**, không phải một câu về **lịch sử**: dưới một bộ ràng buộc chặt — trần chữ, từ vựng đóng, tiêu chí chọn công khai, lint tự động và một vòng bình duyệt — thì một mô hình ngôn ngữ viết được tới đâu, và hỏng ở đâu. Lịch sử tư tưởng ở đây là **vật liệu đem ra thử**, không phải sản phẩm được bảo chứng.
+>
+> Sử học là một ngành có phương pháp: đọc sử liệu gốc, phê phán nguồn, biết một luận điểm đang đứng ở đâu trong tranh luận chuyên môn, và chịu trách nhiệm trước đồng nghiệp trong ngành. **Không khâu nào trong số đó có ở đây.** Nên nói thẳng ba điều:
+>
+> - **Đừng dùng thay cho việc nghiên cứu lịch sử.** Nó không thay được, và không nhằm thay.
+> - **Đừng trích dẫn nó làm chứng cứ** — trong bài vở, bài báo, bài viết, hay một cuộc tranh luận.
+> - **Đừng coi nó là tài liệu tham khảo.** Mục *Nguồn* của mỗi nhân vật là chỗ để đi tiếp, không phải chỗ để dừng lại.
+>
+> Việc nó làm được: cho bạn một điểm khởi hành và một cái cớ để tò mò, rồi đẩy bạn tới nguồn thật. Và cho người làm AI một mẫu vật để xem mô hình viết hỏng kiểu gì khi bị ép vào ràng buộc — mọi chỗ hỏng tìm được đều ghi lại công khai ở `reviews/` và `KNOWN-ISSUES.md`, không xoá dấu.
+>
+> Mô tả trên ứng với bản hiện tại. Nếu sau này có chuyên gia thật bình duyệt thì đoạn này sẽ phải viết lại.
+
 Website tĩnh, mở được bằng `file://`, deploy được lên GitHub Pages/Vercel. Nội dung do model viết dưới dạng Markdown theo template cố định; `build.py` lint, đối chiếu Wikidata và sinh HTML. Ảnh lấy từ Wikimedia Commons theo chính sách giấy phép cứng.
 
 Trạng thái: **v0.0.1** — đủ **11/11 chapter · 33/33 nhóm · 377 nhân vật** ở atlas chính, cộng **40 nhân vật** ở phụ lục Việt Nam. Build: 0 lỗi.
@@ -8,12 +22,12 @@ Trạng thái: **v0.0.1** — đủ **11/11 chapter · 33/33 nhóm · 377 nhân 
 
 ## Bản chất và giới hạn của nội dung
 
-Đây là **dự án nghiên cứu cá nhân**, không phải bách khoa thư và không phải sản phẩm thương mại.
+Đây là **phép thử năng lực viết của mô hình ngôn ngữ** (xem khối đầu file), không phải bách khoa thư, không phải công trình sử học, không phải sản phẩm thương mại.
 
 - **Văn xuôi do mô hình AI (Claude) viết** theo prompt cố định ở `prompts/atlas-prompt.md`. Không có nhà sử học nào viết hay bình duyệt. Đây là tổng hợp do model thực hiện, không phải nghiên cứu sơ cấp.
 - **Tên, niên đại, định danh** được đối chiếu tự động với Wikidata (CC0) bởi `build.py`; sai cấu trúc thì lint chặn build; tên hoặc niên đại lệch Wikidata quá ngưỡng thì lint **cảnh báo** (không chặn) — xem mục *Lint*.
 - **Lựa chọn nhân vật là phán đoán biên tập** theo bốn tiêu chí (a) phạm vi, (b) độ bền, (c) tính nguyên bản, (d) counterfactual — không phải xếp hạng khách quan. Trần 12 người/nhóm buộc phải loại nhiều người xứng đáng; danh sách bị loại và lý do nằm ở `## Ghi chú biên tập` cuối mỗi chapter.
-- **Mỗi mục chỉ có 1–2 nguồn**, và nội dung bên trong nguồn chưa được đối chiếu từng câu. Đủ để lần đầu mối, không đủ để trích dẫn. Hãy đi tới nguồn.
+- **Mỗi mục chỉ có 1–2 nguồn**, và nội dung bên trong nguồn chưa được đối chiếu từng câu. Đủ để lần đầu mối, **không đủ để trích dẫn**. Hãy đi tới nguồn. Một nguồn được liệt kê ở đây không có nghĩa là câu văn cạnh nó đã được nguồn ấy chống lưng.
 - **Phụ lục Việt Nam dùng hệ quy chiếu Việt Nam / Đông Nam Á**, không phải nhân loại, nên bị loại khỏi mọi thống kê toàn cục.
 - **"Ảnh hưởng" không đồng nghĩa với "đáng ngưỡng mộ".**
 
