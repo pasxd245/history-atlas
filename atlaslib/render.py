@@ -1,4 +1,7 @@
-"""Sinh HTML tĩnh (PLAN §6.3, §8). Mọi file mở được bằng file://, dùng chung assets/, không CDN."""
+"""Static HTML generation (PLAN §6.3, §8). Every file opens over file://, shares assets/, uses no CDN.
+
+Page text is Vietnamese; the meta description and the en-note block on overview.html are English,
+because the people who most need them are the ones who cannot read the page."""
 from __future__ import annotations
 
 import html

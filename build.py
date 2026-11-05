@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """build.py — parse content/*.md → lint → data/persons.json → HTML (index, chapters/, overview, credits).
 
-    python build.py                 # lint (có đối chiếu Wikidata, dùng cache data/wikidata-cache.json) + build
-    python build.py --offline       # không gọi Wikidata
-    python build.py --lint-only     # chỉ lint, không sinh HTML
-    python build.py --lint-only tests/ch99-bad.md   # lint một file bất kỳ (test case)
-    python build.py --force         # vẫn sinh HTML dù lint có lỗi (chỉ để xem giao diện)
-    python build.py --groups 4      # in dòng {{DANH SÁCH NHÓM}} cho prompt
-    python build.py --list-ids      # in toàn bộ ID nhân vật hiện có
+    python build.py                 # lint (cross-checks Wikidata via data/wikidata-cache.json) + build
+    python build.py --offline       # no Wikidata calls
+    python build.py --lint-only     # lint only, generate no HTML
+    python build.py --lint-only tests/ch99-bad.md   # lint any single file (test fixture)
+    python build.py --force         # generate HTML even when lint errors (to inspect the layout only)
+    python build.py --groups 4      # print the {{DANH SÁCH NHÓM}} line for the prompt
+    python build.py --list-ids      # print every person ID that currently exists
 
-Mã thoát: 0 = OK, 1 = lint có lỗi (không sinh HTML trừ khi --force).
+Exit code: 0 = OK, 1 = lint found errors (no HTML generated unless --force).
 """
 from __future__ import annotations
 

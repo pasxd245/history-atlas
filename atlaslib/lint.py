@@ -1,4 +1,7 @@
-"""Lint theo PLAN §6.2. ERROR chặn build; WARN không chặn. Ghi reports/lint-chXX.txt."""
+"""Linting per PLAN §6.2. ERROR blocks the build; WARN does not. Writes reports/lint-chXX.txt.
+
+A warning usually marks a deliberate decision rather than a defect; the reason is written into the
+chapter's editorial note instead of being silenced here."""
 from __future__ import annotations
 
 from collections import Counter

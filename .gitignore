@@ -3,7 +3,7 @@ __pycache__/
 .DS_Store
 .venv/
 
-# output sinh lại mỗi lần chạy: build.py ghi lint-chXX.txt + stats.txt,
-# fetch_images.py ghi images-review.txt. Báo cáo bình duyệt viết tay
-# KHÔNG nằm ở đây mà ở reviews/, và có version-control.
+# Regenerated on every run: build.py writes lint-chXX.txt + stats.txt,
+# fetch_images.py writes images-review.txt. The hand-written review reports
+# are NOT here — they live in reviews/ and are version-controlled.
 reports/

@@ -1,6 +1,11 @@
-"""Hằng số dùng chung (PLAN §4, §5), tiện ích năm/thế kỷ, HTTP lịch sự với Wikimedia, cache JSON.
+"""Shared constants (PLAN §4, §5), year/century helpers, polite HTTP to Wikimedia, JSON cache.
 
-Chỉ dùng thư viện chuẩn. Python 3.11+.
+Standard library only. Python 3.11+.
+
+Note for readers: the controlled vocabularies below (FIELDS, REGIONS, RELATION_TYPES, ...) are
+Vietnamese strings that act as data keys, CSS class seeds and display labels all at once. That
+coupling is what currently stands in the way of translating the site — separating key from label
+is the prerequisite for any i18n work here.
 """
 from __future__ import annotations
 

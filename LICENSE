@@ -21,6 +21,43 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ===========================================================================
+SCOPE — PLEASE READ
+===========================================================================
+
+The MIT licence above covers THE CODE this project produced:
+
+  - source: build.py, fetch_images.py, atlaslib/, tests/, assets/app.js,
+    assets/theme.js, assets/style.css, and configuration files
+  - generated data: data/*.json, data/*.js
+
+It does NOT cover the following four groups, which keep their own terms:
+
+1. PROSE CONTENT — content/*.md, reviews/, prompts/, the .md files at the
+   repository root, and the prose in the generated HTML — is under
+   CC BY-SA 4.0; see LICENSE-CONTENT. ShareAlike was chosen because the
+   project embeds CC BY-SA images. (Before v0.0.1 this was MIT too.)
+
+2. IMAGES in assets/img/ — downloaded from Wikimedia Commons, each keeping
+   its own licence (Public domain, CC0, or CC BY / CC BY-SA at various
+   versions). credits.html lists every image with its author, licence and a
+   link to the original file. Reusing an image means following that image's
+   own licence, not MIT. For CC BY-SA images specifically: a work derived
+   FROM THE IMAGE must be shared under the same terms.
+
+3. THIRD-PARTY LIBRARIES in assets/ — mermaid.min.js (MIT, together with the
+   components it bundles: DOMPurify, js-yaml, lodash-es, Cytoscape — see
+   assets/LICENSE-mermaid.txt and the "Bundled license information" block
+   inside the file itself) and d3.min.js (ISC, see assets/LICENSE-d3.txt).
+
+4. WIKIDATA DATA used to cross-check dates and identity — CC0.
+
+In short: the project's code is MIT; its prose is CC BY-SA 4.0; images and
+libraries keep their own licences.
+
+The Vietnamese text below is a translation for convenience. Where the two
+differ, the English above governs.
+
+===========================================================================
 PHẠM VI — ĐỌC KỸ
 ===========================================================================
 

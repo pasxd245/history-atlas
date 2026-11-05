@@ -1,15 +1,17 @@
 #!/usr/bin/env python3
-"""fetch_images.py — lấy ảnh chân dung từ Wikimedia Commons theo PLAN §7.
+"""fetch_images.py — fetch portraits from Wikimedia Commons (PLAN §7).
 
-    python fetch_images.py              # mọi nhân vật trong data/persons.json chưa có ảnh (chạy build.py trước)
-    python fetch_images.py CH00         # chỉ các ID bắt đầu bằng tiền tố
-    python fetch_images.py --refresh    # làm lại cả ảnh đã có
-    python fetch_images.py --dry-run    # chỉ tra metadata & quyết định, không tải, không ghi images.json
+    python fetch_images.py              # every person in data/persons.json without an image (run build.py first)
+    python fetch_images.py CH00         # only IDs starting with this prefix
+    python fetch_images.py --refresh    # redo images that already exist
+    python fetch_images.py --dry-run    # look up metadata and decide only; no download, no images.json write
 
-Luồng (§7.1): Wikidata P18 → Commons imageinfo/extmetadata (fallback: trang File + Structured Data khi API bị 429)
-→ quyết định theo §7.2 → tải thumbnail 500px vào assets/img/ (không hotlink) → data/images.json + reports/images-review.txt.
-Override thủ công: content/images.yaml (đổi ảnh, viết lại chú thích, bỏ ảnh, danh sách nhạy cảm về hình tượng).
-Sau khi chạy xong: `python build.py` để nhúng ảnh vào HTML.
+Pipeline (§7.1): Wikidata P18 → Commons imageinfo/extmetadata (fallback: the File page plus Structured Data
+when the API returns 429) → licence decision per §7.2 → download a 500px thumbnail into assets/img/ (never
+hotlinked) → data/images.json + reports/images-review.txt.
+Manual overrides live in content/images.yaml: swap the file, rewrite the caption, drop the image, or list a
+person as image-sensitive (aniconism).
+When it finishes, run `python build.py` to embed the images into the HTML.
 """
 from __future__ import annotations
 

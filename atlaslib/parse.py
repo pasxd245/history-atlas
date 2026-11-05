@@ -1,6 +1,9 @@
-"""Parser cho content/chXX.md theo template PLAN §5.
+"""Parser for content/chXX.md against the fixed template in PLAN §5.
 
-Cấu trúc trả về (dict thuần, dễ dump ra persons.json):
+The template is strict: there are no free-form sections, and a structural deviation is an error
+rather than something the parser guesses at.
+
+Returned structure (plain dicts, so they dump straight to persons.json):
 
 chapter = {
   "no": 2, "title": "...", "intro": "...", "files": [...],

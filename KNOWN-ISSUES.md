@@ -1,11 +1,16 @@
 # KNOWN-ISSUES — các vấn đề đã biết, còn mở
 
+> **In English.** This is the project's backlog of everything still open, in Vietnamese. Each line
+> is a pointer into one of the 91 review reports in `reviews/`, which are the source of truth. The
+> list is kept public on purpose: see [`docs/en/README.md`](docs/en/README.md) for what the project
+> is and what its limits are.
+
 > **"Mỏng thì được, sai thì không."**
 > Bản v1 giữ một khung gọn, phủ toàn bộ lịch sử. Văn viết mỏng hoặc yếu, góc nhìn còn thiếu, điểm còn tranh luận hoặc chưa kiểm được thì ghi ở đây và cải thiện sau. Một lỗi dữ kiện đã biết thì không bao giờ được hoãn: nó phải được sửa trước khi phát hành.
 
 - **Ngày lập:** 2026-11-04 · bản `v0.0.1-rc.1`.
 - **Mục đích:** một backlog duy nhất cho mọi vấn đề **còn mở** sau vòng bình duyệt 1 của ch06–ch11. Các mục BẮT BUỘC đã được sửa (xem `reviews/patch-ch06..11-review-notes.md`) nên không có ở đây, trừ những gì xếp vào mục đầu tiên dưới đây.
-- **Nguồn gốc:** các báo cáo bình duyệt nằm ở `reviews/`. **Báo cáo là nguồn chuẩn (source of truth)**; mỗi dòng ở đây chỉ là con trỏ rút gọn, gom theo chủ đề chứ không theo báo cáo. Nguồn phụ: nhật ký patch (phần "owner quyết") và mục *Việc còn lại* của `README.md`.
+- **Nguồn gốc:** các báo cáo bình duyệt nằm ở `reviews/`. **Báo cáo là nguồn chuẩn (source of truth)**; mỗi dòng ở đây chỉ là con trỏ rút gọn, gom theo chủ đề chứ không theo báo cáo. Nguồn phụ: nhật ký patch (phần "owner quyết") và mục *Việc còn lại* của `docs/vi/README.md`.
 - **Cách dùng:** chọn một dòng → mở báo cáo ở con trỏ → sửa `content/chXX.md` theo `CONTRIBUTING.md` → chạy `build.py` → **xoá dòng ấy khỏi file này** (nếu chỉ sửa một phần thì viết lại dòng cho đúng phần còn mở).
 - **Cách đọc con trỏ:** `reviews/<file>.md #<mục>`. Với các báo cáo ch06–ch07 và `review-ch08-CE17`: `#05.2` = mục `…-05`, điểm 2; `#BC` = Bối cảnh nhóm; `#GT` = Giới thiệu chapter; `#GC.n` = Ghi chú biên tập, điểm n; `#G-4`, `#C-4`, `#G3`, `#B.4` = phát hiện cấp nhóm/chapter theo đúng nhãn trong báo cáo. Với `review-ch08-CE18`: `#n` là số thứ tự toàn báo cáo, `#B1` là Bối cảnh. Với `review-ch09`: `#03-4`; `review-ch10`: `#07/1`; `review-ch11`: `#27`, `#C4`, `#K1`.
 - **Mức trong báo cáo:** NÊN · CÂN NHẮC · `[KHÔNG KIỂM ĐƯỢC]` (= chưa kiểm, không có nghĩa "có lẽ sai").
@@ -22,9 +27,9 @@
 
 Những ô trống hoặc lệch về vùng, giới và lĩnh vực mà Ghi chú biên tập chưa nói ra hay chưa giải thích. Theo quy ước `vùng:` điều 4, vùng trống phải được ghi kèm lý do. Đây là chỗ "mỏng", không phải chỗ "sai".
 
-- **Toàn atlas:** `Trung Á` 8/377 (vắng cả CE20 lẫn CE21); `Châu Đại Dương` còn 2 mục (`CH09-CE19-11`, `CH11-CE21-11`). — `README.md` *Việc còn lại* #4
-- **`ch01`** lệch vùng 79% (Trung Đông/Bắc Phi 30/38); nhóm `BCE20_18` chỉ có 1 vùng; chưa có dòng nào nói đây có thể là khoảng trống hồ sơ thật. — `README.md` #5
-- `ch90/BCE03_01` chỉ có 2 lĩnh vực. — `README.md` #6
+- **Toàn atlas:** `Trung Á` 8/377 (vắng cả CE20 lẫn CE21); `Châu Đại Dương` còn 2 mục (`CH09-CE19-11`, `CH11-CE21-11`). — `docs/vi/README.md` *Việc còn lại* #4
+- **`ch01`** lệch vùng 79% (Trung Đông/Bắc Phi 30/38); nhóm `BCE20_18` chỉ có 1 vùng; chưa có dòng nào nói đây có thể là khoảng trống hồ sơ thật. — `docs/vi/README.md` #5
+- `ch90/BCE03_01` chỉ có 2 lĩnh vực. — `docs/vi/README.md` #6
 - **Phụ nữ:** CE11 0/12 (ứng viên Murasaki Shikibu), CE13 0 (Mechthild, Raziyya, Sorghaghtani), CE14 0 (Catherine thành Siena, Julian xứ Norwich), CE15 0 (Christine de Pizan), CE19 12/12 nam, CE20 0/12 (Curie, Carson rơi ở ô đã đầy). — `reviews/review-ch06-CE11.md` #GC.5 · `reviews/review-ch06-CE13.md` #G-4.3 · `reviews/review-ch06-CE14.md` #G-4 · `reviews/review-ch07-CE15.md` #C-4.2 · `reviews/review-ch09.md` #C9 · `reviews/review-ch10.md` #G2
 - **CE11:** vắng Nhật Bản (Đông Á cả ba suất là Trung Hoa); Châu Phi hạ Sahara trống (Hummay của Kanem, Tunka Manin của Ghana); Châu Mỹ, vì câu "không tìm được người nào" không đúng (Tám Hươu Vuốt Báo, Mixtec); vắng Byzantium (Psellos), các nhà Tân Nho Bắc Tống, al-Māwardī. — `reviews/review-ch06-CE11.md` #GC.5, #GC.6, #GC.12, #GC.13
 - CE11 có hai mục `Luật` nhưng không mục nào là luật gia. — `reviews/review-ch06-CE11.md` #12.4
@@ -112,7 +117,7 @@ Gồm cạnh một chiều đóng được bằng ID, cạnh yếu hoặc sai h�
 - **Đích chưa đúng / chưa chính xác khác:** Keynes bác Say/Pigou chứ không bác "kinh tế học cổ điển" chung chung; Einstein → vũ khí hạt nhân; Franklin → Hiến pháp 1787 (là tham gia trực tiếp); Franklin ← Du Fay (thực ra thay thế thuyết ấy); Doudna → "lệnh cấm"; Đới Chấn → TK 19; Trịnh Hoà → cộng đồng người Hoa; *Đại Minh luật* → "các bộ luật Đông Á"; al-Idrīsī → bản đồ học trước 1592; Hildegard → nữ thần bí Rhineland; Ibn ʿArabī → tranh luận *waḥdat al-wujūd*; Wahhab ← al-Sindi (có thể thành `trực tiếp`). — `reviews/review-ch10.md` #04/2, #01/5 · `reviews/review-ch08-CE18.md` #40, #37, #19, #26 · `reviews/review-ch11.md` #10 · `reviews/review-ch07-CE15.md` #05.6 · `reviews/review-ch06-CE14.md` #07.3 · `reviews/review-ch06-CE12.md` #03.3, #07.3 · `reviews/review-ch06-CE13.md` #07.2
 - **`tương đồng độc lập · trực tiếp`** dễ đọc nhầm (Wallace–Darwin, Church–Turing). — `reviews/review-ch09.md` #02-4 · `reviews/review-ch10.md` #03/5
 - **Erasmus → Luther `qua trường phái`:** hai người có thư từ trực tiếp. — `reviews/review-ch07-CE16.md` #02.3
-- **Hai đầu lệch mức (có từ trước):** `CH03-BCE04-03` ↔ `CH03-BCE03-04` (`qua trường phái` / `trực tiếp`). — `README.md` #1
+- **Hai đầu lệch mức (có từ trước):** `CH03-BCE04-03` ↔ `CH03-BCE03-04` (`qua trường phái` / `trực tiếp`). — `docs/vi/README.md` #1
 
 ## 6. Nguồn tham khảo
 
@@ -133,13 +138,13 @@ Nhà xuất bản, năm hoặc ấn bản bị ghi sai; nguồn không đỡ đ�
 
 Năm sinh do Wikidata suy diễn, giá trị `deprecated` hoặc không phải preferred, và các chỗ độ tin cậy niên đại chưa khớp tình trạng nguồn. Tất cả đều nằm trong dung sai lint, nên lint không báo.
 
-- **Chạy lại `build.py` online** để đối chiếu Wikidata sau các sửa niên đại có chủ đích (Mulla Sadra, Lý Thời Trân, Ockham — cố ý lệch, đã ghi ở Ghi chú). Sau đó `data/persons.json` và `chapters/*.html` mới mang văn bản đã sửa (`--lint-only` không tái sinh hai thứ này). — `README.md` #1 · `reviews/patch-ch06-review-notes.md`, `reviews/patch-ch11-review-notes.md` (Lưu ý ngoài chapter)
+- **Chạy lại `build.py` online** để đối chiếu Wikidata sau các sửa niên đại có chủ đích (Mulla Sadra, Lý Thời Trân, Ockham — cố ý lệch, đã ghi ở Ghi chú). Sau đó `data/persons.json` và `chapters/*.html` mới mang văn bản đã sửa (`--lint-only` không tái sinh hai thứ này). — `docs/vi/README.md` #1 · `reviews/patch-ch06-review-notes.md`, `reviews/patch-ch11-review-notes.md` (Lưu ý ngoài chapter)
 - **Năm sinh suy diễn, không có nguồn sơ cấp** (nên dùng `trị vì …` như đã làm với Rajendra I): Suryavarman II 1094, Mansa Musa 1280, Gajah Mada 1290. — `reviews/review-ch06-CE12.md` #11.2 · `reviews/review-ch06-CE14.md` #09.3, #11.3
 - **Chọn giá trị không preferred hoặc deprecated:** Hafez 1326 (deprecated), Quách Thủ Kính 1314 (preferred là 1316), Hideyoshi 1536 (preferred là 1537); ngược lại, Colombo nên là 1451. — `reviews/review-ch06-CE14.md` #03.3 · `reviews/review-ch06-CE13.md` #10.1 · `reviews/review-ch07-CE16.md` #10.3 · `reviews/review-ch07-CE15.md` #12.3
 - **Độ tin cậy chưa khớp nguồn:** Sor Juana `Cao` dù năm sinh 1648/1651 còn tranh luận; Kâtip Çelebi `Trung bình` dù tự truyện cho ngày chắc. — `reviews/review-ch08-CE17.md` #11.2, #07.2
 - **Nơi chốn còn tranh luận nhưng ghi như sự thật:** Tất Thăng–Hàng Châu (bia Anh Sơn), Bhāskara–Bijapur, Niani (Mansa Musa), Rumi–Vakhsh; nơi sinh lấn nơi hoạt động: Abélard, Petrarca, Hildegard, Ockham (London), Bạch Lộc Động. — `reviews/review-ch06-CE11.md` #05.2 · `reviews/review-ch06-CE12.md` #10.5, #08.3, #07.4, #04.5 · `reviews/review-ch06-CE14.md` #09.6, #04.4, #05.6 · `reviews/review-ch06-CE13.md` #06.1
 - **Ghi chú CE12 cần thêm "Điểm cần kiểm chứng":** al-Idrīsī (preferred 1110, phần lớn tài liệu ghi 1100); luận điểm "hai Gratianus" của Winroth. — `reviews/review-ch06-CE12.md` #GC.7
-- **Mahāvīra `Q9422`:** vấn đề P31 (giữ có chủ đích, xem README). ch02 còn treo: Zarathustra, Tôn Tử, lỗ hổng từ vựng §5. — `README.md` #6
+- **Mahāvīra `Q9422`:** vấn đề P31 (giữ có chủ đích, xem README). ch02 còn treo: Zarathustra, Tôn Tử, lỗ hổng từ vựng §5. — `docs/vi/README.md` #6
 - **Tên gốc trong ngoặc:** "Ioannes-Iacobus Rousseau" và "Adamus Smith" trông như dạng Latinh tự sinh; "Gratianus de Clusio" chọn một giả thuyết làm danh tính. — `reviews/review-ch08-CE18.md` #48 · `reviews/review-ch06-CE12.md` #09.5
 
 ## 8. [KHÔNG KIỂM ĐƯỢC] — chưa kiểm, cần nguồn ngoại tuyến
@@ -172,15 +177,15 @@ Các mục sẽ cũ đi theo năm tháng. Cần soát lại **ngay trước mỗ
 
 Những giới hạn có chủ đích của cấu trúc v1. Chúng sinh ra một phần các mục ở trên. Muốn gỡ thì phải đổi parser, lint hoặc render, nên đó là quyết định kiến trúc chứ không phải việc sửa nội dung.
 
-- **Một mục chỉ mang một Q-ID:** CE21 có 4/12 mục phải loại đồng tác giả không theo tiêu chí nào (Charpentier, Weissman, Jumper, Perlmutter/Riess), vì khoa học thế kỷ 21 đóng góp theo nhóm. — `README.md` #2 · `reviews/review-ch11.md` #11, #21, #44
-- **Trần 3 dòng `Ảnh hưởng tới` / `Kế thừa từ`:** đo ngày 2026-11-03, còn 91 cạnh ở 40 mục không ghi được (Plato, Aristotle mỗi người thiếu 6). Chiều đọc đầy đủ là gom `Kế thừa từ` của mọi mục sau. INFO "một chiều" là thông tin, không phải việc tồn đọng. — `README.md` (mục *`Ảnh hưởng tới` là một lựa chọn top-3*)
-- **Trần 12 người/nhóm** và hạn ngạch theo ô vùng buộc phải loại nhiều người xứng đáng; lý do loại theo hạn ngạch không thuộc (a)–(d) (Tycho). — `README.md` (Bản chất và giới hạn) · `reviews/review-ch07-CE16.md` #06.4
+- **Một mục chỉ mang một Q-ID:** CE21 có 4/12 mục phải loại đồng tác giả không theo tiêu chí nào (Charpentier, Weissman, Jumper, Perlmutter/Riess), vì khoa học thế kỷ 21 đóng góp theo nhóm. — `docs/vi/README.md` #2 · `reviews/review-ch11.md` #11, #21, #44
+- **Trần 3 dòng `Ảnh hưởng tới` / `Kế thừa từ`:** đo ngày 2026-11-03, còn 91 cạnh ở 40 mục không ghi được (Plato, Aristotle mỗi người thiếu 6). Chiều đọc đầy đủ là gom `Kế thừa từ` của mọi mục sau. INFO "một chiều" là thông tin, không phải việc tồn đọng. — `docs/vi/README.md` (mục *`Ảnh hưởng tới` là một lựa chọn top-3*)
+- **Trần 12 người/nhóm** và hạn ngạch theo ô vùng buộc phải loại nhiều người xứng đáng; lý do loại theo hạn ngạch không thuộc (a)–(d) (Tycho). — `docs/vi/README.md` (Bản chất và giới hạn) · `reviews/review-ch07-CE16.md` #06.4
 - **Ngoại lệ xếp nhóm Garcilaso** (`CH07-CE16-12` giữ ở CE16 dù công trình in 1609–1617): đã khai báo trung thực, không chuyển nhóm. — `reviews/patch-ch07-review-notes.md` #22 · `reviews/review-ch07-CE16.md` #14
 - **"Đích hỗn hợp: hạ mức, không tách dòng"** (CONTRIBUTING, 2026-11-03): đã áp lại cho Pháp Nhiên (`CH06-CE12-06`) ở bước hậu kiểm. — `reviews/patch-ch06-review-notes.md` #13, Hậu kiểm
 - **Trần chữ của lint** (why ≤ ~104, ideas ≤ ~130) chặn nhiều bản sửa nguyên văn của reviewer, và đã có trường chạm trần (`CH06-CE12-12` why = 104), nên vòng sau phải cắt trước khi thêm. Lint không đếm Giới thiệu/Bối cảnh. — `reviews/patch-ch06-review-notes.md` #20 · §4 (trần chữ)
 - **Từ vựng đóng:** không có loại quan hệ "bảo trợ", không có lĩnh vực "Báo chí". — `reviews/review-ch06-CE13.md` #10.3 · `reviews/review-ch11.md` #38
-- **Phụ lục Việt Nam dùng hệ quy chiếu riêng** và bị loại khỏi thống kê toàn cục; đây là gốc của độ vênh giữa tiêu đề "Lý–Trần" và mạch chính ch06 (§1). — `README.md` (Bản chất và giới hạn)
-- **Dưới `file://`**, bấm link bên trong iframe không đồng bộ hash/menu (Chrome chặn `contentWindow`), lỗi bị nuốt không báo; muốn nav đầy đủ thì dùng server tĩnh. — `README.md` (Yêu cầu)
+- **Phụ lục Việt Nam dùng hệ quy chiếu riêng** và bị loại khỏi thống kê toàn cục; đây là gốc của độ vênh giữa tiêu đề "Lý–Trần" và mạch chính ch06 (§1). — `docs/vi/README.md` (Bản chất và giới hạn)
+- **Dưới `file://`**, bấm link bên trong iframe không đồng bộ hash/menu (Chrome chặn `contentWindow`), lỗi bị nuốt không báo; muốn nav đầy đủ thì dùng server tĩnh. — `docs/vi/README.md` (Yêu cầu)
 
 ## 11. Chờ Owner quyết định
 
@@ -195,10 +200,10 @@ Các phần phụ mà nhật ký patch cố ý không áp, cùng các việc REA
 - `CH10-CE20-01` Einstein: giữ `phản bác` với Newton hay không. `CH10-CE20-04` Keynes: đổi đích sang Say/Pigou. `CH10-CE20-06` Ambedkar: phương án M. C. Rajah. `CH10-CE20-03` Turing: có thêm Max Newman không (sẽ tạo đích hỗn hợp). — `reviews/patch-ch10-review-notes.md` #1–#2, #5, #7, #4
 - `CH07-CE16-10` Hideyoshi: thêm Takeda Shingen làm ứng viên; `CH07-CE16-12`: dòng "người cậu bên mẹ"; `CH07-CE16-01`: Hus làm đối chiếu. — `reviews/patch-ch07-review-notes.md` (Không áp dụng)
 - `CH11-CE21-12` Harari / ch11: viết **quy tắc xếp nhóm C2** ("ảnh hưởng sau 2000") vào Ghi chú biên tập. — `reviews/patch-ch11-review-notes.md` #47 · `reviews/review-ch11.md` #C2
-- **Phép đếm Thích Nhất Hạnh:** so độ phủ đường truyền với `CH11-CE21-12` Harari để quyết việc chuyển từ phụ lục sang mạch chính. — `README.md` #3
-- **Tì-ni-đa-lưu-chi:** chuyển từ phụ lục sang mạch chính hay không. — `README.md` #6
+- **Phép đếm Thích Nhất Hạnh:** so độ phủ đường truyền với `CH11-CE21-12` Harari để quyết việc chuyển từ phụ lục sang mạch chính. — `docs/vi/README.md` #3
+- **Tì-ni-đa-lưu-chi:** chuyển từ phụ lục sang mạch chính hay không. — `docs/vi/README.md` #6
 - **Chọn hay không** các ứng viên có thể vào thay một suất (chỉ nêu khi có báo cáo đề xuất cụ thể): Las Casas (CE16), Murasaki (CE11), Toussaint Louverture (CE18), Rāmānuja, Hegel. — `reviews/review-ch07-CE16.md` #G3 · `reviews/review-ch06-CE11.md` #GC.5, #GC.2 · `reviews/review-ch08-CE18.md` #43 · `reviews/review-ch09.md` #C14
-- **P5** (Overview: timeline toàn cục, graph D3, bộ lọc) và **P6** (rà credits, ZIP cuối, deploy) theo PLAN. — `README.md` *Việc còn lại theo PLAN*
+- **P5** (Overview: timeline toàn cục, graph D3, bộ lọc) và **P6** (rà credits, ZIP cuối, deploy) theo PLAN. — `docs/vi/README.md` *Việc còn lại theo PLAN*
 
 ---
 

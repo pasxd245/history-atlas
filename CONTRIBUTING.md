@@ -1,6 +1,13 @@
 # Đóng góp cho history-atlas
 
-Cảm ơn bạn đã quan tâm. Đây là dự án nghiên cứu cá nhân; đóng góp được hoan nghênh, nhưng nội dung phải qua được cổng lint tự động và tuân thủ chính sách giấy phép ảnh. Đọc phần **Bản chất và giới hạn của nội dung** trong `README.md` trước.
+> **In English.** This project's content is written in Vietnamese, and the rules below are in
+> Vietnamese because they govern how Vietnamese prose entries are written — a contributor who
+> cannot read them cannot write an entry. **Code contributions are welcome in English**: open an
+> issue or a pull request in English and it will be read. Before anything else, read the
+> disclaimer in [`README.md`](README.md) — this is an AI writing experiment, not historical
+> scholarship. Project documentation in English: [`docs/en/README.md`](docs/en/README.md).
+
+Cảm ơn bạn đã quan tâm. Đây là dự án nghiên cứu cá nhân; đóng góp được hoan nghênh, nhưng nội dung phải qua được cổng lint tự động và tuân thủ chính sách giấy phép ảnh. Đọc phần **Bản chất và giới hạn của nội dung** trong `docs/vi/README.md` trước.
 
 Mọi đóng góp được phát hành theo **MIT** (xem `LICENSE`). Gửi PR nghĩa là bạn đồng ý điều đó, và xác nhận phần bạn viết là của bạn — không chép từ nguồn có bản quyền.
 
@@ -136,7 +143,7 @@ Không có câu này, tiêu chí (a) loại trừ châu Mỹ tiền Columbus **t
 
 Viết ra rồi thì Yikʼin Chan Kʼawiil (`CH05-CE08-12`) đứng được bằng chính tiêu chí (a): ông là thế lực mạnh nhất trong mạng lưới của ông. Quy ước này **không** hạ chuẩn — nó vẫn đòi người ấy phải trội trong mạng lưới của mình, và vẫn không cho phép đổi `vùng:` của ai để làm đẹp thống kê (quy ước `vùng:` điều 4).
 
-**Quy ước hệ quy chiếu và liên kết giữa mạch chính với phụ lục** — `content/ch90.md` tồn tại vì ảnh hưởng của nhân vật Việt Nam được đo trong phạm vi Việt Nam / Đông Nam Á, không phải toàn nhân loại (`README.md`). Ba hệ quả chưa từng được viết ra:
+**Quy ước hệ quy chiếu và liên kết giữa mạch chính với phụ lục** — `content/ch90.md` tồn tại vì ảnh hưởng của nhân vật Việt Nam được đo trong phạm vi Việt Nam / Đông Nam Á, không phải toàn nhân loại (`docs/vi/README.md`). Ba hệ quả chưa từng được viết ra:
 
 1. **Bốn tiêu chí (a)–(d) được chấm trong hệ quy chiếu của track đang xét.** Cùng một tiêu chí cho hai kết quả khác nhau ở hai track **không phải mâu thuẫn**, nhưng mục nào rơi vào tình huống đó thì **phải nói ra hệ quy chiếu**, nếu không người đọc chỉ thấy hai file xếp hạng ngược nhau. Ca đang có: `CH05-CE10-05` Khúc Thừa Dụ và `CH90-CE10_14-01` Ngô Quyền.
 2. **Một nhân vật Việt Nam đạt thang đo toàn cầu thì ở mạch chính, và vẫn được phụ lục nhắc tới.** Hai track không loại trừ nhau; lint cố tình chỉ báo `INFO` khi trùng tên hoặc trùng Wikidata giữa hai bên. Khi điều đó xảy ra, phụ lục dùng đúng câu của quy tắc 6: *"có mục riêng ở `CHxx-…` nên không phải ứng viên bị loại"*.

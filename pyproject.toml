@@ -1,30 +1,30 @@
 [project]
 name = "history-atlas"
-version = "0.0.1"      # PEP 440 của "v0.0.1" (atlaslib/common.py PROJECT["version"]); test giữ hai chỗ khớp nhau
-description = "Atlas nhân vật ảnh hưởng — những người định hình tư tưởng nhân loại, 2000 TCN – 2026"
+version = "0.0.1"      # PEP 440 form of "v0.0.1" (atlaslib/common.py PROJECT["version"]); a test keeps the two in sync
+description = "Vietnamese-language atlas of people who shaped human thought, 2000 BCE-2026"
 readme = "README.md"
 license = { file = "LICENSE" }
 requires-python = ">=3.11"
 
-# Bắt buộc: build.py không dựng được HTML nếu thiếu.
+# Required: build.py cannot generate HTML without it.
 dependencies = [
-    "markdown==3.10.3",   # ghim đúng bản đã dựng ra output đang commit
+    "markdown==3.10.3",   # pinned to the version that produced the committed output
 ]
 
-# Hai gói dưới đây code CÓ xử lý thiếu và chạy tiếp ở mức thấp hơn
-# (atlaslib/render.py:18 và fetch_images.py:65 đều bắt ImportError),
-# nhưng bản dựng chuẩn của dự án — 355 ảnh nhúng — cần cả hai.
-# Lệnh cài chuẩn vì vậy là `uv sync --extra images`.
+# The code DOES degrade gracefully without the two below (atlaslib/render.py:18
+# and fetch_images.py:65 both catch ImportError), but the project's standard
+# build — 355 embedded images — needs both.
+# The canonical install command is therefore `uv sync --extra images`.
 [project.optional-dependencies]
 images = [
-    "PyYAML>=6.0",   # đọc content/images.yaml đầy đủ thay vì parser tối giản
-    "Pillow>=10",    # thu nhỏ ảnh gốc khi Commons không trả thumbnail
+    "PyYAML>=6.0",   # read content/images.yaml fully instead of the minimal fallback parser
+    "Pillow>=10",    # downscale originals when Commons returns no thumbnail
 ]
 
 [dependency-groups]
 dev = ["pytest>=8"]
 
-# Đây là ứng dụng chạy bằng script (build.py, fetch_images.py ở gốc), không
-# phải thư viện để phát hành, nên uv không cần dựng và cài chính nó vào venv.
+# This is a script-run application (build.py, fetch_images.py at the root), not
+# a library to publish, so uv need not build and install it into the venv.
 [tool.uv]
 package = false

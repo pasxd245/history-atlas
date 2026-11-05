@@ -96,6 +96,24 @@ ones.
 `KNOWN-ISSUES.md` (Vietnamese) is the single backlog for everything still open, with pointers
 into the review reports that found each item. `reviews/` holds all 91 reports.
 
+## Could the site be translated?
+
+Not cheaply, and the obstacle is structural rather than a matter of volume.
+
+The controlled vocabularies in `atlaslib/common.py` — fields, regions, relation types, evidence
+levels — are Vietnamese strings that serve as **data key, CSS class seed and display label at the
+same time**. `"Chính trị/Nhà nước"` is parsed out of Markdown, used as a dict key when computing
+statistics, turned into a CSS class, and printed on the page. Any translation needs key and label
+separated first (`"ke-thua"` → `{vi: …, en: …}`), which touches the parser, the linter, the
+renderer and the generated JSON. Roughly a day of careful work, with the test suite as a net.
+
+That work has deliberately **not** been done speculatively — there is no English content for it to
+serve yet. The semantic groundwork is in place (`<html lang="vi">`, `lang="en"` on the English
+note), and this paragraph exists so the next person does not have to rediscover the blocker.
+
+Translating the 188,000 words of content is a separate matter entirely, and is discussed at the
+top of this file.
+
 ## Repository layout
 
 ```
