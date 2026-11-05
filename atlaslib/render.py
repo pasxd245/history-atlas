@@ -116,6 +116,11 @@ def mermaid_block(code: str, caption: str = "", names: str = "") -> str:
 
 ASSET_V = C.PROJECT["version"].lstrip("v")
 
+# Nội dung trang là tiếng Việt, nhưng mô tả thì tiếng Anh: người cần nó nhất là người
+# không đọc được tiếng Việt và đang quyết định có bấm vào link hay không.
+META_DESC = ("Vietnamese-language atlas of people who shaped human thought, 2000 BCE–2026. "
+             "An AI writing experiment, not historical scholarship — do not cite as evidence.")
+
 
 def page(title: str, body: str, depth: int, extra_head: str = "", body_class: str = "", scripts: str = "") -> str:
     rel = "../" * depth
@@ -125,6 +130,11 @@ def page(title: str, body: str, depth: int, extra_head: str = "", body_class: st
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{E(title)} · {E(C.PROJECT["title"])}</title>
+<meta name="description" content="{E(META_DESC)}">
+<meta property="og:title" content="{E(title)} · {E(C.PROJECT["title"])}">
+<meta property="og:description" content="{E(META_DESC)}">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="vi_VN">
 <link rel="stylesheet" href="{rel}assets/style.css?v={ASSET_V}">
 <link rel="icon" href="{rel}favicon.ico" sizes="any">
 <link rel="apple-touch-icon" href="{rel}assets/img/apple-touch-icon.png">
@@ -473,6 +483,9 @@ def render_overview(chapters: list[dict], persons: dict, st: dict) -> str:
 <div class="meta">{st["total_persons"]} nhân vật · {n_main_ch}/{len(C.CHAPTERS)} chapter có dữ liệu{app_meta} · <span class="badge sample">P5 — bản khung</span> graph D3 có bộ lọc sẽ hoàn thiện ở P5</div></header>
 <section class="note" id="ve-du-an">
 <h2>Về dự án — đọc trước khi dùng</h2>
+<div class="en-note" lang="en">
+<p><b>In English.</b> This atlas is written in Vietnamese. It is an <b>experiment in AI writing, not historical scholarship</b>: a language model wrote every prose passage against a fixed prompt, and no historian wrote or reviewed any of it. The discipline of history has a method — reading primary sources, interrogating them, knowing where a claim stands among competing readings, and defending conclusions before colleagues — and this project does none of it. So: <b>do not use it in place of historical research, do not cite it as evidence, and do not treat it as a reference work.</b> Full English documentation is in <code>docs/en/README.md</code> in the repository.</p>
+</div>
 <p><b>Đây là một phép thử năng lực viết của mô hình ngôn ngữ, không phải một công trình sử học.</b> Câu hỏi mà dự án đặt ra là: dưới một bộ ràng buộc chặt — trần chữ, từ vựng đóng, tiêu chí chọn công khai, lint và một vòng bình duyệt — thì một mô hình ngôn ngữ viết được tới đâu, và hỏng ở đâu. Lịch sử tư tưởng ở đây là <b>vật liệu đem ra thử</b>, không phải sản phẩm được bảo chứng.</p>
 <p><b>Sử học là một ngành có phương pháp, và chính phương pháp ấy làm nên giá trị của nó.</b> Đọc sử liệu gốc trong ngôn ngữ của nó. Phê phán nguồn: ai viết, viết cho ai, giấu gì, lợi gì. Biết một luận điểm đang đứng ở đâu giữa những cách đọc đang tranh nhau. Rồi đặt tên mình dưới kết luận và chịu phản biện của đồng nghiệp trong ngành. Đó là công việc của nhiều năm, thường là của cả một đời, và nó là lý do một mệnh đề về quá khứ có thể đáng tin. <b>Atlas này không làm khâu nào trong số đó.</b></p>
 <p>Câu trên không phải lời khiêm tốn xã giao — nó là thứ chính dự án đo được. Vòng bình duyệt tìm ra đúng những lỗi mà chỉ mở văn bản gốc ra đọc mới thấy: mục Locke ghi <i>Two Treatises</i> phản bác Hobbes, trong khi quyển 1 của tác phẩm nhắm đích danh Robert Filmer và không nêu tên Hobbes ở đâu; mục Sor Juana nêu nhầm vị giám mục Puebla trong câu chuyện <i>Respuesta</i>, nêu một người đã mất trước đó hơn ba mươi năm. Và còn 334 dòng <code>[KHÔNG KIỂM ĐƯỢC]</code> trong <code>reviews/</code>, trải 44 trên 91 báo cáo — những câu chỉ ngã ngũ được bằng sách in cùng một người đọc được chúng. <b>Mỗi lỗi như thế là một lần cho thấy vì sao phương pháp kia tồn tại.</b></p>

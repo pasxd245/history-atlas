@@ -250,3 +250,9 @@ body.index { display: grid; grid-template-columns: var(--sidebar-w) 1fr; height:
   border-radius: 0; padding: 18px 0 0; }
 :root[data-reading="on"] .person .sec > b { color: var(--muted); }
 .framebar .tools { display: flex; gap: 6px; }
+
+/* Khối tiếng Anh trên overview: cảnh báo "đừng trích dẫn" mà chỉ có tiếng Việt thì chỉ
+   bảo vệ được người đọc tiếng Việt, trong khi ai cũng dịch máy được phần nội dung. */
+.en-note { border-left: 3px solid var(--accent); padding: .1em 0 .1em 14px; margin: 0 0 1em; }
+.en-note p { font-size: .94rem; color: var(--muted); }
+.en-note b { color: var(--ink); }

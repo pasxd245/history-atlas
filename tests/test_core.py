@@ -5,6 +5,7 @@ Fixture lint (ch99-bad.md, ch98-wikidata.md) cũng chạy ở đây để con s�
 không trôi nữa."""
 from __future__ import annotations
 
+import json
 import re
 import sys
 import tomllib
@@ -92,7 +93,7 @@ def test_lint_atlas_report_is_rewritten_when_empty(tmp_path):
 def test_bad_fixture_error_count_matches_readme(tmp_path):
     rep = L.run(_chapter(ROOT / "tests" / "ch99-bad.md"), {}, online=False, reports_dir=tmp_path)
     n = rep.count("ERROR")
-    readme = (ROOT / "README.md").read_text(encoding="utf-8")
+    readme = (ROOT / "docs" / "vi" / "README.md").read_text(encoding="utf-8")
     m = re.search(r"ch99-bad\.md` → (\d+) ERROR", readme)
     assert m and int(m.group(1)) == n, f"README ghi {m and m.group(1)}, lint ra {n}"
 
@@ -220,3 +221,70 @@ def test_uv_lock_khop_phien_ban_pyproject():
     m = re.search(r'name = "history-atlas"\nversion = "([^"]+)"', lock)
     assert m, "không tìm thấy mục history-atlas trong uv.lock"
     assert m.group(1) == ver, f"uv.lock ghi {m.group(1)}, pyproject ghi {ver} — chạy `uv lock`"
+
+
+# ---------------------------------------------------------------- tài liệu đa ngôn ngữ
+
+def _so_lieu_that() -> dict[str, int | str]:
+    """Số liệu lấy thẳng từ dữ liệu build, không chép tay."""
+    persons = json.loads((ROOT / "data" / "persons.json").read_text(encoding="utf-8"))["persons"]
+    images = json.loads((ROOT / "data" / "images.json").read_text(encoding="utf-8"))
+    sts = [v.get("status") for v in images.values()]
+    marker = sum(1 for f in (ROOT / "reviews").glob("*.md")
+                 for ln in f.read_text(encoding="utf-8").splitlines() if "[KHÔNG KIỂM ĐƯỢC]" in ln)
+    co_marker = sum(1 for f in (ROOT / "reviews").glob("*.md")
+                    if "[KHÔNG KIỂM ĐƯỢC]" in f.read_text(encoding="utf-8"))
+    return {
+        "chinh": sum(1 for v in persons.values() if str(v["chapter"]) != "90"),
+        "phu_luc": sum(1 for v in persons.values() if str(v["chapter"]) == "90"),
+        "anh": sts.count("embedded"),
+        "bo": sts.count("skipped"),
+        "khong_anh": sts.count("no-image"),
+        "marker": marker,
+        "file_marker": co_marker,
+        "bao_cao": len(list((ROOT / "reviews").glob("*.md"))),
+        "phien_ban": C.PROJECT["version"],
+    }
+
+
+# Ba tài liệu cùng kể một bộ số. Bro chọn tách docs/en + docs/vi, nên bề mặt trôi lệch
+# nhân lên — bảng này buộc mỗi con số phải khớp dữ liệu build, chứ không khớp trí nhớ.
+# (Phiên 2026-11-05 đã bắt ba ca lệch kiểu này: "356 ảnh", "~127 dòng", uv.lock.)
+TAI_LIEU = {
+    "README.md": ["{chinh} people in the main track", "plus {phu_luc} in a",
+                  "{anh} embedded images", "{marker} lines still carry",
+                  "{file_marker} of {bao_cao} review reports"],
+    "docs/en/README.md": ["**{chinh} people** in the main track", "**{phu_luc}-person Vietnam appendix**",
+                          "{anh} are embedded", "{bo} are deliberately omitted",
+                          "the {khong_anh} that simply have no image",
+                          "**{marker} lines across {file_marker} of the {bao_cao} review reports",
+                          "`reviews/` holds all {bao_cao} reports"],
+    "docs/vi/README.md": ["{chinh} nhân vật** ở atlas chính", "cộng **{phu_luc} nhân vật**",
+                          "{marker} dòng `[KHÔNG KIỂM ĐƯỢC]` trong `reviews/`",
+                          "({file_marker}/{bao_cao} báo cáo)"],
+}
+
+
+@pytest.mark.parametrize("ten", sorted(TAI_LIEU))
+def test_so_lieu_trong_tai_lieu_khop_du_lieu_build(ten):
+    so = _so_lieu_that()
+    van_ban = (ROOT / ten).read_text(encoding="utf-8")
+    thieu = [m.format(**so) for m in TAI_LIEU[ten] if m.format(**so) not in van_ban]
+    assert not thieu, f"{ten} lệch số liệu build, thiếu: {thieu}"
+
+
+def test_cong_vao_dan_duoc_sang_ca_hai_ngon_ngu():
+    readme = (ROOT / "README.md").read_text(encoding="utf-8")
+    assert "docs/en/README.md" in readme and "docs/vi/README.md" in readme
+    for ten in ("docs/en/README.md", "docs/vi/README.md"):
+        assert (ROOT / ten).exists()
+
+
+def test_canh_bao_khong_duoc_chi_co_mot_ngon_ngu():
+    """Cảnh báo 'đừng trích dẫn làm chứng cứ' mà chỉ có tiếng Việt thì chỉ bảo vệ được
+    người đọc tiếng Việt — trong khi ai cũng dịch máy được phần nội dung."""
+    readme = (ROOT / "README.md").read_text(encoding="utf-8")
+    for cau in ("Do not use it in place of historical research",
+                "Do not cite it as evidence",
+                "Do not treat it as a reference work"):
+        assert cau in readme, f"cổng vào thiếu: {cau}"
